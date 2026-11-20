@@ -1,0 +1,234 @@
+[
+  {
+    "id": "samantha-harvey",
+    "name": "Samantha Harvey",
+    "nationality": "British",
+    "birthYear": 1975,
+    "bio": "English novelist and essayist, winner of the 2024 Booker Prize for Orbital."
+  },
+  {
+    "id": "paul-lynch",
+    "name": "Paul Lynch",
+    "nationality": "Irish",
+    "birthYear": 1977,
+    "bio": "Irish novelist known for poetic, atmospheric prose and the dystopian masterpiece Prophet Song."
+  },
+  {
+    "id": "shehan-karunatilaka",
+    "name": "Shehan Karunatilaka",
+    "nationality": "Sri Lankan",
+    "birthYear": 1975,
+    "bio": "Sri Lankan writer and author of The Seven Moons of Maali Almeida, which won the 2022 Booker Prize."
+  },
+  {
+    "id": "damon-galgut",
+    "name": "Damon Galgut",
+    "nationality": "South African",
+    "birthYear": 1963,
+    "bio": "South African novelist and playwright, winner of the 2021 Booker Prize for The Promise."
+  },
+  {
+    "id": "douglas-stuart",
+    "name": "Douglas Stuart",
+    "nationality": "Scottish-American",
+    "birthYear": 1976,
+    "bio": "Scottish-American fashion designer and writer whose debut novel Shuggie Bain won the 2020 Booker Prize."
+  },
+  {
+    "id": "bernardine-evaristo",
+    "name": "Bernardine Evaristo",
+    "nationality": "British",
+    "birthYear": 1959,
+    "bio": "British author and academic, first Black woman to win the Booker Prize (for Girl, Woman, Other in 2019)."
+  },
+  {
+    "id": "margaret-atwood",
+    "name": "Margaret Atwood",
+    "nationality": "Canadian",
+    "birthYear": 1939,
+    "bio": "Acclaimed Canadian author, two-time Booker Prize winner for The Blind Assassin (2000) and The Testaments (2019)."
+  },
+  {
+    "id": "george-saunders",
+    "name": "George Saunders",
+    "nationality": "American",
+    "birthYear": 1958,
+    "bio": "American short story writer and novelist, winner of the 2017 Booker Prize for Lincoln in the Bardo."
+  },
+  {
+    "id": "hilary-mantel",
+    "name": "Hilary Mantel",
+    "nationality": "British",
+    "birthYear": 1952,
+    "deathYear": 2022,
+    "bio": "Renowned British author who won the Booker Prize twice for Wolf Hall (2009) and Bring Up the Bodies (2012)."
+  },
+  {
+    "id": "colson-whitehead",
+    "name": "Colson Whitehead",
+    "nationality": "American",
+    "birthYear": 1969,
+    "bio": "American novelist and two-time Pulitzer Prize winner for The Underground Railroad (2017) and The Nickel Boys (2020)."
+  },
+  {
+    "id": "barbara-kingsolver",
+    "name": "Barbara Kingsolver",
+    "nationality": "American",
+    "birthYear": 1955,
+    "bio": "American novelist who won both the Pulitzer Prize for Fiction and the Women's Prize for Fiction for Demon Copperhead."
+  },
+  {
+    "id": "hernan-diaz",
+    "name": "Hernan Diaz",
+    "nationality": "Argentine-American",
+    "birthYear": 1973,
+    "bio": "Argentine-American author whose novel Trust won the 2023 Pulitzer Prize for Fiction."
+  },
+  {
+    "id": "jayne-anne-phillips",
+    "name": "Jayne Anne Phillips",
+    "nationality": "American",
+    "birthYear": 1952,
+    "bio": "American novelist and short story writer, winner of the 2024 Pulitzer Prize for Fiction for Night Watch."
+  },
+  {
+    "id": "joshua-cohen",
+    "name": "Joshua Cohen",
+    "nationality": "American",
+    "birthYear": 1980,
+    "bio": "American novelist and short story writer, winner of the 2022 Pulitzer Prize for The Netanyahus."
+  },
+  {
+    "id": "louise-erdrich",
+    "name": "Louise Erdrich",
+    "nationality": "American (Turtle Mountain Chippewa)",
+    "birthYear": 1954,
+    "bio": "Acclaimed Indigenous American novelist, winner of the 2021 Pulitzer Prize for The Night Watchman and National Book Award."
+  },
+  {
+    "id": "richard-powers",
+    "name": "Richard Powers",
+    "nationality": "American",
+    "birthYear": 1957,
+    "bio": "American novelist whose works explore science, nature, and humanity; winner of the 2019 Pulitzer Prize for The Overstory."
+  },
+  {
+    "id": "jesmyn-ward",
+    "name": "Jesmyn Ward",
+    "nationality": "American",
+    "birthYear": 1977,
+    "bio": "American author and academic, first woman to win two National Book Awards for Fiction (Salvage the Bones and Sing, Unburied, Sing)."
+  },
+  {
+    "id": "justin-torres",
+    "name": "Justin Torres",
+    "nationality": "American",
+    "birthYear": 1980,
+    "bio": "American novelist, winner of the 2023 National Book Award for Fiction for Blackouts."
+  },
+  {
+    "id": "tess-gunty",
+    "name": "Tess Gunty",
+    "nationality": "American",
+    "birthYear": 1993,
+    "bio": "American writer whose debut novel The Rabbit Hutch won the 2022 National Book Award for Fiction."
+  },
+  {
+    "id": "jason-mott",
+    "name": "Jason Mott",
+    "nationality": "American",
+    "birthYear": 1978,
+    "bio": "American author, poet, and winner of the 2021 National Book Award for Hell of a Book."
+  },
+  {
+    "id": "charles-yu",
+    "name": "Charles Yu",
+    "nationality": "American",
+    "birthYear": 1976,
+    "bio": "American author and television writer, winner of the 2020 National Book Award for Interior Chinatown."
+  },
+  {
+    "id": "v-v-ganeshananthan",
+    "name": "V. V. Ganeshananthan",
+    "nationality": "American",
+    "birthYear": 1980,
+    "bio": "Novelist, journalist, and essayist who won the 2024 Women's Prize for Fiction for Brotherless Night."
+  },
+  {
+    "id": "ruth-ozeki",
+    "name": "Ruth Ozeki",
+    "nationality": "Canadian-American",
+    "birthYear": 1956,
+    "bio": "Novelist, filmmaker, and Zen Buddhist priest; winner of the 2022 Women's Prize for Fiction."
+  },
+  {
+    "id": "susanna-clarke",
+    "name": "Susanna Clarke",
+    "nationality": "British",
+    "birthYear": 1959,
+    "bio": "British author of Jonathan Strange & Mr Norrell and the Women's Prize-winning novel Piranesi."
+  },
+  {
+    "id": "maggie-ofarrell",
+    "name": "Maggie O'Farrell",
+    "nationality": "British-Irish",
+    "birthYear": 1972,
+    "bio": "Award-winning author of Hamnet (2020 Women's Prize for Fiction) and The Marriage Portrait."
+  },
+  {
+    "id": "jenny-erpenbeck",
+    "name": "Jenny Erpenbeck",
+    "nationality": "German",
+    "birthYear": 1967,
+    "bio": "Celebrated German author and playwright, winner of the 2024 International Booker Prize for Kairos."
+  },
+  {
+    "id": "georgi-gospodinov",
+    "name": "Georgi Gospodinov",
+    "nationality": "Bulgarian",
+    "birthYear": 1968,
+    "bio": "Bulgarian writer, poet, and playwright, winner of the 2023 International Booker Prize for Time Shelter."
+  },
+  {
+    "id": "geetanjali-shree",
+    "name": "Geetanjali Shree",
+    "nationality": "Indian",
+    "birthYear": 1957,
+    "bio": "Indian Hindi-language novelist and short-story writer; winner of the 2022 International Booker Prize for Tomb of Sand."
+  },
+  {
+    "id": "han-kang",
+    "name": "Han Kang",
+    "nationality": "South Korean",
+    "birthYear": 1970,
+    "bio": "South Korean writer, winner of the 2016 International Booker Prize for The Vegetarian and the 2024 Nobel Prize in Literature."
+  },
+  {
+    "id": "arkady-martine",
+    "name": "Arkady Martine",
+    "nationality": "American",
+    "birthYear": 1982,
+    "bio": "American historian and speculative fiction writer, two-time Hugo Award winner for A Memory Called Empire and A Desolation Called Peace."
+  },
+  {
+    "id": "n-k-jemisin",
+    "name": "N. K. Jemisin",
+    "nationality": "American",
+    "birthYear": 1972,
+    "bio": "Groundbreaking speculative fiction writer, the only author in history to win the Hugo Award for Best Novel in three consecutive years for the Broken Earth trilogy."
+  },
+  {
+    "id": "lucy-ellmann",
+    "name": "Lucy Ellmann",
+    "nationality": "American-British",
+    "birthYear": 1956,
+    "bio": "Author of Ducks, Newburyport, winner of the 2019 Goldsmiths Prize and finalist for the Booker Prize."
+  },
+  {
+    "id": "mircea-cartarescu",
+    "name": "Mircea Cărtărescu",
+    "nationality": "Romanian",
+    "birthYear": 1956,
+    "bio": "Romanian writer and poet, author of the monumental Solenoid, winner of the 2024 International Dublin Literary Award."
+  }
+]

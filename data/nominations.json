@@ -1,0 +1,372 @@
+[
+  {
+    "id": "nom-orbital-booker-2024",
+    "prizeId": "booker-prize",
+    "bookId": "orbital",
+    "year": 2024,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A compact yet beautifully expansive novel that invites us to observe our world from the International Space Station with awe and love.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/orbital"
+  },
+  {
+    "id": "nom-prophet-song-booker-2023",
+    "prizeId": "booker-prize",
+    "bookId": "prophet-song",
+    "year": 2023,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A harrowing, exhilarating portrait of a society unravelling and an unflinching examination of individual courage.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/prophet-song"
+  },
+  {
+    "id": "nom-seven-moons-booker-2022",
+    "prizeId": "booker-prize",
+    "bookId": "the-seven-moons-of-maali-almeida",
+    "year": 2022,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "An afterlife noir that dissolves not just boundaries of different genres, but of life and death, body and spirit, East and West.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-seven-moons-of-maali-almeida"
+  },
+  {
+    "id": "nom-the-promise-booker-2021",
+    "prizeId": "booker-prize",
+    "bookId": "the-promise",
+    "year": 2021,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "An extraordinary display of storytelling mastery that reconfigures the South African family novel.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-promise"
+  },
+  {
+    "id": "nom-shuggie-bain-booker-2020",
+    "prizeId": "booker-prize",
+    "bookId": "shuggie-bain",
+    "year": 2020,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Daring, frightening and gorgeous, an instant classic of working-class survival and devotion.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/shuggie-bain"
+  },
+  {
+    "id": "nom-girl-woman-other-booker-2019",
+    "prizeId": "booker-prize",
+    "bookId": "girl-woman-other",
+    "year": 2019,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Joint winner: A passionate, razor-sharp, polyphonic celebration of contemporary Black British womanhood.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/girl-woman-other"
+  },
+  {
+    "id": "nom-the-testaments-booker-2019",
+    "prizeId": "booker-prize",
+    "bookId": "the-testaments",
+    "year": 2019,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Joint winner: A pulse-pounding, authoritative continuation of Gilead's terrifying dominion and fragility.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-testaments"
+  },
+  {
+    "id": "nom-lincoln-bardo-booker-2017",
+    "prizeId": "booker-prize",
+    "bookId": "lincoln-in-the-bardo",
+    "year": 2017,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A wholly original work of theatrical fiction exploring grief, historical myth, and empathy.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/lincoln-in-the-bardo"
+  },
+  {
+    "id": "nom-wolf-hall-booker-2009",
+    "prizeId": "booker-prize",
+    "bookId": "wolf-hall",
+    "year": 2009,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A peerless historical immersion redefining the Tudor court and the art of historical fiction.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/wolf-hall"
+  },
+  {
+    "id": "nom-ducks-newburyport-booker-2019",
+    "prizeId": "booker-prize",
+    "bookId": "ducks-newburyport",
+    "year": 2019,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A monumental, groundbreaking stream-of-consciousness monolog of unmatched formal ambition.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/ducks-newburyport"
+  },
+  {
+    "id": "nom-night-watch-pulitzer-2024",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "night-watch",
+    "year": 2024,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "A gorgeously written novel of survivors in the aftermath of the Civil War inside a West Virginia asylum.",
+    "sourceUrl": "https://www.pulitzer.org/winners/jayne-anne-phillips"
+  },
+  {
+    "id": "nom-demon-copperhead-pulitzer-2023",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "demon-copperhead",
+    "year": 2023,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Co-winner: A masterful and compassionate modern transposition of David Copperfield into Appalachia.",
+    "sourceUrl": "https://www.pulitzer.org/winners/barbara-kingsolver"
+  },
+  {
+    "id": "nom-trust-pulitzer-2023",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "trust",
+    "year": 2023,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Co-winner: A profound interrogation of capitalism, myth-making, and marital mystery told through four perspectives.",
+    "sourceUrl": "https://www.pulitzer.org/winners/hernan-diaz"
+  },
+  {
+    "id": "nom-netanyahus-pulitzer-2022",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-netanyahus",
+    "year": 2022,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "A mordant, linguistically dextrous campus comedy exploring Zionism, academia, and identity.",
+    "sourceUrl": "https://www.pulitzer.org/winners/joshua-cohen"
+  },
+  {
+    "id": "nom-night-watchman-pulitzer-2021",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-night-watchman",
+    "year": 2021,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "A majestic, polyphonic novel celebrating Native American community resistance against termination.",
+    "sourceUrl": "https://www.pulitzer.org/winners/louise-erdrich"
+  },
+  {
+    "id": "nom-nickel-boys-pulitzer-2020",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-nickel-boys",
+    "year": 2020,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "A spare and devastating exploration of abuse and racism at a reform school in Jim Crow Florida.",
+    "sourceUrl": "https://www.pulitzer.org/winners/colson-whitehead-0"
+  },
+  {
+    "id": "nom-overstory-pulitzer-2019",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-overstory",
+    "year": 2019,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "An ingenious, ecological tapestry about trees and humans working in intimate alignment.",
+    "sourceUrl": "https://www.pulitzer.org/winners/richard-powers"
+  },
+  {
+    "id": "nom-underground-railroad-pulitzer-2017",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-underground-railroad",
+    "year": 2017,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "A smart risk-taking synthesis of the realistic and the allegorical that captures the soul of American racial violence.",
+    "sourceUrl": "https://www.pulitzer.org/winners/colson-whitehead"
+  },
+  {
+    "id": "nom-underground-railroad-nba-2016",
+    "prizeId": "national-book-award",
+    "bookId": "the-underground-railroad",
+    "year": 2016,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Colson Whitehead's searing reimagining of antebellum slavery and flight.",
+    "sourceUrl": "https://www.nationalbook.org/books/the-underground-railroad/"
+  },
+  {
+    "id": "nom-blackouts-nba-2023",
+    "prizeId": "national-book-award",
+    "bookId": "blackouts",
+    "year": 2023,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A breathtaking hybrid work illuminating queer history through conversation, poetry, and redacted clinical texts.",
+    "sourceUrl": "https://www.nationalbook.org/books/blackouts/"
+  },
+  {
+    "id": "nom-rabbit-hutch-nba-2022",
+    "prizeId": "national-book-award",
+    "bookId": "the-rabbit-hutch",
+    "year": 2022,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A thrilling, incandescent debut about youth, loneliness, and transcendence in post-industrial America.",
+    "sourceUrl": "https://www.nationalbook.org/books/the-rabbit-hutch/"
+  },
+  {
+    "id": "nom-hell-of-a-book-nba-2021",
+    "prizeId": "national-book-award",
+    "bookId": "hell-of-a-book",
+    "year": 2021,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A deeply emotional and surreal examination of race, grief, and America.",
+    "sourceUrl": "https://www.nationalbook.org/books/hell-of-a-book/"
+  },
+  {
+    "id": "nom-interior-chinatown-nba-2020",
+    "prizeId": "national-book-award",
+    "bookId": "interior-chinatown",
+    "year": 2020,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A brilliant, inventive, and deeply funny screenplay novel on race and Hollywood representation.",
+    "sourceUrl": "https://www.nationalbook.org/books/interior-chinatown/"
+  },
+  {
+    "id": "nom-sing-unburied-nba-2017",
+    "prizeId": "national-book-award",
+    "bookId": "sing-unburied-sing",
+    "year": 2017,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Jesmyn Ward's lyric, gothic masterpiece on family bonds and the persistent ghosts of the Mississippi Delta.",
+    "sourceUrl": "https://www.nationalbook.org/books/sing-unburied-sing/"
+  },
+  {
+    "id": "nom-brotherless-night-womens-2024",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "brotherless-night",
+    "year": 2024,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A luminous story of sisterly courage, moral nuance, and survival during the Sri Lankan civil war.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk/features/features/brotherless-night-wins-the-2024-womens-prize-for-fiction"
+  },
+  {
+    "id": "nom-demon-copperhead-womens-2023",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "demon-copperhead",
+    "year": 2023,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Kingsolver's brilliant, heartbreaking novel shines a bright light on modern Appalachia.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk/features/features/demon-copperhead-wins-the-2023-womens-prize-for-fiction"
+  },
+  {
+    "id": "nom-book-form-emptiness-womens-2022",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-book-of-form-and-emptiness",
+    "year": 2022,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A compassionate, vibrant exploration of grief, literature, neurodiversity, and environmental mindfulness.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk/features/features/ruth-ozeki-wins-the-2022-womens-prize-for-fiction"
+  },
+  {
+    "id": "nom-piranesi-womens-2021",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "piranesi",
+    "year": 2021,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A masterwork of quiet wonder, mystery, and luminous beauty.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk/features/features/piranesi-wins-the-2021-womens-prize-for-fiction"
+  },
+  {
+    "id": "nom-hamnet-womens-2020",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "hamnet",
+    "year": 2020,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A deeply moving portrait of grief, love, and the domestic life behind Shakespeare's greatest tragedy.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk/features/features/hamnet-wins-the-2020-womens-prize-for-fiction"
+  },
+  {
+    "id": "nom-kairos-intl-booker-2024",
+    "prizeId": "international-booker",
+    "bookId": "kairos",
+    "year": 2024,
+    "status": "winner",
+    "category": "Translated Fiction",
+    "citation": "Winner: An agonizing and luminous interrogation of intimacy, power, and political disillusionment.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/kairos"
+  },
+  {
+    "id": "nom-time-shelter-intl-booker-2023",
+    "prizeId": "international-booker",
+    "bookId": "time-shelter",
+    "year": 2023,
+    "status": "winner",
+    "category": "Translated Fiction",
+    "citation": "Winner: A brilliant philosophical satire exploring nostalgia as a modern weapon and sanctuary.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/time-shelter"
+  },
+  {
+    "id": "nom-tomb-of-sand-intl-booker-2022",
+    "prizeId": "international-booker",
+    "bookId": "tomb-of-sand",
+    "year": 2022,
+    "status": "winner",
+    "category": "Translated Fiction",
+    "citation": "Winner: The first book translated from Hindi to win the prize, celebrated for its playful, exuberantly rich language.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/tomb-of-sand"
+  },
+  {
+    "id": "nom-the-vegetarian-intl-booker-2016",
+    "prizeId": "international-booker",
+    "bookId": "the-vegetarian",
+    "year": 2016,
+    "status": "winner",
+    "category": "Translated Fiction",
+    "citation": "Winner: Unforgettably powerful and original, exploring bodily autonomy and patriarchal refusal.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-vegetarian"
+  },
+  {
+    "id": "nom-memory-called-empire-hugo-2020",
+    "prizeId": "hugo-award-novel",
+    "bookId": "a-memory-called-empire",
+    "year": 2020,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: An intricate, thrilling debut of imperial intrigue, language, and cultural conquest.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2020-hugo-awards/"
+  },
+  {
+    "id": "nom-fifth-season-hugo-2016",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-fifth-season",
+    "year": 2016,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A seismic reimagining of worldbuilding, oppression, and power.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2016-hugo-awards/"
+  },
+  {
+    "id": "nom-ducks-newburyport-goldsmiths-2019",
+    "prizeId": "goldsmiths-prize",
+    "bookId": "ducks-newburyport",
+    "year": 2019,
+    "status": "winner",
+    "category": "Innovative Fiction",
+    "citation": "Winner: A tour-de-force that expands the possibilities of narrative form.",
+    "sourceUrl": "https://www.gold.ac.uk/goldsmiths-prize/prize-archive/2019/"
+  },
+  {
+    "id": "nom-solenoid-dublin-2024",
+    "prizeId": "dublin-literary-award",
+    "bookId": "solenoid",
+    "year": 2024,
+    "status": "winner",
+    "category": "World Fiction",
+    "citation": "Winner: An awe-inspiring, dream-suffused monument to literature, childhood, and metaphysical longing.",
+    "sourceUrl": "https://dublinliteraryaward.ie/previous-years/2024-winner/"
+  }
+]
