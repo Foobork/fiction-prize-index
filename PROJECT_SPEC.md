@@ -34,6 +34,7 @@ The platform is designed to be:
 - **PEN/Faulkner Award for Fiction** (1981–present) — American fiction chosen by peer writers
 
 ### Tier 2: International & Translated Fiction
+- **Nobel Prize in Literature** (1901–present) — World literature masters, prose and fiction laureates
 - **International Booker Prize** (2005–present) — Fiction translated into English, honoring author and translator equally
 - **International Dublin Literary Award** (1996–present) — World literature nominated by public libraries worldwide
 - **Prix Goncourt** (Selected translated / international crossover focus)
@@ -149,6 +150,7 @@ interface Nomination {
   status: "winner" | "shortlist" | "longlist" | "finalist";
   citation?: string;       // Official jury praise or citation
   sourceUrl: string;       // Direct link to official prize archive/announcement
+  translator?: string;     // First-class translator credit for translated works
 }
 ```
 
@@ -196,18 +198,40 @@ interface Author {
    - Export curated reading lists to Markdown or CSV.
    - Persistent across browser sessions without requiring an account.
 
+7. **Translator Visibility & First-Class Credits**:
+   - Integrated translator attribution across search, modal, shelf, and exports.
+
+8. **Mobile & Responsive Experience**:
+   - Touch-friendly adaptive bottom-sheet drawer on mobile.
+   - Browser back-button integration (`popstate`) and URL deep-linking (`?book=<bookId>`).
+
 ---
 
 ## 6. Project Roadmap
 
 - [x] Architectural Specification & Data Schema design (`PROJECT_SPEC.md`)
-- [ ] Initialize Next.js project with TypeScript, Tailwind CSS, and Lucide icons
-- [ ] Initialize Git repository with `.gitignore` and initial commit
-- [ ] Implement data layer (`data/prizes.json`, `data/books.json`, `data/authors.json`, `data/nominations.json`)
-- [ ] Build search & filter engine
-- [ ] Build Virtual Bookshelf view
-- [ ] Build Prize & Author detail routes
-- [ ] Build Analytics & Overlap explorer
-- [ ] Build Personal Reading Shelf (local storage + export)
-- [ ] Add data validation and ingestion scripts (`scripts/validate.ts`)
-- [ ] Add GitHub Actions CI workflow for build and data verification
+- [x] Next.js project with TypeScript, Tailwind CSS, App Router, and Lucide icons
+- [x] Git repository with `.gitignore` and GitHub Pages deployment workflow
+- [x] Master static JSON datasets (`data/prizes.json`, `data/books.json`, `data/authors.json`, `data/nominations.json`)
+- [x] Faceted omni-search & multi-filter engine (Grid and Table views)
+- [x] Virtual Bookshelf Simulator with dynamic spine page widths and foil seals
+- [x] Prize Directory & timeline views
+- [x] Author Dossiers & Multi-Winner Overlap Club
+- [x] Publishing Ecosystem & Genre distribution analytics
+- [x] Local-first personal reading list with Markdown & CSV exports
+- [x] Data validation script (`scripts/validate.ts`) with zero-tolerance relational integrity
+- [x] GitHub Actions CI & automatic GitHub Pages deployment pipeline
+- [x] First-class translator credits for translated world literature
+- [x] Cover art integration with Open Library fallback
+- [x] Adaptive mobile/iPhone bottom drawer modal with deep links & popstate support
+- [x] 100% full historical coverage for The Booker Prize (1969–2026)
+- [x] 100% full historical coverage for The Pulitzer Prize for Fiction (1918–2026)
+- [x] 100% full historical coverage for National Book Award for Fiction (1950–2026)
+- [x] 100% full historical coverage for Hugo Award for Best Novel (1953–2026)
+- [x] 100% full historical coverage for Nebula Award for Best Novel (1965–2026)
+- [x] 100% full historical coverage for National Book Critics Circle Fiction (1975–2025)
+- [x] 100% full historical coverage for Women's Prize for Fiction (1996–2026)
+- [x] 100% full historical coverage for International Dublin Literary Award (1996–2026)
+- [x] 100% full historical coverage for International Booker Prize (2005–2026)
+- [x] 100% full historical coverage for The Goldsmiths Prize (2013–2026)
+- [x] Comprehensive fiction & prose roster for Nobel Prize in Literature (1905–2025)

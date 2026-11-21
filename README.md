@@ -21,7 +21,26 @@ The **Fiction Prize Index** centralizes major world fiction awards into a unifie
 - **International Dublin Literary Award** (Global library nominations)
 - **The Goldsmiths Prize** (Form innovation and mold-breaking fiction)
 - **Hugo Award & Nebula Award** (Speculative fiction titans)
-- **National Book Critics Circle (NBCC) Award for Fiction**
+- **National Book Critics Circle (NBCC) Award for Fiction** (American critics honor)
+- **Nobel Prize in Literature** (Fiction & prose laureates)
+
+### 📊 Dataset Scorecard & Historical Coverage
+
+The index currently catalogs **11 prizes**, **475 authors**, **581 books**, and **678 nominations**:
+
+| Prize | Scope / Focus | Award Years | Winners | Historical Coverage |
+| :--- | :--- | :---: | :---: | :---: |
+| **The Booker Prize** | UK, Commonwealth & Global English | 1969–2026 | 62 | **100% Complete** (+ 46 shortlists) |
+| **The Pulitzer Prize for Fiction** | American literary distinction | 1918–2026 | 100 | **100% Complete** |
+| **National Book Award for Fiction** | US national literary achievement | 1950–2026 | 76 | **100% Complete** |
+| **Hugo Award for Best Novel** | World Science Fiction Convention | 1953–2026 | 78 | **100% Complete** |
+| **Nebula Award for Best Novel** | Science Fiction & Fantasy Writers (SFWA) | 1965–2026 | 67 | **100% Complete** |
+| **National Book Critics Circle (NBCC)** | American professional book critics | 1975–2025 | 53 | **100% Complete** |
+| **Women's Prize for Fiction** | Full-length novels by women worldwide | 1996–2026 | 31 | **100% Complete** |
+| **International Dublin Literary Award** | Public library nominations worldwide | 1996–2026 | 31 | **100% Complete** |
+| **International Booker Prize** | Translated fiction into English | 2005–2026 | 17 | **100% Complete** (+ 16 shortlists) |
+| **The Goldsmiths Prize** | Mould-breaking fiction & novel form | 2013–2026 | 14 | **100% Complete** |
+| **Nobel Prize in Literature** | Master novelists & prose laureates | 1905–2025 | 73 | **Complete Fiction Roster** |
 
 ---
 
@@ -52,7 +71,20 @@ The **Fiction Prize Index** centralizes major world fiction awards into a unifie
    - Stored in browser `localStorage` (zero sign-up required).
    - One-click export to formatted **Markdown Reading List** or **CSV**.
 
-7. **Transparent Data Layer & CI Validation**
+7. **First-Class Translator Credits**
+   - Dedicated translator attribution for translated literature (International Booker, Dublin Literary Award, Nobel Prize).
+   - Translators indexed as searchable criteria across table, grid, modal, and export formats.
+
+8. **Mobile & iPhone Responsive Navigation**
+   - Adaptive bottom drawer sheet modal for smartphones.
+   - Native browser back-button (`popstate`) integration to dismiss modals smoothly.
+   - URL deep-linking support (`?book=<bookId>`) for direct sharing of book dossiers.
+
+9. **High-Fidelity Cover Art & Authentic Spines**
+   - Verified book cover artwork with Open Library fallback.
+   - Dynamic proportional spine thickness based on physical page count, custom binding colors, and foil seals.
+
+10. **Transparent Data Layer & CI Validation**
    - Fully open JSON data files (`data/prizes.json`, `data/books.json`, `data/authors.json`, `data/nominations.json`).
    - GitHub Actions CI script (`scripts/validate.ts`) verifying foreign key integrity and source URL presence on every push.
 
