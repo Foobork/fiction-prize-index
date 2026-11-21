@@ -442,7 +442,7 @@
     "publicationYear": 2023,
     "publisher": "Viking",
     "imprint": "Penguin Random House",
-    "isbn13": "9780593448779",
+    "isbn13": "9781982186982",
     "genres": [
       "Historical Fiction",
       "Political",
@@ -452,7 +452,7 @@
     "pageCount": 368,
     "spineColor": "#4c0519",
     "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780593448779-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781982186982-L.jpg?default=false"
   },
   {
     "id": "the-book-of-form-and-emptiness",
@@ -770,7 +770,7 @@
     "publicationYear": 2012,
     "publisher": "Fourth Estate",
     "imprint": "HarperCollins",
-    "isbn13": "9780007353552",
+    "isbn13": "9780805090031",
     "genres": [
       "Historical Fiction",
       "Tudor",
@@ -780,7 +780,7 @@
     "pageCount": 432,
     "spineColor": "#881337",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780007353552-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780805090031-L.jpg?default=false"
   },
   {
     "id": "the-sense-of-an-ending",
@@ -830,7 +830,7 @@
     "publicationYear": 2007,
     "publisher": "Jonathan Cape",
     "imprint": "Random House",
-    "isbn13": "9780224080187",
+    "isbn13": "9780802143945",
     "genres": [
       "Family Drama",
       "Grief",
@@ -840,7 +840,7 @@
     "pageCount": 272,
     "spineColor": "#312e81",
     "countryOfOrigin": "Ireland",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780224080187-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780802143945-L.jpg?default=false"
   },
   {
     "id": "the-inheritance-of-loss",
@@ -849,7 +849,7 @@
     "authorName": "Kiran Desai",
     "publicationYear": 2006,
     "publisher": "Atlantic Monthly Press",
-    "isbn13": "9780871139597",
+    "isbn13": "9780802142818",
     "genres": [
       "Postcolonial",
       "Family Saga",
@@ -859,7 +859,7 @@
     "pageCount": 336,
     "spineColor": "#15803d",
     "countryOfOrigin": "India",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780871139597-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780802142818-L.jpg?default=false"
   },
   {
     "id": "life-of-pi",
@@ -1433,7 +1433,7 @@
     "authorName": "David Diop",
     "publicationYear": 2018,
     "publisher": "Pushkin Press",
-    "isbn13": "9781782276074",
+    "isbn13": "9780374154134",
     "genres": [
       "War",
       "Psychological",
@@ -1443,7 +1443,7 @@
     "pageCount": 160,
     "spineColor": "#111827",
     "countryOfOrigin": "France",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781782276074-L.jpg?default=false",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780374154134-L.jpg?default=false",
     "translator": "Anna Moschovakis",
     "originalLanguage": "French",
     "originalTitle": "Frère d'âme"
@@ -1455,7 +1455,7 @@
     "authorName": "Marieke Lucas Rijneveld",
     "publicationYear": 2018,
     "publisher": "Faber and Faber",
-    "isbn13": "9780571349357",
+    "isbn13": "9781644450345",
     "genres": [
       "Grief",
       "Coming of Age",
@@ -1465,7 +1465,7 @@
     "pageCount": 288,
     "spineColor": "#475569",
     "countryOfOrigin": "Netherlands",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780571349357-L.jpg?default=false",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781644450345-L.jpg?default=false",
     "translator": "Michele Hutchison",
     "originalLanguage": "Dutch",
     "originalTitle": "De avond is ongemak"
@@ -1694,7 +1694,7 @@
     "authorName": "Ian McEwan",
     "publicationYear": 1998,
     "publisher": "Jonathan Cape",
-    "isbn13": "9780224059060",
+    "isbn13": "9780385494236",
     "genres": [
       "Dark Comedy",
       "Morality",
@@ -1704,7 +1704,7 @@
     "pageCount": 176,
     "spineColor": "#334155",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780224059060-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780385494236-L.jpg?default=false"
   },
   {
     "id": "last-orders",
@@ -1752,7 +1752,7 @@
     "authorName": "James Kelman",
     "publicationYear": 1994,
     "publisher": "Secker & Warburg",
-    "isbn13": "9780436232749",
+    "isbn13": "9780436202490",
     "genres": [
       "Stream of Consciousness",
       "Scottish Vernacular",
@@ -1762,7 +1762,7 @@
     "pageCount": 384,
     "spineColor": "#991b1b",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780436232749-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780436202490-L.jpg?default=false"
   },
   {
     "id": "paddy-clarke-ha-ha-ha",
@@ -1904,7 +1904,7 @@
     "authorName": "Keri Hulme",
     "publicationYear": 1984,
     "publisher": "Spiral",
-    "isbn13": "9780340384794",
+    "isbn13": "9780807111307",
     "genres": [
       "Indigenous",
       "Poetic",
@@ -1914,7 +1914,7 @@
     "pageCount": 464,
     "spineColor": "#15803d",
     "countryOfOrigin": "New Zealand",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780340384794-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780807111307-L.jpg?default=false"
   },
   {
     "id": "hotel-du-lac",
@@ -1923,7 +1923,7 @@
     "authorName": "Anita Brookner",
     "publicationYear": 1984,
     "publisher": "Jonathan Cape",
-    "isbn13": "9780224022156",
+    "isbn13": "9780394542157",
     "genres": [
       "Literary Fiction",
       "Psychological",
@@ -1933,7 +1933,7 @@
     "pageCount": 192,
     "spineColor": "#64748b",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780224022156-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780394542157-L.jpg?default=false"
   },
   {
     "id": "life-and-times-of-michael-k",
@@ -1999,7 +1999,7 @@
     "authorName": "Penelope Fitzgerald",
     "publicationYear": 1979,
     "publisher": "Collins",
-    "isbn13": "9780002224178",
+    "isbn13": "9780006543596",
     "genres": [
       "Domestic",
       "London",
@@ -2009,7 +2009,7 @@
     "pageCount": 160,
     "spineColor": "#0f766e",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780002224178-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780006543596-L.jpg?default=false"
   },
   {
     "id": "the-sea-the-sea",
@@ -2056,7 +2056,6 @@
     "authorName": "David Storey",
     "publicationYear": 1976,
     "publisher": "Jonathan Cape",
-    "isbn13": "9780224013093",
     "genres": [
       "Social Realism",
       "Working Class",
@@ -2065,8 +2064,7 @@
     "synopsis": "The detailed coming-of-age chronicle of Colin Saville, a miner's gifted son in rural Yorkshire, striving through education to escape his family's claustrophobic coal mining destiny.",
     "pageCount": 512,
     "spineColor": "#334155",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780224013093-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "heat-and-dust",
@@ -2113,7 +2111,6 @@
     "authorName": "Stanley Middleton",
     "publicationYear": 1974,
     "publisher": "Hutchinson",
-    "isbn13": "9780091211707",
     "genres": [
       "Domestic",
       "Marriage",
@@ -2122,8 +2119,7 @@
     "synopsis": "Joint winner with The Conservationist: Edwin Fisher, a middle-class lecturer grieving the death of his infant son and marital separation, spends a solitary week at a seaside resort in Lincolnshire.",
     "pageCount": 240,
     "spineColor": "#0284c7",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780091211707-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "the-siege-of-krishnapur",
@@ -2151,7 +2147,7 @@
     "authorName": "John Berger",
     "publicationYear": 1972,
     "publisher": "Weidenfeld & Nicolson",
-    "isbn13": "9780297994244",
+    "isbn13": "9780670333424",
     "genres": [
       "Experimental",
       "Modernist",
@@ -2161,7 +2157,7 @@
     "pageCount": 320,
     "spineColor": "#047857",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780297994244-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780670333424-L.jpg?default=false"
   },
   {
     "id": "in-a-free-state",
@@ -2189,7 +2185,6 @@
     "authorName": "Bernice Rubens",
     "publicationYear": 1969,
     "publisher": "Eyre & Spottiswoode",
-    "isbn13": "9780413442901",
     "genres": [
       "Psychological",
       "Jewish Literature",
@@ -2198,8 +2193,7 @@
     "synopsis": "The first novel by a woman to win the Booker Prize: Norman Zweck, a gifted prodigy turned amphetamine-addicted barrister, succumbs to hallucinations, forcing his Orthodox Jewish family to confront generational guilt.",
     "pageCount": 224,
     "spineColor": "#6b21a8",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780413442901-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "troubles",
@@ -2247,7 +2241,6 @@
     "publicationYear": 2025,
     "publisher": "Jonathan Cape",
     "imprint": "Vintage",
-    "isbn13": "9781787334809",
     "genres": [
       "Literary Fiction",
       "Contemporary",
@@ -2256,8 +2249,7 @@
     "synopsis": "A searing and intimate examination of modern physical and emotional vulnerability, masculinity, and human connection across European cities.",
     "pageCount": 304,
     "spineColor": "#831843",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781787334809-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "the-end-of-everything",
@@ -2307,7 +2299,6 @@
     "publicationYear": 2025,
     "publisher": "Atria Books",
     "imprint": "Simon & Schuster",
-    "isbn13": "9781982186852",
     "genres": [
       "Gothic",
       "Literary Fiction",
@@ -2316,8 +2307,7 @@
     "synopsis": "A haunting and atmospheric American tragedy charting grief, rust-belt decay, and sudden spiritual revelation in a forgotten heartland town.",
     "pageCount": 352,
     "spineColor": "#1c1917",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781982186852-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "heart-lamp",
@@ -2348,7 +2338,6 @@
     "authorName": "Yáng Shuāng-zǐ",
     "publicationYear": 2024,
     "publisher": "Graywolf Press",
-    "isbn13": "9781644452936",
     "genres": [
       "Historical Fiction",
       "Culinary",
@@ -2358,7 +2347,6 @@
     "pageCount": 288,
     "spineColor": "#047857",
     "countryOfOrigin": "Taiwan",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781644452936-L.jpg?default=false",
     "translator": "Lin King",
     "originalLanguage": "Chinese",
     "originalTitle": "臺灣漫遊錄"
@@ -2397,9 +2385,7 @@
     "synopsis": "The decline of a proud, wealthy aristocratic Indianapolis family eclipsed by the rise of the automobile and industrial wealth.",
     "pageCount": 336,
     "spineColor": "#78350f",
-    "countryOfOrigin": "United States",
-    "isbn13": "9780143105411",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780143105411-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "the-bridge-of-san-luis-rey",
@@ -2549,9 +2535,7 @@
     "synopsis": "A complex allegorical WWI novel transposing the Passion of Christ into a mutiny on the Western Front led by a corporal and twelve followers.",
     "pageCount": 448,
     "spineColor": "#475569",
-    "countryOfOrigin": "United States",
-    "isbn13": "9780679776512",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780679776512-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "to-kill-a-mockingbird",
@@ -2663,9 +2647,7 @@
     "synopsis": "A wheelchair-bound historian reconstructs the turbulent frontier marriage of his pioneer grandparents across California and Idaho mining camps.",
     "pageCount": 576,
     "spineColor": "#78350f",
-    "countryOfOrigin": "United States",
-    "isbn13": "9780449907542",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780449907542-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "the-killer-angels",
@@ -2702,9 +2684,7 @@
     "synopsis": "Playwright Charlie Citrine reflects on his friendship with the brilliant, manic poet Von Humboldt Fleisher, receiving an unexpected posthumous legacy.",
     "pageCount": 496,
     "spineColor": "#d97706",
-    "countryOfOrigin": "United States",
-    "isbn13": "9780143105480",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780143105480-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "a-confederacy-of-dunces",
@@ -2740,9 +2720,7 @@
     "synopsis": "Harry 'Rabbit' Angstrom is middle-aged, prosperous, and running a Toyota dealership during the 1979 energy crisis, until ghosts of the past resurface.",
     "pageCount": 480,
     "spineColor": "#b45309",
-    "countryOfOrigin": "United States",
-    "isbn13": "9780449911846",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780449911846-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "the-color-purple",
@@ -2778,9 +2756,7 @@
     "synopsis": "Two aging Texas Rangers lead an epic cattle drive from the dusty Rio Grande to the untamed wilderness of Montana.",
     "pageCount": 864,
     "spineColor": "#854d0e",
-    "countryOfOrigin": "United States",
-    "isbn13": "9781476748382",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781476748382-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "rabbit-at-rest",
@@ -2797,9 +2773,7 @@
     "synopsis": "In the final installment of the Rabbit tetralogy, Harry Angstrom confronts declining health, heart failure, and familial unraveling in late 1980s Florida.",
     "pageCount": 528,
     "spineColor": "#991b1b",
-    "countryOfOrigin": "United States",
-    "isbn13": "9780449911853",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780449911853-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "american-pastoral",
@@ -2988,9 +2962,7 @@
     "synopsis": "Inaugural National Book Award winner: Frankie Machine, a card dealer and morphine addict on Chicago's gritty West Side, dreams of becoming a jazz drummer.",
     "pageCount": 352,
     "spineColor": "#334155",
-    "countryOfOrigin": "United States",
-    "isbn13": "9781609805678",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781609805678-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "from-here-to-eternity",
@@ -3045,9 +3017,7 @@
     "synopsis": "During Mardi Gras in New Orleans, 29-year-old stockbroker Binx Bolling undertakes an existential 'search' to awaken from the malaise of modern everyday life.",
     "pageCount": 256,
     "spineColor": "#065f46",
-    "countryOfOrigin": "United States",
-    "isbn13": "9780679783428",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780679783428-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "herzog",
@@ -3083,9 +3053,7 @@
     "synopsis": "Three decades in the turbulent, impoverished lives of a working-class Detroit mother and her two children, culminating in the 1967 Detroit riots.",
     "pageCount": 512,
     "spineColor": "#991b1b",
-    "countryOfOrigin": "United States",
-    "isbn13": "9780061136696",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780061136696-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "gravitys-rainbow",
@@ -3121,9 +3089,7 @@
     "synopsis": "Told almost exclusively through dialogue with no attribution: An eleven-year-old Long Island schoolboy builds a multi-million-dollar paper business empire from a school payphone.",
     "pageCount": 736,
     "spineColor": "#047857",
-    "countryOfOrigin": "United States",
-    "isbn13": "9781628973167",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781628973167-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "going-after-cacciato",
@@ -3325,7 +3291,6 @@
     "authorName": "László Krasznahorkai",
     "publicationYear": 1985,
     "publisher": "Magvető / New Directions",
-    "isbn13": "9780811219778",
     "genres": [
       "Apocalyptic",
       "Hungarian",
@@ -3335,7 +3300,6 @@
     "pageCount": 288,
     "spineColor": "#18181b",
     "countryOfOrigin": "Hungary",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780811219778-L.jpg?default=false",
     "translator": "George Szirtes",
     "originalLanguage": "Hungarian",
     "originalTitle": "Sátántangó"
@@ -3392,7 +3356,7 @@
     "publicationYear": 2024,
     "publisher": "Jonathan Cape",
     "imprint": "Vintage",
-    "isbn13": "9781787334793",
+    "isbn13": "9781668046425",
     "genres": [
       "Espionage",
       "Noir",
@@ -3402,7 +3366,7 @@
     "pageCount": 400,
     "spineColor": "#155e75",
     "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781787334793-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781668046425-L.jpg?default=false"
   },
   {
     "id": "held",
@@ -3452,7 +3416,6 @@
     "publicationYear": 2023,
     "publisher": "Sceptre",
     "imprint": "Hodder & Stoughton",
-    "isbn13": "9781399723220",
     "genres": [
       "Contemplative",
       "Psychological",
@@ -3461,8 +3424,7 @@
     "synopsis": "A deeply burnt-out woman leaves her marriage to live alongside cloistered nuns in regional New South Wales.",
     "pageCount": 304,
     "spineColor": "#475569",
-    "countryOfOrigin": "Australia",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781399723220-L.jpg?default=false"
+    "countryOfOrigin": "Australia"
   },
   {
     "id": "the-bee-sting",
@@ -3569,7 +3531,6 @@
     "publicationYear": 2021,
     "publisher": "4th Estate",
     "imprint": "HarperCollins",
-    "isbn13": "9780008490577",
     "genres": [
       "Folklore",
       "Mythological",
@@ -3578,8 +3539,7 @@
     "synopsis": "A fusion of Cheshire folklore and physics in which a young boy with a lazy eye exchanges goods with a roaming rag-and-bone man.",
     "pageCount": 160,
     "spineColor": "#4338ca",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780008490577-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "small-things-like-these",
@@ -3840,7 +3800,6 @@
     "publicationYear": 2020,
     "publisher": "Harper",
     "imprint": "HarperCollins",
-    "isbn13": "9780062983374",
     "genres": [
       "Dystopian",
       "Speculative",
@@ -3849,8 +3808,7 @@
     "synopsis": "To save her daughter from toxic city air, a mother joins a study group surviving in the last untamed wilderness reserve.",
     "pageCount": 416,
     "spineColor": "#15803d",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780062983374-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "an-orchestra-of-minorities",
@@ -3918,7 +3876,7 @@
     "authorName": "Esi Edugyan",
     "publicationYear": 2018,
     "publisher": "Serpent's Tail",
-    "isbn13": "9781788160865",
+    "isbn13": "9780525521426",
     "genres": [
       "Historical Fiction",
       "Adventure",
@@ -3928,7 +3886,7 @@
     "pageCount": 400,
     "spineColor": "#0284c7",
     "countryOfOrigin": "Canada",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781788160865-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780525521426-L.jpg?default=false"
   },
   {
     "id": "the-mars-room",
@@ -3958,7 +3916,7 @@
     "publicationYear": 2018,
     "publisher": "Jonathan Cape",
     "imprint": "Vintage",
-    "isbn13": "9781787330702",
+    "isbn13": "9781984820709",
     "genres": [
       "Folklore",
       "Mythological",
@@ -3968,7 +3926,7 @@
     "pageCount": 272,
     "spineColor": "#0f766e",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781787330702-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781984820709-L.jpg?default=false"
   },
   {
     "id": "the-long-take",
@@ -3997,7 +3955,6 @@
     "authorName": "Susan Choi",
     "publicationYear": 2025,
     "publisher": "Faber & Faber",
-    "isbn13": "9780571350636",
     "genres": [
       "Family Drama",
       "Mystery",
@@ -4006,8 +3963,7 @@
     "synopsis": "A haunting psychological exploration of childhood secrets, truth, and familial bonds across generations.",
     "pageCount": 304,
     "spineColor": "#0284c7",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780571350636-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "the-loneliness-of-sonia-and-sunny",
@@ -4035,7 +3991,6 @@
     "authorName": "Katie Kitamura",
     "publicationYear": 2025,
     "publisher": "Riverhead Books",
-    "isbn13": "9780593330104",
     "genres": [
       "Psychological",
       "Suspense",
@@ -4044,8 +3999,7 @@
     "synopsis": "A stage performer in London begins to lose the boundary between her scripted persona and private moral guilt.",
     "pageCount": 240,
     "spineColor": "#4338ca",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780593330104-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "the-rest-of-our-lives",
@@ -4054,7 +4008,6 @@
     "authorName": "Ben Markovits",
     "publicationYear": 2025,
     "publisher": "Faber & Faber",
-    "isbn13": "9780571360154",
     "genres": [
       "Midlife",
       "Family",
@@ -4063,8 +4016,7 @@
     "synopsis": "A deeply human portrait of long friendships and married intimacy facing the quiet crises of later life.",
     "pageCount": 320,
     "spineColor": "#334155",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780571360154-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "the-land-in-winter",
@@ -4093,7 +4045,7 @@
     "authorName": "Elizabeth Strout",
     "publicationYear": 2026,
     "publisher": "Random House",
-    "isbn13": "9780812989441",
+    "isbn13": "9780241814307",
     "genres": [
       "Small Town",
       "Family",
@@ -4103,7 +4055,7 @@
     "pageCount": 288,
     "spineColor": "#0284c7",
     "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780812989441-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780241814307-L.jpg?default=false"
   },
   {
     "id": "john-of-john",
@@ -4131,7 +4083,7 @@
     "authorName": "Marlon James",
     "publicationYear": 2026,
     "publisher": "Riverhead Books",
-    "isbn13": "9780735220201",
+    "isbn13": "9780593717202",
     "genres": [
       "Historical Fiction",
       "Mythological",
@@ -4141,7 +4093,7 @@
     "pageCount": 480,
     "spineColor": "#15803d",
     "countryOfOrigin": "Jamaica",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780735220201-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780593717202-L.jpg?default=false"
   },
   {
     "id": "black-bag",
@@ -4228,7 +4180,6 @@
     "authorName": "Vauhini Vara",
     "publicationYear": 2022,
     "publisher": "W. W. Norton & Company",
-    "isbn13": "9780393541755",
     "genres": [
       "Speculative",
       "Family Saga",
@@ -4237,8 +4188,7 @@
     "synopsis": "From rural India to global tech conglomerate, a Dalit visionary reshapes world society under algorithmic governance.",
     "pageCount": 384,
     "spineColor": "#059669",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780393541755-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "palmares",
@@ -4578,7 +4528,6 @@
     "authorName": "P. Djèlí Clark",
     "publicationYear": 2021,
     "publisher": "Tordotcom",
-    "isbn13": "9781250267016",
     "genres": [
       "Steampunk",
       "Historical Fantasy",
@@ -4587,8 +4536,7 @@
     "synopsis": "In alternate 1912 Cairo where djinn openly coexist with mortals, Special Investigator Fatma el-Sha’arawi hunts a murderous mystic claiming to be the return of al-Jahiz.",
     "pageCount": 400,
     "spineColor": "#b45309",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781250267016-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "a-song-for-a-new-day",
@@ -4812,7 +4760,6 @@
     "publicationYear": 2010,
     "publisher": "Spectra",
     "imprint": "Ballantine Books",
-    "isbn13": "9780553575651",
     "genres": [
       "Time Travel",
       "Historical",
@@ -4821,8 +4768,7 @@
     "synopsis": "Oxford time-travel historians journey to the London Blitz in 1940 and become stranded as timeline disruptions threaten both their survival and the war itself.",
     "pageCount": 1168,
     "spineColor": "#1e293b",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780553575651-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "the-windup-girl",
@@ -4909,7 +4855,6 @@
     "publicationYear": 2003,
     "publisher": "Eos",
     "imprint": "HarperCollins",
-    "isbn13": "9780380976904",
     "genres": [
       "Fantasy",
       "Theology",
@@ -4918,8 +4863,7 @@
     "synopsis": "Widowed Dowager Royina Ista embarks on a holy pilgrimage to escape her smothering court, finding herself called as a divine instrument against demonic forces.",
     "pageCount": 480,
     "spineColor": "#854d0e",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780380976904-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "american-gods",
@@ -4948,7 +4892,6 @@
     "authorName": "Octavia E. Butler",
     "publicationYear": 1998,
     "publisher": "Seven Stories Press",
-    "isbn13": "9781888363869",
     "genres": [
       "Dystopian",
       "Afrofuturism",
@@ -4957,8 +4900,7 @@
     "synopsis": "In a fractured, fundamentalist America, Lauren Olamina fights to preserve her Earthseed community and the conviction that humanity’s destiny is among the stars.",
     "pageCount": 416,
     "spineColor": "#991b1b",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781888363869-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "the-diamond-age",
@@ -5119,7 +5061,6 @@
     "authorName": "David Brin",
     "publicationYear": 1983,
     "publisher": "Bantam Books",
-    "isbn13": "9780553274622",
     "genres": [
       "Space Opera",
       "Uplift",
@@ -5128,8 +5069,7 @@
     "synopsis": "The exploration vessel Streaker, crewed by genetically uplifted dolphins and humans, discovers a legendary alien fleet and is hunted by fanatic extraterrestrial armadas.",
     "pageCount": 464,
     "spineColor": "#0284c7",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780553274622-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "the-fountains-of-paradise",
@@ -5404,7 +5344,6 @@
     "authorName": "Alfred Bester",
     "publicationYear": 1953,
     "publisher": "Shasta Publishers",
-    "isbn13": "9780679767831",
     "genres": [
       "Cyberpunk Proto",
       "Psychological",
@@ -5413,8 +5352,7 @@
     "synopsis": "In a future where telepaths make pre-planned crime impossible, a paranoid cartel magnate devises a plot to commit the first unpreventable murder in seventy years.",
     "pageCount": 250,
     "spineColor": "#1e1b4b",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780679767831-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "the-glorious-heresies",
@@ -5600,7 +5538,7 @@
     "authorName": "Lionel Shriver",
     "publicationYear": 2003,
     "publisher": "Serpent's Tail",
-    "isbn13": "9781846682704",
+    "isbn13": "9781844080465",
     "genres": [
       "Epistolary",
       "Psychological Thriller",
@@ -5610,7 +5548,7 @@
     "pageCount": 400,
     "spineColor": "#7f1d1d",
     "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781846682704-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781844080465-L.jpg?default=false"
   },
   {
     "id": "small-island",
@@ -5696,7 +5634,6 @@
     "authorName": "Linda Grant",
     "publicationYear": 2000,
     "publisher": "Granta Books",
-    "isbn13": "9781862074361",
     "genres": [
       "Historical Fiction",
       "Jewish",
@@ -5705,8 +5642,7 @@
     "synopsis": "A London-born young woman arrives in 1946 British Mandate Palestine, discovering the intoxicating modernity and volatile passions of burgeoning Tel Aviv.",
     "pageCount": 272,
     "spineColor": "#0f766e",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781862074361-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "a-crime-in-the-neighborhood",
@@ -5734,7 +5670,6 @@
     "authorName": "Carol Shields",
     "publicationYear": 1997,
     "publisher": "Random House of Canada",
-    "isbn13": "9780006550754",
     "genres": [
       "Life Story",
       "Comedy of Manners",
@@ -5743,8 +5678,7 @@
     "synopsis": "Larry Weller stumbles into an obsession with creating garden labyrinths, navigating marriage, work, and identity across twenty years of modern life.",
     "pageCount": 352,
     "spineColor": "#15803d",
-    "countryOfOrigin": "Canada",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780006550754-L.jpg?default=false"
+    "countryOfOrigin": "Canada"
   },
   {
     "id": "fugitive-pieces",
@@ -5773,7 +5707,6 @@
     "publicationYear": 1995,
     "publisher": "Viking",
     "imprint": "Penguin",
-    "isbn13": "9780670861613",
     "genres": [
       "Gothic",
       "Historical",
@@ -5782,8 +5715,7 @@
     "synopsis": "In an isolated country house on the eve of WWI, two abandoned siblings form an intensely insular, forbidden bond amid dark family secrets.",
     "pageCount": 320,
     "spineColor": "#312e81",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780670861613-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "a-horse-walks-into-a-bar",
@@ -5792,7 +5724,6 @@
     "authorName": "David Grossman",
     "publicationYear": 2016,
     "publisher": "Jonathan Cape",
-    "isbn13": "9781910702956",
     "genres": [
       "Literary Fiction",
       "Dark Comedy",
@@ -5813,7 +5744,6 @@
     "authorName": "Lydia Davis",
     "publicationYear": 2009,
     "publisher": "Farrar, Straus and Giroux",
-    "isbn13": "9780141040615",
     "genres": [
       "Literary Fiction",
       "Short Stories",
@@ -5899,7 +5829,8 @@
     "originalLanguage": "Spanish",
     "originalTitle": "No es un río",
     "pageCount": 110,
-    "spineColor": "#047857"
+    "spineColor": "#047857",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781913505967-L.jpg?default=false"
   },
   {
     "id": "crooked-plow",
@@ -6014,7 +5945,6 @@
     "authorName": "Claudia Piñeiro",
     "publicationYear": 2021,
     "publisher": "Charco Press",
-    "isbn13": "9781913505080",
     "genres": [
       "Literary Fiction",
       "Mystery",
@@ -6035,7 +5965,6 @@
     "authorName": "Mariana Enríquez",
     "publicationYear": 2021,
     "publisher": "Granta Books",
-    "isbn13": "9781783786251",
     "genres": [
       "Literary Fiction",
       "Gothic Horror",
@@ -6077,7 +6006,6 @@
     "authorName": "Olga Ravn",
     "publicationYear": 2020,
     "publisher": "Lolli Editions",
-    "isbn13": "9781913097363",
     "genres": [
       "Speculative Fiction",
       "Science Fiction",
@@ -6161,7 +6089,6 @@
     "authorName": "Olga Tokarczuk",
     "publicationYear": 2018,
     "publisher": "Fitzcarraldo Editions / Riverhead",
-    "isbn13": "9781911547228",
     "genres": [
       "Literary Fiction",
       "Mystery",
@@ -6225,7 +6152,6 @@
     "authorName": "Ernest Poole",
     "publicationYear": 1917,
     "publisher": "Macmillan",
-    "isbn13": "9780807844076",
     "genres": [
       "Literary Fiction",
       "Historical Fiction",
@@ -6243,7 +6169,6 @@
     "authorName": "Booth Tarkington",
     "publicationYear": 1921,
     "publisher": "Doubleday, Page & Co.",
-    "isbn13": "9780140186710",
     "genres": [
       "Literary Fiction",
       "Social Realism",
@@ -6279,7 +6204,6 @@
     "authorName": "Margaret Wilson",
     "publicationYear": 1923,
     "publisher": "Harper & Brothers",
-    "isbn13": "9781585444854",
     "genres": [
       "Literary Fiction",
       "Historical Fiction",
@@ -6297,7 +6221,6 @@
     "authorName": "Edna Ferber",
     "publicationYear": 1924,
     "publisher": "Doubleday, Page & Co.",
-    "isbn13": "9780060931247",
     "genres": [
       "Literary Fiction",
       "Historical Fiction",
@@ -6333,7 +6256,6 @@
     "authorName": "Louis Bromfield",
     "publicationYear": 1926,
     "publisher": "Frederick A. Stokes",
-    "isbn13": "9780820330990",
     "genres": [
       "Literary Fiction",
       "Social Realism",
@@ -6351,7 +6273,6 @@
     "authorName": "Julia Peterkin",
     "publicationYear": 1928,
     "publisher": "Bobbs-Merrill Company",
-    "isbn13": "9780820324869",
     "genres": [
       "Literary Fiction",
       "Southern Gothic",
@@ -6387,7 +6308,6 @@
     "authorName": "Margaret Ayer Barnes",
     "publicationYear": 1930,
     "publisher": "Houghton Mifflin",
-    "isbn13": "9780897332460",
     "genres": [
       "Literary Fiction",
       "Historical Fiction",
@@ -6405,7 +6325,6 @@
     "authorName": "T. S. Stribling",
     "publicationYear": 1932,
     "publisher": "Doubleday, Doran & Co.",
-    "isbn13": "9780817301644",
     "genres": [
       "Literary Fiction",
       "Historical Fiction",
@@ -6423,7 +6342,6 @@
     "authorName": "Caroline Miller",
     "publicationYear": 1933,
     "publisher": "Harper & Brothers",
-    "isbn13": "9781561456901",
     "genres": [
       "Literary Fiction",
       "Historical Fiction",
@@ -6441,7 +6359,6 @@
     "authorName": "Josephine Johnson",
     "publicationYear": 1934,
     "publisher": "Simon & Schuster",
-    "isbn13": "9781558614987",
     "genres": [
       "Literary Fiction",
       "Pastoral",
@@ -6531,7 +6448,6 @@
     "authorName": "Ellen Glasgow",
     "publicationYear": 1941,
     "publisher": "Harcourt, Brace & Co.",
-    "isbn13": "9780813919010",
     "genres": [
       "Literary Fiction",
       "Southern Realism",
@@ -6567,7 +6483,6 @@
     "authorName": "Martin Flavin",
     "publicationYear": 1943,
     "publisher": "Harper & Brothers",
-    "isbn13": "9781406734102",
     "genres": [
       "Literary Fiction",
       "Social Realism",
@@ -6585,7 +6500,6 @@
     "authorName": "John Hersey",
     "publicationYear": 1944,
     "publisher": "Alfred A. Knopf",
-    "isbn13": "9780679767299",
     "genres": [
       "Literary Fiction",
       "War Fiction",
@@ -6639,7 +6553,6 @@
     "authorName": "Conrad Richter",
     "publicationYear": 1950,
     "publisher": "Alfred A. Knopf",
-    "isbn13": "9780821415276",
     "genres": [
       "Literary Fiction",
       "Historical Fiction",
@@ -6657,7 +6570,6 @@
     "authorName": "MacKinlay Kantor",
     "publicationYear": 1955,
     "publisher": "World Publishing Company",
-    "isbn13": "9780452269804",
     "genres": [
       "Literary Fiction",
       "Civil War",
@@ -6693,7 +6605,6 @@
     "authorName": "Robert Lewis Taylor",
     "publicationYear": 1958,
     "publisher": "Doubleday",
-    "isbn13": "9780385023917",
     "genres": [
       "Literary Fiction",
       "Historical Adventure",
@@ -6729,7 +6640,6 @@
     "authorName": "Edwin O'Connor",
     "publicationYear": 1961,
     "publisher": "Little, Brown and Company",
-    "isbn13": "9780829421255",
     "genres": [
       "Literary Fiction",
       "Irish-American",
@@ -6747,7 +6657,6 @@
     "authorName": "Shirley Ann Grau",
     "publicationYear": 1964,
     "publisher": "Alfred A. Knopf",
-    "isbn13": "9780807129159",
     "genres": [
       "Literary Fiction",
       "Southern Gothic",
@@ -6783,7 +6692,6 @@
     "authorName": "Jean Stafford",
     "publicationYear": 1969,
     "publisher": "Farrar, Straus and Giroux",
-    "isbn13": "9780374529321",
     "genres": [
       "Literary Fiction",
       "Short Stories"
@@ -6836,7 +6744,6 @@
     "authorName": "John Cheever",
     "publicationYear": 1978,
     "publisher": "Alfred A. Knopf",
-    "isbn13": "9780375706868",
     "genres": [
       "Literary Fiction",
       "Short Stories",
@@ -6908,7 +6815,6 @@
     "authorName": "Peter Taylor",
     "publicationYear": 1986,
     "publisher": "Alfred A. Knopf",
-    "isbn13": "9780345347312",
     "genres": [
       "Literary Fiction",
       "Southern Fiction",
@@ -6926,7 +6832,6 @@
     "authorName": "Anne Tyler",
     "publicationYear": 1988,
     "publisher": "Alfred A. Knopf",
-    "isbn13": "9780449911617",
     "genres": [
       "Literary Fiction",
       "Domestic Realism",
@@ -6944,7 +6849,6 @@
     "authorName": "Oscar Hijuelos",
     "publicationYear": 1989,
     "publisher": "Farrar, Straus and Giroux",
-    "isbn13": "9780060936259",
     "genres": [
       "Literary Fiction",
       "Historical Fiction",
@@ -7088,7 +6992,6 @@
     "authorName": "Javier Marías",
     "publicationYear": 1992,
     "publisher": "Harvill Press / New Directions",
-    "isbn13": "9780811219761",
     "genres": [
       "Literary Fiction",
       "Mystery",
@@ -7148,7 +7051,6 @@
     "authorName": "Nicola Barker",
     "publicationYear": 1998,
     "publisher": "Faber & Faber",
-    "isbn13": "9780571193981",
     "genres": [
       "Literary Fiction",
       "Dark Comedy",
@@ -7226,7 +7128,6 @@
     "authorName": "Tahar Ben Jelloun",
     "publicationYear": 2001,
     "publisher": "The New Press",
-    "isbn13": "9781565849426",
     "genres": [
       "Literary Fiction",
       "Political Fiction",
@@ -7286,7 +7187,6 @@
     "authorName": "Michael Thomas",
     "publicationYear": 2007,
     "publisher": "Black Cat / Grove Press",
-    "isbn13": "9780802170354",
     "genres": [
       "Literary Fiction",
       "Urban Realism",
@@ -7343,7 +7243,6 @@
     "authorName": "Kevin Barry",
     "publicationYear": 2011,
     "publisher": "Jonathan Cape / Graywolf Press",
-    "isbn13": "9781555976163",
     "genres": [
       "Literary Fiction",
       "Dystopian",
@@ -7361,7 +7260,6 @@
     "authorName": "Juan Gabriel Vásquez",
     "publicationYear": 2011,
     "publisher": "Bloomsbury / Riverhead",
-    "isbn13": "9781594632822",
     "genres": [
       "Literary Fiction",
       "Historical Noir",
@@ -7401,7 +7299,6 @@
     "authorName": "Akhil Sharma",
     "publicationYear": 2014,
     "publisher": "W. W. Norton & Company",
-    "isbn13": "9780393351194",
     "genres": [
       "Literary Fiction",
       "Autobiographical",
@@ -7458,7 +7355,6 @@
     "authorName": "Emily Ruskovich",
     "publicationYear": 2017,
     "publisher": "Random House / Chatto & Windus",
-    "isbn13": "9780525509424",
     "genres": [
       "Literary Fiction",
       "Mystery",
@@ -7494,7 +7390,6 @@
     "authorName": "Alice Zeniter",
     "publicationYear": 2017,
     "publisher": "Picador",
-    "isbn13": "9781529061802",
     "genres": [
       "Literary Fiction",
       "Historical Epic",
@@ -7515,7 +7410,7 @@
     "authorName": "Katja Oskamp",
     "publicationYear": 2019,
     "publisher": "Peirene Press",
-    "isbn13": "9781909747975",
+    "isbn13": "9781908670694",
     "genres": [
       "Literary Fiction",
       "Short Stories",
@@ -7554,7 +7449,6 @@
     "authorName": "Ali Smith",
     "publicationYear": 2024,
     "publisher": "Hamish Hamilton / Pantheon",
-    "isbn13": "9780241692127",
     "genres": [
       "Literary Fiction",
       "Dystopian",
@@ -7572,7 +7466,6 @@
     "authorName": "Kevin Barry",
     "publicationYear": 2015,
     "publisher": "Canongate Books",
-    "isbn13": "9781782116035",
     "genres": [
       "Literary Fiction",
       "Experimental",
@@ -7608,7 +7501,6 @@
     "authorName": "M. John Harrison",
     "publicationYear": 2020,
     "publisher": "Gollancz",
-    "isbn13": "9781473215283",
     "genres": [
       "Literary Fiction",
       "Speculative Fiction",
@@ -7626,7 +7518,6 @@
     "authorName": "Isabel Waidner",
     "publicationYear": 2021,
     "publisher": "Peninsula Press",
-    "isbn13": "9781913512033",
     "genres": [
       "Literary Fiction",
       "Surrealism",
@@ -7663,7 +7554,6 @@
     "authorName": "Benjamin Myers",
     "publicationYear": 2023,
     "publisher": "Bloomsbury Publishing",
-    "isbn13": "9781526631510",
     "genres": [
       "Literary Fiction",
       "Historical Fiction",
@@ -7807,7 +7697,6 @@
     "authorName": "John O'Hara",
     "publicationYear": 1955,
     "publisher": "Random House",
-    "isbn13": "9780099528654",
     "genres": [
       "Literary Fiction",
       "Social Realism",
@@ -7825,7 +7714,6 @@
     "authorName": "Wright Morris",
     "publicationYear": 1956,
     "publisher": "Harcourt, Brace & Co.",
-    "isbn13": "9780803281905",
     "genres": [
       "Literary Fiction",
       "Modernist",
@@ -7861,7 +7749,6 @@
     "authorName": "Bernard Malamud",
     "publicationYear": 1958,
     "publisher": "Farrar, Straus & Cudahy",
-    "isbn13": "9780374528744",
     "genres": [
       "Literary Fiction",
       "Short Stories",
@@ -7879,7 +7766,6 @@
     "authorName": "Conrad Richter",
     "publicationYear": 1960,
     "publisher": "Alfred A. Knopf",
-    "isbn13": "9780821415283",
     "genres": [
       "Literary Fiction",
       "Magical Realism",
@@ -7897,7 +7783,6 @@
     "authorName": "J. F. Powers",
     "publicationYear": 1962,
     "publisher": "Doubleday",
-    "isbn13": "9780940322349",
     "genres": [
       "Literary Fiction",
       "Clerical Satire",
@@ -7915,7 +7800,6 @@
     "authorName": "John Updike",
     "publicationYear": 1963,
     "publisher": "Alfred A. Knopf",
-    "isbn13": "9780449911631",
     "genres": [
       "Literary Fiction",
       "Mythological",
@@ -7933,7 +7817,6 @@
     "authorName": "Thornton Wilder",
     "publicationYear": 1967,
     "publisher": "Harper & Row",
-    "isbn13": "9780060088927",
     "genres": [
       "Literary Fiction",
       "Philosophical Mystery",
@@ -8005,7 +7888,6 @@
     "authorName": "John Barth",
     "publicationYear": 1972,
     "publisher": "Random House",
-    "isbn13": "9780618131655",
     "genres": [
       "Literary Fiction",
       "Metafiction",
@@ -8041,7 +7923,6 @@
     "authorName": "Robert Stone",
     "publicationYear": 1974,
     "publisher": "Houghton Mifflin",
-    "isbn13": "9780618042456",
     "genres": [
       "Literary Fiction",
       "Noir Thriller",
@@ -8077,7 +7958,6 @@
     "authorName": "Mary Lee Settle",
     "publicationYear": 1977,
     "publisher": "Houghton Mifflin",
-    "isbn13": "9780870814891",
     "genres": [
       "Literary Fiction",
       "Expatriate Fiction",
@@ -8113,7 +7993,6 @@
     "authorName": "Ellen Gilchrist",
     "publicationYear": 1984,
     "publisher": "Little, Brown and Company",
-    "isbn13": "9780316313179",
     "genres": [
       "Literary Fiction",
       "Short Stories",
@@ -8149,7 +8028,6 @@
     "authorName": "Larry Heinemann",
     "publicationYear": 1986,
     "publisher": "Farrar, Straus and Giroux",
-    "isbn13": "9780679769392",
     "genres": [
       "Literary Fiction",
       "War Trauma",
@@ -8239,7 +8117,6 @@
     "authorName": "William Gaddis",
     "publicationYear": 1994,
     "publisher": "Poseidon Press",
-    "isbn13": "9780684800226",
     "genres": [
       "Literary Fiction",
       "Satire",
@@ -8311,7 +8188,6 @@
     "authorName": "Alice McDermott",
     "publicationYear": 1998,
     "publisher": "Farrar, Straus and Giroux",
-    "isbn13": "9780312429676",
     "genres": [
       "Literary Fiction",
       "Irish-American",
@@ -8329,7 +8205,6 @@
     "authorName": "Susan Sontag",
     "publicationYear": 2000,
     "publisher": "Farrar, Straus and Giroux",
-    "isbn13": "9780312273262",
     "genres": [
       "Literary Fiction",
       "Historical Fiction",
@@ -8419,7 +8294,6 @@
     "authorName": "Peter Matthiessen",
     "publicationYear": 2008,
     "publisher": "Modern Library",
-    "isbn13": "9780812975970",
     "genres": [
       "Literary Fiction",
       "Historical Epic",
@@ -8549,7 +8423,6 @@
     "authorName": "Mark Clifton & Frank Riley",
     "publicationYear": 1954,
     "publisher": "Gnome Press",
-    "isbn13": "9781504040945",
     "genres": [
       "Science Fiction",
       "Cybernetics",
@@ -8585,7 +8458,6 @@
     "authorName": "Fritz Leiber",
     "publicationYear": 1958,
     "publisher": "Ace Books",
-    "isbn13": "9780879975760",
     "genres": [
       "Science Fiction",
       "Time War",
@@ -8801,7 +8673,6 @@
     "authorName": "C. J. Cherryh",
     "publicationYear": 1988,
     "publisher": "Warner Books",
-    "isbn13": "9780446355322",
     "genres": [
       "Science Fiction",
       "Political Intrigue",
@@ -8964,7 +8835,6 @@
     "authorName": "Robert J. Sawyer",
     "publicationYear": 2002,
     "publisher": "Tor Books",
-    "isbn13": "9780765342294",
     "genres": [
       "Science Fiction",
       "Parallel Universe",
@@ -9054,7 +8924,6 @@
     "authorName": "Alexei Panshin",
     "publicationYear": 1968,
     "publisher": "Ace Books",
-    "isbn13": "9780575078734",
     "genres": [
       "Science Fiction",
       "Coming-of-Age",
@@ -9090,7 +8959,6 @@
     "authorName": "Frederik Pohl",
     "publicationYear": 1976,
     "publisher": "Random House",
-    "isbn13": "9780765321794",
     "genres": [
       "Science Fiction",
       "Cyborg Sci-Fi",
@@ -9198,7 +9066,6 @@
     "authorName": "Elizabeth Ann Scarborough",
     "publicationYear": 1988,
     "publisher": "Doubleday Foundation",
-    "isbn13": "9780553282276",
     "genres": [
       "Science Fiction",
       "Military Fantasy",
@@ -9216,7 +9083,6 @@
     "authorName": "Ursula K. Le Guin",
     "publicationYear": 1990,
     "publisher": "Atheneum",
-    "isbn13": "9780689846014",
     "genres": [
       "Fantasy",
       "Feminist Fantasy",
@@ -9234,7 +9100,6 @@
     "authorName": "Michael Swanwick",
     "publicationYear": 1991,
     "publisher": "William Morrow and Company",
-    "isbn13": "9780380718788",
     "genres": [
       "Science Fiction",
       "Planetary Fantasy",
@@ -9288,7 +9153,6 @@
     "authorName": "Robert J. Sawyer",
     "publicationYear": 1995,
     "publisher": "HarperPrism",
-    "isbn13": "9780061054907",
     "genres": [
       "Science Fiction",
       "AI Thriller",
@@ -9624,7 +9488,6 @@
     "authorName": "John Gardner",
     "publicationYear": 1976,
     "publisher": "Knopf",
-    "isbn13": "9780394499123",
     "genres": [
       "Literary Fiction",
       "Philosophical Fiction"
@@ -9677,7 +9540,6 @@
     "authorName": "Stanley Elkin",
     "publicationYear": 1982,
     "publisher": "E. P. Dutton",
-    "isbn13": "9780525241430",
     "genres": [
       "Literary Fiction",
       "Satire",
@@ -9714,8 +9576,6 @@
     "authorName": "Anne Tyler",
     "publicationYear": 1985,
     "publisher": "Knopf",
-    "isbn13": "9780449911983",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780449911983-L.jpg?default=false",
     "genres": [
       "Literary Fiction",
       "Domestic Drama"
@@ -9749,8 +9609,6 @@
     "authorName": "Philip Roth",
     "publicationYear": 1987,
     "publisher": "Farrar, Straus and Giroux",
-    "isbn13": "9780679781325",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780679781325-L.jpg?default=false",
     "genres": [
       "Literary Fiction",
       "Metafiction",
@@ -9768,7 +9626,6 @@
     "authorName": "Bharati Mukherjee",
     "publicationYear": 1988,
     "publisher": "Grove Press",
-    "isbn13": "9780802136121",
     "genres": [
       "Short Stories",
       "Immigrant Fiction",
@@ -9786,8 +9643,6 @@
     "authorName": "E. L. Doctorow",
     "publicationYear": 1989,
     "publisher": "Random House",
-    "isbn13": "9780812978193",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780812978193-L.jpg?default=false",
     "genres": [
       "Historical Fiction",
       "Crime Fiction",
@@ -9824,7 +9679,6 @@
     "authorName": "Stanley Elkin",
     "publicationYear": 1995,
     "publisher": "Hyperion",
-    "isbn13": "9780786861293",
     "genres": [
       "Literary Fiction",
       "Satire",
@@ -9859,8 +9713,6 @@
     "authorName": "Penelope Fitzgerald",
     "publicationYear": 1995,
     "publisher": "Flamingo / Houghton Mifflin",
-    "isbn13": "9780395914618",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780395914618-L.jpg?default=false",
     "genres": [
       "Historical Fiction",
       "Biographical Novel",
@@ -9915,8 +9767,6 @@
     "authorName": "Jim Crace",
     "publicationYear": 1999,
     "publisher": "Penguin / Viking",
-    "isbn13": "9780140297881",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780140297881-L.jpg?default=false",
     "genres": [
       "Literary Fiction",
       "Philosophical Fiction"
@@ -10118,8 +9968,6 @@
     "authorName": "Ling Ma",
     "publicationYear": 2022,
     "publisher": "Farrar, Straus and Giroux",
-    "isbn13": "9780374717131",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780374717131-L.jpg?default=false",
     "genres": [
       "Short Stories",
       "Surrealist Fiction",
@@ -10175,8 +10023,6 @@
     "authorName": "Henryk Sienkiewicz",
     "publicationYear": 1896,
     "publisher": "Gebethner i Wolff",
-    "isbn13": "9780781807609",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780781807609-L.jpg?default=false",
     "genres": [
       "Historical Fiction",
       "Epic Fiction",
@@ -10194,8 +10040,6 @@
     "authorName": "Rudyard Kipling",
     "publicationYear": 1901,
     "publisher": "Macmillan & Co",
-    "isbn13": "9780141439693",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780141439693-L.jpg?default=false",
     "genres": [
       "Adventure Fiction",
       "Picaresque",
@@ -10213,8 +10057,6 @@
     "authorName": "Selma Lagerlöf",
     "publicationYear": 1891,
     "publisher": "Frithiof Hellberg",
-    "isbn13": "9780143105572",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780143105572-L.jpg?default=false",
     "genres": [
       "Nordic Epic",
       "Romanticism",
@@ -10270,8 +10112,6 @@
     "authorName": "Władysław Reymont",
     "publicationYear": 1904,
     "publisher": "Gebethner i Wolff",
-    "isbn13": "9780143136705",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780143136705-L.jpg?default=false",
     "genres": [
       "Epic Fiction",
       "Realism",
@@ -10327,8 +10167,6 @@
     "authorName": "Sinclair Lewis",
     "publicationYear": 1922,
     "publisher": "Harcourt, Brace and Company",
-    "isbn13": "9780451531704",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780451531704-L.jpg?default=false",
     "genres": [
       "Satire",
       "American Classic",
@@ -10346,8 +10184,6 @@
     "authorName": "John Galsworthy",
     "publicationYear": 1922,
     "publisher": "Heinemann",
-    "isbn13": "9780199536832",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780199536832-L.jpg?default=false",
     "genres": [
       "Family Saga",
       "Victorian Literature",
@@ -10384,8 +10220,6 @@
     "authorName": "Luigi Pirandello",
     "publicationYear": 1921,
     "publisher": "Bemporad",
-    "isbn13": "9780486404554",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780486404554-L.jpg?default=false",
     "genres": [
       "Drama",
       "Meta-Theater",
@@ -10516,8 +10350,6 @@
     "authorName": "Shmuel Yosef Agnon",
     "publicationYear": 1931,
     "publisher": "Schocken Books",
-    "isbn13": "9780815606628",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780815606628-L.jpg?default=false",
     "genres": [
       "Picaresque",
       "Hebrew Literature",
@@ -10535,8 +10367,6 @@
     "authorName": "Miguel Ángel Asturias",
     "publicationYear": 1946,
     "publisher": "Costa-Amic",
-    "isbn13": "9781564781581",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781564781581-L.jpg?default=false",
     "genres": [
       "Dictator Novel",
       "Magical Realism",
@@ -10629,8 +10459,6 @@
     "authorName": "Patrick White",
     "publicationYear": 1973,
     "publisher": "Jonathan Cape",
-    "isbn13": "9780140188448",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780140188448-L.jpg?default=false",
     "genres": [
       "Literary Fiction",
       "Australian Literature",
@@ -10648,8 +10476,6 @@
     "authorName": "Isaac Bashevis Singer",
     "publicationYear": 1960,
     "publisher": "Noonday Press",
-    "isbn13": "9780452011274",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780452011274-L.jpg?default=false",
     "genres": [
       "Jewish Literature",
       "Yiddish Classic",
@@ -10686,8 +10512,6 @@
     "authorName": "Claude Simon",
     "publicationYear": 1960,
     "publisher": "Éditions de Minuit",
-    "isbn13": "9780810160897",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780810160897-L.jpg?default=false",
     "genres": [
       "Nouveau Roman",
       "War Fiction",
@@ -10724,8 +10548,6 @@
     "authorName": "Camilo José Cela",
     "publicationYear": 1951,
     "publisher": "Emecé Editores",
-    "isbn13": "9781564786081",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781564786081-L.jpg?default=false",
     "genres": [
       "Social Realism",
       "Polyphonic Novel",
@@ -10743,8 +10565,6 @@
     "authorName": "Kenzaburō Ōe",
     "publicationYear": 1964,
     "publisher": "Shinchosha",
-    "isbn13": "9780802150608",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780802150608-L.jpg?default=false",
     "genres": [
       "Autofiction",
       "Existential Fiction",
@@ -10838,8 +10658,6 @@
     "authorName": "Doris Lessing",
     "publicationYear": 1962,
     "publisher": "Michael Joseph",
-    "isbn13": "9780061578472",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780061578472-L.jpg?default=false",
     "genres": [
       "Modernist Fiction",
       "Feminist Classic",
@@ -10857,8 +10675,6 @@
     "authorName": "J. M. G. Le Clézio",
     "publicationYear": 1980,
     "publisher": "Gallimard",
-    "isbn13": "9781567924404",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781567924404-L.jpg?default=false",
     "genres": [
       "Literary Fiction",
       "Post-Colonial",
@@ -10876,8 +10692,6 @@
     "authorName": "Herta Müller",
     "publicationYear": 2009,
     "publisher": "Carl Hanser Verlag",
-    "isbn13": "9780312593377",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780312593377-L.jpg?default=false",
     "genres": [
       "Literary Fiction",
       "Gulag Literature",
@@ -10914,8 +10728,6 @@
     "authorName": "Mo Yan",
     "publicationYear": 1986,
     "publisher": "PLA Literature and Art Publishing",
-    "isbn13": "9780140168372",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780140168372-L.jpg?default=false",
     "genres": [
       "Historical Epic",
       "Hallucinatory Realism",
@@ -10952,8 +10764,6 @@
     "authorName": "Peter Handke",
     "publicationYear": 1970,
     "publisher": "Suhrkamp Verlag",
-    "isbn13": "9780374530754",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780374530754-L.jpg?default=false",
     "genres": [
       "Existential Fiction",
       "Novella",
@@ -10971,8 +10781,6 @@
     "authorName": "Abdulrazak Gurnah",
     "publicationYear": 1994,
     "publisher": "Hamish Hamilton",
-    "isbn13": "9781620977897",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781620977897-L.jpg?default=false",
     "genres": [
       "Coming-of-Age",
       "Historical Fiction",
@@ -10990,8 +10798,6 @@
     "authorName": "Jon Fosse",
     "publicationYear": 2021,
     "publisher": "Det Norske Samlaget / Transit Books",
-    "isbn13": "9781945492686",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781945492686-L.jpg?default=false",
     "genres": [
       "Visionary Fiction",
       "Philosophical",
@@ -11142,7 +10948,6 @@
     "authorName": "Anne Tyler",
     "publicationYear": 1982,
     "publisher": "Knopf",
-    "isbn13": "9780394523613",
     "genres": [
       "Literary Fiction",
       "Family Saga",
@@ -11151,8 +10956,7 @@
     "synopsis": "The eccentric, fractured Tull family of Baltimore repeatedly attempts to assemble for a peaceful meal at Cody Tull's restaurant, only for buried resentments to boil over.",
     "pageCount": 303,
     "spineColor": "#c2410c",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780394523613-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "rabbis-and-wives",
@@ -11199,7 +11003,6 @@
     "authorName": "Thomas Berger",
     "publicationYear": 1983,
     "publisher": "Delacorte Press",
-    "isbn13": "9780385292672",
     "genres": [
       "Satire",
       "Comedy",
@@ -11208,8 +11011,7 @@
     "synopsis": "A tiny misunderstanding at a hardware store snowballs into an absurd, escalatory feud between two rival Midwestern families.",
     "pageCount": 265,
     "spineColor": "#b45309",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780385292672-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "i-wish-this-war-were-over",
@@ -11218,7 +11020,6 @@
     "authorName": "Diana O'Hehir",
     "publicationYear": 1984,
     "publisher": "Atheneum",
-    "isbn13": "9780689114342",
     "genres": [
       "Historical Fiction",
       "Coming-of-Age",
@@ -11227,8 +11028,7 @@
     "synopsis": "During WWII, a nineteen-year-old woman journeys cross-country on a troop train to rescue her alcoholic mother in Washington, D.C.",
     "pageCount": 278,
     "spineColor": "#047857",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780689114342-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "leaving-the-land",
@@ -11237,7 +11037,6 @@
     "authorName": "Douglas Unger",
     "publicationYear": 1984,
     "publisher": "Harper & Row",
-    "isbn13": "9780060152437",
     "genres": [
       "Literary Fiction",
       "Historical Fiction",
@@ -11246,8 +11045,7 @@
     "synopsis": "A poignant chronicle of a western South Dakota farming community ruined by corporate agribusiness over three decades.",
     "pageCount": 277,
     "spineColor": "#78350f",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780060152437-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "continental-drift",
@@ -11275,7 +11073,6 @@
     "authorName": "Donald Barthelme",
     "publicationYear": 1986,
     "publisher": "Putnam",
-    "isbn13": "9780399131974",
     "genres": [
       "Literary Fiction",
       "Satire",
@@ -11284,8 +11081,7 @@
     "synopsis": "A recently separated fifty-three-year-old architect takes in three runaway fashion models in his Manhattan apartment in this witty, melancholic comedy.",
     "pageCount": 169,
     "spineColor": "#0e7490",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780399131974-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "whites",
@@ -11313,7 +11109,6 @@
     "authorName": "Diane Johnson",
     "publicationYear": 1987,
     "publisher": "Knopf",
-    "isbn13": "9780394558233",
     "genres": [
       "Literary Fiction",
       "Political Fiction",
@@ -11322,8 +11117,7 @@
     "synopsis": "An American doctor's wife travels to Shiraz on the eve of the Iranian Revolution and becomes entangled in the political intrigue and social upheaval.",
     "pageCount": 352,
     "spineColor": "#0f766e",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780394558233-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "that-night",
@@ -11598,7 +11392,6 @@
     "authorName": "Joanna Scott",
     "publicationYear": 1996,
     "publisher": "Henry Holt",
-    "isbn13": "9780805031409",
     "genres": [
       "Literary Fiction",
       "Historical Fiction",
@@ -11607,8 +11400,7 @@
     "synopsis": "Set on a remote rural estate in the 1920s housing a taxidermist's vast stuffed animal collection, exploring human obsession, artifice, and eccentric isolation.",
     "pageCount": 288,
     "spineColor": "#1c1917",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780805031409-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "unlocking-the-air",
@@ -11674,7 +11466,6 @@
     "authorName": "Russell Banks",
     "publicationYear": 1998,
     "publisher": "HarperFlamingo",
-    "isbn13": "9780060191412",
     "genres": [
       "Historical Fiction",
       "Biographical Fiction",
@@ -11683,8 +11474,7 @@
     "synopsis": "A grand epic narrated by Owen Brown, son of abolitionist martyr John Brown, recounting their fanatical crusade against slavery culminating at Harpers Ferry.",
     "pageCount": 758,
     "spineColor": "#44403c",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780060191412-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "the-poisonwood-bible",
@@ -11750,7 +11540,6 @@
     "authorName": "Joy Williams",
     "publicationYear": 2000,
     "publisher": "Knopf",
-    "isbn13": "9780679402183",
     "genres": [
       "Literary Fiction",
       "Dark Comedy",
@@ -11759,8 +11548,7 @@
     "synopsis": "Three motherless teenage girls navigate friendship, environmental decay, and eccentric mortality in the sun-bleached Arizona desert.",
     "pageCount": 309,
     "spineColor": "#ca8a04",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780679402183-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "john-henry-days",
@@ -11788,7 +11576,6 @@
     "authorName": "Andrea Barrett",
     "publicationYear": 2002,
     "publisher": "W. W. Norton",
-    "isbn13": "9780393043563",
     "genres": [
       "Short Stories",
       "Historical Fiction",
@@ -11797,8 +11584,7 @@
     "synopsis": "Six intricately linked stories and novellas exploring 19th-century scientific explorers, surveyors, and tuberculosis patients seeking knowledge and connection.",
     "pageCount": 270,
     "spineColor": "#065f46",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780393043563-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "you-are-not-a-stranger-here",
@@ -11807,7 +11593,6 @@
     "authorName": "Adam Haslett",
     "publicationYear": 2002,
     "publisher": "Nan A. Talese / Doubleday",
-    "isbn13": "9780385501767",
     "genres": [
       "Short Stories",
       "Literary Fiction",
@@ -11816,8 +11601,7 @@
     "synopsis": "Nine compassionate, emotionally charged stories chronicling men and women grappling with mental illness, grief, sexuality, and loneliness.",
     "pageCount": 228,
     "spineColor": "#1d4ed8",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780385501767-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "american-woman",
@@ -11940,7 +11724,6 @@
     "authorName": "Lore Segal",
     "publicationYear": 2007,
     "publisher": "The New Press",
-    "isbn13": "9781595581563",
     "genres": [
       "Short Stories",
       "Literary Fiction",
@@ -11949,8 +11732,7 @@
     "synopsis": "Thirteen wry, interconnected stories following professor Ilka Weissnix and fellow academics seeking friendship and belonging at a Connecticut think tank.",
     "pageCount": 224,
     "spineColor": "#b45309",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781595581563-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "all-souls",
@@ -12016,7 +11798,6 @@
     "authorName": "Lydia Millet",
     "publicationYear": 2009,
     "publisher": "Soft Skull Press",
-    "isbn13": "9781593762490",
     "genres": [
       "Short Stories",
       "Literary Fiction",
@@ -12025,8 +11806,7 @@
     "synopsis": "Ten satirical, melancholic stories imagining famous figures—from Madonna to Tesla to George W. Bush—interacting with animals.",
     "pageCount": 169,
     "spineColor": "#9333ea",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781593762490-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "the-privileges",
@@ -12035,7 +11815,6 @@
     "authorName": "Jonathan Dee",
     "publicationYear": 2010,
     "publisher": "Random House",
-    "isbn13": "9781400068470",
     "genres": [
       "Literary Fiction",
       "Satire",
@@ -12044,8 +11823,7 @@
     "synopsis": "A glamorous, wealthy Manhattan couple seems entirely insulated from consequence as insider trading and wealth warp their family dynamics.",
     "pageCount": 272,
     "spineColor": "#0f766e",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781400068470-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "the-surrendered",
@@ -12187,7 +11965,6 @@
     "authorName": "Bob Shacochis",
     "publicationYear": 2013,
     "publisher": "Grove Press",
-    "isbn13": "9780802121547",
     "genres": [
       "Literary Fiction",
       "Historical Fiction",
@@ -12196,8 +11973,7 @@
     "synopsis": "A geopolitical magnum opus investigating the murder of an American humanitarian in Haiti, spanning fifty years of covert Cold War entanglements.",
     "pageCount": 708,
     "spineColor": "#1e293b",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780802121547-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "let-me-be-frank-with-you",
@@ -12206,7 +11982,6 @@
     "authorName": "Richard Ford",
     "publicationYear": 2014,
     "publisher": "Ecco",
-    "isbn13": "9780062383280",
     "genres": [
       "Literary Fiction",
       "Domestic Fiction"
@@ -12214,8 +11989,7 @@
     "synopsis": "Four interconnected novellas following retired real estate agent Frank Bascombe assessing damage, mortality, and grace after Hurricane Sandy.",
     "pageCount": 238,
     "spineColor": "#1d4ed8",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780062383280-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "lovely-dark-deep",
@@ -12262,7 +12036,6 @@
     "authorName": "Kelly Link",
     "publicationYear": 2015,
     "publisher": "Random House",
-    "isbn13": "9780804179706",
     "genres": [
       "Short Stories",
       "Speculative Fiction",
@@ -12272,8 +12045,7 @@
     "synopsis": "Nine wonderfully bizarre stories featuring superheroes, demon lovers, life-sized animatronic dolls, and ghost houses in everyday settings.",
     "pageCount": 336,
     "spineColor": "#7c3aed",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780804179706-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "mauds-line",
@@ -12377,7 +12149,6 @@
     "authorName": "Daniel Mason",
     "publicationYear": 2020,
     "publisher": "Little, Brown and Company",
-    "isbn13": "9780316477727",
     "genres": [
       "Short Stories",
       "Historical Fiction",
@@ -12386,8 +12157,7 @@
     "synopsis": "Nine wondrous stories following 19th-century telegraphers, balloonists, naturalists, and physicians at the border between science and mystery.",
     "pageCount": 240,
     "spineColor": "#0f766e",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780316477727-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "telephone",
@@ -12415,7 +12185,6 @@
     "authorName": "Francisco Goldman",
     "publicationYear": 2021,
     "publisher": "Grove Press",
-    "isbn13": "9780802157775",
     "genres": [
       "Autofiction",
       "Literary Fiction",
@@ -12424,8 +12193,7 @@
     "synopsis": "Francisco Goldberg, a half-Guatemalan, half-Jewish writer, returns to Boston to visit his aged mother, unpacking childhood racism, love, and identity.",
     "pageCount": 336,
     "spineColor": "#d97706",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780802157775-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "headshot",
@@ -12472,7 +12240,6 @@
     "authorName": "Gayl Jones",
     "publicationYear": 2024,
     "publisher": "Akashic Books",
-    "isbn13": "9781636141381",
     "genres": [
       "Historical Fiction",
       "Literary Fiction",
@@ -12481,8 +12248,7 @@
     "synopsis": "An African American WWII veteran returns to 1950s Lexington, Kentucky, wrestling with trauma, community folklore, and longing for an elusive woman.",
     "pageCount": 256,
     "spineColor": "#7e22ce",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781636141381-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "stag-dance",
@@ -12491,7 +12257,6 @@
     "authorName": "Torrey Peters",
     "publicationYear": 2025,
     "publisher": "Random House",
-    "isbn13": "9780593448809",
     "genres": [
       "Literary Fiction",
       "LGBTQ+",
@@ -12500,8 +12265,7 @@
     "synopsis": "Four provocative, emotionally fierce novellas interrogating modern transgender womanhood, masculine subcultures, and relational compromises.",
     "pageCount": 288,
     "spineColor": "#f97316",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780593448809-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "the-book-of-colour",
@@ -12510,7 +12274,6 @@
     "authorName": "Julia Blackburn",
     "publicationYear": 1995,
     "publisher": "Secker & Warburg",
-    "isbn13": "9780436202452",
     "genres": [
       "Literary Fiction",
       "Historical Fiction",
@@ -12519,8 +12282,7 @@
     "synopsis": "An evocative, poetic family portrait exploring ancestral madness, colonial shame, and racial prejudice on a remote Indian Ocean island.",
     "pageCount": 160,
     "spineColor": "#1e3a8a",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780436202452-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "spinsters",
@@ -12529,7 +12291,6 @@
     "authorName": "Pagan Kennedy",
     "publicationYear": 1995,
     "publisher": "High Risk Books",
-    "isbn13": "9781852424015",
     "genres": [
       "Coming-of-Age",
       "LGBTQ+",
@@ -12538,8 +12299,7 @@
     "synopsis": "Two thirty-something spinster sisters in 1968 suburban Virginia embark on an impromptu cross-country road trip that transforms their lives.",
     "pageCount": 176,
     "spineColor": "#be185d",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781852424015-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "the-hundred-secret-senses",
@@ -12548,7 +12308,6 @@
     "authorName": "Amy Tan",
     "publicationYear": 1995,
     "publisher": "Putnam",
-    "isbn13": "9780399140488",
     "genres": [
       "Magical Realism",
       "Family Saga",
@@ -12557,8 +12316,7 @@
     "synopsis": "Chinese American Olivia navigates the eccentric spiritual beliefs of her newly arrived older half-sister Kwan, who claims to communicate with the world of ghosts.",
     "pageCount": 406,
     "spineColor": "#854d0e",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780399140488-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "ladder-of-years",
@@ -12585,7 +12343,6 @@
     "authorName": "Marianne Wiggins",
     "publicationYear": 1995,
     "publisher": "HarperCollins",
-    "isbn13": "9780002243681",
     "genres": [
       "Literary Fiction",
       "Espionage",
@@ -12594,8 +12351,7 @@
     "synopsis": "An American foreign correspondent and an elusive photojournalist navigate international conflict and obsessive romance across Eastern Europe and the Middle East.",
     "pageCount": 352,
     "spineColor": "#0f766e",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780002243681-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "alias-grace",
@@ -12661,7 +12417,6 @@
     "authorName": "E. Annie Proulx",
     "publicationYear": 1996,
     "publisher": "Scribner",
-    "isbn13": "9780684195407",
     "genres": [
       "Historical Fiction",
       "Episodic",
@@ -12670,8 +12425,7 @@
     "synopsis": "The tumultuous century-long history of an accordion constructed in Sicily as it passes through the hands of successive immigrant communities across America.",
     "pageCount": 381,
     "spineColor": "#78350f",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780684195407-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "hens-teeth",
@@ -12680,7 +12434,6 @@
     "authorName": "Manda Scott",
     "publicationYear": 1996,
     "publisher": "Women's Press",
-    "isbn13": "9780704344587",
     "genres": [
       "Mystery",
       "Thriller",
@@ -12689,8 +12442,7 @@
     "synopsis": "Veterinary surgeon Kellen Stewart investigates the sudden death of her former lover on a remote Scottish hill farm, uncovering a web of corporate malfeasance.",
     "pageCount": 320,
     "spineColor": "#831843",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780704344587-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "lives-of-the-monster-dogs",
@@ -12718,7 +12470,6 @@
     "authorName": "Pauline Melville",
     "publicationYear": 1997,
     "publisher": "Bloomsbury",
-    "isbn13": "9780747535492",
     "genres": [
       "Magical Realism",
       "Post-Colonial",
@@ -12727,8 +12478,7 @@
     "synopsis": "A kaleidoscopic Guyanese epic intertwining indigenous Amerindian myth, forbidden sibling love, and English colonial intrusion in the Rupununi savannah.",
     "pageCount": 357,
     "spineColor": "#065f46",
-    "countryOfOrigin": "Guyana",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780747535492-L.jpg?default=false"
+    "countryOfOrigin": "Guyana"
   },
   {
     "id": "the-magicians-assistant",
@@ -12756,7 +12506,6 @@
     "authorName": "Deirdre Purcell",
     "publicationYear": 1997,
     "publisher": "TownHouse",
-    "isbn13": "9781860590481",
     "genres": [
       "Domestic Fiction",
       "Irish Literature"
@@ -12764,8 +12513,7 @@
     "synopsis": "A Dublin family is shattered when a teenage son is accused of sexual assault, testing mother-son devotion and community morality.",
     "pageCount": 416,
     "spineColor": "#991b1b",
-    "countryOfOrigin": "Ireland",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781860590481-L.jpg?default=false"
+    "countryOfOrigin": "Ireland"
   },
   {
     "id": "the-weight-of-water",
@@ -12812,7 +12560,6 @@
     "authorName": "Marilyn Bowering",
     "publicationYear": 1997,
     "publisher": "HarperCollins Canada",
-    "isbn13": "9780002243971",
     "genres": [
       "Historical Fiction",
       "Literary Fiction"
@@ -12820,8 +12567,7 @@
     "synopsis": "Spanning mid-20th-century Canada, the Korean War, and Cold War Moscow, an epic exploring family, contagion, and intertwining human destinies.",
     "pageCount": 352,
     "spineColor": "#0f766e",
-    "countryOfOrigin": "Canada",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780002243971-L.jpg?default=false"
+    "countryOfOrigin": "Canada"
   },
   {
     "id": "the-short-history-of-a-prince",
@@ -12830,7 +12576,6 @@
     "authorName": "Jane Hamilton",
     "publicationYear": 1998,
     "publisher": "Random House",
-    "isbn13": "9780375501197",
     "genres": [
       "Literary Fiction",
       "LGBTQ+",
@@ -12839,8 +12584,7 @@
     "synopsis": "A high school English teacher dying of AIDS returns to his family's lakeside cottage in Wisconsin, reflecting on youthful ballet ambitions and brotherhood.",
     "pageCount": 349,
     "spineColor": "#4338ca",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780375501197-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "paradise-morrison",
@@ -12868,7 +12612,6 @@
     "authorName": "Judy Budnitz",
     "publicationYear": 1999,
     "publisher": "Picador",
-    "isbn13": "9780312242008",
     "genres": [
       "Folk Fiction",
       "Family Saga",
@@ -12877,8 +12620,7 @@
     "synopsis": "A multi-generational fable chronicling four generations of Jewish women from a bleak Eastern European forest to the harsh tenements of America.",
     "pageCount": 292,
     "spineColor": "#854d0e",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780312242008-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "the-dancers-dancing",
@@ -12887,7 +12629,6 @@
     "authorName": "Éilís Ní Dhuibhne",
     "publicationYear": 1999,
     "publisher": "Blackstaff Press",
-    "isbn13": "9780856406560",
     "genres": [
       "Coming-of-Age",
       "Irish Literature",
@@ -12896,8 +12637,7 @@
     "synopsis": "Four teenage girls from Dublin and Derry attend a summer Irish language college in Donegal during the 1970s, awakening to friendship, sexuality, and cultural division.",
     "pageCount": 242,
     "spineColor": "#15803d",
-    "countryOfOrigin": "Ireland",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780856406560-L.jpg?default=false"
+    "countryOfOrigin": "Ireland"
   },
   {
     "id": "white-teeth",
@@ -12982,7 +12722,6 @@
     "authorName": "Rosina Lippi",
     "publicationYear": 1998,
     "publisher": "Houghton Mifflin",
-    "isbn13": "9780395901410",
     "genres": [
       "Historical Fiction",
       "Episodic",
@@ -12991,8 +12730,7 @@
     "synopsis": "Twelve interconnected stories tracing generations of resilient Austrian alpine women in a remote Vorarlberg village from the 17th to the 20th century.",
     "pageCount": 256,
     "spineColor": "#365314",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780395901410-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "horse-heaven",
@@ -13039,7 +12777,6 @@
     "authorName": "Anna Burns",
     "publicationYear": 2001,
     "publisher": "Flamingo",
-    "isbn13": "9780007123988",
     "genres": [
       "Dark Comedy",
       "Irish Literature",
@@ -13048,8 +12785,7 @@
     "synopsis": "A brutally comedic, uncompromising coming-of-age chronicle following Amelia Lovett through the sectarian violence and absurdity of Belfast during the Troubles.",
     "pageCount": 323,
     "spineColor": "#292524",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780007123988-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "the-siege",
@@ -13058,7 +12794,6 @@
     "authorName": "Helen Dunmore",
     "publicationYear": 2001,
     "publisher": "Viking",
-    "isbn13": "9780670899807",
     "genres": [
       "Historical Fiction",
       "War",
@@ -13067,8 +12802,7 @@
     "synopsis": "Leningrad, 1941: a young woman, her little brother, and her lover struggle to preserve human warmth and dignity during the brutal, freezing 900-day Nazi blockade.",
     "pageCount": 336,
     "spineColor": "#0f172a",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780670899807-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "the-white-family",
@@ -13077,7 +12811,6 @@
     "authorName": "Maggie Gee",
     "publicationYear": 2002,
     "publisher": "Saqi Books",
-    "isbn13": "9780863563935",
     "genres": [
       "Domestic Fiction",
       "Social Realism",
@@ -13086,8 +12819,7 @@
     "synopsis": "A working-class North London park keeper and his family confront neighborhood racial tensions, marital failure, and generational alienation.",
     "pageCount": 384,
     "spineColor": "#334155",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780863563935-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "a-childs-book-of-true-crime",
@@ -13096,7 +12828,6 @@
     "authorName": "Chloe Hooper",
     "publicationYear": 2002,
     "publisher": "Hamish Hamilton",
-    "isbn13": "9780241141755",
     "genres": [
       "Psychological Thriller",
       "Literary Fiction"
@@ -13104,8 +12835,7 @@
     "synopsis": "A Tasmanian primary school teacher engaged in an affair with a married father becomes obsessed with a local historic murder, blurring fantasy and menace.",
     "pageCount": 247,
     "spineColor": "#b91c1c",
-    "countryOfOrigin": "Australia",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780241141755-L.jpg?default=false"
+    "countryOfOrigin": "Australia"
   },
   {
     "id": "fingersmith",
@@ -13133,7 +12863,6 @@
     "authorName": "Anne Donovan",
     "publicationYear": 2003,
     "publisher": "Canongate",
-    "isbn13": "9781841953571",
     "genres": [
       "Comedy",
       "Scottish Literature",
@@ -13142,8 +12871,7 @@
     "synopsis": "A Glaswegian painter and decorator unexpectedly discovers Tibetan Buddhism, throwing his meat-eating, Celtic-supporting family into hilarious existential confusion.",
     "pageCount": 330,
     "spineColor": "#d97706",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781841953571-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "heligoland",
@@ -13152,7 +12880,6 @@
     "authorName": "Shena Mackay",
     "publicationYear": 2003,
     "publisher": "Jonathan Cape",
-    "isbn13": "9780224063258",
     "genres": [
       "Literary Fiction",
       "Comedy"
@@ -13160,8 +12887,7 @@
     "synopsis": "A former children's author moves into a failing, eccentric spiritual community house in suburban South London, encountering peculiar residents and quiet redemption.",
     "pageCount": 212,
     "spineColor": "#0e7490",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780224063258-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "unless",
@@ -13208,7 +12934,6 @@
     "authorName": "Donna Tartt",
     "publicationYear": 2002,
     "publisher": "Knopf",
-    "isbn13": "9780679443919",
     "genres": [
       "Southern Gothic",
       "Mystery",
@@ -13217,8 +12942,7 @@
     "synopsis": "Twelve-year-old Harriet Cleve Dufresnes plots vengeance in 1970s Mississippi against the boy she suspects of murdering her nine-year-old brother twelve years earlier.",
     "pageCount": 555,
     "spineColor": "#1c1917",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780679443919-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "purple-hibiscus",
@@ -13265,7 +12989,6 @@
     "authorName": "Gillian Slovo",
     "publicationYear": 2004,
     "publisher": "W. W. Norton",
-    "isbn13": "9780393057867",
     "genres": [
       "Historical Fiction",
       "War",
@@ -13274,8 +12997,7 @@
     "synopsis": "An aristocratic Soviet family and an orphaned boy navigate Stalinist purges and the harrowing 900-day siege of Leningrad.",
     "pageCount": 502,
     "spineColor": "#1e293b",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780393057867-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "the-colour",
@@ -13284,7 +13006,6 @@
     "authorName": "Rose Tremain",
     "publicationYear": 2003,
     "publisher": "Chatto & Windus",
-    "isbn13": "9780701174958",
     "genres": [
       "Historical Fiction",
       "Western",
@@ -13293,8 +13014,7 @@
     "synopsis": "A newlywed English couple migrates to New Zealand in the 1860s, where the husband becomes consumed by gold-fever in the rugged mountains of the South Island.",
     "pageCount": 368,
     "spineColor": "#b45309",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780701174958-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "billie-morgan",
@@ -13303,7 +13023,6 @@
     "authorName": "Joolz Denby",
     "publicationYear": 2004,
     "publisher": "Do-Not Press",
-    "isbn13": "9781904316398",
     "genres": [
       "Crime",
       "Domestic Noir",
@@ -13312,8 +13031,7 @@
     "synopsis": "A tranquil secondhand bookshop manager in Yorkshire is confronted by the dark motorcycle gang murder she helped commit twenty years earlier.",
     "pageCount": 288,
     "spineColor": "#9f1239",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781904316398-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "old-filth",
@@ -13341,7 +13059,6 @@
     "authorName": "Sheri Holman",
     "publicationYear": 2003,
     "publisher": "Viking",
-    "isbn13": "9780670032426",
     "genres": [
       "Satire",
       "Political Fiction",
@@ -13350,8 +13067,7 @@
     "synopsis": "In rural Virginia, a struggling goat cheese farmer creates a 1,235-pound cheese to celebrate a populist candidate's inauguration, mirroring Thomas Jefferson's historic gift.",
     "pageCount": 448,
     "spineColor": "#854d0e",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780670032426-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "a-short-history-of-tractors-in-ukrainian",
@@ -13360,7 +13076,6 @@
     "authorName": "Marina Lewycka",
     "publicationYear": 2005,
     "publisher": "Viking",
-    "isbn13": "9780670915668",
     "genres": [
       "Comedy",
       "Family Saga",
@@ -13369,8 +13084,7 @@
     "synopsis": "Two feuding sisters unite in frantic panic when their eighty-four-year-old widowed father announces he is marrying a flamboyant, gold-digging Ukrainian divorcee.",
     "pageCount": 294,
     "spineColor": "#eab308",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780670915668-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "liars-and-saints",
@@ -13379,7 +13093,6 @@
     "authorName": "Maile Meloy",
     "publicationYear": 2004,
     "publisher": "Scribner",
-    "isbn13": "9780743254922",
     "genres": [
       "Domestic Fiction",
       "Family Saga",
@@ -13388,8 +13101,7 @@
     "synopsis": "Spanning fifty years in California, four generations of a devout Catholic family wrestle with secrets, marital deception, and unexpected tragedy.",
     "pageCount": 260,
     "spineColor": "#166534",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780743254922-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "the-history-of-love",
@@ -13436,7 +13148,6 @@
     "authorName": "Ali Smith",
     "publicationYear": 2005,
     "publisher": "Hamish Hamilton",
-    "isbn13": "9780241142493",
     "genres": [
       "Literary Fiction",
       "Experimental Fiction"
@@ -13444,8 +13155,7 @@
     "synopsis": "An enigmatic stranger named Amber enters a dysfunctional family's rented Norfolk summer cottage, permanently altering each member's sense of reality.",
     "pageCount": 306,
     "spineColor": "#0284c7",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780241142493-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "everymans-rules-for-scientific-living",
@@ -13454,7 +13164,6 @@
     "authorName": "Carrie Tiffany",
     "publicationYear": 2005,
     "publisher": "Picador",
-    "isbn13": "9780330441315",
     "genres": [
       "Historical Fiction",
       "Rural Fiction",
@@ -13463,8 +13172,7 @@
     "synopsis": "A seamstress and a soil scientist fall in love aboard a 1930s Australian agricultural demonstration train, testing strict rationalism against drought and passion.",
     "pageCount": 256,
     "spineColor": "#78350f",
-    "countryOfOrigin": "Australia",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780330441315-L.jpg?default=false"
+    "countryOfOrigin": "Australia"
   },
   {
     "id": "the-night-watch",
@@ -13492,7 +13200,6 @@
     "authorName": "Rachel Cusk",
     "publicationYear": 2006,
     "publisher": "Faber and Faber",
-    "isbn13": "9780571233069",
     "genres": [
       "Domestic Fiction",
       "Feminist Fiction",
@@ -13501,8 +13208,7 @@
     "synopsis": "Over the course of a rainy day in an affluent London commuter suburb, five young mothers confront boredom, privilege, and marital resentment.",
     "pageCount": 248,
     "spineColor": "#374151",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780571233069-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "a-concise-chinese-english-dictionary-for-lovers",
@@ -13511,7 +13217,6 @@
     "authorName": "Xiaolu Guo",
     "publicationYear": 2007,
     "publisher": "Chatto & Windus",
-    "isbn13": "9780701180379",
     "genres": [
       "Epistolary",
       "Romance",
@@ -13520,8 +13225,7 @@
     "synopsis": "A young Chinese woman sent to London to learn English chronicles her romance with an older British artist in broken, increasingly sophisticated grammar.",
     "pageCount": 283,
     "spineColor": "#be185d",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780701180379-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "the-observations",
@@ -13530,7 +13234,6 @@
     "authorName": "Jane Harris",
     "publicationYear": 2006,
     "publisher": "Faber and Faber",
-    "isbn13": "9780571229413",
     "genres": [
       "Historical Fiction",
       "Victorian Gothic",
@@ -13539,8 +13242,7 @@
     "synopsis": "In 1863 Scotland, spirited Irish housemaid Bessy Buckley is secretly studied by her eccentric mistress, sparking obsession and dark intrigue.",
     "pageCount": 413,
     "spineColor": "#065f46",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780571229413-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "digging-to-america",
@@ -13568,7 +13270,6 @@
     "authorName": "Nancy Huston",
     "publicationYear": 2007,
     "publisher": "Atlantic Books",
-    "isbn13": "9781843547105",
     "genres": [
       "Historical Fiction",
       "Family Saga",
@@ -13577,8 +13278,7 @@
     "synopsis": "Moving backwards through four generations of six-year-olds from modern California to Nazi Germany, unravelling a family's traumatic concealed origins.",
     "pageCount": 308,
     "spineColor": "#831843",
-    "countryOfOrigin": "Canada",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781843547105-L.jpg?default=false"
+    "countryOfOrigin": "Canada"
   },
   {
     "id": "the-outcast",
@@ -13587,7 +13287,6 @@
     "authorName": "Sadie Jones",
     "publicationYear": 2008,
     "publisher": "Chatto & Windus",
-    "isbn13": "9780701182281",
     "genres": [
       "Coming-of-Age",
       "Historical Fiction",
@@ -13596,8 +13295,7 @@
     "synopsis": "In oppressive 1950s suburban Surrey, nineteen-year-old Lewis Aldridge returns home from prison, still tormented by witnessing his mother's drowning as a child.",
     "pageCount": 342,
     "spineColor": "#1c1917",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780701182281-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "when-we-were-bad",
@@ -13606,7 +13304,6 @@
     "authorName": "Charlotte Mendelson",
     "publicationYear": 2007,
     "publisher": "Mantle",
-    "isbn13": "9780230014299",
     "genres": [
       "Satire",
       "Jewish Literature",
@@ -13615,8 +13312,7 @@
     "synopsis": "A biting, affectionate comedy of North London Jewish family dysfunction erupting on the eve of a prestigious barmitzvah.",
     "pageCount": 310,
     "spineColor": "#7c2d12",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780230014299-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "lullabies-for-little-criminals",
@@ -13737,7 +13433,6 @@
     "authorName": "Kamila Shamsie",
     "publicationYear": 2009,
     "publisher": "Bloomsbury",
-    "isbn13": "9780747594956",
     "genres": [
       "Historical Fiction",
       "Post-Colonial",
@@ -13746,8 +13441,7 @@
     "synopsis": "An epic spanning six decades from the atomic bombing of Nagasaki through Indian Partition and post-9/11 Pakistan, connecting two intertwined families.",
     "pageCount": 384,
     "spineColor": "#b45309",
-    "countryOfOrigin": "Pakistan",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780747594956-L.jpg?default=false"
+    "countryOfOrigin": "Pakistan"
   },
   {
     "id": "the-very-thought-of-you",
@@ -13756,7 +13450,6 @@
     "authorName": "Rosie Alison",
     "publicationYear": 2009,
     "publisher": "Algonquin Books",
-    "isbn13": "9781565129672",
     "genres": [
       "Historical Fiction",
       "Romance",
@@ -13765,8 +13458,7 @@
     "synopsis": "During WWII, a wealthy couple takes in evacuee children at their Yorkshire estate, sparking an intense extramarital love affair with a young teacher.",
     "pageCount": 368,
     "spineColor": "#0f766e",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781565129672-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "black-water-rising",
@@ -13813,7 +13505,6 @@
     "authorName": "Monique Roffey",
     "publicationYear": 2009,
     "publisher": "Simon & Schuster",
-    "isbn13": "9781847375087",
     "genres": [
       "Historical Fiction",
       "Post-Colonial",
@@ -13822,8 +13513,7 @@
     "synopsis": "Fifty years of marriage in Trinidad: a British couple experiences the island's transition from colonial rule to independence, marked by unfaithfulness and politics.",
     "pageCount": 448,
     "spineColor": "#166534",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781847375087-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "room",
@@ -13869,7 +13559,6 @@
     "authorName": "Emma Henderson",
     "publicationYear": 2010,
     "publisher": "Sceptre",
-    "isbn13": "9780340998052",
     "genres": [
       "Coming-of-Age",
       "Historical Fiction",
@@ -13878,8 +13567,7 @@
     "synopsis": "In 1957 England, eleven-year-old Grace Williams, born with severe neurological disabilities, is committed to an asylum where she forms an enduring love with a fellow patient.",
     "pageCount": 320,
     "spineColor": "#be185d",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780340998052-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "great-house",
@@ -13907,7 +13595,6 @@
     "authorName": "Kathleen Winter",
     "publicationYear": 2010,
     "publisher": "House of Anansi Press",
-    "isbn13": "9780887842405",
     "genres": [
       "Coming-of-Age",
       "LGBTQ+",
@@ -13916,8 +13603,7 @@
     "synopsis": "Born intersex in remote 1960s Labrador, Wayne is raised secretly as a boy by his father, embarking on a painful journey toward authentic selfhood.",
     "pageCount": 461,
     "spineColor": "#047857",
-    "countryOfOrigin": "Canada",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780887842405-L.jpg?default=false"
+    "countryOfOrigin": "Canada"
   },
   {
     "id": "half-blood-blues",
@@ -13926,7 +13612,6 @@
     "authorName": "Esi Edugyan",
     "publicationYear": 2011,
     "publisher": "Serpent's Tail",
-    "isbn13": "9781846687846",
     "genres": [
       "Historical Fiction",
       "War",
@@ -13935,8 +13620,7 @@
     "synopsis": "In Nazi-occupied Paris and Berlin, a multinational jazz band scrambles to survive as their brilliant Black German trumpet prodigy is arrested by the Gestapo.",
     "pageCount": 343,
     "spineColor": "#1e1b4b",
-    "countryOfOrigin": "Canada",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781846687846-L.jpg?default=false"
+    "countryOfOrigin": "Canada"
   },
   {
     "id": "the-forgotten-waltz",
@@ -13945,7 +13629,6 @@
     "authorName": "Anne Enright",
     "publicationYear": 2011,
     "publisher": "Jonathan Cape",
-    "isbn13": "9780224093552",
     "genres": [
       "Literary Fiction",
       "Romance",
@@ -13954,8 +13637,7 @@
     "synopsis": "During the intoxicating rise and crash of Ireland's Celtic Tiger, Gina Moynihan recounts her passionate, adulterous affair with a colleague in Dublin.",
     "pageCount": 228,
     "spineColor": "#9f1239",
-    "countryOfOrigin": "Ireland",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780224093552-L.jpg?default=false"
+    "countryOfOrigin": "Ireland"
   },
   {
     "id": "painter-of-silence",
@@ -13964,7 +13646,6 @@
     "authorName": "Georgina Harding",
     "publicationYear": 2012,
     "publisher": "Bloomsbury",
-    "isbn13": "9781408820698",
     "genres": [
       "Historical Fiction",
       "Literary Fiction"
@@ -13972,8 +13653,7 @@
     "synopsis": "In 1950s communist Romania, a nurse recognizes a mute, profoundly gifted deaf artist admitted to her hospital as her childhood playmate from before the war.",
     "pageCount": 320,
     "spineColor": "#334155",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781408820698-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "foreign-bodies",
@@ -13982,7 +13662,6 @@
     "authorName": "Cynthia Ozick",
     "publicationYear": 2010,
     "publisher": "Houghton Mifflin Harcourt",
-    "isbn13": "9780547395043",
     "genres": [
       "Literary Fiction",
       "Family Saga"
@@ -13990,8 +13669,7 @@
     "synopsis": "A sharp reimagining of Henry James's The Ambassadors, following an unmarried high school teacher dispatched to Paris to rescue her nephew from an unsuitable marriage.",
     "pageCount": 258,
     "spineColor": "#78350f",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780547395043-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "state-of-wonder",
@@ -14038,7 +13716,6 @@
     "authorName": "Barbara Kingsolver",
     "publicationYear": 2012,
     "publisher": "Harper",
-    "isbn13": "9780062297655",
     "genres": [
       "Literary Fiction",
       "Environmental Fiction",
@@ -14047,8 +13724,7 @@
     "synopsis": "A discontented young Appalachian mother discovers a forested valley blanketed by millions of displaced monarch butterflies, igniting cultural and scientific clashes.",
     "pageCount": 436,
     "spineColor": "#d97706",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780062297655-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "whered-you-go-bernadette",
@@ -14076,7 +13752,7 @@
     "authorName": "Zadie Smith",
     "publicationYear": 2012,
     "publisher": "Hamish Hamilton",
-    "isbn13": "9780241142936",
+    "isbn13": "9781594203978",
     "genres": [
       "Literary Fiction",
       "Experimental Fiction",
@@ -14086,7 +13762,7 @@
     "pageCount": 295,
     "spineColor": "#1e3a8a",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780241142936-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781594203978-L.jpg?default=false"
   },
   {
     "id": "burial-rites",
@@ -14133,7 +13809,6 @@
     "authorName": "Audrey Magee",
     "publicationYear": 2014,
     "publisher": "Atlantic Books",
-    "isbn13": "9781782390886",
     "genres": [
       "Historical Fiction",
       "War",
@@ -14142,8 +13817,7 @@
     "synopsis": "In WWII Germany, an ordinary soldier on the freezing Russian front enters an arranged marriage of convenience with an opportunistic Berlin woman expecting easy wealth.",
     "pageCount": 304,
     "spineColor": "#27272a",
-    "countryOfOrigin": "Ireland",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781782390886-L.jpg?default=false"
+    "countryOfOrigin": "Ireland"
   },
   {
     "id": "outline",
@@ -14152,7 +13826,7 @@
     "authorName": "Rachel Cusk",
     "publicationYear": 2014,
     "publisher": "Faber and Faber",
-    "isbn13": "9780571314645",
+    "isbn13": "9780374228347",
     "genres": [
       "Literary Fiction",
       "Autofiction",
@@ -14162,7 +13836,7 @@
     "pageCount": 249,
     "spineColor": "#374151",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780571314645-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780374228347-L.jpg?default=false"
   },
   {
     "id": "the-bees",
@@ -14228,7 +13902,7 @@
     "authorName": "Sarah Waters",
     "publicationYear": 2014,
     "publisher": "Virago",
-    "isbn13": "9781844085286",
+    "isbn13": "9781594633119",
     "genres": [
       "Historical Fiction",
       "LGBTQ+",
@@ -14238,7 +13912,7 @@
     "pageCount": 576,
     "spineColor": "#7f1d1d",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781844085286-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781594633119-L.jpg?default=false"
   },
   {
     "id": "ruby",
@@ -14342,7 +14016,7 @@
     "authorName": "Ayọ̀bámi Adébáyọ̀",
     "publicationYear": 2017,
     "publisher": "Canongate",
-    "isbn13": "9781786890122",
+    "isbn13": "9780451494603",
     "genres": [
       "Domestic Fiction",
       "Family Saga",
@@ -14352,7 +14026,7 @@
     "pageCount": 304,
     "spineColor": "#b45309",
     "countryOfOrigin": "Nigeria",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781786890122-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780451494603-L.jpg?default=false"
   },
   {
     "id": "the-dark-circle",
@@ -14361,7 +14035,6 @@
     "authorName": "Linda Grant",
     "publicationYear": 2016,
     "publisher": "Virago",
-    "isbn13": "9781844089338",
     "genres": [
       "Historical Fiction",
       "Medical",
@@ -14370,8 +14043,7 @@
     "synopsis": "In post-WWII London, teenage East End twins diagnosed with tuberculosis are sent to a Kent sanatorium on the cusp of the revolutionary introduction of antibiotics.",
     "pageCount": 304,
     "spineColor": "#475569",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781844089338-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "first-love",
@@ -14380,7 +14052,6 @@
     "authorName": "Gwendoline Riley",
     "publicationYear": 2017,
     "publisher": "Jonathan Cape",
-    "isbn13": "9781910701898",
     "genres": [
       "Domestic Fiction",
       "Psychological Fiction",
@@ -14389,8 +14060,7 @@
     "synopsis": "A writer living with her emotionally abusive, older husband in a glass-walled Glasgow apartment dissects the corrosive dynamics of domestic tyranny.",
     "pageCount": 176,
     "spineColor": "#374151",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781910701898-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "do-not-say-we-have-nothing",
@@ -14418,7 +14088,6 @@
     "authorName": "Imogen Hermes Gowar",
     "publicationYear": 2018,
     "publisher": "Harvill Secker",
-    "isbn13": "9781911215714",
     "genres": [
       "Historical Fantasy",
       "Georgian Gothic",
@@ -14427,8 +14096,7 @@
     "synopsis": "In 1785 London, an ordinary merchant's life is overturned when a sea captain presents him with a mummified mermaid, drawing him to an elite courtesan.",
     "pageCount": 496,
     "spineColor": "#065f46",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781911215714-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "sight",
@@ -14437,7 +14105,6 @@
     "authorName": "Jessie Greengrass",
     "publicationYear": 2018,
     "publisher": "John Murray",
-    "isbn13": "9781473668317",
     "genres": [
       "Philosophical Fiction",
       "Autofiction",
@@ -14446,8 +14113,7 @@
     "synopsis": "An expectant mother reflects on the birth of her second child while exploring scientific breakthroughs in vision, from Röntgen's X-rays to psychoanalysis.",
     "pageCount": 198,
     "spineColor": "#1e3a8a",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781473668317-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "when-i-hit-you-or-a-portrait-of-the-writer-as-a-young-wife",
@@ -14475,7 +14141,7 @@
     "authorName": "Pat Barker",
     "publicationYear": 2018,
     "publisher": "Hamish Hamilton",
-    "isbn13": "9780241364772",
+    "isbn13": "9780385545990",
     "genres": [
       "Historical Fiction",
       "Mythological Retelling",
@@ -14485,7 +14151,7 @@
     "pageCount": 336,
     "spineColor": "#365314",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780241364772-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780385545990-L.jpg?default=false"
   },
   {
     "id": "my-sister-the-serial-killer",
@@ -14779,7 +14445,6 @@
     "authorName": "Jacqueline Crooks",
     "publicationYear": 2023,
     "publisher": "Jonathan Cape",
-    "isbn13": "9781787333550",
     "genres": [
       "Literary Fiction",
       "Music Fiction",
@@ -14788,8 +14453,7 @@
     "synopsis": "Set in late-1970s London amidst dub reggae sound systems and racial injustice, following Yamaye as she seeks liberation from generational trauma.",
     "pageCount": 352,
     "spineColor": "#dc2626",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781787333550-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "trespasses",
@@ -14817,7 +14481,6 @@
     "authorName": "Priscilla Morris",
     "publicationYear": 2022,
     "publisher": "Duckworth",
-    "isbn13": "9780715654521",
     "genres": [
       "Historical Fiction",
       "War",
@@ -14826,8 +14489,7 @@
     "synopsis": "In 1992 Sarajevo, landscape artist and teacher Zora stays behind to paint as siege artillery and snipers encircle the multi-ethnic city.",
     "pageCount": 304,
     "spineColor": "#27272a",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780715654521-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "the-marriage-portrait",
@@ -14855,7 +14517,6 @@
     "authorName": "Laline Paull",
     "publicationYear": 2022,
     "publisher": "Corsair",
-    "isbn13": "9781472156822",
     "genres": [
       "Speculative Fiction",
       "Environmental Fiction",
@@ -14864,8 +14525,7 @@
     "synopsis": "An ocean-bound epic exploring ecological ruin, captive cruelty, and survival through the perspective of Ea, a spinner dolphin born into a traumatized pod.",
     "pageCount": 288,
     "spineColor": "#0284c7",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781472156822-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "the-wren-the-wren",
@@ -14874,7 +14534,6 @@
     "authorName": "Anne Enright",
     "publicationYear": 2023,
     "publisher": "Jonathan Cape",
-    "isbn13": "9781787334298",
     "genres": [
       "Family Saga",
       "Poetry",
@@ -14883,8 +14542,7 @@
     "synopsis": "Three generations of Irish women navigate the enduring shadow and artistic legacy of their philandering patriarch, legendary poet Phil McDaragh.",
     "pageCount": 288,
     "spineColor": "#166534",
-    "countryOfOrigin": "Ireland",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781787334298-L.jpg?default=false"
+    "countryOfOrigin": "Ireland"
   },
   {
     "id": "restless-dolly-maunder",
@@ -14912,7 +14570,6 @@
     "authorName": "Isabella Hammad",
     "publicationYear": 2023,
     "publisher": "Jonathan Cape",
-    "isbn13": "9781787334526",
     "genres": [
       "Political Fiction",
       "Theater Fiction",
@@ -14921,8 +14578,7 @@
     "synopsis": "British-Palestinian actress Sonia joins an ambitious West Bank Arabic-language production of Hamlet, discovering profound communal resistance under occupation.",
     "pageCount": 336,
     "spineColor": "#1c1917",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781787334526-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "soldier-sailor",
@@ -14969,7 +14625,6 @@
     "authorName": "Aria Aber",
     "publicationYear": 2024,
     "publisher": "Hogarth",
-    "isbn13": "9780593448779",
     "genres": [
       "Coming-of-Age",
       "Autofiction",
@@ -14978,8 +14633,7 @@
     "synopsis": "An Afghan refugee student in Berlin navigates sex work, language, and cultural displacement, attempting to construct an authentic selfhood.",
     "pageCount": 288,
     "spineColor": "#e11d48",
-    "countryOfOrigin": "Germany",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780593448779-L.jpg?default=false"
+    "countryOfOrigin": "Germany"
   },
   {
     "id": "the-persians",
@@ -15026,7 +14680,6 @@
     "authorName": "Nussaibah Younis",
     "publicationYear": 2024,
     "publisher": "Faber and Faber",
-    "isbn13": "9780571386765",
     "genres": [
       "Political Thriller",
       "Post-Colonial",
@@ -15035,8 +14688,7 @@
     "synopsis": "A British-Iraqi humanitarian researcher in post-ISIS Mosul is caught between humanitarian diplomacy, private guilt, and dangerous militia power.",
     "pageCount": 304,
     "spineColor": "#1e1b4b",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780571386765-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "dominion",
@@ -15045,7 +14697,6 @@
     "authorName": "Addie E. Citchens",
     "publicationYear": 2025,
     "publisher": "Grove Press",
-    "isbn13": "9780802163455",
     "genres": [
       "Historical Fiction",
       "Southern Gothic",
@@ -15054,8 +14705,7 @@
     "synopsis": "Across three generations in rural Mississippi, a Black family fights to preserve their ancestral land and dignity against predatory landowners.",
     "pageCount": 352,
     "spineColor": "#831843",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780802163455-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "the-mercy-step",
@@ -15102,7 +14752,6 @@
     "authorName": "Lily King",
     "publicationYear": 2025,
     "publisher": "Grove Press",
-    "isbn13": "9780802163905",
     "genres": [
       "Literary Fiction",
       "Romance",
@@ -15111,8 +14760,7 @@
     "synopsis": "An intellectual and sensual romance between an anthropologist and an art historian navigating marriage, academic jealousy, and grief.",
     "pageCount": 304,
     "spineColor": "#b91c1c",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780802163905-L.jpg?default=false"
+    "countryOfOrigin": "United States"
   },
   {
     "id": "tapestry",
@@ -15139,7 +14787,6 @@
     "authorName": "Lars Iyer",
     "publicationYear": 2013,
     "publisher": "Melville House",
-    "isbn13": "9781612191591",
     "genres": [
       "Satire",
       "Philosophical Fiction"
@@ -15147,8 +14794,7 @@
     "synopsis": "Two down-and-out philosophy lecturers wander bleak Northern university campuses mourning the death of Western civilization and continental philosophy.",
     "pageCount": 224,
     "spineColor": "#78350f",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781612191591-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "red-or-dead",
@@ -15157,7 +14803,6 @@
     "authorName": "David Peace",
     "publicationYear": 2013,
     "publisher": "Faber & Faber",
-    "isbn13": "9780571224371",
     "genres": [
       "Biographical Fiction",
       "Historical Fiction",
@@ -15166,8 +14811,7 @@
     "synopsis": "A hypnotic, incantatory epic following legendary socialist manager Bill Shankly as he transforms Liverpool Football Club into an empire.",
     "pageCount": 736,
     "spineColor": "#dc2626",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780571224371-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "artful",
@@ -15176,7 +14820,6 @@
     "authorName": "Ali Smith",
     "publicationYear": 2012,
     "publisher": "Hamish Hamilton",
-    "isbn13": "9780241145616",
     "genres": [
       "Metafiction",
       "Essay",
@@ -15185,8 +14828,7 @@
     "synopsis": "Grieving the loss of her partner, a woman reads through four posthumous lecture notes on art, time, and form while haunted by a ghostly presence.",
     "pageCount": 256,
     "spineColor": "#0284c7",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780241145616-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "the-absent-therapist",
@@ -15195,7 +14837,6 @@
     "authorName": "Will Eaves",
     "publicationYear": 2014,
     "publisher": "CB Editions",
-    "isbn13": "9780957326620",
     "genres": [
       "Experimental Fiction",
       "Flash Fiction"
@@ -15203,8 +14844,7 @@
     "synopsis": "A polyphonic, miniature choral work stitching together dozens of anonymous voices, confessions, and overheard dialogues.",
     "pageCount": 128,
     "spineColor": "#334155",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780957326620-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "j",
@@ -15213,7 +14853,6 @@
     "authorName": "Howard Jacobson",
     "publicationYear": 2014,
     "publisher": "Jonathan Cape",
-    "isbn13": "9780224097482",
     "genres": [
       "Dystopian",
       "Speculative Fiction",
@@ -15222,8 +14861,7 @@
     "synopsis": "In a chilling future Britain haunted by a collective atrocity known only as 'WHAT HAPPENED, IF IT HAPPENED', two lovers uncover forbidden memories.",
     "pageCount": 336,
     "spineColor": "#0f172a",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780224097482-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "the-wake",
@@ -15269,7 +14907,6 @@
     "authorName": "Richard Beard",
     "publicationYear": 2015,
     "publisher": "Harvill Secker",
-    "isbn13": "9781846558832",
     "genres": [
       "Historical Noir",
       "Satire",
@@ -15278,8 +14915,7 @@
     "synopsis": "A Roman detective investigations team hunts for the missing corpse of a crucified prophet across anachronistic landscapes spanning ancient Judea to modern times.",
     "pageCount": 272,
     "spineColor": "#991b1b",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781846558832-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "the-field-of-the-cloth-of-gold",
@@ -15288,7 +14924,6 @@
     "authorName": "Magnus Mills",
     "publicationYear": 2015,
     "publisher": "Bloomsbury",
-    "isbn13": "9781408865613",
     "genres": [
       "Comedy",
       "Fable",
@@ -15297,8 +14932,7 @@
     "synopsis": "A deadpan, minimalist fable about campers staking out turf alongside a picturesque river, exploring human territorialism and polite rivalry.",
     "pageCount": 240,
     "spineColor": "#ca8a04",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781408865613-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "satin-island",
@@ -15345,7 +14979,6 @@
     "authorName": "Adam Thirlwell",
     "publicationYear": 2015,
     "publisher": "Jonathan Cape",
-    "isbn13": "9780224101905",
     "genres": [
       "Comedy",
       "Satire",
@@ -15354,8 +14987,7 @@
     "synopsis": "A pampered, neurotic suburban narrator spirals into adultery, crime, and moral vertigo in an affluent, claustrophobic London home.",
     "pageCount": 368,
     "spineColor": "#db2777",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780224101905-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "hot-milk",
@@ -15364,7 +14996,6 @@
     "authorName": "Deborah Levy",
     "publicationYear": 2016,
     "publisher": "Hamish Hamilton",
-    "isbn13": "9780241146521",
     "genres": [
       "Literary Fiction",
       "Psychological Fiction",
@@ -15373,8 +15004,7 @@
     "synopsis": "In a scorching Andalusian coastal clinic, Sofia cares for her mysteriously paralyzed mother while exploring her own sexuality, medusa stings, and liberation.",
     "pageCount": 224,
     "spineColor": "#b91c1c",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780241146521-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "like-a-mule-bringing-ice-cream-to-the-sun",
@@ -15515,7 +15145,6 @@
     "authorName": "Will Self",
     "publicationYear": 2017,
     "publisher": "Viking",
-    "isbn13": "9780241145944",
     "genres": [
       "Postmodern Fiction",
       "Satire",
@@ -15524,8 +15153,7 @@
     "synopsis": "The monumental culmination of Will Self's modernist trilogy, tracing digital communication, secret intelligence, and insanity through the Iraq War.",
     "pageCount": 624,
     "spineColor": "#1e1b4b",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780241145944-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "kudos",
@@ -15534,7 +15162,6 @@
     "authorName": "Rachel Cusk",
     "publicationYear": 2018,
     "publisher": "Faber & Faber",
-    "isbn13": "9780571341177",
     "genres": [
       "Autofiction",
       "Literary Fiction"
@@ -15542,8 +15169,7 @@
     "synopsis": "The triumphant finale of the Outline trilogy, following Faye across European literary festivals as fellow writers, journalists, and passengers unburden their lives.",
     "pageCount": 240,
     "spineColor": "#0284c7",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780571341177-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "murmur",
@@ -15590,7 +15216,6 @@
     "authorName": "Gabriel Josipovici",
     "publicationYear": 2018,
     "publisher": "Carcanet Press",
-    "isbn13": "9781784105570",
     "genres": [
       "Novella",
       "Modernism",
@@ -15599,8 +15224,7 @@
     "synopsis": "A refined translator living in Southwest London and rural France is haunted by sudden violent memories and marital dread in rhythmic, musical prose.",
     "pageCount": 112,
     "spineColor": "#18181b",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781784105570-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "crudo",
@@ -15647,7 +15271,6 @@
     "authorName": "Vesna Main",
     "publicationYear": 2019,
     "publisher": "Salt Publishing",
-    "isbn13": "9781784631727",
     "genres": [
       "Dialogue Fiction",
       "Metafiction"
@@ -15655,8 +15278,7 @@
     "synopsis": "Told entirely in witty, tense dialogue between a writer and his wife, exploring infidelity, artistic ambition, and marital deception.",
     "pageCount": 192,
     "spineColor": "#0369a1",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781784631727-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "slip-of-a-fish",
@@ -15665,7 +15287,6 @@
     "authorName": "Amy Arnold",
     "publicationYear": 2018,
     "publisher": "And Other Stories",
-    "isbn13": "9781911508380",
     "genres": [
       "Psychological Fiction",
       "Experimental Fiction"
@@ -15673,8 +15294,7 @@
     "synopsis": "An unmoored mother living in a damp, isolated house experiences reality in intense, rhythmic bursts of sensory observation until an unsettling act fractures her domestic world.",
     "pageCount": 208,
     "spineColor": "#047857",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781911508380-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "the-porpoise",
@@ -15683,7 +15303,6 @@
     "authorName": "Mark Haddon",
     "publicationYear": 2019,
     "publisher": "Chatto & Windus",
-    "isbn13": "9781784742843",
     "genres": [
       "Mythological Retelling",
       "Fantasy",
@@ -15692,8 +15311,7 @@
     "synopsis": "A modern plane-crash survivor escaping an abusive father connects across time with Pericles, Prince of Tyre, embarking on a swashbuckling maritime myth.",
     "pageCount": 256,
     "spineColor": "#1e3a8a",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781784742843-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "the-man-who-saw-everything",
@@ -15834,7 +15452,6 @@
     "authorName": "Natasha Brown",
     "publicationYear": 2021,
     "publisher": "Hamish Hamilton",
-    "isbn13": "9780241517451",
     "genres": [
       "Novella",
       "Social Commentary",
@@ -15843,8 +15460,7 @@
     "synopsis": "A brilliant Black British investment banker prepares to attend a garden party at her white boyfriend's aristocratic estate while confronting a devastating medical diagnosis.",
     "pageCount": 112,
     "spineColor": "#111827",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780241517451-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "a-shock",
@@ -15853,7 +15469,6 @@
     "authorName": "Keith Ridgway",
     "publicationYear": 2021,
     "publisher": "Picador",
-    "isbn13": "9781529061147",
     "genres": [
       "Interconnected Stories",
       "Urban Fiction"
@@ -15861,8 +15476,7 @@
     "synopsis": "Nine loosely connected Londoners collide across South London pubs, squatters' houses, and parks, capturing urban isolation and uncanny encounters.",
     "pageCount": 272,
     "spineColor": "#1e293b",
-    "countryOfOrigin": "Ireland",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781529061147-L.jpg?default=false"
+    "countryOfOrigin": "Ireland"
   },
   {
     "id": "this-one-sky-day",
@@ -15871,7 +15485,6 @@
     "authorName": "Leone Ross",
     "publicationYear": 2021,
     "publisher": "Faber & Faber",
-    "isbn13": "9780571360987",
     "genres": [
       "Magical Realism",
       "Caribbean Literature",
@@ -15880,8 +15493,7 @@
     "synopsis": "Over the course of a single, magical day on the fictional archipelago of Popisho, two former lovers reckon with corrupt politicians, addictions, and healing magic.",
     "pageCount": 480,
     "spineColor": "#ec4899",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780571360987-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "little-scratch",
@@ -15890,7 +15502,6 @@
     "authorName": "Rebecca Watson",
     "publicationYear": 2020,
     "publisher": "Faber & Faber",
-    "isbn13": "9780571356867",
     "genres": [
       "Experimental Fiction",
       "Stream of Consciousness"
@@ -15898,8 +15509,7 @@
     "synopsis": "A single day in the life of a young London publishing assistant, laid out across multi-column typography reflecting the simultaneous layers of consciousness after sexual assault.",
     "pageCount": 224,
     "spineColor": "#f97316",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780571356867-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "somebody-loves-you",
@@ -15908,7 +15518,6 @@
     "authorName": "Mona Arshi",
     "publicationYear": 2021,
     "publisher": "And Other Stories",
-    "isbn13": "9781913505141",
     "genres": [
       "Novella",
       "Poetic Fiction",
@@ -15917,8 +15526,7 @@
     "synopsis": "Ruby, a young British girl who chooses not to speak, observes the fragile, chaotic world around her through poetic vignettes exploring language and silence.",
     "pageCount": 176,
     "spineColor": "#0d9488",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781913505141-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "seven-steeples",
@@ -15982,7 +15590,6 @@
     "authorName": "Yara Rodrigues Fowler",
     "publicationYear": 2022,
     "publisher": "Fleet",
-    "isbn13": "9780751582239",
     "genres": [
       "Political Fiction",
       "Queer Fiction",
@@ -15991,8 +15598,7 @@
     "synopsis": "Two young women in contemporary London organize tenant strikes while excavating their families' underground socialist resistance to the Brazilian military dictatorship.",
     "pageCount": 432,
     "spineColor": "#b45309",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780751582239-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "lori-joe",
@@ -16001,7 +15607,6 @@
     "authorName": "Amy Arnold",
     "publicationYear": 2023,
     "publisher": "CB Editions",
-    "isbn13": "9781909585478",
     "genres": [
       "Domestic Fiction",
       "Stream of Consciousness"
@@ -16009,8 +15614,7 @@
     "synopsis": "When Lori's husband Joe dies unexpectedly during his morning walk across the Cumbrian fells, her interior monologue unravels thirty years of quiet marital compromise.",
     "pageCount": 192,
     "spineColor": "#374151",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781909585478-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "the-long-form",
@@ -16037,7 +15641,6 @@
     "authorName": "H. Gareth Gavin",
     "publicationYear": 2023,
     "publisher": "Cipher Press",
-    "isbn13": "9781838390099",
     "genres": [
       "Transgender Fiction",
       "Working Class",
@@ -16046,8 +15649,7 @@
     "synopsis": "A queer, working-class Midlander returns to a surreal childhood coastal resort, navigating grief, gender transition, and seaside folklore.",
     "pageCount": 224,
     "spineColor": "#7c3aed",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781838390099-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "man-eating-typewriter",
@@ -16111,7 +15713,6 @@
     "authorName": "Jonathan Buckley",
     "publicationYear": 2024,
     "publisher": "Fitzcarraldo Editions",
-    "isbn13": "9781804270837",
     "genres": [
       "Mystery",
       "Experimental Fiction"
@@ -16119,8 +15720,7 @@
     "synopsis": "Transcripts of four interviews with a billionaire art collector's former gardener following the magnate's sudden disappearance, probing truth and memory.",
     "pageCount": 288,
     "spineColor": "#334155",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781804270837-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "choice",
@@ -16148,7 +15748,6 @@
     "authorName": "Lara Pawson",
     "publicationYear": 2024,
     "publisher": "CB Editions",
-    "isbn13": "9781909585546",
     "genres": [
       "Novella",
       "Object Fiction",
@@ -16157,8 +15756,7 @@
     "synopsis": "Everyday household objects—from an old toaster to a kitchen sponge—catalogue histories of imperial extraction, conflict minerals, and personal grief.",
     "pageCount": 120,
     "spineColor": "#18181b",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781909585546-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "portraits-at-the-palace-of-creativity-and-wrecking",
@@ -16204,7 +15802,6 @@
     "authorName": "Yrsa Daley-Ward",
     "publicationYear": 2025,
     "publisher": "Penguin",
-    "isbn13": "9780241470558",
     "genres": [
       "Literary Fiction",
       "Domestic Thriller"
@@ -16212,8 +15809,7 @@
     "synopsis": "A dark, poetically charged exploration of obsession, marital jealousy, and emotional trauma unfolding inside a secluded seaside house.",
     "pageCount": 304,
     "spineColor": "#1d4ed8",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780241470558-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "helm",
@@ -16276,7 +15872,6 @@
     "authorName": "Polly Barton",
     "publicationYear": 2026,
     "publisher": "Fitzcarraldo Editions",
-    "isbn13": "9781804271421",
     "genres": [
       "Novella",
       "Autofiction",
@@ -16285,8 +15880,7 @@
     "synopsis": "An introspective literary translator in Tokyo experiences an unsettling psychological boundary collapse between human language and wild animal instinct.",
     "pageCount": 224,
     "spineColor": "#15803d",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781804271421-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "said-the-dead",
@@ -16332,7 +15926,6 @@
     "authorName": "Aea Varfis-van Warmelo",
     "publicationYear": 2026,
     "publisher": "Peninsula Press",
-    "isbn13": "9781913512286",
     "genres": [
       "Experimental Fiction",
       "Autofiction",
@@ -16341,8 +15934,7 @@
     "synopsis": "A daring, kinetic comedy examining ADHD, female friendship, and digital performance in contemporary East London.",
     "pageCount": 224,
     "spineColor": "#e11d48",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781913512286-L.jpg?default=false"
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "the-vivisectors",
