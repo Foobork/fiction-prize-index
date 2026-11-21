@@ -878,5 +878,365 @@
     "category": "Best Novel",
     "citation": "Winner of the Nebula Award for Best Novel.",
     "sourceUrl": "https://nebulas.sfwa.org/award-year/2013/"
+  },
+  {
+    "id": "nom-milkman-booker-2018",
+    "prizeId": "booker-prize",
+    "bookId": "milkman",
+    "year": 2018,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Incredibly original, no one has spoken like this before. It is an exploration of insidious power and sexual harassment.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/milkman"
+  },
+  {
+    "id": "nom-finkler-question-booker-2010",
+    "prizeId": "booker-prize",
+    "bookId": "the-finkler-question",
+    "year": 2010,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A wonderfully well-crafted book: very funny, very clever, but also very sad and mournful.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-finkler-question"
+  },
+  {
+    "id": "nom-the-sea-booker-2005",
+    "prizeId": "booker-prize",
+    "bookId": "the-sea",
+    "year": 2005,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A masterly study of grief, memory and love recollected.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-sea"
+  },
+  {
+    "id": "nom-line-beauty-booker-2004",
+    "prizeId": "booker-prize",
+    "bookId": "the-line-of-beauty",
+    "year": 2004,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "An exquisite, thrillingly written novel of social satire and tragedy in Thatcher's Britain.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-line-of-beauty"
+  },
+  {
+    "id": "nom-vernon-god-little-booker-2003",
+    "prizeId": "booker-prize",
+    "bookId": "vernon-god-little",
+    "year": 2003,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A coruscating, audacious black comedy capturing American teenage angst and media circus.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/vernon-god-little"
+  },
+  {
+    "id": "nom-kelly-gang-booker-2001",
+    "prizeId": "booker-prize",
+    "bookId": "true-history-of-the-kelly-gang",
+    "year": 2001,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Carey's second Booker triumph, a breathtaking tour de force in raw colonial vernacular.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/true-history-of-the-kelly-gang"
+  },
+  {
+    "id": "nom-disgrace-booker-1999",
+    "prizeId": "booker-prize",
+    "bookId": "disgrace",
+    "year": 1999,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Coetzee becomes the first double Booker winner in history with this spare, merciless post-apartheid masterpiece.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/disgrace"
+  },
+  {
+    "id": "nom-amsterdam-booker-1998",
+    "prizeId": "booker-prize",
+    "bookId": "amsterdam",
+    "year": 1998,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A sardonic, tightly plotted moral fable of euthanasia, friendship, and professional hubris.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/amsterdam"
+  },
+  {
+    "id": "nom-last-orders-booker-1996",
+    "prizeId": "booker-prize",
+    "bookId": "last-orders",
+    "year": 1996,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A touching, polyphonic pilgrimage through working-class camaraderie and mortality.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/last-orders"
+  },
+  {
+    "id": "nom-ghost-road-booker-1995",
+    "prizeId": "booker-prize",
+    "bookId": "the-ghost-road",
+    "year": 1995,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A powerful, compassionate conclusion to the landmark Regeneration Trilogy.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-ghost-road"
+  },
+  {
+    "id": "nom-how-late-booker-1994",
+    "prizeId": "booker-prize",
+    "bookId": "how-late-it-was-how-late",
+    "year": 1994,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "An uncompromising Glaswegian stream-of-consciousness exploring resilience and sensory survival.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/how-late-it-was-how-late"
+  },
+  {
+    "id": "nom-paddy-clarke-booker-1993",
+    "prizeId": "booker-prize",
+    "bookId": "paddy-clarke-ha-ha-ha",
+    "year": 1993,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A vibrant, unforgettable immersion into the heart and innocence of Irish boyhood.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/paddy-clarke-ha-ha-ha"
+  },
+  {
+    "id": "nom-sacred-hunger-booker-1992",
+    "prizeId": "booker-prize",
+    "bookId": "sacred-hunger",
+    "year": 1992,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Joint winner with The English Patient: A magnificent historical epic on the transatlantic slave trade.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/sacred-hunger"
+  },
+  {
+    "id": "nom-famished-road-booker-1991",
+    "prizeId": "booker-prize",
+    "bookId": "the-famished-road",
+    "year": 1991,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A visionary mythic journey linking the spirit realm with Nigeria's colonial trauma.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-famished-road"
+  },
+  {
+    "id": "nom-possession-booker-1990",
+    "prizeId": "booker-prize",
+    "bookId": "possession",
+    "year": 1990,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A brilliant, multilayered literary romance and mystery honoring the Victorian intellect.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/possession"
+  },
+  {
+    "id": "nom-oscar-lucinda-booker-1988",
+    "prizeId": "booker-prize",
+    "bookId": "oscar-and-lucinda",
+    "year": 1988,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Peter Carey's dazzling, picaresque 19th-century epic of obsession, glass, and faith.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/oscar-and-lucinda"
+  },
+  {
+    "id": "nom-moon-tiger-booker-1987",
+    "prizeId": "booker-prize",
+    "bookId": "moon-tiger",
+    "year": 1987,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A beautifully constructed mosaic of wartime Egypt and the architecture of memory.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/moon-tiger"
+  },
+  {
+    "id": "nom-old-devils-booker-1986",
+    "prizeId": "booker-prize",
+    "bookId": "the-old-devils",
+    "year": 1986,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A masterclass in comic timing, melancholy, and the frailties of lifelong friendship.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-old-devils"
+  },
+  {
+    "id": "nom-bone-people-booker-1985",
+    "prizeId": "booker-prize",
+    "bookId": "the-bone-people",
+    "year": 1985,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A luminous, boundary-defying debut steeped in Māori mythology and poetic survival.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-bone-people"
+  },
+  {
+    "id": "nom-hotel-du-lac-booker-1984",
+    "prizeId": "booker-prize",
+    "bookId": "hotel-du-lac",
+    "year": 1984,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "An impeccably paced, witty exploration of female solitude and romantic delusion.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/hotel-du-lac"
+  },
+  {
+    "id": "nom-michael-k-booker-1983",
+    "prizeId": "booker-prize",
+    "bookId": "life-and-times-of-michael-k",
+    "year": 1983,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Coetzee's first Booker victory, an allegorical masterpiece of pure survival against tyranny.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/life-and-times-of-michael-k"
+  },
+  {
+    "id": "nom-schindlers-ark-booker-1982",
+    "prizeId": "booker-prize",
+    "bookId": "schindlers-ark",
+    "year": 1982,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "The unforgettable biographical novel documenting Oskar Schindler's extraordinary heroism.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/schindlers-ark"
+  },
+  {
+    "id": "nom-rites-passage-booker-1980",
+    "prizeId": "booker-prize",
+    "bookId": "rites-of-passage",
+    "year": 1980,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A savage, claustrophobic nautical masterpiece of British class brutality by the Nobel laureate.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/rites-of-passage"
+  },
+  {
+    "id": "nom-offshore-booker-1979",
+    "prizeId": "booker-prize",
+    "bookId": "offshore",
+    "year": 1979,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "An understated, charming portrait of emotional instability among Thames barge dwellers.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/offshore"
+  },
+  {
+    "id": "nom-sea-sea-booker-1978",
+    "prizeId": "booker-prize",
+    "bookId": "the-sea-the-sea",
+    "year": 1978,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Murdoch's peak triumph, an operatic interrogation of male vanity and obsessive desire.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-sea-the-sea"
+  },
+  {
+    "id": "nom-staying-on-booker-1977",
+    "prizeId": "booker-prize",
+    "bookId": "staying-on",
+    "year": 1977,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A tender, funny, and deeply touching portrait of an elderly couple stranded by history.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/staying-on"
+  },
+  {
+    "id": "nom-saville-booker-1976",
+    "prizeId": "booker-prize",
+    "bookId": "saville",
+    "year": 1976,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A sweeping, deeply authentic social realist monument of working-class Yorkshire life.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/saville"
+  },
+  {
+    "id": "nom-heat-dust-booker-1975",
+    "prizeId": "booker-prize",
+    "bookId": "heat-and-dust",
+    "year": 1975,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A dual-timeline jewel examining colonial desire and cultural collision across fifty years.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/heat-and-dust"
+  },
+  {
+    "id": "nom-conservationist-booker-1974",
+    "prizeId": "booker-prize",
+    "bookId": "the-conservationist",
+    "year": 1974,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Joint winner with Holiday: A haunting prophecy of the moral and ecological doom of apartheid.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-conservationist"
+  },
+  {
+    "id": "nom-holiday-booker-1974",
+    "prizeId": "booker-prize",
+    "bookId": "holiday",
+    "year": 1974,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Joint winner with The Conservationist: An acute, gentle study of marital grief by a master of English realism.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/holiday"
+  },
+  {
+    "id": "nom-krishnapur-booker-1973",
+    "prizeId": "booker-prize",
+    "bookId": "the-siege-of-krishnapur",
+    "year": 1973,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A brilliant, darkly comic masterpiece satirizing imperial hubris amid the 1857 Indian Mutiny.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-siege-of-krishnapur"
+  },
+  {
+    "id": "nom-g-booker-1972",
+    "prizeId": "booker-prize",
+    "bookId": "g",
+    "year": 1972,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "An avant-garde tour-de-force redefining the European novel on the eve of World War I.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/g"
+  },
+  {
+    "id": "nom-free-state-booker-1971",
+    "prizeId": "booker-prize",
+    "bookId": "in-a-free-state",
+    "year": 1971,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A chilling, masterly dissection of post-colonial dislocation and racial vulnerability.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/in-a-free-state"
+  },
+  {
+    "id": "nom-elected-member-booker-1970",
+    "prizeId": "booker-prize",
+    "bookId": "the-elected-member",
+    "year": 1970,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "The first Booker Prize won by a woman, an agonizing study of filial duty and madness.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-elected-member"
+  },
+  {
+    "id": "nom-troubles-booker-1970",
+    "prizeId": "booker-prize",
+    "bookId": "troubles",
+    "year": 1970,
+    "status": "winner",
+    "category": "Lost Man Booker Prize",
+    "citation": "Retrospective winner of the 'Lost Man Booker Prize', a sublime tragicomedy of Anglo-Irish decline.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/troubles"
+  },
+  {
+    "id": "nom-something-answer-booker-1969",
+    "prizeId": "booker-prize",
+    "bookId": "something-to-answer-for",
+    "year": 1969,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "The inaugural winner of the Booker Prize, set against the paranoia of the 1956 Suez Crisis.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/something-to-answer-for"
   }
 ]

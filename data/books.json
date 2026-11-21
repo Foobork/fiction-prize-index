@@ -1446,5 +1446,656 @@
     "pageCount": 400,
     "spineColor": "#3730a3",
     "countryOfOrigin": "United States"
+  },
+  {
+    "id": "milkman",
+    "title": "Milkman",
+    "authorId": "anna-burns",
+    "authorName": "Anna Burns",
+    "publicationYear": 2018,
+    "publisher": "Faber and Faber",
+    "isbn13": "9780571338757",
+    "genres": [
+      "Stream of Consciousness",
+      "Political",
+      "Irish Literature"
+    ],
+    "synopsis": "In an unnamed Northern Irish city during the Troubles, an 18-year-old girl is relentlessly pursued by a menacing paramilitary commander known as 'the milkman'.",
+    "pageCount": 352,
+    "spineColor": "#d97706",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "the-finkler-question",
+    "title": "The Finkler Question",
+    "authorId": "howard-jacobson",
+    "authorName": "Howard Jacobson",
+    "publicationYear": 2010,
+    "publisher": "Bloomsbury Publishing",
+    "isbn13": "9781408809105",
+    "genres": [
+      "Satire",
+      "Jewish Literature",
+      "Tragicomedy"
+    ],
+    "synopsis": "A biting, mournful comedy exploring friendship, aging, antisemitism, and Jewish identity through two old school friends and their teacher.",
+    "pageCount": 320,
+    "spineColor": "#78350f",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "the-sea",
+    "title": "The Sea",
+    "authorId": "john-banville",
+    "authorName": "John Banville",
+    "publicationYear": 2005,
+    "publisher": "Picador",
+    "imprint": "Pan Macmillan",
+    "isbn13": "9780330436250",
+    "genres": [
+      "Literary Fiction",
+      "Memory",
+      "Grief"
+    ],
+    "synopsis": "Following the death of his wife, art historian Max Morden returns to the seaside Irish town of his childhood summers, recalling an intoxicating aristocratic family and sudden tragedy.",
+    "pageCount": 208,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "Ireland"
+  },
+  {
+    "id": "the-line-of-beauty",
+    "title": "The Line of Beauty",
+    "authorId": "alan-hollinghurst",
+    "authorName": "Alan Hollinghurst",
+    "publicationYear": 2004,
+    "publisher": "Picador",
+    "imprint": "Pan Macmillan",
+    "isbn13": "9780330483216",
+    "genres": [
+      "Historical Fiction",
+      "LGBTQ+",
+      "Thatcher Era"
+    ],
+    "synopsis": "In affluent 1980s London, a young gay aesthete moves in with a Tory politician's family, navigating cocaine, privilege, politics, and the looming shadow of the AIDS crisis.",
+    "pageCount": 512,
+    "spineColor": "#4f46e5",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "vernon-god-little",
+    "title": "Vernon God Little",
+    "authorId": "dbc-pierre",
+    "authorName": "DBC Pierre",
+    "publicationYear": 2003,
+    "publisher": "Faber and Faber",
+    "isbn13": "9780571215164",
+    "genres": [
+      "Satire",
+      "Black Comedy",
+      "Southern Gothic"
+    ],
+    "synopsis": "In the wake of a horrific high school shooting in Martirio, Texas, fifteen-year-old Vernon Little is falsely blamed and hounded by hysterical media and sensationalist justice.",
+    "pageCount": 288,
+    "spineColor": "#b91c1c",
+    "countryOfOrigin": "Australia"
+  },
+  {
+    "id": "true-history-of-the-kelly-gang",
+    "title": "True History of the Kelly Gang",
+    "authorId": "peter-carey",
+    "authorName": "Peter Carey",
+    "publicationYear": 2000,
+    "publisher": "University of Queensland Press",
+    "isbn13": "9780702232466",
+    "genres": [
+      "Historical Fiction",
+      "Epistolary",
+      "Australian"
+    ],
+    "synopsis": "The semi-fictional diary of legendary Australian outlaw and bushranger Ned Kelly, written in a breathless, unpunctuated vernacular for his unborn daughter.",
+    "pageCount": 416,
+    "spineColor": "#713f12",
+    "countryOfOrigin": "Australia"
+  },
+  {
+    "id": "disgrace",
+    "title": "Disgrace",
+    "authorId": "j-m-coetzee",
+    "authorName": "J. M. Coetzee",
+    "publicationYear": 1999,
+    "publisher": "Secker & Warburg",
+    "isbn13": "9780436204890",
+    "genres": [
+      "Literary Fiction",
+      "Post-Apartheid",
+      "Tragedy"
+    ],
+    "synopsis": "After an affair with a student costs him his Cape Town professorship, middle-aged David Lurie retreats to his daughter's remote farm, where a brutal attack shatters their fragile peace.",
+    "pageCount": 224,
+    "spineColor": "#27272a",
+    "countryOfOrigin": "South Africa"
+  },
+  {
+    "id": "amsterdam",
+    "title": "Amsterdam",
+    "authorId": "ian-mcewan",
+    "authorName": "Ian McEwan",
+    "publicationYear": 1998,
+    "publisher": "Jonathan Cape",
+    "isbn13": "9780224059060",
+    "genres": [
+      "Dark Comedy",
+      "Morality",
+      "Satire"
+    ],
+    "synopsis": "At the funeral of a mutual former lover, a composer and a newspaper editor enter into a euthanasia pact that deteriorates into mutual moral corruption and revenge.",
+    "pageCount": 176,
+    "spineColor": "#334155",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "last-orders",
+    "title": "Last Orders",
+    "authorId": "graham-swift",
+    "authorName": "Graham Swift",
+    "publicationYear": 1996,
+    "publisher": "Picador",
+    "imprint": "Pan Macmillan",
+    "isbn13": "9780330345590",
+    "genres": [
+      "Working Class",
+      "Polyphonic",
+      "Elegiac"
+    ],
+    "synopsis": "Four working-class London men gather at a Bermondsey pub to fulfill their friend Jack's dying wish: carrying his ashes in a cardboard urn to scatter off the pier at Margate.",
+    "pageCount": 304,
+    "spineColor": "#065f46",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "the-ghost-road",
+    "title": "The Ghost Road",
+    "authorId": "pat-barker",
+    "authorName": "Pat Barker",
+    "publicationYear": 1995,
+    "publisher": "Viking",
+    "isbn13": "9780670860555",
+    "genres": [
+      "War",
+      "Psychological",
+      "Historical"
+    ],
+    "synopsis": "The haunting conclusion to the Regeneration Trilogy, contrasting army psychiatrist W.H.R. Rivers' fevered memories of Melanesian headhunters with the final, fatal days of WWI in France.",
+    "pageCount": 288,
+    "spineColor": "#3f3f46",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "how-late-it-was-how-late",
+    "title": "How Late It Was, How Late",
+    "authorId": "james-kelman",
+    "authorName": "James Kelman",
+    "publicationYear": 1994,
+    "publisher": "Secker & Warburg",
+    "isbn13": "9780436232749",
+    "genres": [
+      "Stream of Consciousness",
+      "Scottish Vernacular",
+      "Social Realism"
+    ],
+    "synopsis": "Waking up blind in a police cell after a drunken weekend brawl, 38-year-old Glaswegian ex-con Sammy Samuels navigates bureaucracy and disability in relentless Glaswegian dialect.",
+    "pageCount": 384,
+    "spineColor": "#991b1b",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "paddy-clarke-ha-ha-ha",
+    "title": "Paddy Clarke Ha Ha Ha",
+    "authorId": "roddy-doyle",
+    "authorName": "Roddy Doyle",
+    "publicationYear": 1993,
+    "publisher": "Secker & Warburg",
+    "isbn13": "9780436201332",
+    "genres": [
+      "Coming of Age",
+      "Irish Literature",
+      "Childhood"
+    ],
+    "synopsis": "Told through the vibrant, sensory voice of ten-year-old Paddy Clarke growing up in 1968 Barrytown, Dublin, as his parents' marriage painfully dissolves.",
+    "pageCount": 288,
+    "spineColor": "#059669",
+    "countryOfOrigin": "Ireland"
+  },
+  {
+    "id": "sacred-hunger",
+    "title": "Sacred Hunger",
+    "authorId": "barry-unsworth",
+    "authorName": "Barry Unsworth",
+    "publicationYear": 1992,
+    "publisher": "Hamish Hamilton",
+    "isbn13": "9780241131107",
+    "genres": [
+      "Historical Epic",
+      "Maritime",
+      "Transatlantic Slave Trade"
+    ],
+    "synopsis": "Joint winner with The English Patient: Set in 1752, charting the fateful voyage of an 18th-century slave ship Liverpool Merchant and the utopian commune founded by survivors of a mutiny in Florida.",
+    "pageCount": 640,
+    "spineColor": "#78350f",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "the-famished-road",
+    "title": "The Famished Road",
+    "authorId": "ben-okri",
+    "authorName": "Ben Okri",
+    "publicationYear": 1991,
+    "publisher": "Jonathan Cape",
+    "isbn13": "9780224031066",
+    "genres": [
+      "Magical Realism",
+      "African Literature",
+      "Mythic"
+    ],
+    "synopsis": "Narrated by Azaro, an abiku or spirit child in a Nigerian city who repeatedly refuses death to stay with his impoverished, fiercely loving parents amid political upheaval.",
+    "pageCount": 512,
+    "spineColor": "#ea580c",
+    "countryOfOrigin": "Nigeria"
+  },
+  {
+    "id": "possession",
+    "title": "Possession",
+    "authorId": "a-s-byatt",
+    "authorName": "A. S. Byatt",
+    "publicationYear": 1990,
+    "publisher": "Chatto & Windus",
+    "isbn13": "9780701132606",
+    "genres": [
+      "Literary Mystery",
+      "Victorian",
+      "Academic Novel"
+    ],
+    "synopsis": "Two young academics unearth secret draft letters between two prominent 19th-century poets, triggering an obsessive parallel journey across the English coast and France.",
+    "pageCount": 560,
+    "spineColor": "#1e3a8a",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "oscar-and-lucinda",
+    "title": "Oscar and Lucinda",
+    "authorId": "peter-carey",
+    "authorName": "Peter Carey",
+    "publicationYear": 1988,
+    "publisher": "University of Queensland Press",
+    "isbn13": "9780702221613",
+    "genres": [
+      "Historical Epic",
+      "Picaresque",
+      "Australian"
+    ],
+    "synopsis": "A misfitting Anglican clergyman and an Australian glassworks heiress, bonded by compulsive gambling, wager their fortunes to transport a prefabricated glass church across the New South Wales outback.",
+    "pageCount": 528,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "Australia"
+  },
+  {
+    "id": "moon-tiger",
+    "title": "Moon Tiger",
+    "authorId": "penelope-lively",
+    "authorName": "Penelope Lively",
+    "publicationYear": 1987,
+    "publisher": "André Deutsch",
+    "isbn13": "9780233981888",
+    "genres": [
+      "Memory",
+      "War",
+      "Historical"
+    ],
+    "synopsis": "Dying in a hospital bed, seventy-six-year-old former war correspondent Claudia Hampton composes a 'history of the world' that mirrors her own kaleidoscopic memories of wartime Cairo and lost love.",
+    "pageCount": 224,
+    "spineColor": "#d97706",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "the-old-devils",
+    "title": "The Old Devils",
+    "authorId": "kingsley-amis",
+    "authorName": "Kingsley Amis",
+    "publicationYear": 1986,
+    "publisher": "Hutchinson",
+    "isbn13": "9780091637903",
+    "genres": [
+      "Comic Novel",
+      "Aging",
+      "Welsh"
+    ],
+    "synopsis": "A group of retired Welsh friends whose comfortable routine of boozy pub lunches is upended by the flamboyant return of a former companion and his stylish wife.",
+    "pageCount": 304,
+    "spineColor": "#475569",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "the-bone-people",
+    "title": "The Bone People",
+    "authorId": "keri-hulme",
+    "authorName": "Keri Hulme",
+    "publicationYear": 1984,
+    "publisher": "Spiral",
+    "isbn13": "9780340384794",
+    "genres": [
+      "Indigenous",
+      "Poetic",
+      "New Zealand"
+    ],
+    "synopsis": "Set along the wild South Island coast, weaving Māori mythology, poetry, and tragedy through three outcasts who form an unlikely, volatile surrogate family.",
+    "pageCount": 464,
+    "spineColor": "#15803d",
+    "countryOfOrigin": "New Zealand"
+  },
+  {
+    "id": "hotel-du-lac",
+    "title": "Hotel du Lac",
+    "authorId": "anita-brookner",
+    "authorName": "Anita Brookner",
+    "publicationYear": 1984,
+    "publisher": "Jonathan Cape",
+    "isbn13": "9780224022156",
+    "genres": [
+      "Literary Fiction",
+      "Psychological",
+      "Quiet Novel"
+    ],
+    "synopsis": "Romance novelist Edith Hope is banished to an out-of-season luxury hotel on Lake Geneva by well-meaning friends following an embarrassing social scandal.",
+    "pageCount": 192,
+    "spineColor": "#64748b",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "life-and-times-of-michael-k",
+    "title": "Life & Times of Michael K",
+    "authorId": "j-m-coetzee",
+    "authorName": "J. M. Coetzee",
+    "publicationYear": 1983,
+    "publisher": "Secker & Warburg",
+    "isbn13": "9780436102974",
+    "genres": [
+      "Allegory",
+      "Apartheid",
+      "Survival"
+    ],
+    "synopsis": "During a devastating civil war in South Africa, a simple hare-lipped gardener embarks on an arduous journey to return his dying mother to her rural birthplace.",
+    "pageCount": 208,
+    "spineColor": "#57534e",
+    "countryOfOrigin": "South Africa"
+  },
+  {
+    "id": "schindlers-ark",
+    "title": "Schindler's Ark",
+    "authorId": "thomas-keneally",
+    "authorName": "Thomas Keneally",
+    "publicationYear": 1982,
+    "publisher": "Hodder & Stoughton",
+    "isbn13": "9780340277713",
+    "genres": [
+      "Holocaust",
+      "Biographical Novel",
+      "WWII"
+    ],
+    "synopsis": "The astonishing true story of German industrialist and Nazi party member Oskar Schindler, who gambled his fortune to protect over 1,200 Jews from extermination.",
+    "pageCount": 432,
+    "spineColor": "#18181b",
+    "countryOfOrigin": "Australia"
+  },
+  {
+    "id": "rites-of-passage",
+    "title": "Rites of Passage",
+    "authorId": "william-golding",
+    "authorName": "William Golding",
+    "publicationYear": 1980,
+    "publisher": "Faber and Faber",
+    "isbn13": "9780571116393",
+    "genres": [
+      "Historical",
+      "Maritime",
+      "Class Conflict"
+    ],
+    "synopsis": "Recorded in the journal of aristocratic passenger Edmund Talbot aboard an ancient converted warship sailing to Australia during the Napoleonic Wars, charting the tragic humiliation of a reverend.",
+    "pageCount": 288,
+    "spineColor": "#1e3a8a",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "offshore",
+    "title": "Offshore",
+    "authorId": "penelope-fitzgerald",
+    "authorName": "Penelope Fitzgerald",
+    "publicationYear": 1979,
+    "publisher": "Collins",
+    "isbn13": "9780002224178",
+    "genres": [
+      "Domestic",
+      "London",
+      "Quirky"
+    ],
+    "synopsis": "Drawing on her own experiences living on a battered Thames barge, chronicling an eccentric community of houseboat dwellers berthed along Cheyne Walk in Chelsea.",
+    "pageCount": 160,
+    "spineColor": "#0f766e",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "the-sea-the-sea",
+    "title": "The Sea, The Sea",
+    "authorId": "iris-murdoch",
+    "authorName": "Iris Murdoch",
+    "publicationYear": 1978,
+    "publisher": "Chatto & Windus",
+    "isbn13": "9780701123390",
+    "genres": [
+      "Psychological",
+      "Obsession",
+      "Theatrical"
+    ],
+    "synopsis": "Retired London theater director Charles Arrowby buys an isolated coastal house to live as a hermit, but his retreat becomes a tempestuous den of vanity and obsession when he encounters his childhood sweetheart.",
+    "pageCount": 512,
+    "spineColor": "#1e40af",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "staying-on",
+    "title": "Staying On",
+    "authorId": "paul-scott",
+    "authorName": "Paul Scott",
+    "publicationYear": 1977,
+    "publisher": "Heinemann",
+    "isbn13": "9780434681129",
+    "genres": [
+      "Postcolonial",
+      "Indian History",
+      "Tragicomedy"
+    ],
+    "synopsis": "A bittersweet coda to the Raj Quartet following Colonel Tusker Smalley and his wife Lucy, the last British couple residing in an Indian hill station three decades after Independence.",
+    "pageCount": 272,
+    "spineColor": "#b45309",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "saville",
+    "title": "Saville",
+    "authorId": "david-storey",
+    "authorName": "David Storey",
+    "publicationYear": 1976,
+    "publisher": "Jonathan Cape",
+    "isbn13": "9780224013093",
+    "genres": [
+      "Social Realism",
+      "Working Class",
+      "Yorkshire"
+    ],
+    "synopsis": "The detailed coming-of-age chronicle of Colin Saville, a miner's gifted son in rural Yorkshire, striving through education to escape his family's claustrophobic coal mining destiny.",
+    "pageCount": 512,
+    "spineColor": "#334155",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "heat-and-dust",
+    "title": "Heat and Dust",
+    "authorId": "ruth-prawer-jhabvala",
+    "authorName": "Ruth Prawer Jhabvala",
+    "publicationYear": 1975,
+    "publisher": "John Murray",
+    "isbn13": "9780719532580",
+    "genres": [
+      "Dual Timeline",
+      "Colonial India",
+      "Romance"
+    ],
+    "synopsis": "In 1970s India, a young Englishwoman retraces the 1920s steps of her great-aunt Olivia, whose scandalous elopement with an Indian Nawab had shocked British society.",
+    "pageCount": 192,
+    "spineColor": "#ca8a04",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "the-conservationist",
+    "title": "The Conservationist",
+    "authorId": "nadine-gordimer",
+    "authorName": "Nadine Gordimer",
+    "publicationYear": 1974,
+    "publisher": "Jonathan Cape",
+    "isbn13": "9780224010351",
+    "genres": [
+      "Apartheid",
+      "Allegory",
+      "South African"
+    ],
+    "synopsis": "Joint winner with Holiday: A wealthy white industrialist treats his 400-acre farm as a weekend playground until the unburied corpse of a murdered Black man surfaces after a flood.",
+    "pageCount": 272,
+    "spineColor": "#15803d",
+    "countryOfOrigin": "South Africa"
+  },
+  {
+    "id": "holiday",
+    "title": "Holiday",
+    "authorId": "stanley-middleton",
+    "authorName": "Stanley Middleton",
+    "publicationYear": 1974,
+    "publisher": "Hutchinson",
+    "isbn13": "9780091211707",
+    "genres": [
+      "Domestic",
+      "Marriage",
+      "Quiet Realism"
+    ],
+    "synopsis": "Joint winner with The Conservationist: Edwin Fisher, a middle-class lecturer grieving the death of his infant son and marital separation, spends a solitary week at a seaside resort in Lincolnshire.",
+    "pageCount": 240,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "the-siege-of-krishnapur",
+    "title": "The Siege of Krishnapur",
+    "authorId": "j-g-farrell",
+    "authorName": "J. G. Farrell",
+    "publicationYear": 1973,
+    "publisher": "Weidenfeld & Nicolson",
+    "isbn13": "9780297765806",
+    "genres": [
+      "Historical Satire",
+      "Empire",
+      "Victorian"
+    ],
+    "synopsis": "Inspired by the 1857 Indian Mutiny, British colonial administrators and eccentrics besieged in a Residency watch their lofty Victorian ideals of progress crumble under dysentery and cannon fire.",
+    "pageCount": 352,
+    "spineColor": "#854d0e",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "g",
+    "title": "G.",
+    "authorId": "john-berger",
+    "authorName": "John Berger",
+    "publicationYear": 1972,
+    "publisher": "Weidenfeld & Nicolson",
+    "isbn13": "9780297994244",
+    "genres": [
+      "Experimental",
+      "Modernist",
+      "Marxist"
+    ],
+    "synopsis": "An audacious avant-garde reimagining of the Don Juan myth set across Europe on the brink of World War I, interrogating sexual liberation, historical materialism, and class rebellion.",
+    "pageCount": 320,
+    "spineColor": "#047857",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "in-a-free-state",
+    "title": "In a Free State",
+    "authorId": "v-s-naipaul",
+    "authorName": "V. S. Naipaul",
+    "publicationYear": 1971,
+    "publisher": "André Deutsch",
+    "isbn13": "9780233958378",
+    "genres": [
+      "Postcolonial",
+      "Novella Collection",
+      "Displacement"
+    ],
+    "synopsis": "A symphonic tripartite work centered on two white expatriates undertaking an ominous drive through an unnamed Central African nation spiraling into violent post-colonial coup.",
+    "pageCount": 256,
+    "spineColor": "#9a3412",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "the-elected-member",
+    "title": "The Elected Member",
+    "authorId": "bernice-rubens",
+    "authorName": "Bernice Rubens",
+    "publicationYear": 1969,
+    "publisher": "Eyre & Spottiswoode",
+    "isbn13": "9780413442901",
+    "genres": [
+      "Psychological",
+      "Jewish Literature",
+      "Family"
+    ],
+    "synopsis": "The first novel by a woman to win the Booker Prize: Norman Zweck, a gifted prodigy turned amphetamine-addicted barrister, succumbs to hallucinations, forcing his Orthodox Jewish family to confront generational guilt.",
+    "pageCount": 224,
+    "spineColor": "#6b21a8",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "troubles",
+    "title": "Troubles",
+    "authorId": "j-g-farrell",
+    "authorName": "J. G. Farrell",
+    "publicationYear": 1970,
+    "publisher": "Jonathan Cape",
+    "isbn13": "9780224619028",
+    "genres": [
+      "Historical Satire",
+      "Anglo-Irish",
+      "Gothic"
+    ],
+    "synopsis": "Awarded the 'Lost Man Booker Prize' in 2010: In 1919 Ireland, shell-shocked Major Brendan Archer arrives at the crumbling Majestic Hotel in County Wexford as the Irish War of Independence erupts.",
+    "pageCount": 448,
+    "spineColor": "#831843",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "something-to-answer-for",
+    "title": "Something to Answer For",
+    "authorId": "p-h-newby",
+    "authorName": "P. H. Newby",
+    "publicationYear": 1968,
+    "publisher": "Faber and Faber",
+    "isbn13": "9780571088669",
+    "genres": [
+      "Historical Fiction",
+      "Suez Crisis",
+      "Psychological"
+    ],
+    "synopsis": "The very first Booker Prize winner: In 1956 Port Said during the Suez Crisis, an Englishman arrives to investigate his friend's mysterious death, sinking into concussion, paranoia, and moral disorientation.",
+    "pageCount": 288,
+    "spineColor": "#1e3a8a",
+    "countryOfOrigin": "United Kingdom"
   }
 ]

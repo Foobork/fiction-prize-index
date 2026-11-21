@@ -533,5 +533,240 @@
     "nationality": "American",
     "birthYear": 1966,
     "bio": "American science fiction author whose groundbreaking debut Ancillary Justice won the Hugo, Nebula, and Arthur C. Clarke awards."
+  },
+  {
+    "id": "anna-burns",
+    "name": "Anna Burns",
+    "nationality": "Northern Irish",
+    "birthYear": 1962,
+    "bio": "Northern Irish novelist, winner of the 2018 Booker Prize and Orwell Prize for Political Fiction for Milkman."
+  },
+  {
+    "id": "howard-jacobson",
+    "name": "Howard Jacobson",
+    "nationality": "British",
+    "birthYear": 1942,
+    "bio": "British novelist and critic, winner of the 2010 Booker Prize for his comic novel The Finkler Question."
+  },
+  {
+    "id": "john-banville",
+    "name": "John Banville",
+    "nationality": "Irish",
+    "birthYear": 1945,
+    "bio": "Irish novelist, short story writer, and screenwriter; winner of the 2005 Booker Prize for The Sea."
+  },
+  {
+    "id": "alan-hollinghurst",
+    "name": "Alan Hollinghurst",
+    "nationality": "British",
+    "birthYear": 1954,
+    "bio": "English novelist and translator, winner of the 2004 Booker Prize for The Line of Beauty."
+  },
+  {
+    "id": "peter-carey",
+    "name": "Peter Carey",
+    "nationality": "Australian",
+    "birthYear": 1943,
+    "bio": "Celebrated Australian novelist and two-time Booker Prize winner for Oscar and Lucinda (1988) and True History of the Kelly Gang (2001)."
+  },
+  {
+    "id": "j-m-coetzee",
+    "name": "J. M. Coetzee",
+    "nationality": "South African",
+    "birthYear": 1940,
+    "bio": "South African Nobel laureate and two-time Booker Prize winner for Life & Times of Michael K (1983) and Disgrace (1999)."
+  },
+  {
+    "id": "ian-mcewan",
+    "name": "Ian McEwan",
+    "nationality": "British",
+    "birthYear": 1948,
+    "bio": "English novelist and screenwriter, winner of the 1998 Booker Prize for Amsterdam and author of Atonement."
+  },
+  {
+    "id": "graham-swift",
+    "name": "Graham Swift",
+    "nationality": "British",
+    "birthYear": 1949,
+    "bio": "English author, winner of the 1996 Booker Prize for Last Orders and author of Waterland."
+  },
+  {
+    "id": "pat-barker",
+    "name": "Pat Barker",
+    "nationality": "British",
+    "birthYear": 1943,
+    "bio": "English author whose Regeneration Trilogy concluded with The Ghost Road, winner of the 1995 Booker Prize."
+  },
+  {
+    "id": "james-kelman",
+    "name": "James Kelman",
+    "nationality": "Scottish",
+    "birthYear": 1946,
+    "bio": "Scottish novelist, short story writer, and playwright; winner of the 1994 Booker Prize for How Late It Was, How Late."
+  },
+  {
+    "id": "barry-unsworth",
+    "name": "Barry Unsworth",
+    "nationality": "British",
+    "birthYear": 1930,
+    "deathYear": 2012,
+    "bio": "English novelist known for historical fiction, joint winner of the 1992 Booker Prize for Sacred Hunger."
+  },
+  {
+    "id": "ben-okri",
+    "name": "Ben Okri",
+    "nationality": "Nigerian",
+    "birthYear": 1959,
+    "bio": "Nigerian poet and novelist whose magical realist masterpiece The Famished Road won the 1991 Booker Prize."
+  },
+  {
+    "id": "a-s-byatt",
+    "name": "A. S. Byatt",
+    "nationality": "British",
+    "birthYear": 1936,
+    "deathYear": 2023,
+    "bio": "Distinguished English novelist and poet, winner of the 1990 Booker Prize for her literary romance Possession."
+  },
+  {
+    "id": "penelope-lively",
+    "name": "Penelope Lively",
+    "nationality": "British",
+    "birthYear": 1933,
+    "bio": "British writer of fiction for adults and children, winner of the 1987 Booker Prize for Moon Tiger."
+  },
+  {
+    "id": "kingsley-amis",
+    "name": "Kingsley Amis",
+    "nationality": "British",
+    "birthYear": 1922,
+    "deathYear": 1995,
+    "bio": "Renowned English comic novelist, poet, and critic; winner of the 1986 Booker Prize for The Old Devils."
+  },
+  {
+    "id": "keri-hulme",
+    "name": "Keri Hulme",
+    "nationality": "New Zealander (Māori)",
+    "birthYear": 1947,
+    "deathYear": 2021,
+    "bio": "New Zealand novelist and poet, the first New Zealander to win the Booker Prize for The Bone People."
+  },
+  {
+    "id": "anita-brookner",
+    "name": "Anita Brookner",
+    "nationality": "British",
+    "birthYear": 1928,
+    "deathYear": 2016,
+    "bio": "English art historian and novelist, winner of the 1984 Booker Prize for Hotel du Lac."
+  },
+  {
+    "id": "thomas-keneally",
+    "name": "Thomas Keneally",
+    "nationality": "Australian",
+    "birthYear": 1935,
+    "bio": "Prolific Australian novelist whose non-fiction novel Schindler's Ark won the 1982 Booker Prize."
+  },
+  {
+    "id": "william-golding",
+    "name": "William Golding",
+    "nationality": "British",
+    "birthYear": 1911,
+    "deathYear": 1993,
+    "bio": "Nobel Prize-winning author of Lord of the Flies; winner of the 1980 Booker Prize for Rites of Passage."
+  },
+  {
+    "id": "penelope-fitzgerald",
+    "name": "Penelope Fitzgerald",
+    "nationality": "British",
+    "birthYear": 1916,
+    "deathYear": 2000,
+    "bio": "Celebrated English novelist, biographer, and essayist; winner of the 1979 Booker Prize for Offshore."
+  },
+  {
+    "id": "iris-murdoch",
+    "name": "Iris Murdoch",
+    "nationality": "Irish-British",
+    "birthYear": 1919,
+    "deathYear": 1999,
+    "bio": "Acclaimed philosopher and novelist, winner of the 1978 Booker Prize for The Sea, The Sea."
+  },
+  {
+    "id": "paul-scott",
+    "name": "Paul Scott",
+    "nationality": "British",
+    "birthYear": 1920,
+    "deathYear": 1978,
+    "bio": "English author of the Raj Quartet, winner of the 1977 Booker Prize for Staying On."
+  },
+  {
+    "id": "david-storey",
+    "name": "David Storey",
+    "nationality": "British",
+    "birthYear": 1933,
+    "deathYear": 2017,
+    "bio": "English playwright, screenwriter, and novelist; winner of the 1976 Booker Prize for Saville."
+  },
+  {
+    "id": "ruth-prawer-jhabvala",
+    "name": "Ruth Prawer Jhabvala",
+    "nationality": "British-German",
+    "birthYear": 1927,
+    "deathYear": 2013,
+    "bio": "Author and two-time Oscar-winning screenwriter (for Merchant Ivory); winner of the 1975 Booker Prize for Heat and Dust."
+  },
+  {
+    "id": "nadine-gordimer",
+    "name": "Nadine Gordimer",
+    "nationality": "South African",
+    "birthYear": 1923,
+    "deathYear": 2014,
+    "bio": "South African political writer and 1991 Nobel laureate, joint winner of the 1974 Booker Prize for The Conservationist."
+  },
+  {
+    "id": "stanley-middleton",
+    "name": "Stanley Middleton",
+    "nationality": "British",
+    "birthYear": 1919,
+    "deathYear": 2009,
+    "bio": "English novelist, joint winner of the 1974 Booker Prize for his understated domestic drama Holiday."
+  },
+  {
+    "id": "j-g-farrell",
+    "name": "J. G. Farrell",
+    "nationality": "British-Irish",
+    "birthYear": 1935,
+    "deathYear": 1979,
+    "bio": "Author of the Empire Trilogy, winner of the 1973 Booker Prize for The Siege of Krishnapur and the retrospective 1970 Lost Man Booker for Troubles."
+  },
+  {
+    "id": "john-berger",
+    "name": "John Berger",
+    "nationality": "British",
+    "birthYear": 1926,
+    "deathYear": 2017,
+    "bio": "English art critic, essayist, and novelist; winner of the 1972 Booker Prize for the experimental novel G."
+  },
+  {
+    "id": "v-s-naipaul",
+    "name": "V. S. Naipaul",
+    "nationality": "Trinidadian-British",
+    "birthYear": 1932,
+    "deathYear": 2018,
+    "bio": "Trinidadian-born British author and 2001 Nobel laureate, winner of the 1971 Booker Prize for In a Free State."
+  },
+  {
+    "id": "bernice-rubens",
+    "name": "Bernice Rubens",
+    "nationality": "Welsh",
+    "birthYear": 1923,
+    "deathYear": 2004,
+    "bio": "Welsh novelist and documentary film maker, the very first woman to win the Booker Prize (for The Elected Member in 1970)."
+  },
+  {
+    "id": "p-h-newby",
+    "name": "P. H. Newby",
+    "nationality": "British",
+    "birthYear": 1918,
+    "deathYear": 1997,
+    "bio": "English novelist and BBC radio managing director; winner of the inaugural Booker Prize in 1969 for Something to Answer For."
   }
 ]
