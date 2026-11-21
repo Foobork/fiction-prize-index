@@ -201,7 +201,8 @@
     "name": "Han Kang",
     "nationality": "South Korean",
     "birthYear": 1970,
-    "bio": "South Korean writer, winner of the 2016 International Booker Prize for The Vegetarian and the 2024 Nobel Prize in Literature."
+    "bio": "South Korean writer, winner of the 2016 International Booker Prize for The Vegetarian and the 2024 Nobel Prize in Literature.",
+    "nobelYear": 2024
   },
   {
     "id": "arkady-martine",
@@ -327,7 +328,8 @@
     "name": "Kazuo Ishiguro",
     "nationality": "British",
     "birthYear": 1954,
-    "bio": "Nobel laureate and author of The Remains of the Day (1989 Booker Prize winner) and Never Let Me Go."
+    "bio": "Nobel laureate and author of The Remains of the Day (1989 Booker Prize winner) and Never Let Me Go.",
+    "nobelYear": 2017
   },
   {
     "id": "salman-rushdie",
@@ -427,7 +429,8 @@
     "nationality": "American",
     "birthYear": 1931,
     "deathYear": 2019,
-    "bio": "Towering American author and 1993 Nobel laureate whose masterpiece Beloved won the 1988 Pulitzer Prize for Fiction."
+    "bio": "Towering American author and 1993 Nobel laureate whose masterpiece Beloved won the 1988 Pulitzer Prize for Fiction.",
+    "nobelYear": 1993
   },
   {
     "id": "susan-choi",
@@ -518,7 +521,8 @@
     "name": "Olga Tokarczuk",
     "nationality": "Polish",
     "birthYear": 1962,
-    "bio": "Polish Nobel laureate whose novel of travel and wanderlust Flights won the 2018 International Booker Prize."
+    "bio": "Polish Nobel laureate whose novel of travel and wanderlust Flights won the 2018 International Booker Prize.",
+    "nobelYear": 2018
   },
   {
     "id": "martha-wells",
@@ -574,7 +578,8 @@
     "name": "J. M. Coetzee",
     "nationality": "South African",
     "birthYear": 1940,
-    "bio": "South African Nobel laureate and two-time Booker Prize winner for Life & Times of Michael K (1983) and Disgrace (1999)."
+    "bio": "South African Nobel laureate and two-time Booker Prize winner for Life & Times of Michael K (1983) and Disgrace (1999).",
+    "nobelYear": 2003
   },
   {
     "id": "ian-mcewan",
@@ -671,7 +676,8 @@
     "nationality": "British",
     "birthYear": 1911,
     "deathYear": 1993,
-    "bio": "Nobel Prize-winning author of Lord of the Flies; winner of the 1980 Booker Prize for Rites of Passage."
+    "bio": "Nobel Prize-winning author of Lord of the Flies; winner of the 1980 Booker Prize for Rites of Passage.",
+    "nobelYear": 1983
   },
   {
     "id": "penelope-fitzgerald",
@@ -719,7 +725,8 @@
     "nationality": "South African",
     "birthYear": 1923,
     "deathYear": 2014,
-    "bio": "South African political writer and 1991 Nobel laureate, joint winner of the 1974 Booker Prize for The Conservationist."
+    "bio": "South African political writer and 1991 Nobel laureate, joint winner of the 1974 Booker Prize for The Conservationist.",
+    "nobelYear": 1991
   },
   {
     "id": "stanley-middleton",
@@ -751,7 +758,8 @@
     "nationality": "Trinidadian-British",
     "birthYear": 1932,
     "deathYear": 2018,
-    "bio": "Trinidadian-born British author and 2001 Nobel laureate, winner of the 1971 Booker Prize for In a Free State."
+    "bio": "Trinidadian-born British author and 2001 Nobel laureate, winner of the 1971 Booker Prize for In a Free State.",
+    "nobelYear": 2001
   },
   {
     "id": "bernice-rubens",
@@ -817,7 +825,8 @@
     "nationality": "American",
     "birthYear": 1897,
     "deathYear": 1962,
-    "bio": "Nobel laureate and titan of American literature, two-time Pulitzer winner (A Fable, The Reivers) and two-time National Book Award winner."
+    "bio": "Nobel laureate and titan of American literature, two-time Pulitzer winner (A Fable, The Reivers) and two-time National Book Award winner.",
+    "nobelYear": 1949
   },
   {
     "id": "saul-bellow",
@@ -825,7 +834,8 @@
     "nationality": "American",
     "birthYear": 1915,
     "deathYear": 2005,
-    "bio": "Nobel laureate and three-time National Book Award winner who also captured the 1976 Pulitzer Prize for Humboldt's Gift."
+    "bio": "Nobel laureate and three-time National Book Award winner who also captured the 1976 Pulitzer Prize for Humboldt's Gift.",
+    "nobelYear": 1976
   },
   {
     "id": "john-updike",
@@ -849,7 +859,8 @@
     "nationality": "American",
     "birthYear": 1899,
     "deathYear": 1961,
-    "bio": "Nobel laureate whose novella The Old Man and the Sea won the 1953 Pulitzer Prize."
+    "bio": "Nobel laureate whose novella The Old Man and the Sea won the 1953 Pulitzer Prize.",
+    "nobelYear": 1954
   },
   {
     "id": "john-steinbeck",
@@ -857,7 +868,8 @@
     "nationality": "American",
     "birthYear": 1902,
     "deathYear": 1968,
-    "bio": "Nobel laureate whose Dust Bowl masterpiece The Grapes of Wrath won the 1940 Pulitzer Prize and National Book Award."
+    "bio": "Nobel laureate whose Dust Bowl masterpiece The Grapes of Wrath won the 1940 Pulitzer Prize and National Book Award.",
+    "nobelYear": 1962
   },
   {
     "id": "ralph-ellison",
@@ -951,7 +963,8 @@
     "nationality": "American",
     "birthYear": 1892,
     "deathYear": 1973,
-    "bio": "Nobel laureate whose bestselling Chinese peasant saga The Good Earth won the 1932 Pulitzer Prize."
+    "bio": "Nobel laureate whose bestselling Chinese peasant saga The Good Earth won the 1932 Pulitzer Prize.",
+    "nobelYear": 1938
   },
   {
     "id": "marjorie-kinnan-rawlings",
@@ -1341,5 +1354,40 @@
     "nationality": "American",
     "birthYear": 1983,
     "bio": "US Marine Corps veteran whose Iraq War story collection Redeployment won the 2014 National Book Award."
+  },
+  {
+    "id": "gabriel-garcia-marquez",
+    "name": "Gabriel García Márquez",
+    "nationality": "Colombian",
+    "birthYear": 1927,
+    "deathYear": 2014,
+    "nobelYear": 1982,
+    "bio": "Colossal Colombian novelist, pioneer of magical realism, and 1982 Nobel laureate whose masterpiece One Hundred Years of Solitude shaped world literature."
+  },
+  {
+    "id": "laszlo-krasznahorkai",
+    "name": "László Krasznahorkai",
+    "nationality": "Hungarian",
+    "birthYear": 1954,
+    "nobelYear": 2025,
+    "bio": "Hungarian master of apocalyptic, slow-burn syntax and 2025 Nobel laureate; author of Satantango and The Melancholy of Resistance."
+  },
+  {
+    "id": "jose-saramago",
+    "name": "José Saramago",
+    "nationality": "Portuguese",
+    "birthYear": 1922,
+    "deathYear": 2010,
+    "nobelYear": 1998,
+    "bio": "Portuguese Nobel laureate celebrated for imaginative, allegorical parables including Blindness and The Gospel According to Jesus Christ."
+  },
+  {
+    "id": "albert-camus",
+    "name": "Albert Camus",
+    "nationality": "French-Algerian",
+    "birthYear": 1913,
+    "deathYear": 1960,
+    "nobelYear": 1957,
+    "bio": "French-Algerian philosopher and author of The Stranger and The Plague; at age 44, he was the second-youngest recipient of the Nobel Prize in Literature."
   }
 ]

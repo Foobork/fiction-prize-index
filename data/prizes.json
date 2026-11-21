@@ -117,6 +117,19 @@
     "color": "#7c3aed"
   },
   {
+    "id": "nobel-prize-literature",
+    "name": "Nobel Prize in Literature",
+    "shortName": "Nobel",
+    "establishedYear": 1901,
+    "country": "Sweden / Global",
+    "sponsor": "Swedish Academy",
+    "websiteUrl": "https://www.nobelprize.org/prizes/literature/",
+    "description": "The world's highest international honor in literature, awarded to an author for their lifetime body of work and profound contribution to the human spirit.",
+    "category": "international",
+    "purse": "11,000,000 SEK (~$1,000,000)",
+    "color": "#eab308"
+  },
+  {
     "id": "nbcc-fiction",
     "name": "National Book Critics Circle Award for Fiction",
     "shortName": "NBCC Fiction",

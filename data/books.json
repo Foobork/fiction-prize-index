@@ -3044,5 +3044,77 @@
     "pageCount": 304,
     "spineColor": "#475569",
     "countryOfOrigin": "United States"
+  },
+  {
+    "id": "one-hundred-years-of-solitude",
+    "title": "One Hundred Years of Solitude",
+    "authorId": "gabriel-garcia-marquez",
+    "authorName": "Gabriel García Márquez",
+    "publicationYear": 1967,
+    "publisher": "Editorial Sudamericana / Harper & Row",
+    "isbn13": "9780060883287",
+    "genres": [
+      "Magical Realism",
+      "Epic Saga",
+      "World Masterpiece"
+    ],
+    "synopsis": "The mythical rise and fall of the isolated jungle town of Macondo through seven generations of the Buendía family, interweaving war, levitation, insomnia, and solitude.",
+    "pageCount": 417,
+    "spineColor": "#ca8a04",
+    "countryOfOrigin": "Colombia"
+  },
+  {
+    "id": "satantango",
+    "title": "Satantango",
+    "authorId": "laszlo-krasznahorkai",
+    "authorName": "László Krasznahorkai",
+    "publicationYear": 1985,
+    "publisher": "Magvető / New Directions",
+    "isbn13": "9780811219778",
+    "genres": [
+      "Apocalyptic",
+      "Hungarian",
+      "Philosophical"
+    ],
+    "synopsis": "In a decaying communal agricultural estate in rural Hungary drenched in endless autumn rain, desperate inhabitants fall under the spell of a charismatic, presumed-dead messiah.",
+    "pageCount": 288,
+    "spineColor": "#18181b",
+    "countryOfOrigin": "Hungary"
+  },
+  {
+    "id": "blindness",
+    "title": "Blindness",
+    "authorId": "jose-saramago",
+    "authorName": "José Saramago",
+    "publicationYear": 1995,
+    "publisher": "Editorial Caminho / Harcourt",
+    "isbn13": "9780156007757",
+    "genres": [
+      "Dystopian Allegory",
+      "Psychological",
+      "Portuguese"
+    ],
+    "synopsis": "A sudden, unexplained epidemic of contagious 'white blindness' sweeps through an unnamed city, disintegrating societal order inside a squalid quarantine asylum.",
+    "pageCount": 352,
+    "spineColor": "#f5f5f4",
+    "countryOfOrigin": "Portugal"
+  },
+  {
+    "id": "the-stranger",
+    "title": "The Stranger",
+    "authorId": "albert-camus",
+    "authorName": "Albert Camus",
+    "publicationYear": 1942,
+    "publisher": "Gallimard / Knopf",
+    "isbn13": "9780679720201",
+    "genres": [
+      "Absurdist",
+      "Philosophical Novella",
+      "Existential"
+    ],
+    "synopsis": "'Mother died today. Or maybe yesterday; I can't be sure.' Meursault, a detached French Algerian clerk, commits a senseless murder on a sun-drenched Algiers beach.",
+    "pageCount": 123,
+    "spineColor": "#ea580c",
+    "countryOfOrigin": "France"
   }
 ]

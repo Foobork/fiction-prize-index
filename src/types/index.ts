@@ -29,6 +29,7 @@ export interface Author {
   nationality?: string;
   birthYear?: number;
   deathYear?: number;
+  nobelYear?: number;
   bio?: string;
   websiteUrl?: string;
 }

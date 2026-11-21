@@ -1848,5 +1848,175 @@
     "category": "Fiction",
     "citation": "Phil Klay's blistering, empathetic collection of war and homecoming.",
     "sourceUrl": "https://www.nationalbook.org/books/redeployment/"
+  },
+  {
+    "id": "nom-satantango-nobel-2025",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "satantango",
+    "year": 2025,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his compelling and visionary oeuvre that, in the midst of apocalyptic terror, reaffirms the power of art.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/2025/summary/"
+  },
+  {
+    "id": "nom-vegetarian-nobel-2024",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-vegetarian",
+    "year": 2024,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For her intense poetic prose that confronts historical traumas and exposes the fragility of human life.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/2024/summary/"
+  },
+  {
+    "id": "nom-flights-nobel-2018",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "flights",
+    "year": 2018,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For a narrative imagination that with encyclopedic passion represents the crossing of boundaries as a form of life.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/2018/summary/"
+  },
+  {
+    "id": "nom-remains-day-nobel-2017",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-remains-of-the-day",
+    "year": 2017,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "Who, in novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/2017/summary/"
+  },
+  {
+    "id": "nom-disgrace-nobel-2003",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "disgrace",
+    "year": 2003,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "Who in innumerable guises portrays the surprising involvement of the outsider.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/2003/summary/"
+  },
+  {
+    "id": "nom-free-state-nobel-2001",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "in-a-free-state",
+    "year": 2001,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For having united perceptive narrative and incorruptible scrutiny in works that compel us to see the presence of suppressed histories.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/2001/summary/"
+  },
+  {
+    "id": "nom-blindness-nobel-1998",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "blindness",
+    "year": 1998,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "Who with parables sustained by imagination, compassion and irony continually enables us once again to apprehend an elusory reality.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1998/summary/"
+  },
+  {
+    "id": "nom-beloved-nobel-1993",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "beloved",
+    "year": 1993,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "Who in novels characterized by visionary force and poetic import, gives life to an essential aspect of American reality.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1993/summary/"
+  },
+  {
+    "id": "nom-conservationist-nobel-1991",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-conservationist",
+    "year": 1991,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "Who through her magnificent epic writing has - in the words of Alfred Nobel - been of very great benefit to humanity.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1991/summary/"
+  },
+  {
+    "id": "nom-rites-passage-nobel-1983",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "rites-of-passage",
+    "year": 1983,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his novels which, with the perspicuity of realistic narrative art and the diversity and universality of myth, illuminate the human condition in the world of today.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1983/summary/"
+  },
+  {
+    "id": "nom-solitude-nobel-1982",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "one-hundred-years-of-solitude",
+    "year": 1982,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his novels and short stories, in which the fantastic and the realistic are combined in a richly composed world of imagination.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1982/summary/"
+  },
+  {
+    "id": "nom-augie-march-nobel-1976",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-adventures-of-augie-march",
+    "year": 1976,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For the human understanding and subtle analysis of contemporary culture that are combined in his work.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1976/summary/"
+  },
+  {
+    "id": "nom-grapes-wrath-nobel-1962",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-grapes-of-wrath",
+    "year": 1962,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his realistic and imaginative writings, combining as they do sympathetic humour and keen social perception.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1962/summary/"
+  },
+  {
+    "id": "nom-stranger-nobel-1957",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-stranger",
+    "year": 1957,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his important literary production, which with clear-sighted earnestness illuminates the problems of the human conscience in our times.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1957/summary/"
+  },
+  {
+    "id": "nom-old-man-sea-nobel-1954",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-old-man-and-the-sea",
+    "year": 1954,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his mastery of the art of narration, most recently demonstrated in The Old Man and the Sea, and for the influence that he has exerted on contemporary style.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1954/summary/"
+  },
+  {
+    "id": "nom-fable-nobel-1949",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "a-fable",
+    "year": 1949,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his powerful and artistically unique contribution to the modern American novel.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1949/summary/"
+  },
+  {
+    "id": "nom-good-earth-nobel-1938",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-good-earth",
+    "year": 1938,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For her rich and truly epic descriptions of peasant life in China and for her biographical masterpieces.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1938/summary/"
   }
 ]
