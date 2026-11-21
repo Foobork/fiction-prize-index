@@ -2578,5 +2578,765 @@
     "category": "Fiction",
     "citation": "Finalist: A lyrical, heartbreaking elegy to a community driven out by racism and pseudo-science.",
     "sourceUrl": "https://www.nationalbook.org/books/this-other-eden/"
+  },
+  {
+    "id": "nom-ministry-of-time-hugo-2026",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-ministry-of-time",
+    "year": 2026,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: An irresistible blend of speculative time-travel, bureaucratic satire, and profound romance.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2026-hugo-awards/"
+  },
+  {
+    "id": "nom-ministry-of-time-nebula-2026",
+    "prizeId": "nebula-award-novel",
+    "bookId": "the-ministry-of-time",
+    "year": 2026,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A masterfully paced genre-crossing exploration of history, exile, and human connection.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2026/"
+  },
+  {
+    "id": "nom-tainted-cup-hugo-2025",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-tainted-cup",
+    "year": 2025,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A brilliant fantasy mystery combining high-stakes bio-engineering worldbuilding with deductive detective thrills.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2025-hugo-awards/"
+  },
+  {
+    "id": "nom-tainted-cup-nebula-2024",
+    "prizeId": "nebula-award-novel",
+    "bookId": "the-tainted-cup",
+    "year": 2024,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: An ingeniously plotted fantasy whodunit featuring extraordinary bio-magical invention.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2024/"
+  },
+  {
+    "id": "nom-some-desperate-glory-hugo-2024",
+    "prizeId": "hugo-award-novel",
+    "bookId": "some-desperate-glory",
+    "year": 2024,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A thrilling space opera interrogating militarism, indoctrination, and radical redemption.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2024-hugo-awards/"
+  },
+  {
+    "id": "nom-saint-of-bright-doors-nebula-2023",
+    "prizeId": "nebula-award-novel",
+    "bookId": "the-saint-of-bright-doors",
+    "year": 2023,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A dazzling, subversively original fantasy about religion, destiny, and urban margins.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2023/"
+  },
+  {
+    "id": "nom-nettle-and-bone-hugo-2023",
+    "prizeId": "hugo-award-novel",
+    "bookId": "nettle-and-bone",
+    "year": 2023,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A delightfully wry and subversive fairy tale adventure about justice and companionship.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2023-hugo-awards/"
+  },
+  {
+    "id": "nom-babel-nebula-2022",
+    "prizeId": "nebula-award-novel",
+    "bookId": "babel",
+    "year": 2022,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A breathtaking historical fantasy confronting the mechanics of empire, language, and institutional power.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2022/"
+  },
+  {
+    "id": "nom-desolation-called-peace-hugo-2022",
+    "prizeId": "hugo-award-novel",
+    "bookId": "a-desolation-called-peace",
+    "year": 2022,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A brilliant space opera of first contact, cultural linguistics, and bureaucratic terror.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2022-hugo-awards/"
+  },
+  {
+    "id": "nom-master-of-djinn-nebula-2021",
+    "prizeId": "nebula-award-novel",
+    "bookId": "a-master-of-djinn",
+    "year": 2021,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A rich, vibrant alternate-history Cairo teeming with mystery, djinn, and anti-colonial flair.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2021/"
+  },
+  {
+    "id": "nom-song-for-a-new-day-nebula-2019",
+    "prizeId": "nebula-award-novel",
+    "bookId": "a-song-for-a-new-day",
+    "year": 2019,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A prescient, deeply heartfelt novel on music, human connection, and resistance to isolation.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2019/"
+  },
+  {
+    "id": "nom-calculating-stars-hugo-2019",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-calculating-stars",
+    "year": 2019,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A triumphant alternate history blending astrophysics, feminist struggle, and space race tension.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2019-hugo-awards/"
+  },
+  {
+    "id": "nom-calculating-stars-nebula-2018",
+    "prizeId": "nebula-award-novel",
+    "bookId": "the-calculating-stars",
+    "year": 2018,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: An inspiring, meticulous alternate space history celebrating human tenacity.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2018/"
+  },
+  {
+    "id": "nom-stone-sky-hugo-2018",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-stone-sky",
+    "year": 2018,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: The historic third consecutive Hugo Best Novel win completing the Broken Earth trilogy.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2018-hugo-awards/"
+  },
+  {
+    "id": "nom-stone-sky-nebula-2017",
+    "prizeId": "nebula-award-novel",
+    "bookId": "the-stone-sky",
+    "year": 2017,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A majestic conclusion to one of the greatest speculative trilogies ever written.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2017/"
+  },
+  {
+    "id": "nom-obelisk-gate-hugo-2017",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-obelisk-gate",
+    "year": 2017,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: The devastating, intricate middle chapter of the record-breaking Broken Earth trilogy.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2017-hugo-awards/"
+  },
+  {
+    "id": "nom-all-the-birds-in-the-sky-nebula-2016",
+    "prizeId": "nebula-award-novel",
+    "bookId": "all-the-birds-in-the-sky",
+    "year": 2016,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: An enchanting, genre-bridging collision of ancient magic and runaway science.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2016/"
+  },
+  {
+    "id": "nom-uprooted-nebula-2015",
+    "prizeId": "nebula-award-novel",
+    "bookId": "uprooted",
+    "year": 2015,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A lush, spellbinding fairy tale steeped in Polish folklore and wild forest magic.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2015/"
+  },
+  {
+    "id": "nom-three-body-problem-hugo-2015",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-three-body-problem",
+    "year": 2015,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: The first translated novel to win the Hugo Award for Best Novel, a grand cosmic hard-SF triumph.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2015-hugo-awards/"
+  },
+  {
+    "id": "nom-annihilation-nebula-2014",
+    "prizeId": "nebula-award-novel",
+    "bookId": "annihilation",
+    "year": 2014,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A chilling, brilliantly disorienting tour-de-force of ecological dread and weird fiction.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2014/"
+  },
+  {
+    "id": "nom-redshirts-hugo-2013",
+    "prizeId": "hugo-award-novel",
+    "bookId": "redshirts",
+    "year": 2013,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A wickedly funny, metafictional satire of classic sci-fi television tropes.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2013-hugo-awards/"
+  },
+  {
+    "id": "nom-twenty-three-twelve-nebula-2012",
+    "prizeId": "nebula-award-novel",
+    "bookId": "twenty-three-twelve",
+    "year": 2012,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A dazzling, comprehensive hard-SF vision of humanity spread across the solar system.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2012/"
+  },
+  {
+    "id": "nom-among-others-hugo-2012",
+    "prizeId": "hugo-award-novel",
+    "bookId": "among-others",
+    "year": 2012,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: An exquisite love letter to science fiction fandom and coming of age amidst quiet magic.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2012-hugo-awards/"
+  },
+  {
+    "id": "nom-among-others-nebula-2011",
+    "prizeId": "nebula-award-novel",
+    "bookId": "among-others",
+    "year": 2011,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A tender, magical tribute to the power of reading and survival.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2011/"
+  },
+  {
+    "id": "nom-blackout-all-clear-hugo-2011",
+    "prizeId": "hugo-award-novel",
+    "bookId": "blackout-all-clear",
+    "year": 2011,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A monumental, emotionally overwhelming epic of wartime London and time-travel scholarship.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2011-hugo-awards/"
+  },
+  {
+    "id": "nom-blackout-all-clear-nebula-2010",
+    "prizeId": "nebula-award-novel",
+    "bookId": "blackout-all-clear",
+    "year": 2010,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A tour de force tribute to the ordinary civilians who endured the Blitz.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2010/"
+  },
+  {
+    "id": "nom-windup-girl-hugo-2010",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-windup-girl",
+    "year": 2010,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Joint Winner: A gritty, visionary biopunk nightmare exploring corporate agribusiness and bio-engineering.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2010-hugo-awards/"
+  },
+  {
+    "id": "nom-windup-girl-nebula-2009",
+    "prizeId": "nebula-award-novel",
+    "bookId": "the-windup-girl",
+    "year": 2009,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A visceral, groundbreaking masterwork of near-future ecological collapse.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2009/"
+  },
+  {
+    "id": "nom-city-and-the-city-hugo-2010",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-city-and-the-city",
+    "year": 2010,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Joint Winner: A stunning metaphysical noir detective story exploring social boundaries and enforced perception.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2010-hugo-awards/"
+  },
+  {
+    "id": "nom-yiddish-policemen-hugo-2008",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-yiddish-policemens-union",
+    "year": 2008,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: An astonishingly stylish alternate-history noir written in sparkling prose.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2008-hugo-awards/"
+  },
+  {
+    "id": "nom-yiddish-policemen-nebula-2007",
+    "prizeId": "nebula-award-novel",
+    "bookId": "the-yiddish-policemens-union",
+    "year": 2007,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A brilliant marriage of hardboiled detective fiction and alternate Jewish history.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2007/"
+  },
+  {
+    "id": "nom-jonathan-strange-hugo-2005",
+    "prizeId": "hugo-award-novel",
+    "bookId": "jonathan-strange-and-mr-norrell",
+    "year": 2005,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A breathtaking historical pastiche recreating 19th-century English prose and lost fairy magic.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2005-hugo-awards/"
+  },
+  {
+    "id": "nom-paladin-of-souls-hugo-2004",
+    "prizeId": "hugo-award-novel",
+    "bookId": "paladin-of-souls",
+    "year": 2004,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A mature, poignant fantasy of second chances, faith, and liberation.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2004-hugo-awards/"
+  },
+  {
+    "id": "nom-paladin-of-souls-nebula-2004",
+    "prizeId": "nebula-award-novel",
+    "bookId": "paladin-of-souls",
+    "year": 2004,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: An inspiring theological fantasy celebrating middle-aged courage and autonomy.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2004/"
+  },
+  {
+    "id": "nom-american-gods-hugo-2002",
+    "prizeId": "hugo-award-novel",
+    "bookId": "american-gods",
+    "year": 2002,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A road trip through the weird spiritual soul of America where old mythologies collide with modern obsessions.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2002-hugo-awards/"
+  },
+  {
+    "id": "nom-american-gods-nebula-2002",
+    "prizeId": "nebula-award-novel",
+    "bookId": "american-gods",
+    "year": 2002,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A mythic tour-de-force capturing America’s folklore, roadsides, and strange faith.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2002/"
+  },
+  {
+    "id": "nom-parable-of-the-talents-nebula-1999",
+    "prizeId": "nebula-award-novel",
+    "bookId": "parable-of-the-talents",
+    "year": 1999,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A terrifyingly prophetic masterpiece of faith, fascism, and spiritual survival in a collapsing America.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1999/"
+  },
+  {
+    "id": "nom-diamond-age-hugo-1996",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-diamond-age",
+    "year": 1996,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A dazzling vision of post-cyberpunk nanotechnology, education, and cultural tribalism.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1996-hugo-awards/"
+  },
+  {
+    "id": "nom-green-mars-hugo-1994",
+    "prizeId": "hugo-award-novel",
+    "bookId": "green-mars",
+    "year": 1994,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: The majestic centerpiece of the seminal Mars terraforming trilogy.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1994-hugo-awards/"
+  },
+  {
+    "id": "nom-fire-upon-the-deep-hugo-1993",
+    "prizeId": "hugo-award-novel",
+    "bookId": "a-fire-upon-the-deep",
+    "year": 1993,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Joint Winner: A breathtaking space opera that conceptualized the galactic Zones of Thought.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1993-hugo-awards/"
+  },
+  {
+    "id": "nom-doomsday-book-hugo-1993",
+    "prizeId": "hugo-award-novel",
+    "bookId": "doomsday-book",
+    "year": 1993,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Joint Winner: A harrowing, deeply compassionate masterpiece confronting plague, human sorrow, and endurance.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1993-hugo-awards/"
+  },
+  {
+    "id": "nom-doomsday-book-nebula-1992",
+    "prizeId": "nebula-award-novel",
+    "bookId": "doomsday-book",
+    "year": 1992,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: An unforgettable emotional tour-de-force contrasting modern medicine with 14th-century catastrophe.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1992/"
+  },
+  {
+    "id": "nom-hyperion-hugo-1990",
+    "prizeId": "hugo-award-novel",
+    "bookId": "hyperion",
+    "year": 1990,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A peerless space opera framed after The Canterbury Tales, exploring love, suffering, and the limits of godhood.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1990-hugo-awards/"
+  },
+  {
+    "id": "nom-enders-game-hugo-1986",
+    "prizeId": "hugo-award-novel",
+    "bookId": "enders-game",
+    "year": 1986,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A seminal military SF masterpiece on childhood genius, manipulation, and the tragedy of war.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1986-hugo-awards/"
+  },
+  {
+    "id": "nom-enders-game-nebula-1985",
+    "prizeId": "nebula-award-novel",
+    "bookId": "enders-game",
+    "year": 1985,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: An indelible psychological portrait of young tacticians trained for existential conflict.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1985/"
+  },
+  {
+    "id": "nom-speaker-for-the-dead-hugo-1987",
+    "prizeId": "hugo-award-novel",
+    "bookId": "speaker-for-the-dead",
+    "year": 1987,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A profound, philosophical sequel exploring empathy, cultural hierarchy, and atonement.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1987-hugo-awards/"
+  },
+  {
+    "id": "nom-speaker-for-the-dead-nebula-1986",
+    "prizeId": "nebula-award-novel",
+    "bookId": "speaker-for-the-dead",
+    "year": 1986,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A triumph of humanistic science fiction examining what it means to be truly alien.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1986/"
+  },
+  {
+    "id": "nom-neuromancer-hugo-1985",
+    "prizeId": "hugo-award-novel",
+    "bookId": "neuromancer",
+    "year": 1985,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: The definitive cyberpunk novel that birthed the aesthetics of virtual reality, AI, and megacorporations.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1985-hugo-awards/"
+  },
+  {
+    "id": "nom-neuromancer-nebula-1984",
+    "prizeId": "nebula-award-novel",
+    "bookId": "neuromancer",
+    "year": 1984,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: The groundbreaking cyberpunk landmark that captured the Triple Crown of science fiction.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1984/"
+  },
+  {
+    "id": "nom-startide-rising-hugo-1984",
+    "prizeId": "hugo-award-novel",
+    "bookId": "startide-rising",
+    "year": 1984,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: An inventive, thrilling space opera introducing the concept of species biological uplift.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1984-hugo-awards/"
+  },
+  {
+    "id": "nom-startide-rising-nebula-1983",
+    "prizeId": "nebula-award-novel",
+    "bookId": "startide-rising",
+    "year": 1983,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A magnificent hard-SF adventure of cetacean consciousness and galactic politics.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1983/"
+  },
+  {
+    "id": "nom-fountains-of-paradise-hugo-1980",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-fountains-of-paradise",
+    "year": 1980,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Clarke’s engineering marvel describing the conceptual construction of a space elevator.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1980-hugo-awards/"
+  },
+  {
+    "id": "nom-fountains-of-paradise-nebula-1979",
+    "prizeId": "nebula-award-novel",
+    "bookId": "the-fountains-of-paradise",
+    "year": 1979,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A majestic blend of engineering ambition, Sri Lankan history, and cosmic reach.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1979/"
+  },
+  {
+    "id": "nom-dreamsnake-hugo-1979",
+    "prizeId": "hugo-award-novel",
+    "bookId": "dreamsnake",
+    "year": 1979,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A tender, humane post-apocalyptic journey exploring healing, gentleness, and empathy.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1979-hugo-awards/"
+  },
+  {
+    "id": "nom-dreamsnake-nebula-1978",
+    "prizeId": "nebula-award-novel",
+    "bookId": "dreamsnake",
+    "year": 1978,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A landmark feminist science fiction novel celebrating non-violent biological power.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1978/"
+  },
+  {
+    "id": "nom-gateway-hugo-1978",
+    "prizeId": "hugo-award-novel",
+    "bookId": "gateway",
+    "year": 1978,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A psychological masterpiece alternating between terrifying interstellar prospecting and psychoanalysis.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1978-hugo-awards/"
+  },
+  {
+    "id": "nom-gateway-nebula-1977",
+    "prizeId": "nebula-award-novel",
+    "bookId": "gateway",
+    "year": 1977,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: An unforgettable novel of human guilt, survivor’s trauma, and alien mysteries.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1977/"
+  },
+  {
+    "id": "nom-forever-war-hugo-1976",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-forever-war",
+    "year": 1976,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: The definitive anti-war science fiction novel, reflecting the author’s Vietnam combat experience through relativity.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1976-hugo-awards/"
+  },
+  {
+    "id": "nom-forever-war-nebula-1975",
+    "prizeId": "nebula-award-novel",
+    "bookId": "the-forever-war",
+    "year": 1975,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A gripping, heartbreaking allegory of wartime displacement and alienation.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1975/"
+  },
+  {
+    "id": "nom-the-dispossessed-hugo-1975",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-dispossessed",
+    "year": 1975,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: An ambiguous utopia contrasting anarchist collectivism with capitalist consumerism through profound sociological insight.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1975-hugo-awards/"
+  },
+  {
+    "id": "nom-the-dispossessed-nebula-1974",
+    "prizeId": "nebula-award-novel",
+    "bookId": "the-dispossessed",
+    "year": 1974,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A towering achievement of philosophical, political, and speculative literature.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1974/"
+  },
+  {
+    "id": "nom-rendezvous-with-rama-hugo-1974",
+    "prizeId": "hugo-award-novel",
+    "bookId": "rendezvous-with-rama",
+    "year": 1974,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: The quintessential hard-SF tale of awe and cosmic indifference.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1974-hugo-awards/"
+  },
+  {
+    "id": "nom-rendezvous-with-rama-nebula-1973",
+    "prizeId": "nebula-award-novel",
+    "bookId": "rendezvous-with-rama",
+    "year": 1973,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A masterclass in suspenseful scientific exploration and cosmic wonder.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1973/"
+  },
+  {
+    "id": "nom-gods-themselves-hugo-1973",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-gods-themselves",
+    "year": 1973,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Asimov’s favorite novel, featuring his most alien extraterrestrial culture and brilliant physics puzzles.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1973-hugo-awards/"
+  },
+  {
+    "id": "nom-gods-themselves-nebula-1972",
+    "prizeId": "nebula-award-novel",
+    "bookId": "the-gods-themselves",
+    "year": 1972,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A brilliant, tripartite hard-SF triumph of scientific hubris and alien psychology.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1972/"
+  },
+  {
+    "id": "nom-ringworld-hugo-1971",
+    "prizeId": "hugo-award-novel",
+    "bookId": "ringworld",
+    "year": 1971,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: The quintessential megastructure hard-SF adventure that captivated the imagination of a generation.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1971-hugo-awards/"
+  },
+  {
+    "id": "nom-ringworld-nebula-1970",
+    "prizeId": "nebula-award-novel",
+    "bookId": "ringworld",
+    "year": 1970,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A cornerstone of grand-scale speculative engineering and exploration.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1970/"
+  },
+  {
+    "id": "nom-left-hand-of-darkness-hugo-1970",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-left-hand-of-darkness",
+    "year": 1970,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: The groundbreaking anthropological masterwork that redefined gender, sexuality, and diplomacy in literature.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1970-hugo-awards/"
+  },
+  {
+    "id": "nom-left-hand-of-darkness-nebula-1969",
+    "prizeId": "nebula-award-novel",
+    "bookId": "the-left-hand-of-darkness",
+    "year": 1969,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A monumental, poetic landmark of world literature and human understanding.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1969/"
+  },
+  {
+    "id": "nom-flowers-for-algernon-nebula-1966",
+    "prizeId": "nebula-award-novel",
+    "bookId": "flowers-for-algernon",
+    "year": 1966,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Joint Winner: A deeply moving, tragic epistolary masterpiece on human dignity, intelligence, and love.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1966/"
+  },
+  {
+    "id": "nom-dune-hugo-1966",
+    "prizeId": "hugo-award-novel",
+    "bookId": "dune",
+    "year": 1966,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Joint Winner: The monumental space opera epic that forever transformed worldbuilding, ecology, and myth in science fiction.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1966-hugo-awards/"
+  },
+  {
+    "id": "nom-dune-nebula-1965",
+    "prizeId": "nebula-award-novel",
+    "bookId": "dune",
+    "year": 1965,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Inaugural Winner: The first Nebula Award for Best Novel in history, crowning Herbert’s desert epic.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1965/"
+  },
+  {
+    "id": "nom-man-in-the-high-castle-hugo-1963",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-man-in-the-high-castle",
+    "year": 1963,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: The foundational alternate history exploring truth, fascism, and the nature of manufactured reality.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1963-hugo-awards/"
+  },
+  {
+    "id": "nom-stranger-in-a-strange-land-hugo-1962",
+    "prizeId": "hugo-award-novel",
+    "bookId": "stranger-in-a-strange-land",
+    "year": 1962,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: The countercultural phenomenon that popularized \"grok\" and challenged mid-century orthodoxy.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1962-hugo-awards/"
+  },
+  {
+    "id": "nom-canticle-for-leibowitz-hugo-1961",
+    "prizeId": "hugo-award-novel",
+    "bookId": "a-canticle-for-leibowitz",
+    "year": 1961,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A solemn, devastating cyclical history of human civilization, faith, and recurring annihilation.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1961-hugo-awards/"
+  },
+  {
+    "id": "nom-demolished-man-hugo-1953",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-demolished-man",
+    "year": 1953,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Inaugural Winner: The first Hugo Award for Best Novel in history, a pyrotechnic noir of telepathy and guilt.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1953-hugo-awards/"
   }
 ]

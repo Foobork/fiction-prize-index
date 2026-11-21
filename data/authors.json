@@ -1690,5 +1690,305 @@
     "nationality": "American",
     "birthYear": 1991,
     "bio": "American writer whose sharp satirical fiction explores race, capitalism, and justice."
+  },
+  {
+    "id": "kaliane-bradley",
+    "name": "Kaliane Bradley",
+    "nationality": "British-Cambodian",
+    "birthYear": 1991,
+    "bio": "British-Cambodian writer and translator whose debut novel The Ministry of Time won major speculative fiction honors."
+  },
+  {
+    "id": "robert-jackson-bennett",
+    "name": "Robert Jackson Bennett",
+    "nationality": "American",
+    "birthYear": 1984,
+    "bio": "American fantasy author, winner of the Hugo, Nebula, and Shirley Jackson awards."
+  },
+  {
+    "id": "emily-tesh",
+    "name": "Emily Tesh",
+    "nationality": "British",
+    "birthYear": 1991,
+    "bio": "British science fiction author whose space opera debut Some Desperate Glory won the 2024 Hugo Award for Best Novel."
+  },
+  {
+    "id": "vajra-chandrasekera",
+    "name": "Vajra Chandrasekera",
+    "nationality": "Sri Lankan",
+    "birthYear": 1985,
+    "bio": "Sri Lankan speculative fiction writer whose debut The Saint of Bright Doors won the Nebula Award for Best Novel."
+  },
+  {
+    "id": "t-kingfisher",
+    "name": "T. Kingfisher",
+    "nationality": "American",
+    "birthYear": 1977,
+    "bio": "Pseudonym of Ursula Vernon, author of subversive fairy tales and winner of the Hugo and Nebula Awards."
+  },
+  {
+    "id": "r-f-kuang",
+    "name": "R. F. Kuang",
+    "nationality": "Chinese-American",
+    "birthYear": 1996,
+    "bio": "Marshall Scholar and author of Babel and Yellowface, winner of the Nebula Award for Best Novel."
+  },
+  {
+    "id": "p-djeli-clark",
+    "name": "P. Djèlí Clark",
+    "nationality": "American",
+    "birthYear": 1971,
+    "bio": "American historian and speculative author whose alternate-history Cairo novel won the Nebula and Locus Awards."
+  },
+  {
+    "id": "sarah-pinsker",
+    "name": "Sarah Pinsker",
+    "nationality": "American",
+    "birthYear": 1977,
+    "bio": "American singer-songwriter and author whose novel A Song for a New Day won the Nebula Award for Best Novel."
+  },
+  {
+    "id": "mary-robinette-kowal",
+    "name": "Mary Robinette Kowal",
+    "nationality": "American",
+    "birthYear": 1969,
+    "bio": "American novelist, puppeteer, and former SFWA president whose Lady Astronaut novels won the Hugo and Nebula."
+  },
+  {
+    "id": "charlie-jane-anders",
+    "name": "Charlie Jane Anders",
+    "nationality": "American",
+    "birthYear": 1969,
+    "bio": "American author and commentator whose genre-bending novels have captured multiple Nebula and Hugo honors."
+  },
+  {
+    "id": "naomi-novik",
+    "name": "Naomi Novik",
+    "nationality": "American",
+    "birthYear": 1973,
+    "bio": "American fantasy novelist whose folklore-inspired novel Uprooted captured the Nebula and Mythopoeic awards."
+  },
+  {
+    "id": "cixin-liu",
+    "name": "Cixin Liu",
+    "nationality": "Chinese",
+    "birthYear": 1963,
+    "bio": "Foremost Chinese science fiction author, the first Asian writer to win the Hugo Award for Best Novel."
+  },
+  {
+    "id": "jeff-vandermeer",
+    "name": "Jeff VanderMeer",
+    "nationality": "American",
+    "birthYear": 1968,
+    "bio": "American New Weird author whose Southern Reach trilogy redefined modern ecological weird fiction."
+  },
+  {
+    "id": "john-scalzi",
+    "name": "John Scalzi",
+    "nationality": "American",
+    "birthYear": 1969,
+    "bio": "American science fiction author, three-time Hugo Award winner and former president of the SFWA."
+  },
+  {
+    "id": "kim-stanley-robinson",
+    "name": "Kim Stanley Robinson",
+    "nationality": "American",
+    "birthYear": 1952,
+    "bio": "Legendary American science fiction writer renowned for hard-SF ecological realism and the Mars trilogy."
+  },
+  {
+    "id": "jo-walton",
+    "name": "Jo Walton",
+    "nationality": "Welsh-Canadian",
+    "birthYear": 1964,
+    "bio": "Welsh-Canadian author and poet whose novel Among Others won both the Hugo and Nebula Awards."
+  },
+  {
+    "id": "connie-willis",
+    "name": "Connie Willis",
+    "nationality": "American",
+    "birthYear": 1945,
+    "bio": "SFWA Grand Master and recipient of eleven Hugo Awards and seven Nebula Awards, more than any other writer."
+  },
+  {
+    "id": "paolo-bacigalupi",
+    "name": "Paolo Bacigalupi",
+    "nationality": "American",
+    "birthYear": 1972,
+    "bio": "American biopunk and climate fiction author whose debut The Windup Girl captured both the Hugo and Nebula."
+  },
+  {
+    "id": "china-mieville",
+    "name": "China Miéville",
+    "nationality": "British",
+    "birthYear": 1972,
+    "bio": "British New Weird author and academic, three-time winner of the Arthur C. Clarke Award and Hugo winner."
+  },
+  {
+    "id": "lois-mcmaster-bujold",
+    "name": "Lois McMaster Bujold",
+    "nationality": "American",
+    "birthYear": 1949,
+    "bio": "SFWA Grand Master and four-time Hugo Award for Best Novel winner for the Vorkosigan and Chalion sagas."
+  },
+  {
+    "id": "neil-gaiman",
+    "name": "Neil Gaiman",
+    "nationality": "British",
+    "birthYear": 1960,
+    "bio": "Acclaimed English author of modern mythologies across novels, graphic fiction, and screen adaptations."
+  },
+  {
+    "id": "octavia-e-butler",
+    "name": "Octavia E. Butler",
+    "nationality": "American",
+    "birthYear": 1947,
+    "deathYear": 2006,
+    "bio": "Groundbreaking American author and MacArthur Fellow whose speculative works pioneered Afrofuturism."
+  },
+  {
+    "id": "neal-stephenson",
+    "name": "Neal Stephenson",
+    "nationality": "American",
+    "birthYear": 1959,
+    "bio": "Visionary American author whose sprawling epics explore cryptography, linguistics, philosophy, and tech."
+  },
+  {
+    "id": "vernor-vinge",
+    "name": "Vernor Vinge",
+    "nationality": "American",
+    "birthYear": 1944,
+    "deathYear": 2024,
+    "bio": "American mathematician, computer scientist, and five-time Hugo winner who popularized the technological singularity."
+  },
+  {
+    "id": "dan-simmons",
+    "name": "Dan Simmons",
+    "nationality": "American",
+    "birthYear": 1948,
+    "bio": "American author spanning science fiction, horror, and historical epics, creator of the Hyperion Cantos."
+  },
+  {
+    "id": "orson-scott-card",
+    "name": "Orson Scott Card",
+    "nationality": "American",
+    "birthYear": 1951,
+    "bio": "American author, the only writer in history to win both the Hugo and Nebula Awards in consecutive years."
+  },
+  {
+    "id": "william-gibson",
+    "name": "William Gibson",
+    "nationality": "American-Canadian",
+    "birthYear": 1948,
+    "bio": "Pioneer of cyberpunk fiction who coined the term \"cyberspace\" in Neuromancer and won the Triple Crown."
+  },
+  {
+    "id": "david-brin",
+    "name": "David Brin",
+    "nationality": "American",
+    "birthYear": 1950,
+    "bio": "American astrophysicist and author whose Uplift universe novels captured both the Hugo and Nebula."
+  },
+  {
+    "id": "arthur-c-clarke",
+    "name": "Arthur C. Clarke",
+    "nationality": "British",
+    "birthYear": 1917,
+    "deathYear": 2008,
+    "bio": "Legendary British science fiction giant, inventor of the geostationary communications satellite concept."
+  },
+  {
+    "id": "vonda-n-mcintyre",
+    "name": "Vonda N. McIntyre",
+    "nationality": "American",
+    "birthYear": 1948,
+    "deathYear": 2019,
+    "bio": "Trailblazing American feminist science fiction author, three-time Nebula and Hugo Award winner."
+  },
+  {
+    "id": "frederik-pohl",
+    "name": "Frederik Pohl",
+    "nationality": "American",
+    "birthYear": 1919,
+    "deathYear": 2013,
+    "bio": "SFWA Grand Master and four-time Hugo winner whose career spanned seventy-five years of speculative fiction."
+  },
+  {
+    "id": "joe-haldeman",
+    "name": "Joe Haldeman",
+    "nationality": "American",
+    "birthYear": 1943,
+    "bio": "Vietnam War veteran and SFWA Grand Master whose anti-war classic The Forever War swept all major honors."
+  },
+  {
+    "id": "ursula-k-le-guin",
+    "name": "Ursula K. Le Guin",
+    "nationality": "American",
+    "birthYear": 1929,
+    "deathYear": 2018,
+    "bio": "Towering master of American literature whose Hainish and Earthsea cycles redefined science fiction and fantasy."
+  },
+  {
+    "id": "isaac-asimov",
+    "name": "Isaac Asimov",
+    "nationality": "American",
+    "birthYear": 1920,
+    "deathYear": 1992,
+    "bio": "Prolific biochemist and Grand Master of science fiction, architect of the Foundation and Robot universes."
+  },
+  {
+    "id": "larry-niven",
+    "name": "Larry Niven",
+    "nationality": "American",
+    "birthYear": 1938,
+    "bio": "American hard science fiction pioneer and creator of the Known Space universe and Ringworld megastructure."
+  },
+  {
+    "id": "daniel-keyes",
+    "name": "Daniel Keyes",
+    "nationality": "American",
+    "birthYear": 1927,
+    "deathYear": 2014,
+    "bio": "American author and psychologist whose epistolary tragedy Flowers for Algernon won the Nebula and Hugo."
+  },
+  {
+    "id": "frank-herbert",
+    "name": "Frank Herbert",
+    "nationality": "American",
+    "birthYear": 1920,
+    "deathYear": 1986,
+    "bio": "Visionary American author whose magnum opus Dune became the bestselling science fiction novel in history."
+  },
+  {
+    "id": "philip-k-dick",
+    "name": "Philip K. Dick",
+    "nationality": "American",
+    "birthYear": 1928,
+    "deathYear": 1982,
+    "bio": "Iconic visionary whose metaphysical and paranoid fiction probed the boundaries of human consciousness."
+  },
+  {
+    "id": "robert-a-heinlein",
+    "name": "Robert A. Heinlein",
+    "nationality": "American",
+    "birthYear": 1907,
+    "deathYear": 1988,
+    "bio": "One of the \"Big Three\" of science fiction, inaugural SFWA Grand Master and four-time Hugo Best Novel winner."
+  },
+  {
+    "id": "walter-m-miller-jr",
+    "name": "Walter M. Miller Jr.",
+    "nationality": "American",
+    "birthYear": 1923,
+    "deathYear": 1996,
+    "bio": "American WWII combat veteran whose single published novel A Canticle for Leibowitz won the 1961 Hugo."
+  },
+  {
+    "id": "alfred-bester",
+    "name": "Alfred Bester",
+    "nationality": "American",
+    "birthYear": 1913,
+    "deathYear": 1987,
+    "bio": "American author and television writer who won the inaugural Hugo Award for Best Novel in 1953."
   }
 ]

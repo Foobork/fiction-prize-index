@@ -4111,5 +4111,934 @@
     "pageCount": 384,
     "spineColor": "#dc2626",
     "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-ministry-of-time",
+    "title": "The Ministry of Time",
+    "authorId": "kaliane-bradley",
+    "authorName": "Kaliane Bradley",
+    "publicationYear": 2024,
+    "publisher": "Sceptre",
+    "imprint": "Avid Reader Press",
+    "isbn13": "9781399726337",
+    "genres": [
+      "Sci-Fi",
+      "Time Travel",
+      "Espionage",
+      "Romance"
+    ],
+    "synopsis": "A civil servant is assigned as handler to Graham Gore, a Victorian naval officer pulled from the doomed Franklin expedition via secret government time travel.",
+    "pageCount": 352,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "the-tainted-cup",
+    "title": "The Tainted Cup",
+    "authorId": "robert-jackson-bennett",
+    "authorName": "Robert Jackson Bennett",
+    "publicationYear": 2024,
+    "publisher": "Del Rey",
+    "imprint": "Penguin Random House",
+    "isbn13": "9781984820709",
+    "genres": [
+      "Fantasy",
+      "Mystery",
+      "Detective"
+    ],
+    "synopsis": "An eccentric high investigator and his memory-augmented assistant solve impossible locked-room murders in an empire fortified against titanic sea leviathans.",
+    "pageCount": 432,
+    "spineColor": "#15803d",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "some-desperate-glory",
+    "title": "Some Desperate Glory",
+    "authorId": "emily-tesh",
+    "authorName": "Emily Tesh",
+    "publicationYear": 2023,
+    "publisher": "Tordotcom",
+    "imprint": "Tom Doherty Associates",
+    "isbn13": "9781250834980",
+    "genres": [
+      "Space Opera",
+      "Queer",
+      "Sci-Fi"
+    ],
+    "synopsis": "Raised on a fanatical space station indoctrinated to avenge Earth’s annihilation, a young female soldier unravels the horrific lies of her command.",
+    "pageCount": 448,
+    "spineColor": "#dc2626",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "the-saint-of-bright-doors",
+    "title": "The Saint of Bright Doors",
+    "authorId": "vajra-chandrasekera",
+    "authorName": "Vajra Chandrasekera",
+    "publicationYear": 2023,
+    "publisher": "Tordotcom",
+    "imprint": "Tom Doherty Associates",
+    "isbn13": "9781250847386",
+    "genres": [
+      "Fantasy",
+      "Mythological",
+      "Postcolonial"
+    ],
+    "synopsis": "Trained by his vengeful mother to assassinate his demigod father, Fetter flees to the chaotic metropolis of Luriat, where sealed unopenable doors guard ancient secrets.",
+    "pageCount": 368,
+    "spineColor": "#c2410c",
+    "countryOfOrigin": "Sri Lanka"
+  },
+  {
+    "id": "nettle-and-bone",
+    "title": "Nettle & Bone",
+    "authorId": "t-kingfisher",
+    "authorName": "T. Kingfisher",
+    "publicationYear": 2022,
+    "publisher": "Tor Books",
+    "isbn13": "9781250244048",
+    "genres": [
+      "Fairy Tale",
+      "Dark Fantasy",
+      "Humor"
+    ],
+    "synopsis": "A quiet convent princess completes three impossible tasks to forge bone tools and set out with unlikely companions to slay a monstrous prince.",
+    "pageCount": 256,
+    "spineColor": "#475569",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "babel",
+    "title": "Babel, or the Necessity of Violence",
+    "authorId": "r-f-kuang",
+    "authorName": "R. F. Kuang",
+    "publicationYear": 2022,
+    "publisher": "Harper Voyager",
+    "isbn13": "9780063021426",
+    "genres": [
+      "Historical Fantasy",
+      "Dark Academia",
+      "Postcolonial"
+    ],
+    "synopsis": "In an alternate Victorian Oxford, translation scholars harness silver-working magic fueled by linguistic difference, confronting empire and armed resistance.",
+    "pageCount": 544,
+    "spineColor": "#1e293b",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "a-desolation-called-peace",
+    "title": "A Desolation Called Peace",
+    "authorId": "arkady-martine",
+    "authorName": "Arkady Martine",
+    "publicationYear": 2021,
+    "publisher": "Tor Books",
+    "isbn13": "9781250186461",
+    "genres": [
+      "Space Opera",
+      "Diplomacy",
+      "Sci-Fi"
+    ],
+    "synopsis": "Ambassador Mahit Dzmare and Three Seagrass are dispatched to the war-torn imperial frontier to attempt communication with an incomprehensible alien enemy.",
+    "pageCount": 496,
+    "spineColor": "#0f766e",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "a-master-of-djinn",
+    "title": "A Master of Djinn",
+    "authorId": "p-djeli-clark",
+    "authorName": "P. Djèlí Clark",
+    "publicationYear": 2021,
+    "publisher": "Tordotcom",
+    "isbn13": "9781250267016",
+    "genres": [
+      "Steampunk",
+      "Historical Fantasy",
+      "Mystery"
+    ],
+    "synopsis": "In alternate 1912 Cairo where djinn openly coexist with mortals, Special Investigator Fatma el-Sha’arawi hunts a murderous mystic claiming to be the return of al-Jahiz.",
+    "pageCount": 400,
+    "spineColor": "#b45309",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "a-song-for-a-new-day",
+    "title": "A Song for a New Day",
+    "authorId": "sarah-pinsker",
+    "authorName": "Sarah Pinsker",
+    "publicationYear": 2019,
+    "publisher": "Berkley",
+    "imprint": "Penguin Random House",
+    "isbn13": "9781984802583",
+    "genres": [
+      "Sci-Fi",
+      "Music",
+      "Pandemic"
+    ],
+    "synopsis": "In a society reshaped by pandemics and terror where public gatherings are outlawed, two musicians risk arrest to perform in underground speakeasy concerts.",
+    "pageCount": 384,
+    "spineColor": "#9333ea",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-calculating-stars",
+    "title": "The Calculating Stars",
+    "authorId": "mary-robinette-kowal",
+    "authorName": "Mary Robinette Kowal",
+    "publicationYear": 2018,
+    "publisher": "Tor Books",
+    "isbn13": "9780765378385",
+    "genres": [
+      "Alternate History",
+      "Space",
+      "Sci-Fi"
+    ],
+    "synopsis": "After a 1952 meteorite impacts Earth and triggers runaway climate catastrophe, mathematician and WASP pilot Elma York leads the charge to reach the moon and Mars.",
+    "pageCount": 432,
+    "spineColor": "#1d4ed8",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-stone-sky",
+    "title": "The Stone Sky",
+    "authorId": "n-k-jemisin",
+    "authorName": "N. K. Jemisin",
+    "publicationYear": 2017,
+    "publisher": "Orbit Books",
+    "isbn13": "9780316229241",
+    "genres": [
+      "Fantasy",
+      "Dystopian",
+      "Epic"
+    ],
+    "synopsis": "The climactic conclusion of the Broken Earth trilogy as mother and daughter battle with orogeny to reshape the shattered continent and capture the Moon.",
+    "pageCount": 464,
+    "spineColor": "#78350f",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-obelisk-gate",
+    "title": "The Obelisk Gate",
+    "authorId": "n-k-jemisin",
+    "authorName": "N. K. Jemisin",
+    "publicationYear": 2016,
+    "publisher": "Orbit Books",
+    "isbn13": "9780316229265",
+    "genres": [
+      "Fantasy",
+      "Dystopian",
+      "Epic"
+    ],
+    "synopsis": "Essun finds shelter in an underground comm as the Fifth Season deepens, unlocking the terrifying celestial power of the ancient hovering obelisks.",
+    "pageCount": 448,
+    "spineColor": "#374151",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "all-the-birds-in-the-sky",
+    "title": "All the Birds in the Sky",
+    "authorId": "charlie-jane-anders",
+    "authorName": "Charlie Jane Anders",
+    "publicationYear": 2016,
+    "publisher": "Tor Books",
+    "isbn13": "9780765379948",
+    "genres": [
+      "Sci-Fi",
+      "Fantasy",
+      "Apocalyptic"
+    ],
+    "synopsis": "Childhood friends—a witch chosen by nature and a rebellious tech inventor—reconnect as adults while climate collapse and magical cataclysm collide.",
+    "pageCount": 320,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "uprooted",
+    "title": "Uprooted",
+    "authorId": "naomi-novik",
+    "authorName": "Naomi Novik",
+    "publicationYear": 2015,
+    "publisher": "Del Rey",
+    "isbn13": "9780804179867",
+    "genres": [
+      "Fantasy",
+      "Fairy Tale",
+      "Magic"
+    ],
+    "synopsis": "A clumsy village girl is chosen by the brooding wizard known as the Dragon, learning instinctive folk magic to combat a malevolent, creeping Wood.",
+    "pageCount": 448,
+    "spineColor": "#166534",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-three-body-problem",
+    "title": "The Three-Body Problem",
+    "authorId": "cixin-liu",
+    "authorName": "Cixin Liu",
+    "publicationYear": 2014,
+    "publisher": "Tor Books",
+    "isbn13": "9780765377067",
+    "genres": [
+      "Hard Sci-Fi",
+      "First Contact",
+      "Cosmic"
+    ],
+    "synopsis": "During China’s Cultural Revolution, a secret military astrophysics project broadcasts signals that trigger a planned invasion by an alien trisolaran civilization.",
+    "pageCount": 400,
+    "spineColor": "#b91c1c",
+    "countryOfOrigin": "China"
+  },
+  {
+    "id": "annihilation",
+    "title": "Annihilation",
+    "authorId": "jeff-vandermeer",
+    "authorName": "Jeff VanderMeer",
+    "publicationYear": 2014,
+    "publisher": "FSG Originals",
+    "imprint": "Farrar, Straus and Giroux",
+    "isbn13": "9780374104092",
+    "genres": [
+      "New Weird",
+      "Sci-Fi",
+      "Horror"
+    ],
+    "synopsis": "A female biologist and her team enter Area X, an overgrown coastal anomalous zone where previous expeditions vanished, fell to cancer, or turned upon each other.",
+    "pageCount": 208,
+    "spineColor": "#065f46",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "redshirts",
+    "title": "Redshirts",
+    "authorId": "john-scalzi",
+    "authorName": "John Scalzi",
+    "publicationYear": 2012,
+    "publisher": "Tor Books",
+    "isbn13": "9780765316998",
+    "genres": [
+      "Satire",
+      "Space Opera",
+      "Metafiction"
+    ],
+    "synopsis": "Lowly crew members on the starship Intrepid discover they are unwitting characters trapped inside an incomprehensible space-opera television narrative.",
+    "pageCount": 320,
+    "spineColor": "#dc2626",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "twenty-three-twelve",
+    "title": "2312",
+    "authorId": "kim-stanley-robinson",
+    "authorName": "Kim Stanley Robinson",
+    "publicationYear": 2012,
+    "publisher": "Orbit Books",
+    "isbn13": "9780316098120",
+    "genres": [
+      "Hard Sci-Fi",
+      "Solar System",
+      "Ecological"
+    ],
+    "synopsis": "Three centuries in the future, humans inhabit terraformed asteroids and moons across the solar system, caught up in interplanetary mystery following an attack on Mercury.",
+    "pageCount": 576,
+    "spineColor": "#ea580c",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "among-others",
+    "title": "Among Others",
+    "authorId": "jo-walton",
+    "authorName": "Jo Walton",
+    "publicationYear": 2011,
+    "publisher": "Tor Books",
+    "isbn13": "9780765328410",
+    "genres": [
+      "Fairy Tale",
+      "Coming of Age",
+      "Literary Fantasy"
+    ],
+    "synopsis": "A disabled fifteen-year-old Welsh girl survives an encounter with her dark-magic mother, seeking friendship and protection through sci-fi book clubs and quiet fairies.",
+    "pageCount": 304,
+    "spineColor": "#059669",
+    "countryOfOrigin": "Canada"
+  },
+  {
+    "id": "blackout-all-clear",
+    "title": "Blackout / All Clear",
+    "authorId": "connie-willis",
+    "authorName": "Connie Willis",
+    "publicationYear": 2010,
+    "publisher": "Spectra",
+    "imprint": "Ballantine Books",
+    "isbn13": "9780553575651",
+    "genres": [
+      "Time Travel",
+      "Historical",
+      "WWII"
+    ],
+    "synopsis": "Oxford time-travel historians journey to the London Blitz in 1940 and become stranded as timeline disruptions threaten both their survival and the war itself.",
+    "pageCount": 1168,
+    "spineColor": "#1e293b",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-windup-girl",
+    "title": "The Windup Girl",
+    "authorId": "paolo-bacigalupi",
+    "authorName": "Paolo Bacigalupi",
+    "publicationYear": 2009,
+    "publisher": "Night Shade Books",
+    "isbn13": "9781597801577",
+    "genres": [
+      "Biopunk",
+      "Dystopian",
+      "Cli-Fi"
+    ],
+    "synopsis": "In a post-oil, flood-threatened Bangkok ruled by calorie corporations and bio-plagues, an engineered \"windup\" woman fights for agency and survival.",
+    "pageCount": 360,
+    "spineColor": "#b45309",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-city-and-the-city",
+    "title": "The City & The City",
+    "authorId": "china-mieville",
+    "authorName": "China Miéville",
+    "publicationYear": 2009,
+    "publisher": "Macmillan",
+    "imprint": "Del Rey",
+    "isbn13": "9780345497512",
+    "genres": [
+      "New Weird",
+      "Detective",
+      "Noir"
+    ],
+    "synopsis": "Inspector Tyador Borlú investigates the murder of a foreign student found dead in Besźel, an Eastern European metropolis cross-hatched with an overlapping rival city.",
+    "pageCount": 336,
+    "spineColor": "#334155",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "the-yiddish-policemens-union",
+    "title": "The Yiddish Policemen's Union",
+    "authorId": "michael-chabon",
+    "authorName": "Michael Chabon",
+    "publicationYear": 2007,
+    "publisher": "HarperCollins",
+    "isbn13": "9780007149827",
+    "genres": [
+      "Alternate History",
+      "Noir",
+      "Jewish Literature"
+    ],
+    "synopsis": "In an alternate Sitka, Alaska, serving as a temporary haven for Jewish refugees, homicide detective Meyer Landsman investigates a murdered chess prodigy.",
+    "pageCount": 432,
+    "spineColor": "#1e3a8a",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "jonathan-strange-and-mr-norrell",
+    "title": "Jonathan Strange & Mr Norrell",
+    "authorId": "susanna-clarke",
+    "authorName": "Susanna Clarke",
+    "publicationYear": 2004,
+    "publisher": "Bloomsbury Publishing",
+    "isbn13": "9780747570554",
+    "genres": [
+      "Historical Fantasy",
+      "Regency",
+      "Magical Realism"
+    ],
+    "synopsis": "In Regency England, two magicians resurrect the lost English magic, helping Britain defeat Napoleon before feuding over the dangerous Raven King.",
+    "pageCount": 782,
+    "spineColor": "#18181b",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "paladin-of-souls",
+    "title": "Paladin of Souls",
+    "authorId": "lois-mcmaster-bujold",
+    "authorName": "Lois McMaster Bujold",
+    "publicationYear": 2003,
+    "publisher": "Eos",
+    "imprint": "HarperCollins",
+    "isbn13": "9780380976904",
+    "genres": [
+      "Fantasy",
+      "Theology",
+      "Adventure"
+    ],
+    "synopsis": "Widowed Dowager Royina Ista embarks on a holy pilgrimage to escape her smothering court, finding herself called as a divine instrument against demonic forces.",
+    "pageCount": 480,
+    "spineColor": "#854d0e",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "american-gods",
+    "title": "American Gods",
+    "authorId": "neil-gaiman",
+    "authorName": "Neil Gaiman",
+    "publicationYear": 2001,
+    "publisher": "William Morrow",
+    "imprint": "HarperCollins",
+    "isbn13": "9780380973651",
+    "genres": [
+      "Mythology",
+      "Americana",
+      "Dark Fantasy"
+    ],
+    "synopsis": "Released from prison, Shadow Moon is employed by the mysterious Mr. Wednesday, traveling across roadside America as ancient mythological gods face off against media and tech.",
+    "pageCount": 480,
+    "spineColor": "#4338ca",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "parable-of-the-talents",
+    "title": "Parable of the Talents",
+    "authorId": "octavia-e-butler",
+    "authorName": "Octavia E. Butler",
+    "publicationYear": 1998,
+    "publisher": "Seven Stories Press",
+    "isbn13": "9781888363869",
+    "genres": [
+      "Dystopian",
+      "Afrofuturism",
+      "Speculative"
+    ],
+    "synopsis": "In a fractured, fundamentalist America, Lauren Olamina fights to preserve her Earthseed community and the conviction that humanity’s destiny is among the stars.",
+    "pageCount": 416,
+    "spineColor": "#991b1b",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-diamond-age",
+    "title": "The Diamond Age: Or, A Young Lady’s Illustrated Primer",
+    "authorId": "neal-stephenson",
+    "authorName": "Neal Stephenson",
+    "publicationYear": 1995,
+    "publisher": "Bantam Spectra",
+    "isbn13": "9780553096095",
+    "genres": [
+      "Postcyberpunk",
+      "Nanotechnology",
+      "Sci-Fi"
+    ],
+    "synopsis": "In a future governed by distributed cultural phyles and molecular compilers, an illicit interactive primer falls into the hands of a street child named Nell.",
+    "pageCount": 512,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "green-mars",
+    "title": "Green Mars",
+    "authorId": "kim-stanley-robinson",
+    "authorName": "Kim Stanley Robinson",
+    "publicationYear": 1993,
+    "publisher": "Bantam Spectra",
+    "isbn13": "9780553096408",
+    "genres": [
+      "Hard Sci-Fi",
+      "Terraforming",
+      "Political"
+    ],
+    "synopsis": "Following the failed First Revolution, the surviving First Hundred organize an underground planetary resistance while biosystems and greenery take root on Mars.",
+    "pageCount": 624,
+    "spineColor": "#15803d",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "a-fire-upon-the-deep",
+    "title": "A Fire Upon the Deep",
+    "authorId": "vernor-vinge",
+    "authorName": "Vernor Vinge",
+    "publicationYear": 1992,
+    "publisher": "Tor Books",
+    "isbn13": "9780312851828",
+    "genres": [
+      "Space Opera",
+      "Zones of Thought",
+      "Sci-Fi"
+    ],
+    "synopsis": "A malevolent superintelligence awakens in the galactic Transcend, while two human children crash-land among an alien pack-mind civilization.",
+    "pageCount": 613,
+    "spineColor": "#0369a1",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "doomsday-book",
+    "title": "Doomsday Book",
+    "authorId": "connie-willis",
+    "authorName": "Connie Willis",
+    "publicationYear": 1992,
+    "publisher": "Bantam Spectra",
+    "isbn13": "9780553081312",
+    "genres": [
+      "Time Travel",
+      "Historical",
+      "Black Death"
+    ],
+    "synopsis": "Oxford medievalist Kivrin Engle travels to 14th-century England, discovering upon arrival that an error has stranded her during the terrifying outbreak of the Black Death.",
+    "pageCount": 592,
+    "spineColor": "#7f1d1d",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "hyperion",
+    "title": "Hyperion",
+    "authorId": "dan-simmons",
+    "authorName": "Dan Simmons",
+    "publicationYear": 1989,
+    "publisher": "Doubleday",
+    "isbn13": "9780385249492",
+    "genres": [
+      "Space Opera",
+      "Chaucerian",
+      "Sci-Fi"
+    ],
+    "synopsis": "Seven diverse pilgrims voyage to the Time Tombs on Hyperion to meet the legendary Shrike, each sharing their intimate story along the way.",
+    "pageCount": 496,
+    "spineColor": "#4338ca",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "enders-game",
+    "title": "Ender's Game",
+    "authorId": "orson-scott-card",
+    "authorName": "Orson Scott Card",
+    "publicationYear": 1985,
+    "publisher": "Tor Books",
+    "isbn13": "9780312932084",
+    "genres": [
+      "Military Sci-Fi",
+      "Coming of Age",
+      "Space"
+    ],
+    "synopsis": "Six-year-old tactical prodigy Ender Wiggin is sent to an orbital battle school where children play zero-gravity war games to prepare for an alien invasion.",
+    "pageCount": 324,
+    "spineColor": "#b91c1c",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "speaker-for-the-dead",
+    "title": "Speaker for the Dead",
+    "authorId": "orson-scott-card",
+    "authorName": "Orson Scott Card",
+    "publicationYear": 1986,
+    "publisher": "Tor Books",
+    "isbn13": "9780312937386",
+    "genres": [
+      "Philosophical",
+      "First Contact",
+      "Sci-Fi"
+    ],
+    "synopsis": "Three millennia after the destruction of the Buggers, Ender Wiggin travels to Lusitania to speak the truth of a murdered scientist and understand the alien Pequeninos.",
+    "pageCount": 415,
+    "spineColor": "#065f46",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "neuromancer",
+    "title": "Neuromancer",
+    "authorId": "william-gibson",
+    "authorName": "William Gibson",
+    "publicationYear": 1984,
+    "publisher": "Ace Books",
+    "isbn13": "9780441569564",
+    "genres": [
+      "Cyberpunk",
+      "Noir",
+      "Sci-Fi"
+    ],
+    "synopsis": "Burned-out computer hacker Case is given one last shot at jacking into cyberspace to penetrate the security of an unthinkably powerful corporate artificial intelligence.",
+    "pageCount": 271,
+    "spineColor": "#172554",
+    "countryOfOrigin": "Canada"
+  },
+  {
+    "id": "startide-rising",
+    "title": "Startide Rising",
+    "authorId": "david-brin",
+    "authorName": "David Brin",
+    "publicationYear": 1983,
+    "publisher": "Bantam Books",
+    "isbn13": "9780553274622",
+    "genres": [
+      "Space Opera",
+      "Uplift",
+      "Hard Sci-Fi"
+    ],
+    "synopsis": "The exploration vessel Streaker, crewed by genetically uplifted dolphins and humans, discovers a legendary alien fleet and is hunted by fanatic extraterrestrial armadas.",
+    "pageCount": 464,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-fountains-of-paradise",
+    "title": "The Fountains of Paradise",
+    "authorId": "arthur-c-clarke",
+    "authorName": "Arthur C. Clarke",
+    "publicationYear": 1979,
+    "publisher": "Victor Gollancz Ltd",
+    "isbn13": "9780575025202",
+    "genres": [
+      "Hard Sci-Fi",
+      "Engineering",
+      "Visionary"
+    ],
+    "synopsis": "Visionary engineer Vannevar Morgan undertakes the supreme engineering challenge of building a space elevator anchored to a sacred mountain peak on the tropical island of Taprobane.",
+    "pageCount": 301,
+    "spineColor": "#0f766e",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "dreamsnake",
+    "title": "Dreamsnake",
+    "authorId": "vonda-n-mcintyre",
+    "authorName": "Vonda N. McIntyre",
+    "publicationYear": 1978,
+    "publisher": "Houghton Mifflin",
+    "isbn13": "9780395264706",
+    "genres": [
+      "Post-Apocalyptic",
+      "Biopunk",
+      "Feminist"
+    ],
+    "synopsis": "In a post-nuclear landscape, Snake wanders from settlement to settlement healing the sick using the tranquilizing venom of genetically engineered serpents.",
+    "pageCount": 313,
+    "spineColor": "#15803d",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "gateway",
+    "title": "Gateway",
+    "authorId": "frederik-pohl",
+    "authorName": "Frederik Pohl",
+    "publicationYear": 1977,
+    "publisher": "St. Martin's Press",
+    "isbn13": "9780312317805",
+    "genres": [
+      "Psychological",
+      "Space Exploration",
+      "Heechee"
+    ],
+    "synopsis": "Desperate prospectors journey to an asteroid full of abandoned alien spacecraft, blindly launching them into hyperspace hoping for wealth or meeting horrific deaths.",
+    "pageCount": 278,
+    "spineColor": "#b45309",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-forever-war",
+    "title": "The Forever War",
+    "authorId": "joe-haldeman",
+    "authorName": "Joe Haldeman",
+    "publicationYear": 1974,
+    "publisher": "St. Martin's Press",
+    "isbn13": "9780312298906",
+    "genres": [
+      "Military Sci-Fi",
+      "Time Dilation",
+      "Anti-War"
+    ],
+    "synopsis": "Conscripted to fight an interstellar war against the Taurans, physics student William Mandella experiences subjective months in combat while centuries elapse on Earth.",
+    "pageCount": 236,
+    "spineColor": "#475569",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-dispossessed",
+    "title": "The Dispossessed",
+    "authorId": "ursula-k-le-guin",
+    "authorName": "Ursula K. Le Guin",
+    "publicationYear": 1974,
+    "publisher": "Harper & Row",
+    "isbn13": "9780060125639",
+    "genres": [
+      "Utopian",
+      "Political",
+      "Hainish"
+    ],
+    "synopsis": "Physicist Shevek leaves the arid anarchist moon Anarres for the lush capitalist world Urras, attempting to unify the principles of physics and tear down walls between worlds.",
+    "pageCount": 341,
+    "spineColor": "#d97706",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "rendezvous-with-rama",
+    "title": "Rendezvous with Rama",
+    "authorId": "arthur-c-clarke",
+    "authorName": "Arthur C. Clarke",
+    "publicationYear": 1973,
+    "publisher": "Victor Gollancz Ltd",
+    "isbn13": "9780575015876",
+    "genres": [
+      "Hard Sci-Fi",
+      "Big Dumb Object",
+      "First Contact"
+    ],
+    "synopsis": "In 2131, a massive fifty-kilometer alien cylinder enters the solar system, prompting an expedition inside its enigmatic, frozen cylindrical plains.",
+    "pageCount": 243,
+    "spineColor": "#1e3a8a",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "the-gods-themselves",
+    "title": "The Gods Themselves",
+    "authorId": "isaac-asimov",
+    "authorName": "Isaac Asimov",
+    "publicationYear": 1972,
+    "publisher": "Doubleday",
+    "isbn13": "9780385027014",
+    "genres": [
+      "Hard Sci-Fi",
+      "Alternate Universe",
+      "Physics"
+    ],
+    "synopsis": "Humanity exploits an inexhaustible energy tap connected to a parallel universe, unaware that altering the laws of nuclear physics will cause the Sun to go supernova.",
+    "pageCount": 288,
+    "spineColor": "#7e22ce",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "ringworld",
+    "title": "Ringworld",
+    "authorId": "larry-niven",
+    "authorName": "Larry Niven",
+    "publicationYear": 1970,
+    "publisher": "Ballantine Books",
+    "isbn13": "9780345020468",
+    "genres": [
+      "Hard Sci-Fi",
+      "Megastructure",
+      "Space Opera"
+    ],
+    "synopsis": "An expedition of humans and alien companions explores an artificial ribbon encircling a star with an internal living surface area three million times that of Earth.",
+    "pageCount": 342,
+    "spineColor": "#2563eb",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-left-hand-of-darkness",
+    "title": "The Left Hand of Darkness",
+    "authorId": "ursula-k-le-guin",
+    "authorName": "Ursula K. Le Guin",
+    "publicationYear": 1969,
+    "publisher": "Ace Books",
+    "isbn13": "9780441478125",
+    "genres": [
+      "Anthropological",
+      "Feminist",
+      "Hainish"
+    ],
+    "synopsis": "A human envoy arrives on the icy world of Gethen, whose people choose no fixed gender, forging a bond of love and survival with an exiled native minister across an ice sheet.",
+    "pageCount": 286,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "flowers-for-algernon",
+    "title": "Flowers for Algernon",
+    "authorId": "daniel-keyes",
+    "authorName": "Daniel Keyes",
+    "publicationYear": 1966,
+    "publisher": "Harcourt, Brace & World",
+    "isbn13": "9780151315109",
+    "genres": [
+      "Epistolary",
+      "Psychological",
+      "Classic"
+    ],
+    "synopsis": "Progress reports document the journey of Charlie Gordon, whose intelligence is exponentially boosted by surgery before he faces the inevitable regression of his mind.",
+    "pageCount": 311,
+    "spineColor": "#475569",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "dune",
+    "title": "Dune",
+    "authorId": "frank-herbert",
+    "authorName": "Frank Herbert",
+    "publicationYear": 1965,
+    "publisher": "Chilton Books",
+    "isbn13": "9780441172719",
+    "genres": [
+      "Space Opera",
+      "Ecology",
+      "Messianic"
+    ],
+    "synopsis": "Set on the hostile desert world of Arrakis, young Paul Atreides becomes the messianic leader of the Fremen in an epic battle over the spice melange.",
+    "pageCount": 412,
+    "spineColor": "#d97706",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-man-in-the-high-castle",
+    "title": "The Man in the High Castle",
+    "authorId": "philip-k-dick",
+    "authorName": "Philip K. Dick",
+    "publicationYear": 1962,
+    "publisher": "G. P. Putnam’s Sons",
+    "isbn13": "9780399105159",
+    "genres": [
+      "Alternate History",
+      "Post-War",
+      "Philosophical"
+    ],
+    "synopsis": "In an America partitioned between Nazi Germany and Imperial Japan after WWII, characters consult the I Ching while rumors spread of a banned book depicting Allied victory.",
+    "pageCount": 240,
+    "spineColor": "#b91c1c",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "stranger-in-a-strange-land",
+    "title": "Stranger in a Strange Land",
+    "authorId": "robert-a-heinlein",
+    "authorName": "Robert A. Heinlein",
+    "publicationYear": 1961,
+    "publisher": "G. P. Putnam’s Sons",
+    "isbn13": "9780399107726",
+    "genres": [
+      "Satire",
+      "Counterculture",
+      "Philosophical"
+    ],
+    "synopsis": "A human raised by Martians arrives on Earth with psychic abilities, founding a church that preaches free love, Martian telepathy, and mutual comprehension (\"grokking\").",
+    "pageCount": 408,
+    "spineColor": "#dc2626",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "a-canticle-for-leibowitz",
+    "title": "A Canticle for Leibowitz",
+    "authorId": "walter-m-miller-jr",
+    "authorName": "Walter M. Miller Jr.",
+    "publicationYear": 1960,
+    "publisher": "J. B. Lippincott & Co.",
+    "isbn13": "9780397000920",
+    "genres": [
+      "Post-Apocalyptic",
+      "Monastic",
+      "Philosophical"
+    ],
+    "synopsis": "Over a thousand years across a post-nuclear dark age, Renaissance, and atomic resurgence, monks preserve the fragments of human scientific civilization.",
+    "pageCount": 320,
+    "spineColor": "#78350f",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-demolished-man",
+    "title": "The Demolished Man",
+    "authorId": "alfred-bester",
+    "authorName": "Alfred Bester",
+    "publicationYear": 1953,
+    "publisher": "Shasta Publishers",
+    "isbn13": "9780679767831",
+    "genres": [
+      "Cyberpunk Proto",
+      "Psychological",
+      "Noir"
+    ],
+    "synopsis": "In a future where telepaths make pre-planned crime impossible, a paranoid cartel magnate devises a plot to commit the first unpreventable murder in seventy years.",
+    "pageCount": 250,
+    "spineColor": "#1e1b4b",
+    "countryOfOrigin": "United States"
   }
 ]
