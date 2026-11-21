@@ -8,7 +8,11 @@
     "publisher": "Jonathan Cape",
     "imprint": "Vintage",
     "isbn13": "9781787334342",
-    "genres": ["Literary Fiction", "Philosophical", "Space"],
+    "genres": [
+      "Literary Fiction",
+      "Philosophical",
+      "Space"
+    ],
     "synopsis": "A lyrical meditation on Earth and humanity through the eyes of six astronauts and cosmonauts over sixteen sunrises and sunsets aboard the International Space Station.",
     "pageCount": 144,
     "spineColor": "#1e293b",
@@ -22,7 +26,11 @@
     "publicationYear": 2023,
     "publisher": "Oneworld Publications",
     "isbn13": "9780861547074",
-    "genres": ["Dystopian", "Literary Fiction", "Political"],
+    "genres": [
+      "Dystopian",
+      "Literary Fiction",
+      "Political"
+    ],
     "synopsis": "A chilling portrait of a mother fighting to protect her family as Ireland descends into totalitarianism, told in relentless, breathless paragraphs.",
     "pageCount": 320,
     "spineColor": "#831843",
@@ -36,7 +44,11 @@
     "publicationYear": 2022,
     "publisher": "Sort of Books",
     "isbn13": "9781908745903",
-    "genres": ["Satire", "Magical Realism", "Historical Fiction"],
+    "genres": [
+      "Satire",
+      "Magical Realism",
+      "Historical Fiction"
+    ],
     "synopsis": "A mordant, afterlife mystery following a dead war photographer who has seven moons to solve his murder and lead his loved ones to photographs that will rock Sri Lanka.",
     "pageCount": 400,
     "spineColor": "#065f46",
@@ -51,7 +63,11 @@
     "publisher": "Chatto & Windus",
     "imprint": "Vintage",
     "isbn13": "9781784744069",
-    "genres": ["Literary Fiction", "Family Saga", "Post-Apartheid"],
+    "genres": [
+      "Literary Fiction",
+      "Family Saga",
+      "Post-Apartheid"
+    ],
     "synopsis": "Charting the decline of a white South African family over four decades through four funerals, defined by an unkept promise made to their Black domestic servant.",
     "pageCount": 304,
     "spineColor": "#78350f",
@@ -65,7 +81,11 @@
     "publicationYear": 2020,
     "publisher": "Grove Press",
     "isbn13": "9780802148049",
-    "genres": ["Literary Fiction", "Coming of Age", "Historical"],
+    "genres": [
+      "Literary Fiction",
+      "Coming of Age",
+      "Historical"
+    ],
     "synopsis": "Set in working-class 1980s Glasgow, an intimate and heart-wrenching story of a young boy's fierce love for his proud, alcoholic mother.",
     "pageCount": 448,
     "spineColor": "#1e3a8a",
@@ -80,7 +100,11 @@
     "publisher": "Hamish Hamilton",
     "imprint": "Penguin",
     "isbn13": "9780241984994",
-    "genres": ["Polyphonic", "Literary Fiction", "Contemporary"],
+    "genres": [
+      "Polyphonic",
+      "Literary Fiction",
+      "Contemporary"
+    ],
     "synopsis": "A vibrant polyphonic tapestry tracing the intertwined lives and struggles of twelve primarily Black British women across decades and social classes.",
     "pageCount": 464,
     "spineColor": "#9d174d",
@@ -95,7 +119,11 @@
     "publisher": "McClelland & Stewart",
     "imprint": "Penguin Random House",
     "isbn13": "9780385543781",
-    "genres": ["Dystopian", "Speculative", "Feminist"],
+    "genres": [
+      "Dystopian",
+      "Speculative",
+      "Feminist"
+    ],
     "synopsis": "Picking up fifteen years after Offred stepped into the unknown, the explosive sequel to The Handmaid's Tale reveals Gilead's inner workings through three distinct testimonies.",
     "pageCount": 432,
     "spineColor": "#15803d",
@@ -109,7 +137,11 @@
     "publicationYear": 2017,
     "publisher": "Random House",
     "isbn13": "9780812995343",
-    "genres": ["Experimental", "Historical Fiction", "Ghost Story"],
+    "genres": [
+      "Experimental",
+      "Historical Fiction",
+      "Ghost Story"
+    ],
     "synopsis": "An extraordinary polyphonic theatrical novel set in a Georgetown cemetery over a single night in 1862, where the spirit of Abraham Lincoln's recently deceased son Willie lingers.",
     "pageCount": 368,
     "spineColor": "#312e81",
@@ -124,7 +156,11 @@
     "publisher": "Fourth Estate",
     "imprint": "HarperCollins",
     "isbn13": "9780007230181",
-    "genres": ["Historical Fiction", "Tudor", "Political"],
+    "genres": [
+      "Historical Fiction",
+      "Tudor",
+      "Political"
+    ],
     "synopsis": "A masterclass in historical imagination tracing the rise of Thomas Cromwell in the perilous, mercurial court of King Henry VIII.",
     "pageCount": 672,
     "spineColor": "#713f12",
@@ -139,7 +175,11 @@
     "publisher": "Doubleday",
     "imprint": "Penguin Random House",
     "isbn13": "9780385542364",
-    "genres": ["Historical Fiction", "Alternative History", "Literary"],
+    "genres": [
+      "Historical Fiction",
+      "Alternative History",
+      "Literary"
+    ],
     "synopsis": "A devastating, inventive reimagining in which the antebellum Underground Railroad is not a metaphor, but a secret subterranean network of tracks, conductors, and steam engines.",
     "pageCount": 320,
     "spineColor": "#1c1917",
@@ -154,7 +194,11 @@
     "publisher": "Doubleday",
     "imprint": "Penguin Random House",
     "isbn13": "9780385537070",
-    "genres": ["Historical Fiction", "Literary", "Civil Rights"],
+    "genres": [
+      "Historical Fiction",
+      "Literary",
+      "Civil Rights"
+    ],
     "synopsis": "Based on the real atrocities at the Dozier School in Florida, following two Black boys sentenced to a hellish juvenile reformatory during the Jim Crow era.",
     "pageCount": 224,
     "spineColor": "#374151",
@@ -169,7 +213,11 @@
     "publisher": "Harper",
     "imprint": "HarperCollins",
     "isbn13": "9780063251922",
-    "genres": ["Coming of Age", "Literary", "Social Realism"],
+    "genres": [
+      "Coming of Age",
+      "Literary",
+      "Social Realism"
+    ],
     "synopsis": "A contemporary Appalachian reimagining of David Copperfield, charting an orphaned boy's survival through poverty, foster care, addiction, and athletic glory.",
     "pageCount": 560,
     "spineColor": "#b45309",
@@ -184,7 +232,11 @@
     "publisher": "Riverhead Books",
     "imprint": "Penguin Random House",
     "isbn13": "9780593420317",
-    "genres": ["Literary Fiction", "Historical", "Metafiction"],
+    "genres": [
+      "Literary Fiction",
+      "Historical",
+      "Metafiction"
+    ],
     "synopsis": "An elegant puzzle-box novel that interrogates wealth, deception, and power across four competing versions of a 1920s Wall Street financier and his brilliant wife.",
     "pageCount": 416,
     "spineColor": "#0f172a",
@@ -199,7 +251,11 @@
     "publisher": "Knopf",
     "imprint": "Penguin Random House",
     "isbn13": "9780593537442",
-    "genres": ["Historical Fiction", "Post-Civil War", "Literary"],
+    "genres": [
+      "Historical Fiction",
+      "Post-Civil War",
+      "Literary"
+    ],
     "synopsis": "A richly rendered Civil War saga set in the aftermath of the conflict, following a traumatized mother and daughter finding sanctuary inside a West Virginia lunatic asylum.",
     "pageCount": 304,
     "spineColor": "#2e1065",
@@ -214,7 +270,11 @@
     "publisher": "New York Review Books",
     "imprint": "NYRB",
     "isbn13": "9781681376073",
-    "genres": ["Campus Novel", "Satire", "Historical"],
+    "genres": [
+      "Campus Novel",
+      "Satire",
+      "Historical"
+    ],
     "synopsis": "A biting campus comedy and intellectual tour de force chronicling the arrival of Benzion Netanyahu and his disruptive young family at an upstate New York college in 1959.",
     "pageCount": 248,
     "spineColor": "#4b5563",
@@ -229,7 +289,11 @@
     "publisher": "Harper",
     "imprint": "HarperCollins",
     "isbn13": "9780062671189",
-    "genres": ["Indigenous Literature", "Historical Fiction", "Political"],
+    "genres": [
+      "Indigenous Literature",
+      "Historical Fiction",
+      "Political"
+    ],
     "synopsis": "Based on the life of Erdrich's grandfather, a night watchman at a jewel-bearing plant who led the Chippewa resistance against federal termination legislation in 1953.",
     "pageCount": 464,
     "spineColor": "#064e3b",
@@ -243,7 +307,11 @@
     "publicationYear": 2018,
     "publisher": "W. W. Norton & Company",
     "isbn13": "9780393635522",
-    "genres": ["Ecological", "Literary Fiction", "Ensemble"],
+    "genres": [
+      "Ecological",
+      "Literary Fiction",
+      "Ensemble"
+    ],
     "synopsis": "A sweeping epic that intertwines the lives of nine distinct strangers summoned by trees to combat the destruction of North America's virgin forests.",
     "pageCount": 512,
     "spineColor": "#14532d",
@@ -258,7 +326,11 @@
     "publisher": "Scribner",
     "imprint": "Simon & Schuster",
     "isbn13": "9781501126062",
-    "genres": ["Southern Gothic", "Literary Fiction", "Ghost Story"],
+    "genres": [
+      "Southern Gothic",
+      "Literary Fiction",
+      "Ghost Story"
+    ],
     "synopsis": "A haunting road trip through contemporary Mississippi as a fractured family travels to pick up a father released from Parchman Farm penitentiary, shadowed by ancestral ghosts.",
     "pageCount": 304,
     "spineColor": "#581c87",
@@ -273,7 +345,11 @@
     "publisher": "Farrar, Straus and Giroux",
     "imprint": "FSG",
     "isbn13": "9780374294403",
-    "genres": ["Experimental", "Queer Literature", "Metafiction"],
+    "genres": [
+      "Experimental",
+      "Queer Literature",
+      "Metafiction"
+    ],
     "synopsis": "An inventive dialogue and erasure collage between a young narrator and an aging man dying in a desert hospice, excavating suppressed twentieth-century queer history.",
     "pageCount": 320,
     "spineColor": "#0f172a",
@@ -288,7 +364,11 @@
     "publisher": "Knopf",
     "imprint": "Penguin Random House",
     "isbn13": "9780593534663",
-    "genres": ["Literary Fiction", "Ensemble", "Social Realism"],
+    "genres": [
+      "Literary Fiction",
+      "Ensemble",
+      "Social Realism"
+    ],
     "synopsis": "Over a scorching July week in a decaying Indiana post-industrial town, the trapped residents of an affordable apartment complex careen toward a climactic act of violence.",
     "pageCount": 352,
     "spineColor": "#991b1b",
@@ -303,7 +383,11 @@
     "publisher": "Dutton",
     "imprint": "Penguin Random House",
     "isbn13": "9780593330968",
-    "genres": ["Satire", "Metafiction", "Surreal"],
+    "genres": [
+      "Satire",
+      "Metafiction",
+      "Surreal"
+    ],
     "synopsis": "A wildly imaginative, satirical journey of a Black author on a cross-country publicity tour who is accompanied by an invisible child and hallucinations.",
     "pageCount": 336,
     "spineColor": "#b45309",
@@ -318,7 +402,11 @@
     "publisher": "Pantheon Books",
     "imprint": "Penguin Random House",
     "isbn13": "9780307907196",
-    "genres": ["Satire", "Screenplay Form", "Asian American"],
+    "genres": [
+      "Satire",
+      "Screenplay Form",
+      "Asian American"
+    ],
     "synopsis": "Written in the format of a television screenplay, satirizing Hollywood stereotypes through Willis Wu, a background actor trapped playing 'Generic Asian Man'.",
     "pageCount": 288,
     "spineColor": "#dc2626",
@@ -333,7 +421,11 @@
     "publisher": "Viking",
     "imprint": "Penguin Random House",
     "isbn13": "9780593448779",
-    "genres": ["Historical Fiction", "Political", "War"],
+    "genres": [
+      "Historical Fiction",
+      "Political",
+      "War"
+    ],
     "synopsis": "Set during the onset of the Sri Lankan civil war, recounting a young Tamil woman aspiring to be a doctor who gets swept into moral crisis and underground reporting.",
     "pageCount": 368,
     "spineColor": "#4c0519",
@@ -348,7 +440,11 @@
     "publisher": "Viking",
     "imprint": "Penguin Random House",
     "isbn13": "9780399563645",
-    "genres": ["Literary Fiction", "Zen", "Coming of Age"],
+    "genres": [
+      "Literary Fiction",
+      "Zen",
+      "Coming of Age"
+    ],
     "synopsis": "After the tragic loss of his father, fourteen-year-old Benny starts hearing the voices of inanimate objects, finding sanctuary in a public library where books speak with him.",
     "pageCount": 560,
     "spineColor": "#1e40af",
@@ -362,7 +458,11 @@
     "publicationYear": 2020,
     "publisher": "Bloomsbury Publishing",
     "isbn13": "9781526622426",
-    "genres": ["Fantasy", "Mystery", "Philosophical"],
+    "genres": [
+      "Fantasy",
+      "Mystery",
+      "Philosophical"
+    ],
     "synopsis": "Piranesi lives in the House, an infinite labyrinth of halls lined with thousands of statues and surging ocean tides, until a sinister second visitor disturbs his solitary peace.",
     "pageCount": 272,
     "spineColor": "#0891b2",
@@ -377,7 +477,11 @@
     "publisher": "Tinder Press",
     "imprint": "Headline",
     "isbn13": "9781472223791",
-    "genres": ["Historical Fiction", "Literary", "Grief"],
+    "genres": [
+      "Historical Fiction",
+      "Literary",
+      "Grief"
+    ],
     "synopsis": "A tender reimagining of Shakespeare's domestic life in 1590s Warwickshire, centering on Agnes Hathaway and the devastating loss of their eleven-year-old son to the plague.",
     "pageCount": 384,
     "spineColor": "#047857",
@@ -391,7 +495,11 @@
     "publicationYear": 2021,
     "publisher": "Granta Books",
     "isbn13": "9781846277252",
-    "genres": ["Historical Fiction", "Literary", "Political"],
+    "genres": [
+      "Historical Fiction",
+      "Literary",
+      "Political"
+    ],
     "synopsis": "A claustrophobic, doomed romance between an older married writer and a young student in 1980s East Berlin, mirrored by the crumbling collapse of East Germany.",
     "pageCount": 320,
     "spineColor": "#831843",
@@ -406,7 +514,11 @@
     "publisher": "Weidenfeld & Nicolson",
     "imprint": "Orion",
     "isbn13": "9781474623070",
-    "genres": ["Speculative", "Satire", "Philosophical"],
+    "genres": [
+      "Speculative",
+      "Satire",
+      "Philosophical"
+    ],
     "synopsis": "A 'clinic for the past' cures Alzheimer's by recreating past decades in meticulous detail, but soon entire European nations hold referendums on which decade to live in.",
     "pageCount": 304,
     "spineColor": "#3b82f6",
@@ -420,7 +532,11 @@
     "publicationYear": 2021,
     "publisher": "Tilted Axis Press",
     "isbn13": "9781911284611",
-    "genres": ["Polyphonic", "Feminist", "Partition"],
+    "genres": [
+      "Polyphonic",
+      "Feminist",
+      "Partition"
+    ],
     "synopsis": "An 80-year-old Indian matriarch sinks into deep depression after her husband's death, then gains an unexpected new lease on life and insists on traveling to Pakistan to confront the past.",
     "pageCount": 736,
     "spineColor": "#d97706",
@@ -434,7 +550,11 @@
     "publicationYear": 2015,
     "publisher": "Portobello Books",
     "isbn13": "9781846276033",
-    "genres": ["Psychological", "Surreal", "Body Horror"],
+    "genres": [
+      "Psychological",
+      "Surreal",
+      "Body Horror"
+    ],
     "synopsis": "A modern South Korean woman's decision to stop eating meat provokes vicious family and societal outrage, escalating into a surreal metamorphosis.",
     "pageCount": 192,
     "spineColor": "#15803d",
@@ -449,7 +569,11 @@
     "publisher": "Tor Books",
     "imprint": "Macmillan",
     "isbn13": "9781250186430",
-    "genres": ["Space Opera", "Political Intrigue", "Sci-Fi"],
+    "genres": [
+      "Space Opera",
+      "Political Intrigue",
+      "Sci-Fi"
+    ],
     "synopsis": "Ambassador Mahit Dzmare arrives in the heart of the multi-system Teixcalaanli Empire to discover her predecessor was murdered, threatening her independent mining station.",
     "pageCount": 464,
     "spineColor": "#1e3a8a",
@@ -464,7 +588,11 @@
     "publisher": "Orbit",
     "imprint": "Hachette",
     "isbn13": "9780316229296",
-    "genres": ["Speculative Fiction", "Science Fantasy", "Apocalyptic"],
+    "genres": [
+      "Speculative Fiction",
+      "Science Fantasy",
+      "Apocalyptic"
+    ],
     "synopsis": "On the supercontinent of the Stillness, a civilization shaped by periodic extinction-level seismic seasons is brought to its knees when a vast rift is torn through the world.",
     "pageCount": 512,
     "spineColor": "#7c2d12",
@@ -478,7 +606,11 @@
     "publicationYear": 2019,
     "publisher": "Galley Beggar Press",
     "isbn13": "9781910296967",
-    "genres": ["Stream of Consciousness", "Experimental", "Feminist"],
+    "genres": [
+      "Stream of Consciousness",
+      "Experimental",
+      "Feminist"
+    ],
     "synopsis": "Composed almost entirely of a single, breath-taking thousand-page sentence, an Ohio mother and baker ruminates on pie crusts, family, mass shootings, and environmental dread.",
     "pageCount": 1040,
     "spineColor": "#e11d48",
@@ -492,10 +624,827 @@
     "publicationYear": 2022,
     "publisher": "Deep Vellum",
     "isbn13": "9781646052028",
-    "genres": ["Surreal", "Monumental", "Philosophical"],
+    "genres": [
+      "Surreal",
+      "Monumental",
+      "Philosophical"
+    ],
     "synopsis": "A failed poet teaching in Communist Bucharest inhabits a house built atop a gigantic underground electrical coil (solenoid) that produces anti-gravity and dimensional tears.",
     "pageCount": 672,
     "spineColor": "#3b0764",
     "countryOfOrigin": "Romania"
+  },
+  {
+    "id": "the-sellout",
+    "title": "The Sellout",
+    "authorId": "paul-beatty",
+    "authorName": "Paul Beatty",
+    "publicationYear": 2015,
+    "publisher": "Farrar, Straus and Giroux",
+    "imprint": "FSG",
+    "isbn13": "9780374260507",
+    "genres": [
+      "Satire",
+      "Literary Fiction",
+      "Social Commentary"
+    ],
+    "synopsis": "A razor-sharp satire about a young Black man raised by a single-parent sociologist in an agrarian enclave of Los Angeles, who attempts to reinstitute segregation to save his community.",
+    "pageCount": 304,
+    "spineColor": "#d97706",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "a-brief-history-of-seven-killings",
+    "title": "A Brief History of Seven Killings",
+    "authorId": "marlon-james",
+    "authorName": "Marlon James",
+    "publicationYear": 2014,
+    "publisher": "Riverhead Books",
+    "imprint": "Penguin",
+    "isbn13": "9781594633942",
+    "genres": [
+      "Historical Fiction",
+      "Polyphonic",
+      "Crime"
+    ],
+    "synopsis": "A sweeping, polyphonic epic revolving around the attempted assassination of Bob Marley in Kingston, Jamaica, spanning decades of drug wars, CIA plots, and geopolitical turmoil.",
+    "pageCount": 704,
+    "spineColor": "#1e1b4b",
+    "countryOfOrigin": "Jamaica"
+  },
+  {
+    "id": "the-narrow-road-to-the-deep-north",
+    "title": "The Narrow Road to the Deep North",
+    "authorId": "richard-flanagan",
+    "authorName": "Richard Flanagan",
+    "publicationYear": 2013,
+    "publisher": "Knopf",
+    "imprint": "Random House",
+    "isbn13": "9780385352857",
+    "genres": [
+      "War",
+      "Historical Fiction",
+      "Love Story"
+    ],
+    "synopsis": "A despairing and intensely moving account of an Australian surgeon held prisoner of war by the Japanese on the Thai-Burma Death Railway, sustained by memories of an illicit affair.",
+    "pageCount": 464,
+    "spineColor": "#451a03",
+    "countryOfOrigin": "Australia"
+  },
+  {
+    "id": "the-luminaries",
+    "title": "The Luminaries",
+    "authorId": "eleanor-catton",
+    "authorName": "Eleanor Catton",
+    "publicationYear": 2013,
+    "publisher": "Granta Books",
+    "isbn13": "9781847084323",
+    "genres": [
+      "Historical Mystery",
+      "Astrological",
+      "Victorian"
+    ],
+    "synopsis": "Set during the 1860s New Zealand gold rush, a dazzlingly constructed murder mystery mapped meticulously against the movements of the zodiac and heavenly spheres.",
+    "pageCount": 832,
+    "spineColor": "#78350f",
+    "countryOfOrigin": "New Zealand"
+  },
+  {
+    "id": "bring-up-the-bodies",
+    "title": "Bring Up the Bodies",
+    "authorId": "hilary-mantel",
+    "authorName": "Hilary Mantel",
+    "publicationYear": 2012,
+    "publisher": "Fourth Estate",
+    "imprint": "HarperCollins",
+    "isbn13": "9780007353552",
+    "genres": [
+      "Historical Fiction",
+      "Tudor",
+      "Political"
+    ],
+    "synopsis": "The ferocious sequel to Wolf Hall following Thomas Cromwell as he orchestrates the downfall and trial of Queen Anne Boleyn to clear the way for Jane Seymour.",
+    "pageCount": 432,
+    "spineColor": "#881337",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "the-sense-of-an-ending",
+    "title": "The Sense of an Ending",
+    "authorId": "julian-barnes",
+    "authorName": "Julian Barnes",
+    "publicationYear": 2011,
+    "publisher": "Jonathan Cape",
+    "imprint": "Random House",
+    "isbn13": "9780224094153",
+    "genres": [
+      "Literary Fiction",
+      "Memory",
+      "Psychological"
+    ],
+    "synopsis": "An aging retired arts administrator confronts the unreliability of his youthful memories when an unexpected bequest reopens a devastating tragedy from four decades prior.",
+    "pageCount": 160,
+    "spineColor": "#1e3a8a",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "the-white-tiger",
+    "title": "The White Tiger",
+    "authorId": "aravind-adiga",
+    "authorName": "Aravind Adiga",
+    "publicationYear": 2008,
+    "publisher": "Free Press",
+    "imprint": "Simon & Schuster",
+    "isbn13": "9781416562597",
+    "genres": [
+      "Epistolary",
+      "Satire",
+      "Social Realism"
+    ],
+    "synopsis": "A darkly comic, breathless confession written as letters to the Chinese Premier by Balram Halwai, charting his ruthless rise from village servant to successful Bangalore entrepreneur.",
+    "pageCount": 304,
+    "spineColor": "#065f46",
+    "countryOfOrigin": "India"
+  },
+  {
+    "id": "the-gathering",
+    "title": "The Gathering",
+    "authorId": "anne-enright",
+    "authorName": "Anne Enright",
+    "publicationYear": 2007,
+    "publisher": "Jonathan Cape",
+    "imprint": "Random House",
+    "isbn13": "9780224080187",
+    "genres": [
+      "Family Drama",
+      "Grief",
+      "Irish Literature"
+    ],
+    "synopsis": "Following the suicide of her beloved brother Liam in England, Veronica Hegarty summons her sprawling Irish family to Dublin while unearthing a dark childhood trauma.",
+    "pageCount": 272,
+    "spineColor": "#312e81",
+    "countryOfOrigin": "Ireland"
+  },
+  {
+    "id": "the-inheritance-of-loss",
+    "title": "The Inheritance of Loss",
+    "authorId": "kiran-desai",
+    "authorName": "Kiran Desai",
+    "publicationYear": 2006,
+    "publisher": "Atlantic Monthly Press",
+    "isbn13": "9780871139597",
+    "genres": [
+      "Postcolonial",
+      "Family Saga",
+      "Literary"
+    ],
+    "synopsis": "Set in a decaying northeastern Himalayan mansion during a violent Gorkha insurgency, interweaving the bitter solitude of a retired judge with his cook's son struggling as an undocumented immigrant in New York.",
+    "pageCount": 336,
+    "spineColor": "#15803d",
+    "countryOfOrigin": "India"
+  },
+  {
+    "id": "life-of-pi",
+    "title": "Life of Pi",
+    "authorId": "yann-martel",
+    "authorName": "Yann Martel",
+    "publicationYear": 2001,
+    "publisher": "Knopf Canada",
+    "isbn13": "9780676973761",
+    "genres": [
+      "Adventure",
+      "Philosophical",
+      "Allegory"
+    ],
+    "synopsis": "Surviving a catastrophic shipwreck in the Pacific Ocean, sixteen-year-old Indian boy Pi Patel shares a tiny lifeboat for 227 days with a 450-pound Bengal tiger named Richard Parker.",
+    "pageCount": 336,
+    "spineColor": "#ea580c",
+    "countryOfOrigin": "Canada"
+  },
+  {
+    "id": "the-blind-assassin",
+    "title": "The Blind Assassin",
+    "authorId": "margaret-atwood",
+    "authorName": "Margaret Atwood",
+    "publicationYear": 2000,
+    "publisher": "McClelland & Stewart",
+    "isbn13": "9780771008634",
+    "genres": [
+      "Metafiction",
+      "Historical Fiction",
+      "Mystery"
+    ],
+    "synopsis": "An octogenarian Canadian matriarch unravels the mysterious suicide of her sister Laura in 1945 through an intricately nested sci-fi pulp novel within a novel.",
+    "pageCount": 528,
+    "spineColor": "#1e293b",
+    "countryOfOrigin": "Canada"
+  },
+  {
+    "id": "the-god-of-small-things",
+    "title": "The God of Small Things",
+    "authorId": "arundhati-roy",
+    "authorName": "Arundhati Roy",
+    "publicationYear": 1997,
+    "publisher": "IndiaInk / Random House",
+    "isbn13": "9780679457312",
+    "genres": [
+      "Postcolonial",
+      "Tragedy",
+      "Family Saga"
+    ],
+    "synopsis": "Set in 1969 Kerala, seven-year-old fraternal twins Rahel and Estha navigate the rigid boundaries of caste, love laws, and forbidden passion that shatter their family.",
+    "pageCount": 336,
+    "spineColor": "#047857",
+    "countryOfOrigin": "India"
+  },
+  {
+    "id": "the-english-patient",
+    "title": "The English Patient",
+    "authorId": "michael-ondaatje",
+    "authorName": "Michael Ondaatje",
+    "publicationYear": 1992,
+    "publisher": "McClelland & Stewart",
+    "isbn13": "9780771068867",
+    "genres": [
+      "War",
+      "Poetic",
+      "Historical"
+    ],
+    "synopsis": "In an abandoned Italian villa at the end of World War II, a young nurse tends to a burned, nameless amnesiac pilot whose fragmented memories reveal tragic desert romance and espionage.",
+    "pageCount": 320,
+    "spineColor": "#b45309",
+    "countryOfOrigin": "Canada"
+  },
+  {
+    "id": "the-remains-of-the-day",
+    "title": "The Remains of the Day",
+    "authorId": "kazuo-ishiguro",
+    "authorName": "Kazuo Ishiguro",
+    "publicationYear": 1989,
+    "publisher": "Faber and Faber",
+    "isbn13": "9780571153107",
+    "genres": [
+      "Literary Fiction",
+      "Historical",
+      "Tragedy"
+    ],
+    "synopsis": "Stevens, an aging English butler at Darlington Hall, embarks on a motoring trip across the countryside while reflecting on a lifetime of unswerving devotion to a disgraced master and unacknowledged love.",
+    "pageCount": 256,
+    "spineColor": "#334155",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "midnights-children",
+    "title": "Midnight's Children",
+    "authorId": "salman-rushdie",
+    "authorName": "Salman Rushdie",
+    "publicationYear": 1981,
+    "publisher": "Jonathan Cape",
+    "isbn13": "9780224018234",
+    "genres": [
+      "Magical Realism",
+      "Historical Epic",
+      "Postcolonial"
+    ],
+    "synopsis": "Born at the stroke of midnight as India achieves independence, Saleem Sinai discovers that all 1,001 children born during that hour possess telepathic powers mirroring the nation's tumultuous fate.",
+    "pageCount": 536,
+    "spineColor": "#b91c1c",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "less",
+    "title": "Less",
+    "authorId": "andrew-sean-greer",
+    "authorName": "Andrew Sean Greer",
+    "publicationYear": 2017,
+    "publisher": "Lee Boudreaux Books",
+    "imprint": "Little, Brown",
+    "isbn13": "9780316316125",
+    "genres": [
+      "Comedy",
+      "LGBTQ+",
+      "Travel"
+    ],
+    "synopsis": "Arthur Less, a struggling novelist on the cusp of fifty, accepts every obscure literary invitation across the globe to avoid attending his former lover's wedding.",
+    "pageCount": 272,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-sympathizer",
+    "title": "The Sympathizer",
+    "authorId": "viet-thanh-nguyen",
+    "authorName": "Viet Thanh Nguyen",
+    "publicationYear": 2015,
+    "publisher": "Grove Press",
+    "isbn13": "9780802123459",
+    "genres": [
+      "Espionage",
+      "Satire",
+      "Historical Fiction"
+    ],
+    "synopsis": "A gripping espionage thriller and confession of a half-French, half-Vietnamese communist sleeper agent embedded within the South Vietnamese army fleeing to Los Angeles after the fall of Saigon.",
+    "pageCount": 384,
+    "spineColor": "#991b1b",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "all-the-light-we-cannot-see",
+    "title": "All the Light We Cannot See",
+    "authorId": "anthony-doerr",
+    "authorName": "Anthony Doerr",
+    "publicationYear": 2014,
+    "publisher": "Scribner",
+    "imprint": "Simon & Schuster",
+    "isbn13": "9781476746586",
+    "genres": [
+      "Historical Fiction",
+      "WWII",
+      "Coming of Age"
+    ],
+    "synopsis": "The stunningly interwoven paths of a blind French girl hiding with a precious museum diamond in Saint-Malo and a gifted German orphan whose radio expertise enlists him into the Nazi war machine.",
+    "pageCount": 544,
+    "spineColor": "#0369a1",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-goldfinch",
+    "title": "The Goldfinch",
+    "authorId": "donna-tartt",
+    "authorName": "Donna Tartt",
+    "publicationYear": 2013,
+    "publisher": "Little, Brown and Company",
+    "isbn13": "9780316055437",
+    "genres": [
+      "Dickensian",
+      "Literary",
+      "Coming of Age"
+    ],
+    "synopsis": "Surviving a terrorist bombing at the Metropolitan Museum that kills his mother, thirteen-year-old Theo Decker clings to a tiny Dutch Golden Age masterpiece that pulls him into the criminal underworld.",
+    "pageCount": 784,
+    "spineColor": "#ca8a04",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "a-visit-from-the-goon-squad",
+    "title": "A Visit from the Goon Squad",
+    "authorId": "jennifer-egan",
+    "authorName": "Jennifer Egan",
+    "publicationYear": 2010,
+    "publisher": "Knopf",
+    "imprint": "Random House",
+    "isbn13": "9780307592835",
+    "genres": [
+      "Polyphonic",
+      "Music Industry",
+      "Experimental"
+    ],
+    "synopsis": "A kaleidoscopic novel in thirteen interconnected stories spanning forty years of the music industry, fame, aging, and digital culture (including a celebrated chapter told entirely in PowerPoint).",
+    "pageCount": 352,
+    "spineColor": "#7c3aed",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "tinkers",
+    "title": "Tinkers",
+    "authorId": "paul-harding",
+    "authorName": "Paul Harding",
+    "publicationYear": 2009,
+    "publisher": "Bellevue Literary Press",
+    "isbn13": "9781934137123",
+    "genres": [
+      "Lyrical",
+      "Meditation",
+      "Historical"
+    ],
+    "synopsis": "Lying on his deathbed in New England, an elderly clock repairman drifts through fevered, poetic hallucinations of his father's life as an epileptic tinker traveling through wilderness on a mule cart.",
+    "pageCount": 192,
+    "spineColor": "#57534e",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-brief-wondrous-life-of-oscar-wao",
+    "title": "The Brief Wondrous Life of Oscar Wao",
+    "authorId": "junot-diaz",
+    "authorName": "Junot Díaz",
+    "publicationYear": 2007,
+    "publisher": "Riverhead Books",
+    "imprint": "Penguin",
+    "isbn13": "9781594489587",
+    "genres": [
+      "Coming of Age",
+      "Magical Realism",
+      "Diaspora"
+    ],
+    "synopsis": "Following an overweight Dominican sci-fi nerd in New Jersey dreaming of love, haunted by the fukú—an ancient generational curse that has plagued his family from the brutal Trujillo dictatorship.",
+    "pageCount": 352,
+    "spineColor": "#dc2626",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-road",
+    "title": "The Road",
+    "authorId": "cormac-mccarthy",
+    "authorName": "Cormac McCarthy",
+    "publicationYear": 2006,
+    "publisher": "Knopf",
+    "imprint": "Random House",
+    "isbn13": "9780307265432",
+    "genres": [
+      "Post-Apocalyptic",
+      "Literary",
+      "Survival"
+    ],
+    "synopsis": "A nameless father and his young son walk alone through burned, ash-covered post-apocalyptic America toward the southern coast, sustaining love and humanity amid cannibalism and extinction.",
+    "pageCount": 288,
+    "spineColor": "#18181b",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "gilead",
+    "title": "Gilead",
+    "authorId": "marilynne-robinson",
+    "authorName": "Marilynne Robinson",
+    "publicationYear": 2004,
+    "publisher": "Farrar, Straus and Giroux",
+    "imprint": "FSG",
+    "isbn13": "9780374153892",
+    "genres": [
+      "Epistolary",
+      "Philosophical",
+      "Historical"
+    ],
+    "synopsis": "In 1956 Iowa, seventy-six-year-old Congregationalist pastor John Ames pens a testament and spiritual autobiography for his young son, exploring faith, grace, and reconciliation.",
+    "pageCount": 256,
+    "spineColor": "#b45309",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "middlesex",
+    "title": "Middlesex",
+    "authorId": "jeffrey-eugenides",
+    "authorName": "Jeffrey Eugenides",
+    "publicationYear": 2002,
+    "publisher": "Farrar, Straus and Giroux",
+    "imprint": "FSG",
+    "isbn13": "9780374199692",
+    "genres": [
+      "Family Saga",
+      "Gender Identity",
+      "Historical"
+    ],
+    "synopsis": "The sweeping three-generation epic of the Stephanides family, fleeing the burning of Smyrna in 1922 to Detroit, carrying a mutated gene that culminates in Cal's intersex identity.",
+    "pageCount": 544,
+    "spineColor": "#4338ca",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-amazing-adventures-of-kavalier-and-clay",
+    "title": "The Amazing Adventures of Kavalier & Clay",
+    "authorId": "michael-chabon",
+    "authorName": "Michael Chabon",
+    "publicationYear": 2000,
+    "publisher": "Random House",
+    "isbn13": "9780679450047",
+    "genres": [
+      "Historical Epic",
+      "Comics",
+      "Jewish Literature"
+    ],
+    "synopsis": "In 1939 New York, teenage escape-artist refugee Josef Kavalier teams up with his Brooklyn cousin Sammy Clay to invent the comic superhero The Escapist, capturing the golden age of American comics.",
+    "pageCount": 656,
+    "spineColor": "#1d4ed8",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-shipping-news",
+    "title": "The Shipping News",
+    "authorId": "annie-proulx",
+    "authorName": "E. Annie Proulx",
+    "publicationYear": 1993,
+    "publisher": "Charles Scribner's Sons",
+    "imprint": "Simon & Schuster",
+    "isbn13": "9780684195797",
+    "genres": [
+      "Coming of Age",
+      "Coastal",
+      "Tragicomedy"
+    ],
+    "synopsis": "Devastated by his cruel wife's infidelity and death, third-rate journalist Quoyle retreats with his two young daughters and aunt to his ancestral Newfoundland coast to rebuild his soul.",
+    "pageCount": 352,
+    "spineColor": "#0e7490",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "beloved",
+    "title": "Beloved",
+    "authorId": "toni-morrison",
+    "authorName": "Toni Morrison",
+    "publicationYear": 1987,
+    "publisher": "Alfred A. Knopf",
+    "isbn13": "9780394535975",
+    "genres": [
+      "Historical Fiction",
+      "Ghost Story",
+      "Masterpiece"
+    ],
+    "synopsis": "In post-Civil War Ohio, formerly enslaved Sethe is haunted by the vengeful ghost of the unnamed infant daughter she killed eighteen years earlier to spare her from the horrors of slavery.",
+    "pageCount": 324,
+    "spineColor": "#450a0a",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "trust-exercise",
+    "title": "Trust Exercise",
+    "authorId": "susan-choi",
+    "authorName": "Susan Choi",
+    "publicationYear": 2019,
+    "publisher": "Henry Holt and Co.",
+    "isbn13": "9781250222022",
+    "genres": [
+      "Metafiction",
+      "Coming of Age",
+      "Psychological"
+    ],
+    "synopsis": "At a competitive performing arts high school in the 1980s, the passionate romance of two drama students is upended fourteen years later by a startling narrative pivot on truth and manipulation.",
+    "pageCount": 272,
+    "spineColor": "#e11d48",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-friend",
+    "title": "The Friend",
+    "authorId": "sigrid-nunez",
+    "authorName": "Sigrid Nunez",
+    "publicationYear": 2018,
+    "publisher": "Riverhead Books",
+    "imprint": "Penguin",
+    "isbn13": "9780735219441",
+    "genres": [
+      "Grief",
+      "Companion Animal",
+      "Literary"
+    ],
+    "synopsis": "When a woman unexpectedly loses her lifelong friend and literary mentor to suicide, she becomes the reluctant caretaker of his traumatized Great Dane, Apollo.",
+    "pageCount": 224,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-good-lord-bird",
+    "title": "The Good Lord Bird",
+    "authorId": "james-mcbride",
+    "authorName": "James McBride",
+    "publicationYear": 2013,
+    "publisher": "Riverhead Books",
+    "imprint": "Penguin",
+    "isbn13": "9781594486340",
+    "genres": [
+      "Historical Satire",
+      "Picaresque",
+      "Civil War"
+    ],
+    "synopsis": "A riotous, tall-tale recounting of radical abolitionist John Brown's crusade as witnessed by Henry Shackleford, an enslaved boy who survives by passing as a girl.",
+    "pageCount": 432,
+    "spineColor": "#b45309",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "salvage-the-bones",
+    "title": "Salvage the Bones",
+    "authorId": "jesmyn-ward",
+    "authorName": "Jesmyn Ward",
+    "publicationYear": 2011,
+    "publisher": "Bloomsbury USA",
+    "isbn13": "9781608195220",
+    "genres": [
+      "Family Drama",
+      "Southern Gothic",
+      "Tragedy"
+    ],
+    "synopsis": "Over twelve days leading up to Hurricane Katrina, pregnant fourteen-year-old Esch and her motherless brothers brace for the storm in the impoverished Mississippi bayou town of Bois Sauvage.",
+    "pageCount": 272,
+    "spineColor": "#581c87",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-round-house",
+    "title": "The Round House",
+    "authorId": "louise-erdrich",
+    "authorName": "Louise Erdrich",
+    "publicationYear": 2012,
+    "publisher": "Harper",
+    "imprint": "HarperCollins",
+    "isbn13": "9780062065247",
+    "genres": [
+      "Indigenous Literature",
+      "Mystery",
+      "Justice"
+    ],
+    "synopsis": "When his mother survives a brutal attack on the Ojibwe reservation in North Dakota, thirteen-year-old Joe Coutts embarks on an agonizing quest for justice amid a jurisdictional quagmire.",
+    "pageCount": 336,
+    "spineColor": "#064e3b",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "an-american-marriage",
+    "title": "An American Marriage",
+    "authorId": "tayari-jones",
+    "authorName": "Tayari Jones",
+    "publicationYear": 2018,
+    "publisher": "Algonquin Books",
+    "isbn13": "9781616208684",
+    "genres": [
+      "Contemporary",
+      "Love",
+      "Incarceration"
+    ],
+    "synopsis": "Newlywed Black professionals in Atlanta have their lives shattered when Roy is wrongfully sentenced to twelve years in prison for a crime he didn't commit.",
+    "pageCount": 320,
+    "spineColor": "#831843",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "home-fire",
+    "title": "Home Fire",
+    "authorId": "kamila-shamsie",
+    "authorName": "Kamila Shamsie",
+    "publicationYear": 2017,
+    "publisher": "Riverhead Books",
+    "imprint": "Penguin",
+    "isbn13": "9780735217607",
+    "genres": [
+      "Tragedy",
+      "Political",
+      "Modern Classic"
+    ],
+    "synopsis": "A devastating contemporary retelling of Sophocles' Antigone following three British Muslim siblings whose loyalties are torn when the youngest joins ISIS.",
+    "pageCount": 288,
+    "spineColor": "#b91c1c",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "the-power",
+    "title": "The Power",
+    "authorId": "naomi-alderman",
+    "authorName": "Naomi Alderman",
+    "publicationYear": 2016,
+    "publisher": "Viking",
+    "imprint": "Penguin",
+    "isbn13": "9780525537083",
+    "genres": [
+      "Feminist Speculative",
+      "Dystopian",
+      "Sci-Fi"
+    ],
+    "synopsis": "Teenage girls across the world develop the biological power to emit deadly electric jolts from their fingertips, radically inverting the global patriarchy.",
+    "pageCount": 352,
+    "spineColor": "#6366f1",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "a-girl-is-a-half-formed-thing",
+    "title": "A Girl Is a Half-formed Thing",
+    "authorId": "eimear-mcbride",
+    "authorName": "Eimear McBride",
+    "publicationYear": 2013,
+    "publisher": "Galley Beggar Press",
+    "isbn13": "9780957503717",
+    "genres": [
+      "Experimental",
+      "Modernist",
+      "Irish Literature"
+    ],
+    "synopsis": "Written in a fractured, rhythmic interior language of extraordinary immediacy, tracing an Irish girl's complex bond with her brother who survived childhood brain cancer.",
+    "pageCount": 224,
+    "spineColor": "#9f1239",
+    "countryOfOrigin": "Ireland"
+  },
+  {
+    "id": "half-of-a-yellow-sun",
+    "title": "Half of a Yellow Sun",
+    "authorId": "chimamanda-ngozi-adichie",
+    "authorName": "Chimamanda Ngozi Adichie",
+    "publicationYear": 2006,
+    "publisher": "Knopf",
+    "imprint": "Random House",
+    "isbn13": "9781400044160",
+    "genres": [
+      "Historical Epic",
+      "War",
+      "African Literature"
+    ],
+    "synopsis": "A landmark epic exploring the Biafran war for independence in 1960s Nigeria through the lives of twin sisters, a university professor, and a houseboy.",
+    "pageCount": 448,
+    "spineColor": "#ea580c",
+    "countryOfOrigin": "Nigeria"
+  },
+  {
+    "id": "at-night-all-blood-is-black",
+    "title": "At Night All Blood Is Black",
+    "authorId": "david-diop",
+    "authorName": "David Diop",
+    "publicationYear": 2018,
+    "publisher": "Pushkin Press",
+    "isbn13": "9781782276074",
+    "genres": [
+      "War",
+      "Psychological",
+      "Translated"
+    ],
+    "synopsis": "In the trenches of WWI, Senegalese Tirailleur Alfa Ndiaye descends into chilling madness and ritualistic vengeance after the agonizing death of his childhood friend.",
+    "pageCount": 160,
+    "spineColor": "#111827",
+    "countryOfOrigin": "France"
+  },
+  {
+    "id": "the-discomfort-of-evening",
+    "title": "The Discomfort of Evening",
+    "authorId": "marieke-lucas-rijneveld",
+    "authorName": "Marieke Lucas Rijneveld",
+    "publicationYear": 2018,
+    "publisher": "Faber and Faber",
+    "isbn13": "9780571349357",
+    "genres": [
+      "Grief",
+      "Coming of Age",
+      "Dutch Literature"
+    ],
+    "synopsis": "On a strict Dutch Reformed dairy farm, ten-year-old Jas navigates a family collapsing into dark, surreal grief after her older brother dies in an ice-skating accident.",
+    "pageCount": 288,
+    "spineColor": "#475569",
+    "countryOfOrigin": "Netherlands"
+  },
+  {
+    "id": "celestial-bodies",
+    "title": "Celestial Bodies",
+    "authorId": "jokha-alharthi",
+    "authorName": "Jokha Alharthi",
+    "publicationYear": 2018,
+    "publisher": "Sandstone Press",
+    "isbn13": "9781912240166",
+    "genres": [
+      "Family Saga",
+      "Historical",
+      "Arabic Literature"
+    ],
+    "synopsis": "In the Omani village of al-Awafi, tracing the lives of three sisters witnessing Oman's transition from a traditional, slave-owning society to oil-rich modernity.",
+    "pageCount": 256,
+    "spineColor": "#0f766e",
+    "countryOfOrigin": "Oman"
+  },
+  {
+    "id": "flights",
+    "title": "Flights",
+    "authorId": "olga-tokarczuk",
+    "authorName": "Olga Tokarczuk",
+    "publicationYear": 2017,
+    "publisher": "Fitzcarraldo Editions",
+    "isbn13": "9781910695432",
+    "genres": [
+      "Constellation Novel",
+      "Philosophical",
+      "Travel"
+    ],
+    "synopsis": "A brilliant constellation novel interweaving modern airport transit reflections with 17th-century anatomical history, Chopin's heart journey, and the human impulse to move.",
+    "pageCount": 416,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "Poland"
+  },
+  {
+    "id": "network-effect",
+    "title": "Network Effect",
+    "authorId": "martha-wells",
+    "authorName": "Martha Wells",
+    "publicationYear": 2020,
+    "publisher": "Tor.com",
+    "isbn13": "9781250229861",
+    "genres": [
+      "Space Opera",
+      "Cynical AI",
+      "Sci-Fi"
+    ],
+    "synopsis": "The first full-length novel in the Murderbot Diaries series, where the security android Murderbot must rescue its human companions from a mysterious alien hazard.",
+    "pageCount": 352,
+    "spineColor": "#0d9488",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "ancillary-justice",
+    "title": "Ancillary Justice",
+    "authorId": "ann-leckie",
+    "authorName": "Ann Leckie",
+    "publicationYear": 2013,
+    "publisher": "Orbit",
+    "isbn13": "9780316246620",
+    "genres": [
+      "Space Opera",
+      "AI",
+      "Gender"
+    ],
+    "synopsis": "On a remote, icy planet, Breq—once the Justice of Toren, a colossal starship AI controlling thousands of human corpse soldiers—seeks vengeance for her destruction.",
+    "pageCount": 400,
+    "spineColor": "#3730a3",
+    "countryOfOrigin": "United States"
   }
 ]

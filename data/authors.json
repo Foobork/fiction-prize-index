@@ -230,5 +230,308 @@
     "nationality": "Romanian",
     "birthYear": 1956,
     "bio": "Romanian writer and poet, author of the monumental Solenoid, winner of the 2024 International Dublin Literary Award."
+  },
+  {
+    "id": "paul-beatty",
+    "name": "Paul Beatty",
+    "nationality": "American",
+    "birthYear": 1962,
+    "bio": "American author and poet; the first American writer to win the Booker Prize for his biting satire The Sellout."
+  },
+  {
+    "id": "marlon-james",
+    "name": "Marlon James",
+    "nationality": "Jamaican",
+    "birthYear": 1970,
+    "bio": "Acclaimed Jamaican writer whose polyphonic epic A Brief History of Seven Killings won the 2015 Booker Prize."
+  },
+  {
+    "id": "richard-flanagan",
+    "name": "Richard Flanagan",
+    "nationality": "Australian",
+    "birthYear": 1961,
+    "bio": "Tasmanian novelist whose father survived the Burma Death Railway, inspiring his Booker-winning epic The Narrow Road to the Deep North."
+  },
+  {
+    "id": "eleanor-catton",
+    "name": "Eleanor Catton",
+    "nationality": "New Zealander-Canadian",
+    "birthYear": 1985,
+    "bio": "New Zealand author who became the youngest author ever to win the Booker Prize at age 28 for The Luminaries."
+  },
+  {
+    "id": "julian-barnes",
+    "name": "Julian Barnes",
+    "nationality": "British",
+    "birthYear": 1946,
+    "bio": "Celebrated English author and essayist, winner of the 2011 Booker Prize for The Sense of an Ending."
+  },
+  {
+    "id": "aravind-adiga",
+    "name": "Aravind Adiga",
+    "nationality": "Indian-Australian",
+    "birthYear": 1974,
+    "bio": "Indian-Australian writer whose debut novel The White Tiger won the 2008 Booker Prize."
+  },
+  {
+    "id": "anne-enright",
+    "name": "Anne Enright",
+    "nationality": "Irish",
+    "birthYear": 1962,
+    "bio": "Irish novelist, essayist, and Inaugural Laureate for Irish Fiction; winner of the 2007 Booker Prize for The Gathering."
+  },
+  {
+    "id": "kiran-desai",
+    "name": "Kiran Desai",
+    "nationality": "Indian",
+    "birthYear": 1971,
+    "bio": "Indian author whose novel The Inheritance of Loss won the 2006 Booker Prize and National Book Critics Circle Award."
+  },
+  {
+    "id": "dbc-pierre",
+    "name": "DBC Pierre",
+    "nationality": "Australian",
+    "birthYear": 1961,
+    "bio": "Novelist whose darkly comic Texas high school shooting satire Vernon God Little captured the 2003 Booker Prize."
+  },
+  {
+    "id": "yann-martel",
+    "name": "Yann Martel",
+    "nationality": "Canadian",
+    "birthYear": 1963,
+    "bio": "Canadian writer and author of the global bestselling philosophical fable Life of Pi, winner of the 2002 Booker Prize."
+  },
+  {
+    "id": "arundhati-roy",
+    "name": "Arundhati Roy",
+    "nationality": "Indian",
+    "birthYear": 1961,
+    "bio": "Indian author, essayist, and political activist whose debut novel The God of Small Things won the 1997 Booker Prize."
+  },
+  {
+    "id": "roddy-doyle",
+    "name": "Roddy Doyle",
+    "nationality": "Irish",
+    "birthYear": 1958,
+    "bio": "Irish novelist, dramatist, and screenwriter, winner of the 1993 Booker Prize for Paddy Clarke Ha Ha Ha."
+  },
+  {
+    "id": "michael-ondaatje",
+    "name": "Michael Ondaatje",
+    "nationality": "Sri Lankan-Canadian",
+    "birthYear": 1943,
+    "bio": "Sri Lankan-born Canadian poet and novelist, winner of the 1992 Booker Prize and the Golden Man Booker for The English Patient."
+  },
+  {
+    "id": "kazuo-ishiguro",
+    "name": "Kazuo Ishiguro",
+    "nationality": "British",
+    "birthYear": 1954,
+    "bio": "Nobel laureate and author of The Remains of the Day (1989 Booker Prize winner) and Never Let Me Go."
+  },
+  {
+    "id": "salman-rushdie",
+    "name": "Salman Rushdie",
+    "nationality": "British-American",
+    "birthYear": 1947,
+    "bio": "Pioneering novelist whose magical realist masterpiece Midnight's Children won the 1981 Booker Prize and the Booker of Bookers."
+  },
+  {
+    "id": "andrew-sean-greer",
+    "name": "Andrew Sean Greer",
+    "nationality": "American",
+    "birthYear": 1970,
+    "bio": "American novelist and short story writer, winner of the 2018 Pulitzer Prize for Fiction for his comic novel Less."
+  },
+  {
+    "id": "viet-thanh-nguyen",
+    "name": "Viet Thanh Nguyen",
+    "nationality": "Vietnamese-American",
+    "birthYear": 1971,
+    "bio": "Vietnamese-American professor and author whose debut novel The Sympathizer won the 2016 Pulitzer Prize for Fiction."
+  },
+  {
+    "id": "anthony-doerr",
+    "name": "Anthony Doerr",
+    "nationality": "American",
+    "birthYear": 1973,
+    "bio": "American novelist whose lyrical World War II epic All the Light We Cannot See won the 2015 Pulitzer Prize for Fiction."
+  },
+  {
+    "id": "donna-tartt",
+    "name": "Donna Tartt",
+    "nationality": "American",
+    "birthYear": 1963,
+    "bio": "Renowned American novelist whose Dickensian epic The Goldfinch won the 2014 Pulitzer Prize for Fiction."
+  },
+  {
+    "id": "jennifer-egan",
+    "name": "Jennifer Egan",
+    "nationality": "American",
+    "birthYear": 1962,
+    "bio": "American novelist and short story writer, winner of both the Pulitzer Prize and National Book Critics Circle Award for A Visit from the Goon Squad."
+  },
+  {
+    "id": "paul-harding",
+    "name": "Paul Harding",
+    "nationality": "American",
+    "birthYear": 1967,
+    "bio": "American author whose debut novel Tinkers won the 2010 Pulitzer Prize for Fiction from indie press Bellevue Literary Press."
+  },
+  {
+    "id": "junot-diaz",
+    "name": "Junot Díaz",
+    "nationality": "Dominican-American",
+    "birthYear": 1968,
+    "bio": "Dominican-American writer whose novel The Brief Wondrous Life of Oscar Wao won the 2008 Pulitzer Prize and NBCC Award."
+  },
+  {
+    "id": "cormac-mccarthy",
+    "name": "Cormac McCarthy",
+    "nationality": "American",
+    "birthYear": 1933,
+    "deathYear": 2023,
+    "bio": "Legendary American novelist of Blood Meridian and The Road, which won the 2007 Pulitzer Prize for Fiction."
+  },
+  {
+    "id": "marilynne-robinson",
+    "name": "Marilynne Robinson",
+    "nationality": "American",
+    "birthYear": 1943,
+    "bio": "Acclaimed American novelist and essayist, winner of the 2005 Pulitzer Prize and NBCC Award for Gilead."
+  },
+  {
+    "id": "jeffrey-eugenides",
+    "name": "Jeffrey Eugenides",
+    "nationality": "American",
+    "birthYear": 1960,
+    "bio": "American novelist of Greek and Irish descent whose intersex epic saga Middlesex won the 2003 Pulitzer Prize for Fiction."
+  },
+  {
+    "id": "michael-chabon",
+    "name": "Michael Chabon",
+    "nationality": "American",
+    "birthYear": 1963,
+    "bio": "American novelist whose comic-book historical saga The Amazing Adventures of Kavalier & Clay won the 2001 Pulitzer Prize."
+  },
+  {
+    "id": "annie-proulx",
+    "name": "E. Annie Proulx",
+    "nationality": "American",
+    "birthYear": 1935,
+    "bio": "American author and journalist whose novel The Shipping News won both the Pulitzer Prize and National Book Award."
+  },
+  {
+    "id": "toni-morrison",
+    "name": "Toni Morrison",
+    "nationality": "American",
+    "birthYear": 1931,
+    "deathYear": 2019,
+    "bio": "Towering American author and 1993 Nobel laureate whose masterpiece Beloved won the 1988 Pulitzer Prize for Fiction."
+  },
+  {
+    "id": "susan-choi",
+    "name": "Susan Choi",
+    "nationality": "American",
+    "birthYear": 1969,
+    "bio": "American novelist and academic, winner of the 2019 National Book Award for Fiction for Trust Exercise."
+  },
+  {
+    "id": "sigrid-nunez",
+    "name": "Sigrid Nunez",
+    "nationality": "American",
+    "birthYear": 1951,
+    "bio": "American novelist and essayist whose meditation on grief and companionship The Friend won the 2018 National Book Award."
+  },
+  {
+    "id": "adam-johnson",
+    "name": "Adam Johnson",
+    "nationality": "American",
+    "birthYear": 1967,
+    "bio": "American writer who won the 2013 Pulitzer Prize for The Orphan Master's Son and the 2015 National Book Award for Fortune Smiles."
+  },
+  {
+    "id": "james-mcbride",
+    "name": "James McBride",
+    "nationality": "American",
+    "birthYear": 1957,
+    "bio": "American author, musician, and screenwriter whose riotous abolitionist novel The Good Lord Bird won the 2013 National Book Award."
+  },
+  {
+    "id": "tayari-jones",
+    "name": "Tayari Jones",
+    "nationality": "American",
+    "birthYear": 1970,
+    "bio": "American author whose novel An American Marriage won the 2019 Women's Prize for Fiction."
+  },
+  {
+    "id": "kamila-shamsie",
+    "name": "Kamila Shamsie",
+    "nationality": "British-Pakistani",
+    "birthYear": 1973,
+    "bio": "British-Pakistani novelist whose modern Antigone reimagining Home Fire won the 2018 Women's Prize for Fiction."
+  },
+  {
+    "id": "naomi-alderman",
+    "name": "Naomi Alderman",
+    "nationality": "British",
+    "birthYear": 1974,
+    "bio": "British author and game writer whose feminist speculative thriller The Power won the 2017 Women's Prize for Fiction."
+  },
+  {
+    "id": "eimear-mcbride",
+    "name": "Eimear McBride",
+    "nationality": "Irish",
+    "birthYear": 1976,
+    "bio": "Irish novelist whose debut A Girl Is a Half-formed Thing won both the inaugural Goldsmiths Prize and the 2014 Women's Prize."
+  },
+  {
+    "id": "chimamanda-ngozi-adichie",
+    "name": "Chimamanda Ngozi Adichie",
+    "nationality": "Nigerian",
+    "birthYear": 1977,
+    "bio": "Internationally renowned Nigerian author whose Biafran civil war epic Half of a Yellow Sun won the 2007 Women's Prize."
+  },
+  {
+    "id": "david-diop",
+    "name": "David Diop",
+    "nationality": "French",
+    "birthYear": 1966,
+    "bio": "French novelist and academic whose harrowing WWI novel At Night All Blood Is Black won the 2021 International Booker Prize."
+  },
+  {
+    "id": "marieke-lucas-rijneveld",
+    "name": "Marieke Lucas Rijneveld",
+    "nationality": "Dutch",
+    "birthYear": 1991,
+    "bio": "Dutch author and poet, one of the youngest authors to win the International Booker Prize for The Discomfort of Evening."
+  },
+  {
+    "id": "jokha-alharthi",
+    "name": "Jokha Alharthi",
+    "nationality": "Omani",
+    "birthYear": 1978,
+    "bio": "Omani author and academic, first Arabic-language writer to win the International Booker Prize for Celestial Bodies."
+  },
+  {
+    "id": "olga-tokarczuk",
+    "name": "Olga Tokarczuk",
+    "nationality": "Polish",
+    "birthYear": 1962,
+    "bio": "Polish Nobel laureate whose novel of travel and wanderlust Flights won the 2018 International Booker Prize."
+  },
+  {
+    "id": "martha-wells",
+    "name": "Martha Wells",
+    "nationality": "American",
+    "birthYear": 1964,
+    "bio": "American science fiction writer whose novel Network Effect won both the Hugo and Nebula Awards for Best Novel."
+  },
+  {
+    "id": "ann-leckie",
+    "name": "Ann Leckie",
+    "nationality": "American",
+    "birthYear": 1966,
+    "bio": "American science fiction author whose groundbreaking debut Ancillary Justice won the Hugo, Nebula, and Arthur C. Clarke awards."
   }
 ]

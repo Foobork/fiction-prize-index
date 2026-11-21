@@ -368,5 +368,515 @@
     "category": "World Fiction",
     "citation": "Winner: An awe-inspiring, dream-suffused monument to literature, childhood, and metaphysical longing.",
     "sourceUrl": "https://dublinliteraryaward.ie/previous-years/2024-winner/"
+  },
+  {
+    "id": "nom-sellout-booker-2016",
+    "prizeId": "booker-prize",
+    "bookId": "the-sellout",
+    "year": 2016,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A brilliant, fearless satire that plunges into the heart of contemporary American society with savage wit.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-sellout"
+  },
+  {
+    "id": "nom-seven-killings-booker-2015",
+    "prizeId": "booker-prize",
+    "bookId": "a-brief-history-of-seven-killings",
+    "year": 2015,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A colossal polyphonic tour-de-force reimagining Jamaican political violence and reggae history.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/a-brief-history-of-seven-killings"
+  },
+  {
+    "id": "nom-narrow-road-booker-2014",
+    "prizeId": "booker-prize",
+    "bookId": "the-narrow-road-to-the-deep-north",
+    "year": 2014,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A devastating masterpiece exploring the depths of wartime suffering and human resilience.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-narrow-road-to-the-deep-north"
+  },
+  {
+    "id": "nom-luminaries-booker-2013",
+    "prizeId": "booker-prize",
+    "bookId": "the-luminaries",
+    "year": 2013,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "An extraordinary feat of astrological and Victorian mystery architecture by the youngest winner in Booker history.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-luminaries"
+  },
+  {
+    "id": "nom-bring-up-bodies-booker-2012",
+    "prizeId": "booker-prize",
+    "bookId": "bring-up-the-bodies",
+    "year": 2012,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Mantel achieves the rare distinction of a second Booker win with an even more ruthless, intimate Tudor triumph.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/bring-up-the-bodies"
+  },
+  {
+    "id": "nom-sense-ending-booker-2011",
+    "prizeId": "booker-prize",
+    "bookId": "the-sense-of-an-ending",
+    "year": 2011,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A compact masterpiece on the betrayal of memory and the enduring consequences of youth.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-sense-of-an-ending"
+  },
+  {
+    "id": "nom-white-tiger-booker-2008",
+    "prizeId": "booker-prize",
+    "bookId": "the-white-tiger",
+    "year": 2008,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A biting, visceral picaresque unveiling the raw economic divisions of contemporary India.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-white-tiger"
+  },
+  {
+    "id": "nom-gathering-booker-2007",
+    "prizeId": "booker-prize",
+    "bookId": "the-gathering",
+    "year": 2007,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "An unflinching, beautifully written journey through grief and buried family secrets.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-gathering"
+  },
+  {
+    "id": "nom-inheritance-loss-booker-2006",
+    "prizeId": "booker-prize",
+    "bookId": "the-inheritance-of-loss",
+    "year": 2006,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A magnificent novel balancing global migration, colonial hangover, and domestic yearning.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-inheritance-of-loss"
+  },
+  {
+    "id": "nom-life-of-pi-booker-2002",
+    "prizeId": "booker-prize",
+    "bookId": "life-of-pi",
+    "year": 2002,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A daring allegorical fantasy of survival, zoology, and religious faith.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/life-of-pi"
+  },
+  {
+    "id": "nom-blind-assassin-booker-2000",
+    "prizeId": "booker-prize",
+    "bookId": "the-blind-assassin",
+    "year": 2000,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Atwood's intricately nested masterpiece of sisterhood, blackmail, and pulp fiction.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-blind-assassin"
+  },
+  {
+    "id": "nom-god-small-things-booker-1997",
+    "prizeId": "booker-prize",
+    "bookId": "the-god-of-small-things",
+    "year": 1997,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A breathtaking debut capturing the heartbreaking collision of childhood innocence and forbidden love.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-god-of-small-things"
+  },
+  {
+    "id": "nom-english-patient-booker-1992",
+    "prizeId": "booker-prize",
+    "bookId": "the-english-patient",
+    "year": 1992,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A sensual, poetic landmark crowned the Golden Man Booker best work in prize history.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-english-patient"
+  },
+  {
+    "id": "nom-remains-of-day-booker-1989",
+    "prizeId": "booker-prize",
+    "bookId": "the-remains-of-the-day",
+    "year": 1989,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A sublime portrait of repressed emotion and misplaced loyalty in pre-war Britain.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-remains-of-the-day"
+  },
+  {
+    "id": "nom-midnights-children-booker-1981",
+    "prizeId": "booker-prize",
+    "bookId": "midnights-children",
+    "year": 1981,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A landmark achievement that redefined English literature and won the 'Booker of Bookers'.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/midnights-children"
+  },
+  {
+    "id": "nom-less-pulitzer-2018",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "less",
+    "year": 2018,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "A generous, lyrical comedy about growing old and the essential nature of love.",
+    "sourceUrl": "https://www.pulitzer.org/winners/andrew-sean-greer"
+  },
+  {
+    "id": "nom-sympathizer-pulitzer-2016",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-sympathizer",
+    "year": 2016,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "A layered immigrant tale told in the wry, confessional voice of a 'man of two minds'.",
+    "sourceUrl": "https://www.pulitzer.org/winners/viet-thanh-nguyen"
+  },
+  {
+    "id": "nom-all-the-light-pulitzer-2015",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "all-the-light-we-cannot-see",
+    "year": 2015,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "An imaginative and intricate novel inspired by the horrors of World War II.",
+    "sourceUrl": "https://www.pulitzer.org/winners/anthony-doerr"
+  },
+  {
+    "id": "nom-goldfinch-pulitzer-2014",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-goldfinch",
+    "year": 2014,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "A beautifully written coming-of-age novel with exquisitely drawn characters.",
+    "sourceUrl": "https://www.pulitzer.org/winners/donna-tartt"
+  },
+  {
+    "id": "nom-goon-squad-pulitzer-2011",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "a-visit-from-the-goon-squad",
+    "year": 2011,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "An inventive investigation of growing up and growing old in the digital age.",
+    "sourceUrl": "https://www.pulitzer.org/winners/jennifer-egan"
+  },
+  {
+    "id": "nom-goon-squad-nbcc-2010",
+    "prizeId": "nbcc-fiction",
+    "bookId": "a-visit-from-the-goon-squad",
+    "year": 2010,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction.",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/2010/"
+  },
+  {
+    "id": "nom-tinkers-pulitzer-2010",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "tinkers",
+    "year": 2010,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "A powerful celebration of life from a small indie press, recounting memories of a dying father and grandfather.",
+    "sourceUrl": "https://www.pulitzer.org/winners/paul-harding"
+  },
+  {
+    "id": "nom-oscar-wao-pulitzer-2008",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-brief-wondrous-life-of-oscar-wao",
+    "year": 2008,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "A dazzling exploration of the Dominican-American experience, family curses, and love.",
+    "sourceUrl": "https://www.pulitzer.org/winners/junot-diaz"
+  },
+  {
+    "id": "nom-oscar-wao-nbcc-2007",
+    "prizeId": "nbcc-fiction",
+    "bookId": "the-brief-wondrous-life-of-oscar-wao",
+    "year": 2007,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction.",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/2007/"
+  },
+  {
+    "id": "nom-road-pulitzer-2007",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-road",
+    "year": 2007,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "An incandescent masterpiece of paternal love and survival amid a barren post-apocalyptic terrain.",
+    "sourceUrl": "https://www.pulitzer.org/winners/cormac-mccarthy"
+  },
+  {
+    "id": "nom-gilead-pulitzer-2005",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "gilead",
+    "year": 2005,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "A luminous, deeply spiritual meditation on American fatherhood, race, and grace.",
+    "sourceUrl": "https://www.pulitzer.org/winners/marilynne-robinson"
+  },
+  {
+    "id": "nom-gilead-nbcc-2004",
+    "prizeId": "nbcc-fiction",
+    "bookId": "gilead",
+    "year": 2004,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction.",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/2004/"
+  },
+  {
+    "id": "nom-middlesex-pulitzer-2003",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "middlesex",
+    "year": 2003,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "A wildly imaginative, multigenerational American immigrant saga of genetics and gender identity.",
+    "sourceUrl": "https://www.pulitzer.org/winners/jeffrey-eugenides"
+  },
+  {
+    "id": "nom-kavalier-clay-pulitzer-2001",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-amazing-adventures-of-kavalier-and-clay",
+    "year": 2001,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "A triumph of storytelling celebrating the birth of the American comic book and escape from Nazi tyranny.",
+    "sourceUrl": "https://www.pulitzer.org/winners/michael-chabon"
+  },
+  {
+    "id": "nom-shipping-news-pulitzer-1994",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-shipping-news",
+    "year": 1994,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the Pulitzer Prize for Fiction.",
+    "sourceUrl": "https://www.pulitzer.org/winners/e-annie-proulx"
+  },
+  {
+    "id": "nom-shipping-news-nba-1993",
+    "prizeId": "national-book-award",
+    "bookId": "the-shipping-news",
+    "year": 1993,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Award for Fiction.",
+    "sourceUrl": "https://www.nationalbook.org/books/the-shipping-news/"
+  },
+  {
+    "id": "nom-beloved-pulitzer-1988",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "beloved",
+    "year": 1988,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "An indelible monument of American literature confronting the unfathomable legacy of slavery.",
+    "sourceUrl": "https://www.pulitzer.org/winners/toni-morrison"
+  },
+  {
+    "id": "nom-trust-exercise-nba-2019",
+    "prizeId": "national-book-award",
+    "bookId": "trust-exercise",
+    "year": 2019,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "A brilliant, sharp-toothed investigation of adolescence, consent, and memory.",
+    "sourceUrl": "https://www.nationalbook.org/books/trust-exercise/"
+  },
+  {
+    "id": "nom-the-friend-nba-2018",
+    "prizeId": "national-book-award",
+    "bookId": "the-friend",
+    "year": 2018,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "A quietly luminous meditation on literature, grief, and interspecies devotion.",
+    "sourceUrl": "https://www.nationalbook.org/books/the-friend/"
+  },
+  {
+    "id": "nom-good-lord-bird-nba-2013",
+    "prizeId": "national-book-award",
+    "bookId": "the-good-lord-bird",
+    "year": 2013,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "A rollicking, fearless retelling of John Brown's pre-Civil War crusade.",
+    "sourceUrl": "https://www.nationalbook.org/books/the-good-lord-bird/"
+  },
+  {
+    "id": "nom-salvage-bones-nba-2011",
+    "prizeId": "national-book-award",
+    "bookId": "salvage-the-bones",
+    "year": 2011,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "A lyric, tragic masterpiece of family survival in the shadow of Hurricane Katrina.",
+    "sourceUrl": "https://www.nationalbook.org/books/salvage-the-bones/"
+  },
+  {
+    "id": "nom-round-house-nba-2012",
+    "prizeId": "national-book-award",
+    "bookId": "the-round-house",
+    "year": 2012,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "A passionate, nuanced mystery examining justice and sovereignty on Native land.",
+    "sourceUrl": "https://www.nationalbook.org/books/the-round-house/"
+  },
+  {
+    "id": "nom-american-marriage-womens-2019",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "an-american-marriage",
+    "year": 2019,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "A gripping, insightful portrait of how mass incarceration tears at the fabric of intimacy.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk/features/features/an-american-marriage-wins-the-2019-womens-prize"
+  },
+  {
+    "id": "nom-home-fire-womens-2018",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "home-fire",
+    "year": 2018,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "A brilliant, heartbreaking transposition of Antigone into contemporary Britain and Pakistan.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk/features/features/home-fire-wins-the-2018-womens-prize"
+  },
+  {
+    "id": "nom-the-power-womens-2017",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-power",
+    "year": 2017,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "A daring, propulsive feminist speculative masterpiece overturning world authority.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk/features/features/the-power-wins-the-2017-baileys-womens-prize"
+  },
+  {
+    "id": "nom-girl-half-formed-womens-2014",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "a-girl-is-a-half-formed-thing",
+    "year": 2014,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "An astonishing work of formal audacity that captured both the Goldsmiths and Women's Prizes.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk/features/features/a-girl-is-a-half-formed-thing-wins-2014"
+  },
+  {
+    "id": "nom-girl-half-formed-goldsmiths-2013",
+    "prizeId": "goldsmiths-prize",
+    "bookId": "a-girl-is-a-half-formed-thing",
+    "year": 2013,
+    "status": "winner",
+    "category": "Innovative Fiction",
+    "citation": "Inaugural winner of the Goldsmiths Prize, breaking the mould of the contemporary novel.",
+    "sourceUrl": "https://www.gold.ac.uk/goldsmiths-prize/prize-archive/2013/"
+  },
+  {
+    "id": "nom-half-yellow-sun-womens-2007",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "half-of-a-yellow-sun",
+    "year": 2007,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Voted the 'Winner of Winners' for the 25th anniversary of the Women's Prize for Fiction.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk/features/features/half-of-a-yellow-sun-winner-of-winners"
+  },
+  {
+    "id": "nom-all-blood-black-intl-booker-2021",
+    "prizeId": "international-booker",
+    "bookId": "at-night-all-blood-is-black",
+    "year": 2021,
+    "status": "winner",
+    "category": "Translated Fiction",
+    "citation": "A harrowing, hypnotic exploration of the psychological terrors of the Western Front.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/at-night-all-blood-is-black"
+  },
+  {
+    "id": "nom-discomfort-evening-intl-booker-2020",
+    "prizeId": "international-booker",
+    "bookId": "the-discomfort-of-evening",
+    "year": 2020,
+    "status": "winner",
+    "category": "Translated Fiction",
+    "citation": "A visceral, unflinching portrait of a rural childhood engulfed by grief.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-discomfort-of-evening"
+  },
+  {
+    "id": "nom-celestial-bodies-intl-booker-2019",
+    "prizeId": "international-booker",
+    "bookId": "celestial-bodies",
+    "year": 2019,
+    "status": "winner",
+    "category": "Translated Fiction",
+    "citation": "The first book in Arabic to win the International Booker Prize, charting generations of social transition.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/celestial-bodies"
+  },
+  {
+    "id": "nom-flights-intl-booker-2018",
+    "prizeId": "international-booker",
+    "bookId": "flights",
+    "year": 2018,
+    "status": "winner",
+    "category": "Translated Fiction",
+    "citation": "A magnificent constellation novel of anatomy, travel, and restlessness.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/flights"
+  },
+  {
+    "id": "nom-network-effect-hugo-2021",
+    "prizeId": "hugo-award-novel",
+    "bookId": "network-effect",
+    "year": 2021,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner of the Hugo Award for Best Novel.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2021-hugo-awards/"
+  },
+  {
+    "id": "nom-network-effect-nebula-2020",
+    "prizeId": "nebula-award-novel",
+    "bookId": "network-effect",
+    "year": 2020,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner of the Nebula Award for Best Novel.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2020/"
+  },
+  {
+    "id": "nom-ancillary-justice-hugo-2014",
+    "prizeId": "hugo-award-novel",
+    "bookId": "ancillary-justice",
+    "year": 2014,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner of the Hugo Award for Best Novel.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2014-hugo-awards/"
+  },
+  {
+    "id": "nom-ancillary-justice-nebula-2013",
+    "prizeId": "nebula-award-novel",
+    "bookId": "ancillary-justice",
+    "year": 2013,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner of the Nebula Award for Best Novel.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2013/"
   }
 ]
