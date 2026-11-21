@@ -3548,5 +3548,15 @@
     "category": "Fiction",
     "citation": "Inaugural Winner: The first winner of the Women’s Prize, a haunting, sensual gothic tale of sibling obsession and decay.",
     "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-les-thibaults-nobel-1937",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "les-thibaults",
+    "year": 1937,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For the artistic power and truth with which he has depicted human conflict as well as some fundamental aspects of contemporary life in his novel-cycle Les Thibault.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1937/summary/"
   }
 ]

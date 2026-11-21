@@ -2090,5 +2090,86 @@
     "birthYear": 1952,
     "deathYear": 2017,
     "bio": "British novelist and poet, inaugural winner of the Women’s Prize for Fiction in 1996 for A Spell of Winter."
+  },
+  {
+    "id": "eugene-oneill",
+    "name": "Eugene O'Neill",
+    "nationality": "American",
+    "birthYear": 1888,
+    "deathYear": 1953,
+    "nobelYear": 1936,
+    "bio": "American playwright awarded the 1936 Nobel Prize in Literature for the power, honesty, and deep-felt emotions of his dramatic works."
+  },
+  {
+    "id": "roger-martin-du-gard",
+    "name": "Roger Martin du Gard",
+    "nationality": "French",
+    "birthYear": 1881,
+    "deathYear": 1958,
+    "nobelYear": 1937,
+    "bio": "French novelist whose novel-cycle Les Thibault was recognized by the 1937 Nobel Prize in Literature."
+  },
+  {
+    "id": "frans-eemil-sillanpaa",
+    "name": "Frans Eemil Sillanpää",
+    "nationality": "Finnish",
+    "birthYear": 1888,
+    "deathYear": 1964,
+    "nobelYear": 1939,
+    "bio": "Finnish novelist awarded the 1939 Nobel Prize in Literature for his understanding and portrayal of Finnish peasant life."
+  },
+  {
+    "id": "johannes-v-jensen",
+    "name": "Johannes V. Jensen",
+    "nationality": "Danish",
+    "birthYear": 1873,
+    "deathYear": 1950,
+    "nobelYear": 1944,
+    "bio": "Danish writer whose literary work combined poetic imagination with an interest in science and the philosophy of evolution."
+  },
+  {
+    "id": "gabriela-mistral",
+    "name": "Gabriela Mistral",
+    "nationality": "Chilean",
+    "birthYear": 1889,
+    "deathYear": 1957,
+    "nobelYear": 1945,
+    "bio": "Chilean poet and educator awarded the 1945 Nobel Prize in Literature for her lyric poetry."
+  },
+  {
+    "id": "hermann-hesse",
+    "name": "Hermann Hesse",
+    "nationality": "German-Swiss",
+    "birthYear": 1877,
+    "deathYear": 1962,
+    "nobelYear": 1946,
+    "bio": "German-Swiss writer whose work explores authenticity, spirituality, and the search for balance."
+  },
+  {
+    "id": "andre-gide",
+    "name": "André Gide",
+    "nationality": "French",
+    "birthYear": 1869,
+    "deathYear": 1951,
+    "nobelYear": 1947,
+    "bio": "French writer and critic awarded the 1947 Nobel Prize in Literature for his psychologically perceptive writings."
+  },
+  {
+    "id": "bertrand-russell",
+    "name": "Bertrand Russell",
+    "nationality": "British",
+    "birthYear": 1872,
+    "deathYear": 1970,
+    "nobelYear": 1950,
+    "bio": "British philosopher and writer whose varied works championed humanitarian ideals and freedom of thought."
+  },
+  {
+    "id": "t-s-eliot",
+    "name": "T. S. Eliot",
+    "nationality": "British-American",
+    "birthYear": 1888,
+    "deathYear": 1965,
+    "nobelYear": 1948,
+    "bio": "Poet and critic whose pioneering contribution to modern poetry was recognized with the 1948 Nobel Prize in Literature."
   }
 ]
