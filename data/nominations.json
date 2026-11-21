@@ -5839,5 +5839,85 @@
     "category": "Literature",
     "citation": "For the artistic power and truth with which he has depicted human conflict as well as some fundamental aspects of contemporary life in his novel-cycle Les Thibault.",
     "sourceUrl": "https://www.nobelprize.org/prizes/literature/1937/summary/"
+  },
+  {
+    "id": "nom-the-iceman-cometh-nobel-1936",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-iceman-cometh",
+    "year": 1936,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For the power, honesty and deep-felt emotions of his dramatic works, which embody an original concept of tragedy.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1936/summary/"
+  },
+  {
+    "id": "nom-hurskas-kurjuus-nobel-1939",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "hurskas-kurjuus",
+    "year": 1939,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his deep understanding of his country's peasantry and the exquisite art with which he has portrayed their way of life and their relationship with Nature.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1939/summary/"
+  },
+  {
+    "id": "nom-den-lange-rejse-nobel-1944",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "den-lange-rejse",
+    "year": 1944,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For the rare strength and fertility of his poetic imagination with which is combined an intellectual curiosity of wide scope and a bold, freshly creative style.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1944/summary/"
+  },
+  {
+    "id": "nom-tala-nobel-1945",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "tala",
+    "year": 1945,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For her lyric poetry which, inspired by powerful emotions, has made her name a symbol of the idealistic aspirations of the entire Latin American world.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1945/summary/"
+  },
+  {
+    "id": "nom-das-glasperlenspiel-nobel-1946",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "das-glasperlenspiel",
+    "year": 1946,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his inspired writings which, while growing in boldness and penetration, exemplify the classical humanitarian ideals and high qualities of style.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1946/summary/"
+  },
+  {
+    "id": "nom-les-faux-monnayeurs-nobel-1947",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "les-faux-monnayeurs",
+    "year": 1947,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his comprehensive and artistically significant writings, in which human problems and conditions have been presented with a fearless love of truth and keen psychological insight.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1947/summary/"
+  },
+  {
+    "id": "nom-four-quartets-nobel-1948",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "four-quartets",
+    "year": 1948,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his outstanding, pioneer contribution to present-day poetry.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1948/summary/"
+  },
+  {
+    "id": "nom-a-history-of-western-philosophy-nobel-1950",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "a-history-of-western-philosophy",
+    "year": 1950,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "In recognition of his varied and significant writings in which he champions humanitarian ideals and freedom of thought.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1950/summary/"
   }
 ]
