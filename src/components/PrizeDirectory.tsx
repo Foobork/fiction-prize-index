@@ -134,7 +134,7 @@ export const PrizeDirectory: React.FC<PrizeDirectoryProps> = ({
                                     : 'bg-parchment-200 text-parchment-800 dark:bg-ink-800 dark:text-ink-300'
                                 }`}
                               >
-                                {nom.status === 'winner' ? '🏆 Winner' : '⭐ Shortlist'}
+                                {nom.status === 'winner' ? '🏆 Winner' : nom.status === 'finalist' ? '🎖️ Finalist' : '⭐ Shortlist'}
                               </span>
                               <div>
                                 <span className="font-serif font-bold text-sm text-parchment-950 dark:text-white">

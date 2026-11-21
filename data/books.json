@@ -3116,5 +3116,1000 @@
     "pageCount": 123,
     "spineColor": "#ea580c",
     "countryOfOrigin": "France"
+  },
+  {
+    "id": "creation-lake",
+    "title": "Creation Lake",
+    "authorId": "rachel-kushner",
+    "authorName": "Rachel Kushner",
+    "publicationYear": 2024,
+    "publisher": "Jonathan Cape",
+    "imprint": "Vintage",
+    "isbn13": "9781787334793",
+    "genres": [
+      "Espionage",
+      "Noir",
+      "Literary Fiction"
+    ],
+    "synopsis": "A cunning American undercover agent infiltrates a radical environmental collective in rural southwestern France.",
+    "pageCount": 400,
+    "spineColor": "#155e75",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "held",
+    "title": "Held",
+    "authorId": "anne-michaels",
+    "authorName": "Anne Michaels",
+    "publicationYear": 2023,
+    "publisher": "Bloomsbury Publishing",
+    "imprint": "Bloomsbury",
+    "isbn13": "9781526667953",
+    "genres": [
+      "Historical Fiction",
+      "Poetic",
+      "Literary Fiction"
+    ],
+    "synopsis": "A lyrical, multi-generational tapestry tracing the reverberations of love, trauma, and battle from 1917 France to the near future.",
+    "pageCount": 240,
+    "spineColor": "#334155",
+    "countryOfOrigin": "Canada"
+  },
+  {
+    "id": "the-safekeep",
+    "title": "The Safekeep",
+    "authorId": "yael-van-der-wouden",
+    "authorName": "Yael van der Wouden",
+    "publicationYear": 2024,
+    "publisher": "Viking",
+    "imprint": "Penguin",
+    "isbn13": "9780241655077",
+    "genres": [
+      "Historical Fiction",
+      "LGBTQ+",
+      "Psychological"
+    ],
+    "synopsis": "In 1961 rural Netherlands, an austere woman living in her late mother’s house is destabilized by an unwanted guest and buried wartime memories.",
+    "pageCount": 272,
+    "spineColor": "#854d0e",
+    "countryOfOrigin": "Netherlands"
+  },
+  {
+    "id": "stone-yard-devotional",
+    "title": "Stone Yard Devotional",
+    "authorId": "charlotte-wood",
+    "authorName": "Charlotte Wood",
+    "publicationYear": 2023,
+    "publisher": "Sceptre",
+    "imprint": "Hodder & Stoughton",
+    "isbn13": "9781399723220",
+    "genres": [
+      "Contemplative",
+      "Psychological",
+      "Literary Fiction"
+    ],
+    "synopsis": "A deeply burnt-out woman leaves her marriage to live alongside cloistered nuns in regional New South Wales.",
+    "pageCount": 304,
+    "spineColor": "#475569",
+    "countryOfOrigin": "Australia"
+  },
+  {
+    "id": "the-bee-sting",
+    "title": "The Bee Sting",
+    "authorId": "paul-murray",
+    "authorName": "Paul Murray",
+    "publicationYear": 2023,
+    "publisher": "Hamish Hamilton",
+    "imprint": "Penguin",
+    "isbn13": "9780241604106",
+    "genres": [
+      "Family Saga",
+      "Tragicomic",
+      "Literary Fiction"
+    ],
+    "synopsis": "A magnificent, hilarious, and devastating family saga of a prosperous Irish clan unraveling in the wake of the financial crash.",
+    "pageCount": 656,
+    "spineColor": "#b45309",
+    "countryOfOrigin": "Ireland"
+  },
+  {
+    "id": "study-for-obedience",
+    "title": "Study for Obedience",
+    "authorId": "sarah-bernstein",
+    "authorName": "Sarah Bernstein",
+    "publicationYear": 2023,
+    "publisher": "Granta Books",
+    "isbn13": "9781783789955",
+    "genres": [
+      "Psychological",
+      "Novella",
+      "Literary Fiction"
+    ],
+    "synopsis": "A young woman relocates to an unnamed northern European hamlet to keep house for her newly wealthy brother, finding herself blamed for local misfortunes.",
+    "pageCount": 208,
+    "spineColor": "#3f3f46",
+    "countryOfOrigin": "Canada"
+  },
+  {
+    "id": "if-i-survive-you",
+    "title": "If I Survive You",
+    "authorId": "jonathan-escoffery",
+    "authorName": "Jonathan Escoffery",
+    "publicationYear": 2022,
+    "publisher": "4th Estate",
+    "imprint": "HarperCollins",
+    "isbn13": "9780008542917",
+    "genres": [
+      "Short Stories",
+      "Interlinked",
+      "Literary Fiction"
+    ],
+    "synopsis": "Connected stories about Jamaican-American brothers striving to forge identities, jobs, and belonging in Miami after Hurricane Andrew.",
+    "pageCount": 272,
+    "spineColor": "#047857",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "this-other-eden",
+    "title": "This Other Eden",
+    "authorId": "paul-harding",
+    "authorName": "Paul Harding",
+    "publicationYear": 2023,
+    "publisher": "W. W. Norton & Company",
+    "isbn13": "9781324036296",
+    "genres": [
+      "Historical Fiction",
+      "Literary Fiction"
+    ],
+    "synopsis": "Inspired by the true 1912 racial expulsion of mixed-race islanders off Maine, exploring humanity, art, and the violence of eugenics.",
+    "pageCount": 224,
+    "spineColor": "#1e3a8a",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "western-lane",
+    "title": "Western Lane",
+    "authorId": "chetna-maroo",
+    "authorName": "Chetna Maroo",
+    "publicationYear": 2023,
+    "publisher": "Picador",
+    "imprint": "Pan Macmillan",
+    "isbn13": "9781529094770",
+    "genres": [
+      "Coming of Age",
+      "Sports",
+      "Literary Fiction"
+    ],
+    "synopsis": "Eleven-year-old Gopi pours her grief and quiet intensity into squash training after her mother’s death in the British Gujarati community.",
+    "pageCount": 160,
+    "spineColor": "#0f766e",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "treacle-walker",
+    "title": "Treacle Walker",
+    "authorId": "alan-garner",
+    "authorName": "Alan Garner",
+    "publicationYear": 2021,
+    "publisher": "4th Estate",
+    "imprint": "HarperCollins",
+    "isbn13": "9780008490577",
+    "genres": [
+      "Folklore",
+      "Mythological",
+      "Novella"
+    ],
+    "synopsis": "A fusion of Cheshire folklore and physics in which a young boy with a lazy eye exchanges goods with a roaming rag-and-bone man.",
+    "pageCount": 160,
+    "spineColor": "#4338ca",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "small-things-like-these",
+    "title": "Small Things Like These",
+    "authorId": "claire-keegan",
+    "authorName": "Claire Keegan",
+    "publicationYear": 2021,
+    "publisher": "Faber & Faber",
+    "isbn13": "9780571368686",
+    "genres": [
+      "Novella",
+      "Historical Fiction",
+      "Moral Drama"
+    ],
+    "synopsis": "In December 1985 Ireland, a compassionate coal merchant encounters the grim reality of a convent Magdalene laundry and makes a life-altering choice.",
+    "pageCount": 128,
+    "spineColor": "#1e293b",
+    "countryOfOrigin": "Ireland"
+  },
+  {
+    "id": "the-trees",
+    "title": "The Trees",
+    "authorId": "percival-everett",
+    "authorName": "Percival Everett",
+    "publicationYear": 2021,
+    "publisher": "Graywolf Press",
+    "isbn13": "9781644450635",
+    "genres": [
+      "Satire",
+      "Crime",
+      "Social Commentary"
+    ],
+    "synopsis": "A blistering, darkly comic retribution thriller set in Money, Mississippi, investigating uncanny murders connected to the lynching of Emmett Till.",
+    "pageCount": 320,
+    "spineColor": "#7f1d1d",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "glory",
+    "title": "Glory",
+    "authorId": "noviolet-bulawayo",
+    "authorName": "NoViolet Bulawayo",
+    "publicationYear": 2022,
+    "publisher": "Chatto & Windus",
+    "imprint": "Vintage",
+    "isbn13": "9781784744298",
+    "genres": [
+      "Satire",
+      "Political Allegory",
+      "Literary Fiction"
+    ],
+    "synopsis": "An audacious animal allegory chronicling the coup, tyrannical rule, and popular revolt in the fictional African country of Jidada.",
+    "pageCount": 416,
+    "spineColor": "#b91c1c",
+    "countryOfOrigin": "Zimbabwe"
+  },
+  {
+    "id": "oh-william",
+    "title": "Oh William!",
+    "authorId": "elizabeth-strout",
+    "authorName": "Elizabeth Strout",
+    "publicationYear": 2021,
+    "publisher": "Random House",
+    "isbn13": "9780812989434",
+    "genres": [
+      "Family",
+      "Character Study",
+      "Literary Fiction"
+    ],
+    "synopsis": "Writer Lucy Barton reconnects with her first husband William as he unearths painful secrets from his mother’s hidden past.",
+    "pageCount": 256,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "a-passage-north",
+    "title": "A Passage North",
+    "authorId": "anuk-arudpragasam",
+    "authorName": "Anuk Arudpragasam",
+    "publicationYear": 2021,
+    "publisher": "Hogarth",
+    "imprint": "Crown",
+    "isbn13": "9780593230701",
+    "genres": [
+      "Philosophical",
+      "Historical",
+      "Literary Fiction"
+    ],
+    "synopsis": "A meditative train voyage northward through Sri Lanka prompts reflections on love, youth, and the traumatic remnants of the civil war.",
+    "pageCount": 288,
+    "spineColor": "#065f46",
+    "countryOfOrigin": "Sri Lanka"
+  },
+  {
+    "id": "no-one-is-talking-about-this",
+    "title": "No One Is Talking About This",
+    "authorId": "patricia-lockwood",
+    "authorName": "Patricia Lockwood",
+    "publicationYear": 2021,
+    "publisher": "Riverhead Books",
+    "isbn13": "9780593189580",
+    "genres": [
+      "Satire",
+      "Experimental",
+      "Literary Fiction"
+    ],
+    "synopsis": "An internet-famous social media creator confronts real-world grief and boundless love when an infant niece is diagnosed with a rare condition.",
+    "pageCount": 224,
+    "spineColor": "#db2777",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "bewilderment",
+    "title": "Bewilderment",
+    "authorId": "richard-powers",
+    "authorName": "Richard Powers",
+    "publicationYear": 2021,
+    "publisher": "W. W. Norton & Company",
+    "isbn13": "9780393881141",
+    "genres": [
+      "Speculative",
+      "Environmental",
+      "Literary Fiction"
+    ],
+    "synopsis": "An astrobiologist devises an experimental neuro-feedback treatment to soothe his emotionally fragile, nature-obsessed nine-year-old son.",
+    "pageCount": 288,
+    "spineColor": "#0369a1",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-fortune-men",
+    "title": "The Fortune Men",
+    "authorId": "nadifa-mohamed",
+    "authorName": "Nadifa Mohamed",
+    "publicationYear": 2021,
+    "publisher": "Viking",
+    "imprint": "Penguin",
+    "isbn13": "9780241466940",
+    "genres": [
+      "Historical Fiction",
+      "Social Justice",
+      "Literary Fiction"
+    ],
+    "synopsis": "The true story of Mahmood Mattan, a Somali seaman wrongfully convicted of murder and executed in 1952 Cardiff.",
+    "pageCount": 384,
+    "spineColor": "#b45309",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "great-circle",
+    "title": "Great Circle",
+    "authorId": "maggie-shipstead",
+    "authorName": "Maggie Shipstead",
+    "publicationYear": 2021,
+    "publisher": "Alfred A. Knopf",
+    "isbn13": "9780525656975",
+    "genres": [
+      "Historical Fiction",
+      "Adventure",
+      "Epic"
+    ],
+    "synopsis": "Dual storylines track a daring female aviator who vanished crossing the poles in 1950 and the young actress portraying her decades later.",
+    "pageCount": 608,
+    "spineColor": "#1d4ed8",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-shadow-king",
+    "title": "The Shadow King",
+    "authorId": "maaza-mengiste",
+    "authorName": "Maaza Mengiste",
+    "publicationYear": 2019,
+    "publisher": "W. W. Norton & Company",
+    "isbn13": "9780393079418",
+    "genres": [
+      "Historical Fiction",
+      "War",
+      "Feminist"
+    ],
+    "synopsis": "Set during Mussolini’s 1935 invasion of Ethiopia, chronicling the bravery and sacrifice of female combatants on the frontlines.",
+    "pageCount": 448,
+    "spineColor": "#991b1b",
+    "countryOfOrigin": "Ethiopia"
+  },
+  {
+    "id": "burnt-sugar",
+    "title": "Burnt Sugar",
+    "authorId": "avni-doshi",
+    "authorName": "Avni Doshi",
+    "publicationYear": 2020,
+    "publisher": "Hamish Hamilton",
+    "imprint": "Penguin",
+    "isbn13": "9780241441343",
+    "genres": [
+      "Psychological",
+      "Family Drama",
+      "Literary Fiction"
+    ],
+    "synopsis": "An artist in Pune grapples with resentment and duty when the wild, neglectful mother of her youth develops severe memory loss.",
+    "pageCount": 288,
+    "spineColor": "#d97706",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "real-life",
+    "title": "Real Life",
+    "authorId": "brandon-taylor",
+    "authorName": "Brandon Taylor",
+    "publicationYear": 2020,
+    "publisher": "Riverhead Books",
+    "isbn13": "9780525538882",
+    "genres": [
+      "Campus Novel",
+      "LGBTQ+",
+      "Literary Fiction"
+    ],
+    "synopsis": "Over a single summer weekend at a Midwestern university, a queer Black biochemistry doctoral student navigates isolation, trauma, and desire.",
+    "pageCount": 336,
+    "spineColor": "#4f46e5",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "this-mournable-body",
+    "title": "This Mournable Body",
+    "authorId": "tsitsi-dangarembga",
+    "authorName": "Tsitsi Dangarembga",
+    "publicationYear": 2018,
+    "publisher": "Graywolf Press",
+    "isbn13": "9781555978129",
+    "genres": [
+      "Postcolonial",
+      "Social Realism",
+      "Literary Fiction"
+    ],
+    "synopsis": "The gripping conclusion to Dangarembga’s trilogy finds Tambudzai fighting against poverty and despair in post-independence Harare.",
+    "pageCount": 384,
+    "spineColor": "#059669",
+    "countryOfOrigin": "Zimbabwe"
+  },
+  {
+    "id": "the-new-wilderness",
+    "title": "The New Wilderness",
+    "authorId": "diane-cook",
+    "authorName": "Diane Cook",
+    "publicationYear": 2020,
+    "publisher": "Harper",
+    "imprint": "HarperCollins",
+    "isbn13": "9780062983374",
+    "genres": [
+      "Dystopian",
+      "Speculative",
+      "Ecological"
+    ],
+    "synopsis": "To save her daughter from toxic city air, a mother joins a study group surviving in the last untamed wilderness reserve.",
+    "pageCount": 416,
+    "spineColor": "#15803d",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "an-orchestra-of-minorities",
+    "title": "An Orchestra of Minorities",
+    "authorId": "chigozie-obioma",
+    "authorName": "Chigozie Obioma",
+    "publicationYear": 2019,
+    "publisher": "Little, Brown and Company",
+    "isbn13": "9780316415415",
+    "genres": [
+      "Mythological",
+      "Tragedy",
+      "Literary Fiction"
+    ],
+    "synopsis": "A poultry farmer in Umuahia sacrifices everything for the woman he loves, narrated by his reincarnation chi in the Igbo spiritual tradition.",
+    "pageCount": 464,
+    "spineColor": "#c2410c",
+    "countryOfOrigin": "Nigeria"
+  },
+  {
+    "id": "quichotte",
+    "title": "Quichotte",
+    "authorId": "salman-rushdie",
+    "authorName": "Salman Rushdie",
+    "publicationYear": 2019,
+    "publisher": "Jonathan Cape",
+    "imprint": "Vintage",
+    "isbn13": "9781787331914",
+    "genres": [
+      "Satire",
+      "Picaresque",
+      "Postmodern"
+    ],
+    "synopsis": "An aging traveling salesman drives across America in pursuit of a TV talk show host, accompanied by his imaginary son Sancho.",
+    "pageCount": 400,
+    "spineColor": "#7e22ce",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "10-minutes-38-seconds-in-this-strange-world",
+    "title": "10 Minutes 38 Seconds in This Strange World",
+    "authorId": "elif-shafak",
+    "authorName": "Elif Shafak",
+    "publicationYear": 2019,
+    "publisher": "Viking",
+    "imprint": "Penguin",
+    "isbn13": "9780241293867",
+    "genres": [
+      "Social Realism",
+      "Feminist",
+      "Literary Fiction"
+    ],
+    "synopsis": "In the lingering minutes after her heart stops in an Istanbul dumpster, Tequila Leila relives moments of taste, memory, and friendships.",
+    "pageCount": 320,
+    "spineColor": "#be185d",
+    "countryOfOrigin": "Turkey"
+  },
+  {
+    "id": "washington-black",
+    "title": "Washington Black",
+    "authorId": "esi-edugyan",
+    "authorName": "Esi Edugyan",
+    "publicationYear": 2018,
+    "publisher": "Serpent's Tail",
+    "isbn13": "9781788160865",
+    "genres": [
+      "Historical Fiction",
+      "Adventure",
+      "Literary Fiction"
+    ],
+    "synopsis": "An eleven-year-old enslaved boy on a Barbados sugar estate becomes assistant to an eccentric naturalist and flies away in a dirigible.",
+    "pageCount": 400,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "Canada"
+  },
+  {
+    "id": "the-mars-room",
+    "title": "The Mars Room",
+    "authorId": "rachel-kushner",
+    "authorName": "Rachel Kushner",
+    "publicationYear": 2018,
+    "publisher": "Scribner",
+    "imprint": "Simon & Schuster",
+    "isbn13": "9781476756554",
+    "genres": [
+      "Prison Drama",
+      "Social Realism",
+      "Literary Fiction"
+    ],
+    "synopsis": "A former lap dancer and mother begins two life sentences at a women’s correctional facility in California’s Central Valley.",
+    "pageCount": 352,
+    "spineColor": "#9a3412",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "everything-under",
+    "title": "Everything Under",
+    "authorId": "daisy-johnson",
+    "authorName": "Daisy Johnson",
+    "publicationYear": 2018,
+    "publisher": "Jonathan Cape",
+    "imprint": "Vintage",
+    "isbn13": "9781787330702",
+    "genres": [
+      "Folklore",
+      "Mythological",
+      "Literary Fiction"
+    ],
+    "synopsis": "An eerie reimagining of the Oedipus myth set along the murky English canals where a lexicographer seeks her estranged mother.",
+    "pageCount": 272,
+    "spineColor": "#0f766e",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "the-long-take",
+    "title": "The Long Take",
+    "authorId": "robin-robertson",
+    "authorName": "Robin Robertson",
+    "publicationYear": 2018,
+    "publisher": "Picador",
+    "imprint": "Pan Macmillan",
+    "isbn13": "9781509846870",
+    "genres": [
+      "Verse Novel",
+      "Noir",
+      "Historical Fiction"
+    ],
+    "synopsis": "A cinematic noir narrative in verse charting a traumatized veteran’s journey through post-war American cities in the late 1940s.",
+    "pageCount": 240,
+    "spineColor": "#18181b",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "flashlight",
+    "title": "Flashlight",
+    "authorId": "susan-choi",
+    "authorName": "Susan Choi",
+    "publicationYear": 2025,
+    "publisher": "Faber & Faber",
+    "isbn13": "9780571350636",
+    "genres": [
+      "Family Drama",
+      "Mystery",
+      "Literary Fiction"
+    ],
+    "synopsis": "A haunting psychological exploration of childhood secrets, truth, and familial bonds across generations.",
+    "pageCount": 304,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-loneliness-of-sonia-and-sunny",
+    "title": "The Loneliness of Sonia and Sunny",
+    "authorId": "kiran-desai",
+    "authorName": "Kiran Desai",
+    "publicationYear": 2025,
+    "publisher": "Hamish Hamilton",
+    "isbn13": "9780241289112",
+    "genres": [
+      "Postcolonial",
+      "Family Saga",
+      "Literary Fiction"
+    ],
+    "synopsis": "A sweeping international exploration of two intertwined lives adrift between Mumbai and the West in an era of rapid transition.",
+    "pageCount": 384,
+    "spineColor": "#b45309",
+    "countryOfOrigin": "India"
+  },
+  {
+    "id": "audition",
+    "title": "Audition",
+    "authorId": "katie-kitamura",
+    "authorName": "Katie Kitamura",
+    "publicationYear": 2025,
+    "publisher": "Riverhead Books",
+    "isbn13": "9780593330104",
+    "genres": [
+      "Psychological",
+      "Suspense",
+      "Literary Fiction"
+    ],
+    "synopsis": "A stage performer in London begins to lose the boundary between her scripted persona and private moral guilt.",
+    "pageCount": 240,
+    "spineColor": "#4338ca",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-rest-of-our-lives",
+    "title": "The Rest of Our Lives",
+    "authorId": "ben-markovits",
+    "authorName": "Ben Markovits",
+    "publicationYear": 2025,
+    "publisher": "Faber & Faber",
+    "isbn13": "9780571360154",
+    "genres": [
+      "Midlife",
+      "Family",
+      "Literary Fiction"
+    ],
+    "synopsis": "A deeply human portrait of long friendships and married intimacy facing the quiet crises of later life.",
+    "pageCount": 320,
+    "spineColor": "#334155",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-land-in-winter",
+    "title": "The Land in Winter",
+    "authorId": "andrew-miller",
+    "authorName": "Andrew Miller",
+    "publicationYear": 2024,
+    "publisher": "Sceptre",
+    "imprint": "Hodder & Stoughton",
+    "isbn13": "9781399723237",
+    "genres": [
+      "Historical Fiction",
+      "Atmospheric",
+      "Literary Fiction"
+    ],
+    "synopsis": "During the harsh freeze of 1963 in the English West Country, a country doctor and his expectant wife confront community isolation.",
+    "pageCount": 288,
+    "spineColor": "#1e293b",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "the-things-we-never-say",
+    "title": "The Things We Never Say",
+    "authorId": "elizabeth-strout",
+    "authorName": "Elizabeth Strout",
+    "publicationYear": 2026,
+    "publisher": "Random House",
+    "isbn13": "9780812989441",
+    "genres": [
+      "Small Town",
+      "Family",
+      "Literary Fiction"
+    ],
+    "synopsis": "Three generations of Maine women reckon with ancestral silence, late-life companionship, and the unspoken truths of small-town life.",
+    "pageCount": 288,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "john-of-john",
+    "title": "John of John",
+    "authorId": "douglas-stuart",
+    "authorName": "Douglas Stuart",
+    "publicationYear": 2026,
+    "publisher": "Grove Press",
+    "isbn13": "9780802162341",
+    "genres": [
+      "Working Class",
+      "LGBTQ+",
+      "Literary Fiction"
+    ],
+    "synopsis": "A visceral, tender novel of brothers navigating hardship, Catholic guilt, and survival along the post-industrial Clyde.",
+    "pageCount": 360,
+    "spineColor": "#475569",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "the-disappearers",
+    "title": "The Disappearers",
+    "authorId": "marlon-james",
+    "authorName": "Marlon James",
+    "publicationYear": 2026,
+    "publisher": "Riverhead Books",
+    "isbn13": "9780735220201",
+    "genres": [
+      "Historical Fiction",
+      "Mythological",
+      "Postcolonial"
+    ],
+    "synopsis": "A polyphonic historical epic charting maroon communities and hidden resistance fighters in 18th-century Jamaica.",
+    "pageCount": 480,
+    "spineColor": "#15803d",
+    "countryOfOrigin": "Jamaica"
+  },
+  {
+    "id": "black-bag",
+    "title": "Black Bag",
+    "authorId": "luke-kennard",
+    "authorName": "Luke Kennard",
+    "publicationYear": 2025,
+    "publisher": "4th Estate",
+    "imprint": "HarperCollins",
+    "isbn13": "9780008543327",
+    "genres": [
+      "Satire",
+      "Surrealism",
+      "Literary Fiction"
+    ],
+    "synopsis": "An office worker discovers a bottomless void inside a boardroom cupboard, escalating into a razor-sharp satire of modern employment.",
+    "pageCount": 272,
+    "spineColor": "#172554",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "may-we-feed-the-king",
+    "title": "May We Feed the King",
+    "authorId": "rebecca-perry",
+    "authorName": "Rebecca Perry",
+    "publicationYear": 2025,
+    "publisher": "Picador",
+    "imprint": "Pan Macmillan",
+    "isbn13": "9781529098907",
+    "genres": [
+      "Fable",
+      "Historical Fiction",
+      "Literary Fiction"
+    ],
+    "synopsis": "Set in an 18th-century menagerie, an intimate fable examining companionship, creaturely suffering, and sovereign obsession.",
+    "pageCount": 224,
+    "spineColor": "#713f12",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "wednesdays-child",
+    "title": "Wednesday's Child",
+    "authorId": "yiyun-li",
+    "authorName": "Yiyun Li",
+    "publicationYear": 2023,
+    "publisher": "Farrar, Straus and Giroux",
+    "isbn13": "9780374606374",
+    "genres": [
+      "Short Stories",
+      "Grief",
+      "Literary Fiction"
+    ],
+    "synopsis": "A deeply moving story collection examining parental love, loss, and the resilience of human memory across continents.",
+    "pageCount": 256,
+    "spineColor": "#475569",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "same-bed-different-dreams",
+    "title": "Same Bed Different Dreams",
+    "authorId": "ed-park",
+    "authorName": "Ed Park",
+    "publicationYear": 2023,
+    "publisher": "Random House",
+    "isbn13": "9780812998979",
+    "genres": [
+      "Alternate History",
+      "Satire",
+      "Postmodern"
+    ],
+    "synopsis": "A dizzying, genre-colliding alternate history revolving around a secret Korean provisional government continuing into the digital era.",
+    "pageCount": 544,
+    "spineColor": "#dc2626",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-immortal-king-rao",
+    "title": "The Immortal King Rao",
+    "authorId": "vauhini-vara",
+    "authorName": "Vauhini Vara",
+    "publicationYear": 2022,
+    "publisher": "W. W. Norton & Company",
+    "isbn13": "9780393541755",
+    "genres": [
+      "Speculative",
+      "Family Saga",
+      "Dystopian"
+    ],
+    "synopsis": "From rural India to global tech conglomerate, a Dalit visionary reshapes world society under algorithmic governance.",
+    "pageCount": 384,
+    "spineColor": "#059669",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "palmares",
+    "title": "Palmares",
+    "authorId": "gayl-jones",
+    "authorName": "Gayl Jones",
+    "publicationYear": 2021,
+    "publisher": "Beacon Press",
+    "isbn13": "9780807033494",
+    "genres": [
+      "Historical Fiction",
+      "Epic",
+      "African Diaspora"
+    ],
+    "synopsis": "An epic reimagining of 17th-century fugitive quilombos in Brazil, following an enslaved woman seeking freedom and love.",
+    "pageCount": 500,
+    "spineColor": "#7c2d12",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-topeka-school",
+    "title": "The Topeka School",
+    "authorId": "ben-lerner",
+    "authorName": "Ben Lerner",
+    "publicationYear": 2019,
+    "publisher": "Farrar, Straus and Giroux",
+    "isbn13": "9780374277789",
+    "genres": [
+      "Autofiction",
+      "Coming of Age",
+      "Literary Fiction"
+    ],
+    "synopsis": "A Midwest high school debate champion and his therapist parents navigate speech, toxic masculinity, and public discourse at the turn of the century.",
+    "pageCount": 304,
+    "spineColor": "#2563eb",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-dutch-house",
+    "title": "The Dutch House",
+    "authorId": "ann-patchett",
+    "authorName": "Ann Patchett",
+    "publicationYear": 2019,
+    "publisher": "Harper",
+    "imprint": "HarperCollins",
+    "isbn13": "9780062963673",
+    "genres": [
+      "Family Saga",
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "synopsis": "Exiled from their father’s opulent estate outside Philadelphia, two devoted siblings spend decades looking back on what was lost.",
+    "pageCount": 352,
+    "spineColor": "#1e3a8a",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "there-there",
+    "title": "There There",
+    "authorId": "tommy-orange",
+    "authorName": "Tommy Orange",
+    "publicationYear": 2018,
+    "publisher": "Alfred A. Knopf",
+    "isbn13": "9780525520375",
+    "genres": [
+      "Indigenous",
+      "Choral",
+      "Literary Fiction"
+    ],
+    "synopsis": "Twelve Native Americans travel to the Big Oakland Powwow, bound by shared heritage, modern struggle, and impending tragedy.",
+    "pageCount": 304,
+    "spineColor": "#b91c1c",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-great-believers",
+    "title": "The Great Believers",
+    "authorId": "rebecca-makkai",
+    "authorName": "Rebecca Makkai",
+    "publicationYear": 2018,
+    "publisher": "Viking",
+    "imprint": "Penguin",
+    "isbn13": "9780735223523",
+    "genres": [
+      "LGBTQ+",
+      "Historical Fiction",
+      "Literary Fiction"
+    ],
+    "synopsis": "A devastating dual-timeline epic linking the 1980s Chicago AIDS epidemic with a mother searching for her daughter in 2015 Paris.",
+    "pageCount": 432,
+    "spineColor": "#9333ea",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "martyr",
+    "title": "Martyr!",
+    "authorId": "kaveh-akbar",
+    "authorName": "Kaveh Akbar",
+    "publicationYear": 2024,
+    "publisher": "Alfred A. Knopf",
+    "isbn13": "9780593537619",
+    "genres": [
+      "Art",
+      "Grief",
+      "Literary Fiction"
+    ],
+    "synopsis": "A newly sober Iranian-American poet travels to Brooklyn to interview a dying artist staging her final performance at a museum.",
+    "pageCount": 352,
+    "spineColor": "#d97706",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "ghostroots",
+    "title": "Ghostroots",
+    "authorId": "pemi-aguda",
+    "authorName": "'Pemi Aguda",
+    "publicationYear": 2024,
+    "publisher": "W. W. Norton & Company",
+    "isbn13": "9781324074212",
+    "genres": [
+      "Short Stories",
+      "Speculative",
+      "Magical Realism"
+    ],
+    "synopsis": "Twelve chilling, folklore-infused stories exploring hauntings, maternal inheritance, and metamorphosis in modern Lagos.",
+    "pageCount": 240,
+    "spineColor": "#047857",
+    "countryOfOrigin": "Nigeria"
+  },
+  {
+    "id": "all-fours",
+    "title": "All Fours",
+    "authorId": "miranda-july",
+    "authorName": "Miranda July",
+    "publicationYear": 2024,
+    "publisher": "Riverhead Books",
+    "isbn13": "9780593190265",
+    "genres": [
+      "Feminist",
+      "Midlife",
+      "Literary Fiction"
+    ],
+    "synopsis": "A semi-famous artist driving cross-country stops at a suburban motel minutes from home to initiate an intimate reinvention.",
+    "pageCount": 336,
+    "spineColor": "#ec4899",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "my-friends",
+    "title": "My Friends",
+    "authorId": "hisham-matar",
+    "authorName": "Hisham Matar",
+    "publicationYear": 2024,
+    "publisher": "Random House",
+    "isbn13": "9780812994841",
+    "genres": [
+      "Exile",
+      "Political",
+      "Literary Fiction"
+    ],
+    "synopsis": "A poignant meditation on friendship, literature, and the longing for home following Libyan political exiles across London.",
+    "pageCount": 400,
+    "spineColor": "#1e3a8a",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "chain-gang-all-stars",
+    "title": "Chain-Gang All-Stars",
+    "authorId": "nana-kwame-adjei-brenyah",
+    "authorName": "Nana Kwame Adjei-Brenyah",
+    "publicationYear": 2023,
+    "publisher": "Pantheon Books",
+    "imprint": "Knopf",
+    "isbn13": "9780593317334",
+    "genres": [
+      "Dystopian",
+      "Satire",
+      "Speculative"
+    ],
+    "synopsis": "Incarcerated gladiators battle in televised arena death matches for a shot at freedom in a privatized American prison industry.",
+    "pageCount": 384,
+    "spineColor": "#dc2626",
+    "countryOfOrigin": "United States"
   }
 ]

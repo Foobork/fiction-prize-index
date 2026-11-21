@@ -50,8 +50,11 @@ export const IndexTable: React.FC<IndexTableProps> = ({
       }
 
       // Status filter
-      if (selectedStatus !== 'all') {
-        const hasStatus = book.nominations.some((n) => n.status === selectedStatus);
+      if (selectedStatus === 'winner') {
+        const hasStatus = book.nominations.some((n) => n.status === 'winner');
+        if (!hasStatus) return false;
+      } else if (selectedStatus === 'shortlist') {
+        const hasStatus = book.nominations.some((n) => n.status === 'shortlist' || n.status === 'finalist');
         if (!hasStatus) return false;
       }
 
@@ -134,7 +137,7 @@ export const IndexTable: React.FC<IndexTableProps> = ({
             >
               <option value="all">All Outcomes</option>
               <option value="winner">🏆 Winners Only</option>
-              <option value="shortlist">⭐ Shortlisted</option>
+              <option value="shortlist">⭐ Shortlists & Finalists</option>
             </select>
 
             {/* Genre Filter */}
@@ -278,7 +281,7 @@ export const IndexTable: React.FC<IndexTableProps> = ({
                           : 'bg-parchment-200 dark:bg-ink-800 text-parchment-800 dark:text-ink-300'
                       }`}
                     >
-                      {nom.status === 'winner' && '🏆 '}
+                      {nom.status === 'winner' ? '🏆 ' : nom.status === 'finalist' ? '🎖️ ' : '⭐ '}
                       {nom.prize.shortName} '{String(nom.year).slice(2)}
                     </span>
                   ))}
@@ -340,7 +343,7 @@ export const IndexTable: React.FC<IndexTableProps> = ({
                                 : 'bg-parchment-200 text-parchment-800 dark:bg-ink-800 dark:text-ink-300'
                             }`}
                           >
-                            {nom.status === 'winner' ? '🏆 ' : ''}
+                            {nom.status === 'winner' ? '🏆 ' : nom.status === 'finalist' ? '🎖️ ' : '⭐ '}
                             {nom.prize.shortName} ({nom.year})
                           </span>
                         ))}

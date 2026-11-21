@@ -2018,5 +2018,565 @@
     "category": "Literature",
     "citation": "For her rich and truly epic descriptions of peasant life in China and for her biographical masterpieces.",
     "sourceUrl": "https://www.nobelprize.org/prizes/literature/1938/summary/"
+  },
+  {
+    "id": "nom-creation-lake-booker-2024",
+    "prizeId": "booker-prize",
+    "bookId": "creation-lake",
+    "year": 2024,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A cunning, philosophically charged espionage novel exploring rebellion and humanity.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/creation-lake"
+  },
+  {
+    "id": "nom-held-booker-2024",
+    "prizeId": "booker-prize",
+    "bookId": "held",
+    "year": 2024,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A breathtakingly poetic journey through memory, trauma, and love.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/held"
+  },
+  {
+    "id": "nom-the-safekeep-booker-2024",
+    "prizeId": "booker-prize",
+    "bookId": "the-safekeep",
+    "year": 2024,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A ferocious, sensual exploration of grief and buried histories in post-WWII Netherlands.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-safekeep"
+  },
+  {
+    "id": "nom-stone-yard-devotional-booker-2024",
+    "prizeId": "booker-prize",
+    "bookId": "stone-yard-devotional",
+    "year": 2024,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: An intimate, deeply absorbing novel of withdrawal and reckoning.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/stone-yard-devotional"
+  },
+  {
+    "id": "nom-the-bee-sting-booker-2023",
+    "prizeId": "booker-prize",
+    "bookId": "the-bee-sting",
+    "year": 2023,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A tour de force of narrative voice and emotional velocity charting a family’s descent.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-bee-sting"
+  },
+  {
+    "id": "nom-study-for-obedience-booker-2023",
+    "prizeId": "booker-prize",
+    "bookId": "study-for-obedience",
+    "year": 2023,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A chilling, taut parable of complicity, otherness, and scapegoating.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/study-for-obedience"
+  },
+  {
+    "id": "nom-if-i-survive-you-booker-2023",
+    "prizeId": "booker-prize",
+    "bookId": "if-i-survive-you",
+    "year": 2023,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A vibrant, razor-sharp debut portrait of the immigrant struggle in South Florida.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/if-i-survive-you"
+  },
+  {
+    "id": "nom-this-other-eden-booker-2023",
+    "prizeId": "booker-prize",
+    "bookId": "this-other-eden",
+    "year": 2023,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A spellbinding, heartbreaking chronicle of endurance, dignity, and displacement.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/this-other-eden"
+  },
+  {
+    "id": "nom-western-lane-booker-2023",
+    "prizeId": "booker-prize",
+    "bookId": "western-lane",
+    "year": 2023,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A tender, crystalline coming-of-age story about grief, sisterhood, and sport.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/western-lane"
+  },
+  {
+    "id": "nom-treacle-walker-booker-2022",
+    "prizeId": "booker-prize",
+    "bookId": "treacle-walker",
+    "year": 2022,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A fusion of myth and modern folklore, written with astonishing concision.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/treacle-walker"
+  },
+  {
+    "id": "nom-small-things-like-these-booker-2022",
+    "prizeId": "booker-prize",
+    "bookId": "small-things-like-these",
+    "year": 2022,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: An exquisite, moral masterpiece of quiet heroism and collective silence.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/small-things-like-these"
+  },
+  {
+    "id": "nom-the-trees-booker-2022",
+    "prizeId": "booker-prize",
+    "bookId": "the-trees",
+    "year": 2022,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A blistering, audacious revenge satire interrogating America’s lynching history.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-trees"
+  },
+  {
+    "id": "nom-glory-booker-2022",
+    "prizeId": "booker-prize",
+    "bookId": "glory",
+    "year": 2022,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A vibrant, electric animal fable capturing the fall of tyranny and the voice of a nation.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/glory"
+  },
+  {
+    "id": "nom-oh-william-booker-2022",
+    "prizeId": "booker-prize",
+    "bookId": "oh-william",
+    "year": 2022,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A wonderfully witty and poignant exploration of marriage, memory, and enduring love.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/oh-william"
+  },
+  {
+    "id": "nom-a-passage-north-booker-2021",
+    "prizeId": "booker-prize",
+    "bookId": "a-passage-north",
+    "year": 2021,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A profound, meditative novel on the psychological wreckage of Sri Lanka’s civil war.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/a-passage-north"
+  },
+  {
+    "id": "nom-no-one-is-talking-about-this-booker-2021",
+    "prizeId": "booker-prize",
+    "bookId": "no-one-is-talking-about-this",
+    "year": 2021,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A dazzling, hilarious, and devastating meditation on social media and raw grief.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/no-one-is-talking-about-this"
+  },
+  {
+    "id": "nom-bewilderment-booker-2021",
+    "prizeId": "booker-prize",
+    "bookId": "bewilderment",
+    "year": 2021,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A heart-wrenching father-and-son journey that bridges cosmic exploration and intimate devotion.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/bewilderment"
+  },
+  {
+    "id": "nom-the-fortune-men-booker-2021",
+    "prizeId": "booker-prize",
+    "bookId": "the-fortune-men",
+    "year": 2021,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A gripping, deeply compassionate recreation of historical injustice.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-fortune-men"
+  },
+  {
+    "id": "nom-great-circle-booker-2021",
+    "prizeId": "booker-prize",
+    "bookId": "great-circle",
+    "year": 2021,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: An epic, exhilarating adventure story of female ambition, freedom, and flight.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/great-circle"
+  },
+  {
+    "id": "nom-the-shadow-king-booker-2020",
+    "prizeId": "booker-prize",
+    "bookId": "the-shadow-king",
+    "year": 2020,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A magnificent, choral epic of women warriors fighting fascism in Ethiopia.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-shadow-king"
+  },
+  {
+    "id": "nom-burnt-sugar-booker-2020",
+    "prizeId": "booker-prize",
+    "bookId": "burnt-sugar",
+    "year": 2020,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A sharp, corrosive, and fiercely honest examination of mother-daughter resentment.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/burnt-sugar"
+  },
+  {
+    "id": "nom-real-life-booker-2020",
+    "prizeId": "booker-prize",
+    "bookId": "real-life",
+    "year": 2020,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: An astonishingly delicate and psychologically incisive campus novel.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/real-life"
+  },
+  {
+    "id": "nom-this-mournable-body-booker-2020",
+    "prizeId": "booker-prize",
+    "bookId": "this-mournable-body",
+    "year": 2020,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A devastating, magnificent anatomy of hope, indignity, and endurance in contemporary Zimbabwe.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/this-mournable-body"
+  },
+  {
+    "id": "nom-the-new-wilderness-booker-2020",
+    "prizeId": "booker-prize",
+    "bookId": "the-new-wilderness",
+    "year": 2020,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A ferocious, inventive climate dystopian thriller examining the bounds of maternal love.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-new-wilderness"
+  },
+  {
+    "id": "nom-an-orchestra-of-minorities-booker-2019",
+    "prizeId": "booker-prize",
+    "bookId": "an-orchestra-of-minorities",
+    "year": 2019,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A mythic, heartbreaking contemporary epic steeped in Igbo cosmology.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/an-orchestra-of-minorities"
+  },
+  {
+    "id": "nom-quichotte-booker-2019",
+    "prizeId": "booker-prize",
+    "bookId": "quichotte",
+    "year": 2019,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A rollicking, inventive picaresque for the age of Trump and hyper-reality.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/quichotte"
+  },
+  {
+    "id": "nom-10-minutes-38-seconds-booker-2019",
+    "prizeId": "booker-prize",
+    "bookId": "10-minutes-38-seconds-in-this-strange-world",
+    "year": 2019,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A courageous, polyphonic eulogy celebrating the lives of Istanbul’s disenfranchised.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/10-minutes-38-seconds-in-this-strange-world"
+  },
+  {
+    "id": "nom-the-overstory-booker-2018",
+    "prizeId": "booker-prize",
+    "bookId": "the-overstory",
+    "year": 2018,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A sweeping, monumental ecological masterpiece interweaving human lives with trees.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-overstory"
+  },
+  {
+    "id": "nom-washington-black-booker-2018",
+    "prizeId": "booker-prize",
+    "bookId": "washington-black",
+    "year": 2018,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A buoyant, dazzling adventure tale wrestling with freedom and complicity.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/washington-black"
+  },
+  {
+    "id": "nom-the-mars-room-booker-2018",
+    "prizeId": "booker-prize",
+    "bookId": "the-mars-room",
+    "year": 2018,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: An unsentimental, devastating portrait of poverty and mass incarceration.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-mars-room"
+  },
+  {
+    "id": "nom-everything-under-booker-2018",
+    "prizeId": "booker-prize",
+    "bookId": "everything-under",
+    "year": 2018,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A haunting, watery reimagining of classical myth by a brilliant young talent.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/everything-under"
+  },
+  {
+    "id": "nom-the-long-take-booker-2018",
+    "prizeId": "booker-prize",
+    "bookId": "the-long-take",
+    "year": 2018,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A singular cinematic verse-novel mapping urban decay and post-war trauma.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-long-take"
+  },
+  {
+    "id": "nom-flashlight-booker-2025",
+    "prizeId": "booker-prize",
+    "bookId": "flashlight",
+    "year": 2025,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A breathtaking inquiry into trauma, remembrance, and the illumination of hidden truths.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/flashlight"
+  },
+  {
+    "id": "nom-loneliness-sonia-sunny-booker-2025",
+    "prizeId": "booker-prize",
+    "bookId": "the-loneliness-of-sonia-and-sunny",
+    "year": 2025,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A magnificent panoramic achievement on modern dislocation and love.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-loneliness-of-sonia-and-sunny"
+  },
+  {
+    "id": "nom-audition-booker-2025",
+    "prizeId": "booker-prize",
+    "bookId": "audition",
+    "year": 2025,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A masterclass in suspense, identity, and the theatricality of everyday life.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/audition"
+  },
+  {
+    "id": "nom-the-rest-of-our-lives-booker-2025",
+    "prizeId": "booker-prize",
+    "bookId": "the-rest-of-our-lives",
+    "year": 2025,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: An exceptionally observant and humane domestic portrait of choices and regret.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-rest-of-our-lives"
+  },
+  {
+    "id": "nom-the-land-in-winter-booker-2025",
+    "prizeId": "booker-prize",
+    "bookId": "the-land-in-winter",
+    "year": 2025,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A hauntingly atmospheric novel of cold, fragile community and moral resolve.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-land-in-winter"
+  },
+  {
+    "id": "nom-the-things-we-never-say-booker-2026",
+    "prizeId": "booker-prize",
+    "bookId": "the-things-we-never-say",
+    "year": 2026,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A warm, piercingly perceptive account of unspoken domestic truths.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-things-we-never-say"
+  },
+  {
+    "id": "nom-john-of-john-booker-2026",
+    "prizeId": "booker-prize",
+    "bookId": "john-of-john",
+    "year": 2026,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A magnificent, aching exploration of class, devotion, and youth.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/john-of-john"
+  },
+  {
+    "id": "nom-the-disappearers-booker-2026",
+    "prizeId": "booker-prize",
+    "bookId": "the-disappearers",
+    "year": 2026,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: An incendiary, polyphonic epic that reimagines resistance and Caribbean folklore.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-disappearers"
+  },
+  {
+    "id": "nom-black-bag-booker-2026",
+    "prizeId": "booker-prize",
+    "bookId": "black-bag",
+    "year": 2026,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A delightfully wicked, surrealist comedy of corporate absurdity and dread.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/black-bag"
+  },
+  {
+    "id": "nom-may-we-feed-the-king-booker-2026",
+    "prizeId": "booker-prize",
+    "bookId": "may-we-feed-the-king",
+    "year": 2026,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A jewel-like fable of captivity, royal indulgence, and silent affection.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/may-we-feed-the-king"
+  },
+  {
+    "id": "nom-wednesdays-child-pulitzer-2024",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "wednesdays-child",
+    "year": 2024,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A deeply moving and exquisitely restrained short story collection on loss and resilience.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/yiyun-li"
+  },
+  {
+    "id": "nom-same-bed-different-dreams-pulitzer-2024",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "same-bed-different-dreams",
+    "year": 2024,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An inventive, genre-bending alternate history of Korea, empire, and secret conspiracies.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/ed-park"
+  },
+  {
+    "id": "nom-immortal-king-rao-pulitzer-2023",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-immortal-king-rao",
+    "year": 2023,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An audacious debut blending immigrant saga, corporate dystopia, and climate collapse.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/vauhini-vara"
+  },
+  {
+    "id": "nom-palmares-pulitzer-2022",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "palmares",
+    "year": 2022,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An astonishingly lyrical epic reimagining seventeenth-century Brazilian fugitive freedom.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/gayl-jones"
+  },
+  {
+    "id": "nom-the-topeka-school-pulitzer-2020",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-topeka-school",
+    "year": 2020,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A brilliant, polyphonic investigation of white male rage, speech, and public discourse.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/ben-lerner"
+  },
+  {
+    "id": "nom-the-dutch-house-pulitzer-2020",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-dutch-house",
+    "year": 2020,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A richly layered family drama about inheritance, nostalgia, and brother-sister loyalty.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/ann-patchett"
+  },
+  {
+    "id": "nom-there-there-pulitzer-2019",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "there-there",
+    "year": 2019,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A fierce, polyphonic portrait of urban Indigenous lives converging in Oakland.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/tommy-orange"
+  },
+  {
+    "id": "nom-the-great-believers-pulitzer-2019",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-great-believers",
+    "year": 2019,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A deeply empathetic, dual-narrative masterpiece honoring those lost to the AIDS epidemic.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/rebecca-makkai"
+  },
+  {
+    "id": "nom-martyr-nba-2024",
+    "prizeId": "national-book-award",
+    "bookId": "martyr",
+    "year": 2024,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An electrifying, heartfelt exploration of addiction, grief, family art, and redemption.",
+    "sourceUrl": "https://www.nationalbook.org/books/martyr/"
+  },
+  {
+    "id": "nom-ghostroots-nba-2024",
+    "prizeId": "national-book-award",
+    "bookId": "ghostroots",
+    "year": 2024,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A stunning, uncanny collection blending haunting Nigerian folklore with Lagos city life.",
+    "sourceUrl": "https://www.nationalbook.org/books/ghostroots/"
+  },
+  {
+    "id": "nom-all-fours-nba-2024",
+    "prizeId": "national-book-award",
+    "bookId": "all-fours",
+    "year": 2024,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A daring, hilarious, and radical reimagining of female midlife desire and domestic freedom.",
+    "sourceUrl": "https://www.nationalbook.org/books/all-fours/"
+  },
+  {
+    "id": "nom-my-friends-nba-2024",
+    "prizeId": "national-book-award",
+    "bookId": "my-friends",
+    "year": 2024,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An intensely moving, poetic novel of friendship, exile, and political upheaval.",
+    "sourceUrl": "https://www.nationalbook.org/books/my-friends/"
+  },
+  {
+    "id": "nom-chain-gang-all-stars-nba-2023",
+    "prizeId": "national-book-award",
+    "bookId": "chain-gang-all-stars",
+    "year": 2023,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A gladiatorial, incendiary indictment of mass incarceration and corporate bloodsport.",
+    "sourceUrl": "https://www.nationalbook.org/books/chain-gang-all-stars/"
+  },
+  {
+    "id": "nom-this-other-eden-nba-2023",
+    "prizeId": "national-book-award",
+    "bookId": "this-other-eden",
+    "year": 2023,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A lyrical, heartbreaking elegy to a community driven out by racism and pseudo-science.",
+    "sourceUrl": "https://www.nationalbook.org/books/this-other-eden/"
   }
 ]

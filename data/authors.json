@@ -1389,5 +1389,306 @@
     "deathYear": 1960,
     "nobelYear": 1957,
     "bio": "French-Algerian philosopher and author of The Stranger and The Plague; at age 44, he was the second-youngest recipient of the Nobel Prize in Literature."
+  },
+  {
+    "id": "rachel-kushner",
+    "name": "Rachel Kushner",
+    "nationality": "American",
+    "birthYear": 1968,
+    "bio": "Acclaimed American novelist and essayist, two-time Booker Prize finalist and Guggenheim Fellow."
+  },
+  {
+    "id": "anne-michaels",
+    "name": "Anne Michaels",
+    "nationality": "Canadian",
+    "birthYear": 1958,
+    "bio": "Distinguished Canadian poet and novelist, author of Fugitive Pieces and shortlisted for the 2024 Booker Prize."
+  },
+  {
+    "id": "yael-van-der-wouden",
+    "name": "Yael van der Wouden",
+    "nationality": "Dutch",
+    "birthYear": 1987,
+    "bio": "Dutch essayist and novelist whose debut work The Safekeep was shortlisted for the 2024 Booker Prize."
+  },
+  {
+    "id": "charlotte-wood",
+    "name": "Charlotte Wood",
+    "nationality": "Australian",
+    "birthYear": 1965,
+    "bio": "Celebrated Australian author of ten books, awarded the Member of the Order of Australia for literature."
+  },
+  {
+    "id": "paul-murray",
+    "name": "Paul Murray",
+    "nationality": "Irish",
+    "birthYear": 1975,
+    "bio": "Irish novelist renowned for tragicomic epics including Skippy Dies and The Bee Sting."
+  },
+  {
+    "id": "sarah-bernstein",
+    "name": "Sarah Bernstein",
+    "nationality": "Canadian",
+    "birthYear": 1987,
+    "bio": "Canadian novelist and poet resident in the UK, named one of Granta’s Best of Young British Novelists."
+  },
+  {
+    "id": "jonathan-escoffery",
+    "name": "Jonathan Escoffery",
+    "nationality": "Jamaican-American",
+    "birthYear": 1980,
+    "bio": "American writer of Jamaican heritage whose debut If I Survive You was shortlisted for the Booker Prize."
+  },
+  {
+    "id": "chetna-maroo",
+    "name": "Chetna Maroo",
+    "nationality": "British-Kenyan",
+    "birthYear": 1980,
+    "bio": "British author born in Kenya whose debut novel Western Lane was shortlisted for the 2023 Booker Prize."
+  },
+  {
+    "id": "alan-garner",
+    "name": "Alan Garner",
+    "nationality": "British",
+    "birthYear": 1934,
+    "bio": "Beloved English author of folk myth and children’s literature, shortlisted on his 88th birthday for Treacle Walker."
+  },
+  {
+    "id": "claire-keegan",
+    "name": "Claire Keegan",
+    "nationality": "Irish",
+    "birthYear": 1968,
+    "bio": "Celebrated Irish author of concise, luminous fiction including Foster and Small Things Like These."
+  },
+  {
+    "id": "noviolet-bulawayo",
+    "name": "NoViolet Bulawayo",
+    "nationality": "Zimbabwean",
+    "birthYear": 1981,
+    "bio": "Zimbabwean writer and the first Black African woman shortlisted twice for the Booker Prize."
+  },
+  {
+    "id": "anuk-arudpragasam",
+    "name": "Anuk Arudpragasam",
+    "nationality": "Sri Lankan",
+    "birthYear": 1988,
+    "bio": "Sri Lankan novelist and philosopher writing in English and Tamil on the aftermath of war."
+  },
+  {
+    "id": "patricia-lockwood",
+    "name": "Patricia Lockwood",
+    "nationality": "American",
+    "birthYear": 1982,
+    "bio": "American poet, novelist, and essayist acclaimed for her sharp wit and digital culture critique."
+  },
+  {
+    "id": "nadifa-mohamed",
+    "name": "Nadifa Mohamed",
+    "nationality": "British-Somali",
+    "birthYear": 1981,
+    "bio": "Somali-British novelist, Granta Best of Young British Novelist, and Royal Society of Literature fellow."
+  },
+  {
+    "id": "maggie-shipstead",
+    "name": "Maggie Shipstead",
+    "nationality": "American",
+    "birthYear": 1983,
+    "bio": "American novelist and travel essayist whose epic aviation novel Great Circle was shortlisted for the Booker Prize."
+  },
+  {
+    "id": "maaza-mengiste",
+    "name": "Maaza Mengiste",
+    "nationality": "Ethiopian-American",
+    "birthYear": 1974,
+    "bio": "Ethiopian-American novelist whose work chronicles the Italian invasion of Ethiopia and female resistance."
+  },
+  {
+    "id": "avni-doshi",
+    "name": "Avni Doshi",
+    "nationality": "American",
+    "birthYear": 1982,
+    "bio": "American novelist born in New Jersey whose debut Burnt Sugar was shortlisted for the 2020 Booker Prize."
+  },
+  {
+    "id": "brandon-taylor",
+    "name": "Brandon Taylor",
+    "nationality": "American",
+    "birthYear": 1989,
+    "bio": "American novelist and cultural critic whose campus novel Real Life was a 2020 Booker finalist."
+  },
+  {
+    "id": "tsitsi-dangarembga",
+    "name": "Tsitsi Dangarembga",
+    "nationality": "Zimbabwean",
+    "birthYear": 1959,
+    "bio": "Legendary Zimbabwean author, playwright, and filmmaker, author of the landmark Tambudzai trilogy."
+  },
+  {
+    "id": "diane-cook",
+    "name": "Diane Cook",
+    "nationality": "American",
+    "birthYear": 1976,
+    "bio": "American fiction writer and former This American Life producer whose speculative debut reached the Booker shortlist."
+  },
+  {
+    "id": "chigozie-obioma",
+    "name": "Chigozie Obioma",
+    "nationality": "Nigerian",
+    "birthYear": 1986,
+    "bio": "Nigerian novelist who achieved Booker Prize shortlists for both of his first two novels."
+  },
+  {
+    "id": "elif-shafak",
+    "name": "Elif Shafak",
+    "nationality": "Turkish-British",
+    "birthYear": 1971,
+    "bio": "Leading Turkish-British author and advocate whose fiction explores Istanbul, human rights, and memory."
+  },
+  {
+    "id": "esi-edugyan",
+    "name": "Esi Edugyan",
+    "nationality": "Canadian",
+    "birthYear": 1978,
+    "bio": "Canadian novelist and two-time Scotiabank Giller Prize winner, chair of the 2023 Booker Prize judges."
+  },
+  {
+    "id": "daisy-johnson",
+    "name": "Daisy Johnson",
+    "nationality": "British",
+    "birthYear": 1990,
+    "bio": "English novelist who became the youngest author ever shortlisted for the Booker Prize at age 27."
+  },
+  {
+    "id": "robin-robertson",
+    "name": "Robin Robertson",
+    "nationality": "Scottish",
+    "birthYear": 1955,
+    "bio": "Scottish poet and editor whose noir verse novel The Long Take won the Goldsmiths Prize and Booker shortlist."
+  },
+  {
+    "id": "katie-kitamura",
+    "name": "Katie Kitamura",
+    "nationality": "American",
+    "birthYear": 1979,
+    "bio": "American novelist and critic whose work examines translation, psychological tension, and intimacy."
+  },
+  {
+    "id": "ben-markovits",
+    "name": "Ben Markovits",
+    "nationality": "British-American",
+    "birthYear": 1973,
+    "bio": "American-British novelist and Royal Holloway literature professor known for deeply observed character fiction."
+  },
+  {
+    "id": "andrew-miller",
+    "name": "Andrew Miller",
+    "nationality": "British",
+    "birthYear": 1960,
+    "bio": "English author, winner of the Costa Book of the Year and IMPAC Dublin Literary Award."
+  },
+  {
+    "id": "luke-kennard",
+    "name": "Luke Kennard",
+    "nationality": "British",
+    "birthYear": 1981,
+    "bio": "English poet and novelist, winner of the Forward Prize for Best Collection."
+  },
+  {
+    "id": "rebecca-perry",
+    "name": "Rebecca Perry",
+    "nationality": "British",
+    "birthYear": 1986,
+    "bio": "British writer and poet whose evocative work explores memory, creatures, and human tenderness."
+  },
+  {
+    "id": "yiyun-li",
+    "name": "Yiyun Li",
+    "nationality": "Chinese-American",
+    "birthYear": 1972,
+    "bio": "Chinese-born American writer, MacArthur Fellow, and PEN/Malamud Award winner for short fiction."
+  },
+  {
+    "id": "ed-park",
+    "name": "Ed Park",
+    "nationality": "American",
+    "birthYear": 1970,
+    "bio": "American novelist, founding editor of The Believer, and Pulitzer Prize finalist for Fiction."
+  },
+  {
+    "id": "vauhini-vara",
+    "name": "Vauhini Vara",
+    "nationality": "American",
+    "birthYear": 1982,
+    "bio": "American journalist and author whose speculative tech epic was a finalist for the Pulitzer Prize."
+  },
+  {
+    "id": "gayl-jones",
+    "name": "Gayl Jones",
+    "nationality": "American",
+    "birthYear": 1949,
+    "bio": "Renowned American novelist and poet whose work was championed by Toni Morrison."
+  },
+  {
+    "id": "ben-lerner",
+    "name": "Ben Lerner",
+    "nationality": "American",
+    "birthYear": 1979,
+    "bio": "MacArthur Fellow, poet, novelist, and essayist acclaimed for autofiction on art, language, and politics."
+  },
+  {
+    "id": "ann-patchett",
+    "name": "Ann Patchett",
+    "nationality": "American",
+    "birthYear": 1963,
+    "bio": "Celebrated American novelist, PEN/Faulkner winner, and founder of Parnassus Books in Nashville."
+  },
+  {
+    "id": "tommy-orange",
+    "name": "Tommy Orange",
+    "nationality": "Native American",
+    "birthYear": 1982,
+    "bio": "Enrolled member of the Cheyenne and Arapaho Tribes whose debut There There won widespread national acclaim."
+  },
+  {
+    "id": "rebecca-makkai",
+    "name": "Rebecca Makkai",
+    "nationality": "American",
+    "birthYear": 1978,
+    "bio": "American novelist and short story writer, Pulitzer and National Book Award finalist for The Great Believers."
+  },
+  {
+    "id": "kaveh-akbar",
+    "name": "Kaveh Akbar",
+    "nationality": "Iranian-American",
+    "birthYear": 1989,
+    "bio": "Iranian-American poet and author whose debut novel Martyr! was a National Book Award finalist."
+  },
+  {
+    "id": "pemi-aguda",
+    "name": "'Pemi Aguda",
+    "nationality": "Nigerian",
+    "birthYear": 1988,
+    "bio": "Nigerian author and architect whose fiction has won the Nommo Award and O. Henry Prize."
+  },
+  {
+    "id": "miranda-july",
+    "name": "Miranda July",
+    "nationality": "American",
+    "birthYear": 1974,
+    "bio": "American author, filmmaker, and performing artist known for fearless, eccentric, and heartfelt work."
+  },
+  {
+    "id": "hisham-matar",
+    "name": "Hisham Matar",
+    "nationality": "British-Libyan",
+    "birthYear": 1970,
+    "bio": "Pulitzer Prize-winning British-Libyan writer and fellow of the Royal Society of Literature."
+  },
+  {
+    "id": "nana-kwame-adjei-brenyah",
+    "name": "Nana Kwame Adjei-Brenyah",
+    "nationality": "American",
+    "birthYear": 1991,
+    "bio": "American writer whose sharp satirical fiction explores race, capitalism, and justice."
   }
 ]
