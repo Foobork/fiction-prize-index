@@ -74,19 +74,28 @@ export const IndexTable: React.FC<IndexTableProps> = ({
         }
       }
 
-      // Prize filter
-      if (selectedPrize !== 'all') {
-        const hasPrize = book.nominations.some((n) => n.prizeId === selectedPrize);
-        if (!hasPrize) return false;
-      }
+      // Prize & Status filters
+      if (selectedPrize !== 'all' && selectedStatus !== 'all') {
+        const matchesBoth = book.nominations.some((n) => {
+          if (n.prizeId !== selectedPrize) return false;
+          if (selectedStatus === 'winner') return n.status === 'winner';
+          if (selectedStatus === 'shortlist') return n.status === 'shortlist' || n.status === 'finalist';
+          return true;
+        });
+        if (!matchesBoth) return false;
+      } else {
+        if (selectedPrize !== 'all') {
+          const hasPrize = book.nominations.some((n) => n.prizeId === selectedPrize);
+          if (!hasPrize) return false;
+        }
 
-      // Status filter
-      if (selectedStatus === 'winner') {
-        const hasStatus = book.nominations.some((n) => n.status === 'winner');
-        if (!hasStatus) return false;
-      } else if (selectedStatus === 'shortlist') {
-        const hasStatus = book.nominations.some((n) => n.status === 'shortlist' || n.status === 'finalist');
-        if (!hasStatus) return false;
+        if (selectedStatus === 'winner') {
+          const hasStatus = book.nominations.some((n) => n.status === 'winner');
+          if (!hasStatus) return false;
+        } else if (selectedStatus === 'shortlist') {
+          const hasStatus = book.nominations.some((n) => n.status === 'shortlist' || n.status === 'finalist');
+          if (!hasStatus) return false;
+        }
       }
 
       // Genre filter
