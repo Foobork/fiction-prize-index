@@ -9460,5 +9460,142 @@
     "countryOfOrigin": "United States",
     "pageCount": 304,
     "spineColor": "#166534"
+  },
+  {
+    "id": "the-iceman-cometh",
+    "title": "The Iceman Cometh",
+    "authorId": "eugene-oneill",
+    "authorName": "Eugene O'Neill",
+    "publicationYear": 1946,
+    "publisher": "Random House",
+    "genres": [
+      "Drama",
+      "American Drama"
+    ],
+    "synopsis": "A play about people who have been battered by life, who have done shocking things according to glib, conventional standards of respectability.",
+    "openLibraryKey": "/works/OL474430W",
+    "pageCount": 260,
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "les-thibaults",
+    "title": "Les Thibault",
+    "authorId": "roger-martin-du-gard",
+    "authorName": "Roger Martin du Gard",
+    "publicationYear": 1922,
+    "publisher": "Éditions de la Nouvelle revue française",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Novel Cycle"
+    ],
+    "synopsis": "The fortunes of two brothers, Antoine and Jacques Thibault, from their upbringing in a prosperous Catholic bourgeois family to the end of World War I.",
+    "openLibraryKey": "/works/OL1363587W",
+    "countryOfOrigin": "France"
+  },
+  {
+    "id": "hurskas-kurjuus",
+    "title": "Hurskas kurjuus",
+    "authorId": "frans-eemil-sillanpaa",
+    "authorName": "Frans Eemil Sillanpää",
+    "publicationYear": 1919,
+    "publisher": "WSOY",
+    "genres": [
+      "Finnish Fiction",
+      "Historical Fiction"
+    ],
+    "synopsis": "The novel depicts the life and tragic death of crofter Juha Toivola and explains the rebellion of the Finns during their civil war.",
+    "openLibraryKey": "/works/OL42865949W",
+    "pageCount": 271,
+    "countryOfOrigin": "Finland"
+  },
+  {
+    "id": "den-lange-rejse",
+    "title": "Den lange rejse",
+    "authorId": "johannes-v-jensen",
+    "authorName": "Johannes V. Jensen",
+    "publicationYear": 1922,
+    "publisher": "Gyldendal",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Novel Cycle"
+    ],
+    "synopsis": "A cycle of six novels tracing the evolution of human beings.",
+    "openLibraryKey": "/works/OL1132510W",
+    "countryOfOrigin": "Denmark"
+  },
+  {
+    "id": "tala",
+    "title": "Tala",
+    "authorId": "gabriela-mistral",
+    "authorName": "Gabriela Mistral",
+    "publicationYear": 1938,
+    "publisher": "Losada",
+    "genres": [
+      "Poetry"
+    ],
+    "synopsis": "A collection of poems that employs unusual imagery and free verse.",
+    "openLibraryKey": "/works/OL574385W",
+    "countryOfOrigin": "Chile"
+  },
+  {
+    "id": "das-glasperlenspiel",
+    "title": "Das Glasperlenspiel",
+    "authorId": "hermann-hesse",
+    "authorName": "Hermann Hesse",
+    "publicationYear": 1943,
+    "publisher": "Fretz & Wasmuth",
+    "genres": [
+      "Literary Fiction",
+      "Philosophical Fiction"
+    ],
+    "synopsis": "Set in a fictional Central European state in the 25th century, the novel follows the life of Magister Ludi, an intellectual order's administrator of the mysterious Glass Bead Game.",
+    "openLibraryKey": "/works/OL872724W",
+    "countryOfOrigin": "Germany"
+  },
+  {
+    "id": "les-faux-monnayeurs",
+    "title": "Les Faux-Monnayeurs",
+    "authorId": "andre-gide",
+    "authorName": "André Gide",
+    "publicationYear": 1925,
+    "publisher": "Éditions de la Nouvelle Revue Française",
+    "genres": [
+      "Literary Fiction",
+      "Experimental Fiction"
+    ],
+    "synopsis": "An experimental novel-within-a-novel that examines authenticity and the distinction between originals and copies.",
+    "openLibraryKey": "/works/OL630997W",
+    "countryOfOrigin": "France"
+  },
+  {
+    "id": "four-quartets",
+    "title": "Four Quartets",
+    "authorId": "t-s-eliot",
+    "authorName": "T. S. Eliot",
+    "publicationYear": 1943,
+    "publisher": "Harcourt, Brace & World",
+    "genres": [
+      "Poetry"
+    ],
+    "synopsis": "A sequence of four poems: Burnt Norton, East Coker, The Dry Salvages, and Little Gidding.",
+    "openLibraryKey": "/works/OL1142291W",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "a-history-of-western-philosophy",
+    "title": "A History of Western Philosophy",
+    "authorId": "bertrand-russell",
+    "authorName": "Bertrand Russell",
+    "publicationYear": 1946,
+    "publisher": "George Allen & Unwin",
+    "genres": [
+      "Philosophy",
+      "History"
+    ],
+    "synopsis": "An account of philosophy as part of social and political life, shaped by the communities in which different systems flourished.",
+    "openLibraryKey": "/works/OL1088357W",
+    "countryOfOrigin": "United Kingdom"
   }
 ]

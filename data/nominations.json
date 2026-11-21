@@ -5829,5 +5829,15 @@
     "category": "Best Novel",
     "citation": "Winner: John Wiswell's hilariously tender monster romance and dark fantasy.",
     "sourceUrl": "https://nebulas.sfwa.org/award-year/2025/"
+  },
+  {
+    "id": "nom-les-thibaults-nobel-1937",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "les-thibaults",
+    "year": 1937,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For the artistic power and truth with which he has depicted human conflict as well as some fundamental aspects of contemporary life in his novel-cycle Les Thibault.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1937/summary/"
   }
 ]
