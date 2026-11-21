@@ -3,6 +3,7 @@
 import React from 'react';
 import { X, ExternalLink, Bookmark, CheckCircle2, BookOpen, Trophy, Award, Calendar, Building, Globe } from 'lucide-react';
 import { BookWithNominations, ReadingStatus } from '@/types';
+import { BookCover } from './BookCover';
 
 interface BookModalProps {
   book: BookWithNominations | null;
@@ -43,66 +44,72 @@ export const BookModal: React.FC<BookModalProps> = ({
         </button>
 
         <div className="p-6 sm:p-8 space-y-6">
-          {/* Main Title & Author Header */}
-          <div>
-            <div className="flex flex-wrap items-center gap-2 mb-2">
-              <span className="px-2.5 py-0.5 rounded-full text-xs font-semibold bg-parchment-200 dark:bg-ink-800 text-parchment-800 dark:text-gilded-400">
-                {book.publicationYear}
-              </span>
-              {book.countryOfOrigin && (
-                <span className="flex items-center text-xs text-parchment-600 dark:text-ink-400">
-                  <Globe className="w-3.5 h-3.5 mr-1" />
-                  {book.countryOfOrigin}
+          {/* Hero Section with Cover Art & Book Identity */}
+          <div className="flex flex-col sm:flex-row gap-6 items-start">
+            <BookCover book={book} size="lg" className="mx-auto sm:mx-0 shadow-xl" showHonorsBadge />
+
+            <div className="flex-1 min-w-0 space-y-3">
+              <div className="flex flex-wrap items-center gap-2">
+                <span className="px-2.5 py-0.5 rounded-full text-xs font-semibold bg-parchment-200 dark:bg-ink-800 text-parchment-800 dark:text-gilded-400">
+                  {book.publicationYear}
                 </span>
-              )}
-              {book.pageCount && (
-                <span className="text-xs text-parchment-500 dark:text-ink-400">
-                  • {book.pageCount} pages
+                {book.countryOfOrigin && (
+                  <span className="flex items-center text-xs text-parchment-600 dark:text-ink-400">
+                    <Globe className="w-3.5 h-3.5 mr-1" />
+                    {book.countryOfOrigin}
+                  </span>
+                )}
+                {book.pageCount && (
+                  <span className="text-xs text-parchment-500 dark:text-ink-400">
+                    • {book.pageCount} pages
+                  </span>
+                )}
+              </div>
+
+              <div>
+                <h2 className="font-serif text-2xl sm:text-3xl font-bold tracking-tight text-parchment-950 dark:text-white leading-tight">
+                  {book.title}
+                </h2>
+                <p className="font-serif italic text-lg text-parchment-700 dark:text-parchment-300 mt-1">
+                  by {book.authorName}
+                </p>
+              </div>
+
+              {/* Publisher & Metadata */}
+              <div className="flex flex-wrap items-center gap-y-1.5 gap-x-4 text-xs text-parchment-700 dark:text-ink-300 pt-1">
+                <span className="flex items-center">
+                  <Building className="w-3.5 h-3.5 mr-1.5 text-parchment-500" />
+                  Publisher: <strong className="ml-1 text-parchment-900 dark:text-parchment-100">{book.publisher}{book.imprint ? ` (${book.imprint})` : ''}</strong>
                 </span>
-              )}
+                {book.isbn13 && (
+                  <span>
+                    ISBN: <code className="font-mono">{book.isbn13}</code>
+                  </span>
+                )}
+              </div>
+
+              {/* Genres */}
+              <div className="flex flex-wrap gap-1.5 pt-1">
+                {book.genres.map((g) => (
+                  <span
+                    key={g}
+                    className="px-2 py-0.5 rounded text-xs bg-parchment-100 dark:bg-ink-800 border border-parchment-200 dark:border-ink-700 text-parchment-700 dark:text-ink-300"
+                  >
+                    {g}
+                  </span>
+                ))}
+              </div>
             </div>
-
-            <h2 className="font-serif text-2xl sm:text-3xl font-bold tracking-tight text-parchment-950 dark:text-white leading-tight">
-              {book.title}
-            </h2>
-            <p className="font-serif italic text-lg text-parchment-700 dark:text-parchment-300 mt-1">
-              by {book.authorName}
-            </p>
-          </div>
-
-          {/* Publisher & Metadata */}
-          <div className="flex flex-wrap items-center gap-y-2 gap-x-4 text-xs text-parchment-700 dark:text-ink-300 py-2 border-y border-parchment-200 dark:border-ink-800">
-            <span className="flex items-center">
-              <Building className="w-3.5 h-3.5 mr-1.5 text-parchment-500" />
-              Publisher: <strong className="ml-1 text-parchment-900 dark:text-parchment-100">{book.publisher}{book.imprint ? ` (${book.imprint})` : ''}</strong>
-            </span>
-            {book.isbn13 && (
-              <span>
-                ISBN: <code className="font-mono">{book.isbn13}</code>
-              </span>
-            )}
           </div>
 
           {/* Synopsis */}
-          <div>
+          <div className="pt-2 border-t border-parchment-200 dark:border-ink-800">
             <h4 className="text-xs font-bold uppercase tracking-wider text-parchment-500 dark:text-ink-400 mb-2">
               Synopsis
             </h4>
             <p className="text-sm leading-relaxed text-parchment-800 dark:text-parchment-200">
               {book.synopsis}
             </p>
-          </div>
-
-          {/* Genres */}
-          <div className="flex flex-wrap gap-1.5">
-            {book.genres.map((g) => (
-              <span
-                key={g}
-                className="px-2 py-0.5 rounded text-xs bg-parchment-100 dark:bg-ink-800 border border-parchment-200 dark:border-ink-700 text-parchment-700 dark:text-ink-300"
-              >
-                {g}
-              </span>
-            ))}
           </div>
 
           {/* Award Nominations & Honors */}

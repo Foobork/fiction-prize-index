@@ -2,7 +2,8 @@
 
 import React, { useState, useMemo } from 'react';
 import { BookWithNominations, Prize, AwardStatus } from '@/types';
-import { Search, Trophy, Filter, LayoutGrid, List, Sparkles, X, ChevronRight } from 'lucide-react';
+import { Search, Trophy, Filter, LayoutGrid, List, Sparkles, X, ChevronRight, Image as ImageIcon } from 'lucide-react';
+import { BookCover } from './BookCover';
 
 interface IndexTableProps {
   books: BookWithNominations[];
@@ -20,7 +21,7 @@ export const IndexTable: React.FC<IndexTableProps> = ({
   const [selectedStatus, setSelectedStatus] = useState<string>('all');
   const [selectedGenre, setSelectedGenre] = useState<string>('all');
   const [onlyMultipleWins, setOnlyMultipleWins] = useState(false);
-  const [viewMode, setViewMode] = useState<'grid' | 'table'>('grid');
+  const [viewMode, setViewMode] = useState<'grid' | 'covers' | 'table'>('grid');
   const [sortBy, setSortBy] = useState<'year-desc' | 'year-asc' | 'title' | 'wins'>('year-desc');
 
   const genres = useMemo(() => {
@@ -198,9 +199,20 @@ export const IndexTable: React.FC<IndexTableProps> = ({
                     ? 'bg-parchment-300 dark:bg-ink-700 text-parchment-950 dark:text-white'
                     : 'text-parchment-600 dark:text-ink-400'
                 }`}
-                title="Grid View"
+                title="Grid View (Cards)"
               >
                 <LayoutGrid className="w-3.5 h-3.5" />
+              </button>
+              <button
+                onClick={() => setViewMode('covers')}
+                className={`p-1.5 ${
+                  viewMode === 'covers'
+                    ? 'bg-parchment-300 dark:bg-ink-700 text-parchment-950 dark:text-white'
+                    : 'text-parchment-600 dark:text-ink-400'
+                }`}
+                title="Cover Gallery"
+              >
+                <ImageIcon className="w-3.5 h-3.5" />
               </button>
               <button
                 onClick={() => setViewMode('table')}
@@ -232,45 +244,40 @@ export const IndexTable: React.FC<IndexTableProps> = ({
             <div
               key={book.id}
               onClick={() => onSelectBook(book)}
-              className="group cursor-pointer rounded-xl bg-parchment-50 dark:bg-ink-900 border border-parchment-300 dark:border-ink-800 p-5 hover:shadow-lg hover:border-parchment-400 dark:hover:border-ink-700 transition-all flex flex-col justify-between"
+              className="group cursor-pointer rounded-xl bg-parchment-50 dark:bg-ink-900 border border-parchment-300 dark:border-ink-800 p-4 hover:shadow-lg hover:border-parchment-400 dark:hover:border-ink-700 transition-all flex flex-col justify-between"
             >
-              <div className="space-y-3">
-                {/* Ribbon with Spine Color */}
-                <div className="flex items-center justify-between">
-                  <div className="flex items-center space-x-2">
-                    <span
-                      className="w-3 h-3 rounded-full"
-                      style={{ backgroundColor: book.spineColor || '#b45309' }}
-                    />
-                    <span className="text-xs font-semibold text-parchment-600 dark:text-ink-400">
+              <div className="flex gap-4 items-start">
+                <BookCover book={book} size="sm" className="group-hover:scale-105 transition-transform" />
+
+                <div className="flex-1 min-w-0 space-y-1.5">
+                  <div className="flex items-center justify-between">
+                    <span className="text-xs font-semibold text-parchment-600 dark:text-ink-400 font-mono">
                       {book.publicationYear}
                     </span>
+                    {book.nominations.length > 1 && (
+                      <span className="px-2 py-0.5 rounded-full text-[10px] font-bold bg-amber-100 text-amber-900 border border-amber-300 dark:bg-amber-950/80 dark:text-amber-200">
+                        {book.nominations.length} Honors
+                      </span>
+                    )}
                   </div>
-                  {book.nominations.length > 1 && (
-                    <span className="px-2 py-0.5 rounded-full text-[10px] font-bold bg-amber-100 text-amber-900 border border-amber-300 dark:bg-amber-950/80 dark:text-amber-200">
-                      {book.nominations.length} Honors
-                    </span>
-                  )}
-                </div>
 
-                {/* Title & Author */}
-                <div>
-                  <h3 className="font-serif font-bold text-lg text-parchment-950 dark:text-white group-hover:text-gilded-600 dark:group-hover:text-gilded-400 transition-colors leading-snug">
-                    {book.title}
-                  </h3>
-                  <p className="font-serif italic text-sm text-parchment-700 dark:text-parchment-300 mt-0.5">
-                    by {book.authorName}
+                  <div>
+                    <h3 className="font-serif font-bold text-base text-parchment-950 dark:text-white group-hover:text-gilded-600 dark:group-hover:text-gilded-400 transition-colors leading-snug line-clamp-2">
+                      {book.title}
+                    </h3>
+                    <p className="font-serif italic text-xs text-parchment-700 dark:text-parchment-300 truncate mt-0.5">
+                      by {book.authorName}
+                    </p>
+                  </div>
+
+                  <p className="text-[11px] text-parchment-600 dark:text-ink-400 line-clamp-2 leading-relaxed">
+                    {book.synopsis}
                   </p>
                 </div>
-
-                {/* Synopsis snippet */}
-                <p className="text-xs text-parchment-700 dark:text-ink-400 line-clamp-2 leading-relaxed">
-                  {book.synopsis}
-                </p>
               </div>
 
               {/* Honors & Footer */}
-              <div className="mt-4 pt-3 border-t border-parchment-200 dark:border-ink-800 space-y-2">
+              <div className="mt-3 pt-2.5 border-t border-parchment-200 dark:border-ink-800 space-y-2">
                 <div className="flex flex-wrap gap-1">
                   {book.nominations.map((nom) => (
                     <span
@@ -288,10 +295,50 @@ export const IndexTable: React.FC<IndexTableProps> = ({
                 </div>
 
                 <div className="flex items-center justify-between text-[11px] text-parchment-500 dark:text-ink-400">
-                  <span>{book.publisher}</span>
-                  <span className="group-hover:translate-x-1 transition-transform flex items-center text-gilded-600 dark:text-gilded-400 font-medium">
+                  <span className="truncate pr-2">{book.publisher}</span>
+                  <span className="group-hover:translate-x-1 transition-transform flex items-center text-gilded-600 dark:text-gilded-400 font-medium flex-shrink-0">
                     View Details <ChevronRight className="w-3 h-3 ml-0.5" />
                   </span>
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      )}
+
+      {/* Cover Gallery View */}
+      {viewMode === 'covers' && (
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-5">
+          {filteredBooks.map((book) => (
+            <div
+              key={book.id}
+              onClick={() => onSelectBook(book)}
+              className="group cursor-pointer flex flex-col items-center text-center space-y-2 p-2 rounded-xl hover:bg-parchment-100/70 dark:hover:bg-ink-800/50 transition-all hover:-translate-y-1"
+            >
+              <div className="relative">
+                <BookCover
+                  book={book}
+                  size="md"
+                  showHonorsBadge
+                  className="mx-auto shadow-md group-hover:shadow-2xl transition-all"
+                />
+              </div>
+              <div className="w-full px-1">
+                <h4 className="font-serif font-bold text-xs text-parchment-950 dark:text-white line-clamp-2 leading-snug group-hover:text-gilded-600 dark:group-hover:text-gilded-400">
+                  {book.title}
+                </h4>
+                <p className="font-serif italic text-[11px] text-parchment-600 dark:text-ink-400 truncate mt-0.5">
+                  {book.authorName}
+                </p>
+                <div className="flex items-center justify-center space-x-1 mt-1">
+                  <span className="text-[10px] text-parchment-500 dark:text-ink-500 font-mono">
+                    {book.publicationYear}
+                  </span>
+                  {book.nominations.length > 0 && (
+                    <span className="text-[10px] text-amber-600 dark:text-amber-400 font-semibold">
+                      • {book.nominations[0].prize.shortName}
+                    </span>
+                  )}
                 </div>
               </div>
             </div>

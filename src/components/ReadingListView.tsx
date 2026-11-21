@@ -4,6 +4,7 @@ import React from 'react';
 import { UserSavedBook, BookWithNominations, ReadingStatus } from '@/types';
 import { exportToMarkdown, exportToCSV } from '@/lib/storage';
 import { Bookmark, Download, FileText, Trash2, CheckCircle2, BookOpen, Clock } from 'lucide-react';
+import { BookCover } from './BookCover';
 
 interface ReadingListViewProps {
   savedBooks: Record<string, UserSavedBook>;
@@ -190,7 +191,7 @@ const SavedBookCard: React.FC<{
   return (
     <div className="p-4 rounded-xl bg-parchment-50 dark:bg-ink-900 border border-parchment-300 dark:border-ink-800 flex flex-col justify-between shadow-xs">
       <div>
-        <div className="flex items-center justify-between mb-2">
+        <div className="flex items-center justify-between mb-3">
           <span className="text-[10px] font-mono text-parchment-500">
             Saved {item.savedAt.slice(0, 10)}
           </span>
@@ -203,13 +204,16 @@ const SavedBookCard: React.FC<{
           </button>
         </div>
 
-        <div onClick={() => onSelectBook(book)} className="cursor-pointer group">
-          <h4 className="font-serif font-bold text-base text-parchment-950 dark:text-white group-hover:text-gilded-600 dark:group-hover:text-gilded-400 transition-colors">
-            {book.title}
-          </h4>
-          <p className="font-serif italic text-xs text-parchment-700 dark:text-parchment-300 mt-0.5">
-            by {book.authorName} ({book.publicationYear})
-          </p>
+        <div onClick={() => onSelectBook(book)} className="cursor-pointer group flex gap-3 items-start">
+          <BookCover book={book} size="xs" className="group-hover:scale-105 transition-transform" />
+          <div className="flex-1 min-w-0">
+            <h4 className="font-serif font-bold text-sm text-parchment-950 dark:text-white group-hover:text-gilded-600 dark:group-hover:text-gilded-400 transition-colors line-clamp-2">
+              {book.title}
+            </h4>
+            <p className="font-serif italic text-xs text-parchment-700 dark:text-parchment-300 mt-0.5 truncate">
+              by {book.authorName} ({book.publicationYear})
+            </p>
+          </div>
         </div>
       </div>
 
