@@ -7062,5 +7062,1483 @@
     "countryOfOrigin": "United States",
     "pageCount": 280,
     "spineColor": "#374151"
+  },
+  {
+    "id": "remembering-babylon",
+    "title": "Remembering Babylon",
+    "authorId": "david-malouf",
+    "authorName": "David Malouf",
+    "publicationYear": 1993,
+    "publisher": "Chatto & Windus",
+    "isbn13": "9780679749516",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Australian Literature"
+    ],
+    "synopsis": "In 1850s Queensland, a white youth raised for sixteen years by an Aboriginal tribe steps out of the bush into a remote British settler community, testing colonial identity and the limits of belonging.",
+    "countryOfOrigin": "Australia",
+    "pageCount": 202,
+    "spineColor": "#b45309"
+  },
+  {
+    "id": "a-heart-so-white",
+    "title": "A Heart So White",
+    "authorId": "javier-marias",
+    "authorName": "Javier Marías",
+    "publicationYear": 1992,
+    "publisher": "Harvill Press / New Directions",
+    "isbn13": "9780811219761",
+    "genres": [
+      "Literary Fiction",
+      "Mystery",
+      "Philosophical Fiction"
+    ],
+    "synopsis": "A high-level conference interpreter newlywed in Madrid investigates his father's shrouded past and the mysterious suicide of his father's first wife thirty years earlier.",
+    "countryOfOrigin": "Spain",
+    "translator": "Margaret Jull Costa",
+    "originalLanguage": "Spanish",
+    "originalTitle": "Corazón tan blanco",
+    "pageCount": 304,
+    "spineColor": "#1e3a8a"
+  },
+  {
+    "id": "the-land-of-green-plums",
+    "title": "The Land of Green Plums",
+    "authorId": "herta-muller",
+    "authorName": "Herta Müller",
+    "publicationYear": 1994,
+    "publisher": "Metropolitan Books / Granta",
+    "isbn13": "9780312429942",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Political Fiction"
+    ],
+    "synopsis": "In totalitarian Ceaușescu-era Romania, a tight-knit circle of young German-minority students navigate pervasive state paranoia, secret police interrogation, and betrayal.",
+    "countryOfOrigin": "Germany",
+    "translator": "Michael Hofmann",
+    "originalLanguage": "German",
+    "originalTitle": "Herztier",
+    "pageCount": 256,
+    "spineColor": "#831843"
+  },
+  {
+    "id": "ingenious-pain",
+    "title": "Ingenious Pain",
+    "authorId": "andrew-miller",
+    "authorName": "Andrew Miller",
+    "publicationYear": 1997,
+    "publisher": "Sceptre / Harcourt",
+    "isbn13": "9780156006422",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Medical Fiction"
+    ],
+    "synopsis": "James Dyer, an eighteenth-century English boy born completely immune to physical pain, becomes a celebrated, ruthless surgeon before love and psychological awakening break through his defenses.",
+    "countryOfOrigin": "United Kingdom",
+    "pageCount": 352,
+    "spineColor": "#374151"
+  },
+  {
+    "id": "wide-open",
+    "title": "Wide Open",
+    "authorId": "nicola-barker",
+    "authorName": "Nicola Barker",
+    "publicationYear": 1998,
+    "publisher": "Faber & Faber",
+    "isbn13": "9780571193981",
+    "genres": [
+      "Literary Fiction",
+      "Dark Comedy",
+      "Psychological Fiction"
+    ],
+    "synopsis": "Set on the stark, marshy landscape of the Isle of Sheppey, tracking a cast of deeply idiosyncratic, damaged souls dealing with eccentric fixations and repressed secrets.",
+    "countryOfOrigin": "United Kingdom",
+    "pageCount": 320,
+    "spineColor": "#0284c7"
+  },
+  {
+    "id": "no-great-mischief",
+    "title": "No Great Mischief",
+    "authorId": "alistair-macleod",
+    "authorName": "Alistair MacLeod",
+    "publicationYear": 1999,
+    "publisher": "McClelland & Stewart / Jonathan Cape",
+    "isbn13": "9780393322132",
+    "genres": [
+      "Literary Fiction",
+      "Family Saga",
+      "Canadian Literature"
+    ],
+    "synopsis": "Alexander MacDonald reflects on his Scottish Cape Breton heritage, ancestral clan bonds, mining brotherhood, and the enduring power of Gaelic music and tragic history.",
+    "countryOfOrigin": "Canada",
+    "pageCount": 288,
+    "spineColor": "#166534"
+  },
+  {
+    "id": "atomised",
+    "title": "Atomised",
+    "authorId": "michel-houellebecq",
+    "authorName": "Michel Houellebecq",
+    "publicationYear": 1998,
+    "publisher": "Heinemann / Vintage",
+    "isbn13": "9780099283362",
+    "genres": [
+      "Literary Fiction",
+      "Philosophical Fiction",
+      "Satire"
+    ],
+    "synopsis": "Two contrasting half-brothers—a sexually frustrated literature teacher and a reclusive molecular biologist—navigate late-capitalist malaise, sexual desolation, and the dawn of cloning.",
+    "countryOfOrigin": "France",
+    "translator": "Frank Wynne",
+    "originalLanguage": "French",
+    "originalTitle": "Les Particules élémentaires",
+    "pageCount": 384,
+    "spineColor": "#475569"
+  },
+  {
+    "id": "my-name-is-red",
+    "title": "My Name Is Red",
+    "authorId": "orhan-pamuk",
+    "authorName": "Orhan Pamuk",
+    "publicationYear": 1998,
+    "publisher": "Faber & Faber / Knopf",
+    "isbn13": "9780375706851",
+    "genres": [
+      "Literary Fiction",
+      "Historical Mystery",
+      "Philosophical Fiction"
+    ],
+    "synopsis": "In 1590s Ottoman Istanbul, the murder of an imperial miniaturist ignites a polyphonic whodunit narrated by court illustrators, a corpse, a coin, and the color Red.",
+    "countryOfOrigin": "Turkey",
+    "translator": "Erdağ Göknar",
+    "originalLanguage": "Turkish",
+    "originalTitle": "Benim Adım Kırmızı",
+    "pageCount": 417,
+    "spineColor": "#991b1b"
+  },
+  {
+    "id": "this-blinding-absence-of-light",
+    "title": "This Blinding Absence of Light",
+    "authorId": "tahar-ben-jelloun",
+    "authorName": "Tahar Ben Jelloun",
+    "publicationYear": 2001,
+    "publisher": "The New Press",
+    "isbn13": "9781565849426",
+    "genres": [
+      "Literary Fiction",
+      "Political Fiction",
+      "Prison Literature"
+    ],
+    "synopsis": "A harrowing testament inspired by true accounts of Tazmamart, King Hassan II's secret underground Moroccan dungeon where political prisoners survived decades in utter sensory darkness.",
+    "countryOfOrigin": "Morocco",
+    "translator": "Linda Coverdale",
+    "originalLanguage": "French",
+    "originalTitle": "Cette aveuglante absence de lumière",
+    "pageCount": 195,
+    "spineColor": "#1e293b"
+  },
+  {
+    "id": "out-stealing-horses",
+    "title": "Out Stealing Horses",
+    "authorId": "per-petterson",
+    "authorName": "Per Petterson",
+    "publicationYear": 2003,
+    "publisher": "Harvill Secker / Graywolf Press",
+    "isbn13": "9780312427085",
+    "genres": [
+      "Literary Fiction",
+      "Nordic Fiction",
+      "Coming-of-Age"
+    ],
+    "synopsis": "Sixty-seven-year-old Trond Sander retires to an isolated cabin in eastern Norway, where a chance encounter unearths memories of the fateful summer of 1948 and his father's wartime resistance.",
+    "countryOfOrigin": "Norway",
+    "translator": "Anne Born",
+    "originalLanguage": "Norwegian",
+    "originalTitle": "Ut og stjæle hester",
+    "pageCount": 258,
+    "spineColor": "#0f766e"
+  },
+  {
+    "id": "de-niros-game",
+    "title": "De Niro's Game",
+    "authorId": "rawi-hage",
+    "authorName": "Rawi Hage",
+    "publicationYear": 2006,
+    "publisher": "House of Anansi Press / HarperCollins",
+    "isbn13": "9780061240980",
+    "genres": [
+      "Literary Fiction",
+      "War Fiction",
+      "Coming-of-Age"
+    ],
+    "synopsis": "Childhood friends Bassam and George come of age amidst the exploding bombs, militias, and roulette of violence in civil-war Beirut, choosing radically divergent paths of crime and survival.",
+    "countryOfOrigin": "Lebanon",
+    "pageCount": 288,
+    "spineColor": "#78350f"
+  },
+  {
+    "id": "man-gone-down",
+    "title": "Man Gone Down",
+    "authorId": "michael-thomas",
+    "authorName": "Michael Thomas",
+    "publicationYear": 2007,
+    "publisher": "Black Cat / Grove Press",
+    "isbn13": "9780802170354",
+    "genres": [
+      "Literary Fiction",
+      "Urban Realism",
+      "African American Literature"
+    ],
+    "synopsis": "A brilliant, unhoused thirty-five-year-old Black father has four days in New York City to scrape together thousands of dollars to save his family from eviction, confronting racial barriers and economic despair.",
+    "countryOfOrigin": "United States",
+    "pageCount": 448,
+    "spineColor": "#1f2937"
+  },
+  {
+    "id": "the-twin",
+    "title": "The Twin",
+    "authorId": "gerbrand-bakker",
+    "authorName": "Gerbrand Bakker",
+    "publicationYear": 2006,
+    "publisher": "Archipelago Books / Harvill Secker",
+    "isbn13": "9780981987309",
+    "genres": [
+      "Literary Fiction",
+      "Rural Realism",
+      "Queer Fiction"
+    ],
+    "synopsis": "Helmer van Wonderen lives alone on his secluded rural Dutch farm tending to his dying, domineering father, haunted by the decades-old drowning of his twin brother Henk.",
+    "countryOfOrigin": "Netherlands",
+    "translator": "David Colmer",
+    "originalLanguage": "Dutch",
+    "originalTitle": "Boven is het stil",
+    "pageCount": 260,
+    "spineColor": "#047857"
+  },
+  {
+    "id": "even-the-dogs",
+    "title": "Even the Dogs",
+    "authorId": "jon-mcgregor",
+    "authorName": "Jon McGregor",
+    "publicationYear": 2010,
+    "publisher": "Bloomsbury Publishing",
+    "isbn13": "9781608194483",
+    "genres": [
+      "Literary Fiction",
+      "Experimental",
+      "Social Realism"
+    ],
+    "synopsis": "When a dead alcoholic is discovered in his council flat over a freezing Christmas week, a chorus of unhoused addicts in an unnamed English city narrate his final days with raw compassion.",
+    "countryOfOrigin": "United Kingdom",
+    "pageCount": 208,
+    "spineColor": "#475569"
+  },
+  {
+    "id": "city-of-bohane",
+    "title": "City of Bohane",
+    "authorId": "kevin-barry",
+    "authorName": "Kevin Barry",
+    "publicationYear": 2011,
+    "publisher": "Jonathan Cape / Graywolf Press",
+    "isbn13": "9781555976163",
+    "genres": [
+      "Literary Fiction",
+      "Dystopian",
+      "Gangster Noir"
+    ],
+    "synopsis": "Set in 2053 in a lawless, waterlogged west of Ireland port city, chronicling gangland warfare between the Hartnett Fancy and the Cusack family in fierce, rhythmic Hiberno-English slang.",
+    "countryOfOrigin": "Ireland",
+    "pageCount": 288,
+    "spineColor": "#7c2d12"
+  },
+  {
+    "id": "the-sound-of-things-falling",
+    "title": "The Sound of Things Falling",
+    "authorId": "juan-gabriel-vasquez",
+    "authorName": "Juan Gabriel Vásquez",
+    "publicationYear": 2011,
+    "publisher": "Bloomsbury / Riverhead",
+    "isbn13": "9781594632822",
+    "genres": [
+      "Literary Fiction",
+      "Historical Noir",
+      "Political Fiction"
+    ],
+    "synopsis": "In Bogotá, law professor Antonio Yammara witnesses the street assassination of a charismatic ex-pilot, drawing him into the dark history of Colombia's drug cartels and the 1970s Peace Corps.",
+    "countryOfOrigin": "Colombia",
+    "translator": "Anne McLean",
+    "originalLanguage": "Spanish",
+    "originalTitle": "El ruido de las cosas al caer",
+    "pageCount": 288,
+    "spineColor": "#1e3a8a"
+  },
+  {
+    "id": "harvest",
+    "title": "Harvest",
+    "authorId": "jim-crace",
+    "authorName": "Jim Crace",
+    "publicationYear": 2013,
+    "publisher": "Picador / Nan A. Talese",
+    "isbn13": "9780385536974",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Pastoral Tragedy"
+    ],
+    "synopsis": "Over seven days in an unnamed English village, traditional feudal peasant commons are brutally extinguished by enclosure, modern mapping, and sheep farming.",
+    "countryOfOrigin": "United Kingdom",
+    "pageCount": 208,
+    "spineColor": "#854d0e"
+  },
+  {
+    "id": "family-life",
+    "title": "Family Life",
+    "authorId": "akhil-sharma",
+    "authorName": "Akhil Sharma",
+    "publicationYear": 2014,
+    "publisher": "W. W. Norton & Company",
+    "isbn13": "9780393351194",
+    "genres": [
+      "Literary Fiction",
+      "Autobiographical",
+      "Immigrant Fiction"
+    ],
+    "synopsis": "Eight-year-old Ajay Mishra moves from Delhi to Queens, New York, but the American dream shatters when his older brother suffers severe brain damage in a swimming pool accident, pulling the family into grief and duty.",
+    "countryOfOrigin": "United States",
+    "pageCount": 224,
+    "spineColor": "#0284c7"
+  },
+  {
+    "id": "a-general-theory-of-oblivion",
+    "title": "A General Theory of Oblivion",
+    "authorId": "jose-eduardo-agualusa",
+    "authorName": "José Eduardo Agualusa",
+    "publicationYear": 2012,
+    "publisher": "Harvill Secker / Archipelago Books",
+    "isbn13": "9781935744986",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Magical Realism"
+    ],
+    "synopsis": "On the eve of Angolan independence in 1975, agoraphobic Ludo walls herself inside her Luanda apartment, surviving on trapped pigeons, rainwater, and wall poetry for thirty years.",
+    "countryOfOrigin": "Angola",
+    "translator": "Daniel Hahn",
+    "originalLanguage": "Portuguese",
+    "originalTitle": "Teoria Geral do Esquecimento",
+    "pageCount": 256,
+    "spineColor": "#d97706"
+  },
+  {
+    "id": "solar-bones",
+    "title": "Solar Bones",
+    "authorId": "mike-mccormack",
+    "authorName": "Mike McCormack",
+    "publicationYear": 2016,
+    "publisher": "Tramp Press / Canongate",
+    "isbn13": "9780992817091",
+    "genres": [
+      "Literary Fiction",
+      "Experimental",
+      "Irish Literature"
+    ],
+    "synopsis": "Rendered in a single, unbroken sentence spanning over two hundred pages, civil engineer Marcus Conway sits at his kitchen table on All Souls' Day contemplating family, construction, civic collapse, and mortality.",
+    "countryOfOrigin": "Ireland",
+    "pageCount": 224,
+    "spineColor": "#15803d"
+  },
+  {
+    "id": "idaho",
+    "title": "Idaho",
+    "authorId": "emily-ruskovich",
+    "authorName": "Emily Ruskovich",
+    "publicationYear": 2017,
+    "publisher": "Random House / Chatto & Windus",
+    "isbn13": "9780525509424",
+    "genres": [
+      "Literary Fiction",
+      "Mystery",
+      "Psychological Drama"
+    ],
+    "synopsis": "On a mountain in northern Idaho, an unfathomable family tragedy occurs during an ordinary afternoon gathering firewood, whose emotional ripples echo across decades of love, memory, and dementia.",
+    "countryOfOrigin": "United States",
+    "pageCount": 320,
+    "spineColor": "#334155"
+  },
+  {
+    "id": "lost-children-archive",
+    "title": "Lost Children Archive",
+    "authorId": "valeria-luiselli",
+    "authorName": "Valeria Luiselli",
+    "publicationYear": 2019,
+    "publisher": "Alfred A. Knopf / 4th Estate",
+    "isbn13": "9780525520610",
+    "genres": [
+      "Literary Fiction",
+      "Road Novel",
+      "Social Realism"
+    ],
+    "synopsis": "A family of four drives from New York toward the US-Mexico border capturing acoustic landscapes and migratory histories, as child refugees navigate perilous desert crossings.",
+    "countryOfOrigin": "Mexico",
+    "pageCount": 400,
+    "spineColor": "#b45309"
+  },
+  {
+    "id": "the-art-of-losing",
+    "title": "The Art of Losing",
+    "authorId": "alice-zeniter",
+    "authorName": "Alice Zeniter",
+    "publicationYear": 2017,
+    "publisher": "Picador",
+    "isbn13": "9781529061802",
+    "genres": [
+      "Literary Fiction",
+      "Historical Epic",
+      "Family Saga"
+    ],
+    "synopsis": "A sweeping generational saga spanning French colonial Algeria, the brutal war of independence, the plight of the Harkis, and contemporary Parisian granddaughter Naïma.",
+    "countryOfOrigin": "France",
+    "translator": "Frank Wynne",
+    "originalLanguage": "French",
+    "originalTitle": "L'Art de perdre",
+    "pageCount": 448,
+    "spineColor": "#0284c7"
+  },
+  {
+    "id": "marzahn-mon-amour",
+    "title": "Marzahn, Mon Amour",
+    "authorId": "katja-oskamp",
+    "authorName": "Katja Oskamp",
+    "publicationYear": 2019,
+    "publisher": "Peirene Press",
+    "isbn13": "9781909747975",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories",
+      "Memoiristic Fiction"
+    ],
+    "synopsis": "A struggling Berlin novelist re-trains as a chiropodist in the prefabricated housing estate of Marzahn, listening with tenderness and wry humor to the life stories of her elderly working-class clients.",
+    "countryOfOrigin": "Germany",
+    "translator": "Jo Heinrich",
+    "originalLanguage": "German",
+    "originalTitle": "Marzahn, mon amour",
+    "pageCount": 144,
+    "spineColor": "#701a75"
+  },
+  {
+    "id": "the-adversary",
+    "title": "The Adversary",
+    "authorId": "michael-crummey",
+    "authorName": "Michael Crummey",
+    "publicationYear": 2023,
+    "publisher": "Doubleday Canada",
+    "isbn13": "9780385698559",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Gothic Noir"
+    ],
+    "synopsis": "In an isolated, weather-blasted northern Newfoundland outport, an obsessive, bloodthirsty sibling rivalry between brother and sister Abe and the Widow Caines consumes their entire community.",
+    "countryOfOrigin": "Canada",
+    "pageCount": 352,
+    "spineColor": "#1e293b"
+  },
+  {
+    "id": "gliff",
+    "title": "Gliff",
+    "authorId": "ali-smith",
+    "authorName": "Ali Smith",
+    "publicationYear": 2024,
+    "publisher": "Hamish Hamilton / Pantheon",
+    "isbn13": "9780241692127",
+    "genres": [
+      "Literary Fiction",
+      "Dystopian",
+      "Speculative Fiction"
+    ],
+    "synopsis": "In a near-future Britain ruled by algorithmic segregation and automated redlining, two orphaned children and an eccentric horse navigate state surveillance and the radiant gliffs of memory.",
+    "countryOfOrigin": "United Kingdom",
+    "pageCount": 304,
+    "spineColor": "#047857"
+  },
+  {
+    "id": "beatlebone",
+    "title": "Beatlebone",
+    "authorId": "kevin-barry",
+    "authorName": "Kevin Barry",
+    "publicationYear": 2015,
+    "publisher": "Canongate Books",
+    "isbn13": "9781782116035",
+    "genres": [
+      "Literary Fiction",
+      "Experimental",
+      "Satire"
+    ],
+    "synopsis": "In 1978, John Lennon journeys to an uninhabited island off the windswept west coast of Ireland seeking isolation and primal scream therapy, guided by an enigmatic local driver named Cornelius.",
+    "countryOfOrigin": "Ireland",
+    "pageCount": 272,
+    "spineColor": "#b45309"
+  },
+  {
+    "id": "happy",
+    "title": "H(A)PPY",
+    "authorId": "nicola-barker",
+    "authorName": "Nicola Barker",
+    "publicationYear": 2017,
+    "publisher": "William Heinemann",
+    "isbn13": "9781785151248",
+    "genres": [
+      "Literary Fiction",
+      "Dystopian",
+      "Experimental"
+    ],
+    "synopsis": "In a post-apocalyptic surveillance utopia where negative emotions and disruptive thoughts are mathematically purged by an Information Stream, a young woman's illicit love of Paraguayan music causes dangerous fissures.",
+    "countryOfOrigin": "United Kingdom",
+    "pageCount": 288,
+    "spineColor": "#eab308"
+  },
+  {
+    "id": "the-sunken-land-begins-to-rise-again",
+    "title": "The Sunken Land Begins to Rise Again",
+    "authorId": "m-john-harrison",
+    "authorName": "M. John Harrison",
+    "publicationYear": 2020,
+    "publisher": "Gollancz",
+    "isbn13": "9781473215283",
+    "genres": [
+      "Literary Fiction",
+      "Speculative Fiction",
+      "Psychogeography"
+    ],
+    "synopsis": "An eerie, unsettling post-Brexit psychological mystery tracking Shaw and Victoria across a moldering London and the Severn Estuary as human biology appears to drift inexorably back toward aquatic, amphibious origins.",
+    "countryOfOrigin": "United Kingdom",
+    "pageCount": 272,
+    "spineColor": "#0f766e"
+  },
+  {
+    "id": "sterling-karat-gold",
+    "title": "Sterling Karat Gold",
+    "authorId": "isabel-waidner",
+    "authorName": "Isabel Waidner",
+    "publicationYear": 2021,
+    "publisher": "Peninsula Press",
+    "isbn13": "9781913512033",
+    "genres": [
+      "Literary Fiction",
+      "Surrealism",
+      "Queer Fiction",
+      "Satire"
+    ],
+    "synopsis": "A surrealist, Kafkaesque tour de force following Sterling, a non-binary migrant in Camden Town, as they are unjustly arrested by bullfighters and navigate a bizarre dystopian English carceral court system.",
+    "countryOfOrigin": "United Kingdom",
+    "pageCount": 192,
+    "spineColor": "#d97706"
+  },
+  {
+    "id": "diego-garcia",
+    "title": "Diego Garcia",
+    "authorId": "natasha-soobramanien",
+    "authorName": "Natasha Soobramanien & Luke Williams",
+    "publicationYear": 2022,
+    "publisher": "Fitzcarraldo Editions",
+    "isbn13": "9781913097943",
+    "genres": [
+      "Literary Fiction",
+      "Collaborative Fiction",
+      "Political Fiction"
+    ],
+    "synopsis": "Two impoverished writers living in Edinburgh meet Diego, a poet from the Chagos Islands, prompting a collaborative reckoning with British colonial expulsion, forced military leasing, and collective solidarity.",
+    "countryOfOrigin": "United Kingdom",
+    "pageCount": 272,
+    "spineColor": "#0284c7"
+  },
+  {
+    "id": "cuddy",
+    "title": "Cuddy",
+    "authorId": "benjamin-myers",
+    "authorName": "Benjamin Myers",
+    "publicationYear": 2023,
+    "publisher": "Bloomsbury Publishing",
+    "isbn13": "9781526631510",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Polyphonic"
+    ],
+    "synopsis": "A polyphonic, genre-blending epic across thirteen centuries orbiting Saint Cuthbert and Durham Cathedral, combining verse, play scripts, medieval chronicles, and contemporary drama.",
+    "countryOfOrigin": "United Kingdom",
+    "pageCount": 464,
+    "spineColor": "#7c2d12"
+  },
+  {
+    "id": "parade",
+    "title": "Parade",
+    "authorId": "rachel-cusk",
+    "authorName": "Rachel Cusk",
+    "publicationYear": 2024,
+    "publisher": "Faber & Faber",
+    "isbn13": "9780571384075",
+    "genres": [
+      "Literary Fiction",
+      "Autofiction",
+      "Philosophical Fiction"
+    ],
+    "synopsis": "An audacious quartet of interconnected narratives tracking artists all known only as 'G', dissecting gender, painting upside down, motherhood, creative destruction, and mid-century art circles.",
+    "countryOfOrigin": "United Kingdom",
+    "pageCount": 208,
+    "spineColor": "#1e293b"
+  },
+  {
+    "id": "we-live-here-now",
+    "title": "We Live Here Now",
+    "authorId": "c-d-rose",
+    "authorName": "C.D. Rose",
+    "publicationYear": 2024,
+    "publisher": "Melville House",
+    "isbn13": "9781685891329",
+    "genres": [
+      "Literary Fiction",
+      "Experimental",
+      "Satire"
+    ],
+    "synopsis": "An inventive, biting novel investigating an elusive Eastern European avant-garde artist colony, exploring cultural bureaucracy, fake archives, and the ephemeral boundaries of artistic survival.",
+    "countryOfOrigin": "United Kingdom",
+    "pageCount": 224,
+    "spineColor": "#4338ca"
+  },
+  {
+    "id": "the-rouse",
+    "title": "The Rouse",
+    "authorId": "china-mieville",
+    "authorName": "China Miéville",
+    "publicationYear": 2025,
+    "publisher": "Picador / Del Rey",
+    "isbn13": "9781529061437",
+    "genres": [
+      "Literary Fiction",
+      "Speculative Fiction",
+      "Experimental Epic"
+    ],
+    "synopsis": "A monumental, 1,200-page opus stretching formal boundaries through linguistic invention, radical political myth-making, and deep metaphysical speculation, hailed as Miéville's masterpiece.",
+    "countryOfOrigin": "United Kingdom",
+    "pageCount": 1216,
+    "spineColor": "#831843"
+  },
+  {
+    "id": "the-master",
+    "title": "The Master",
+    "authorId": "colm-toibin",
+    "authorName": "Colm Tóibín",
+    "publicationYear": 2004,
+    "publisher": "Picador / Scribner",
+    "isbn13": "9780330485661",
+    "genres": [
+      "Literary Fiction",
+      "Biographical Fiction",
+      "Historical Fiction"
+    ],
+    "synopsis": "An intimate, beautifully restrained portrait of American novelist Henry James between 1895 and 1899 as he retreats to Rye, Sussex, nursing theatrical failure and the private sorrows of an unlived emotional life.",
+    "countryOfOrigin": "Ireland",
+    "pageCount": 359,
+    "spineColor": "#1e293b"
+  },
+  {
+    "id": "starship-troopers",
+    "title": "Starship Troopers",
+    "authorId": "robert-a-heinlein",
+    "authorName": "Robert A. Heinlein",
+    "publicationYear": 1959,
+    "publisher": "G. P. Putnam's Sons",
+    "isbn13": "9780441783588",
+    "genres": [
+      "Science Fiction",
+      "Military Sci-Fi",
+      "Political Theory"
+    ],
+    "synopsis": "Johnny Rico enlists in the Mobile Infantry of the Terran Federation, rising through grueling boot camp to become a mechanized power-suit soldier in an interstellar war against the Arachnids.",
+    "countryOfOrigin": "United States",
+    "pageCount": 263,
+    "spineColor": "#78350f"
+  },
+  {
+    "id": "the-moon-is-a-harsh-mistress",
+    "title": "The Moon Is a Harsh Mistress",
+    "authorId": "robert-a-heinlein",
+    "authorName": "Robert A. Heinlein",
+    "publicationYear": 1966,
+    "publisher": "G. P. Putnam's Sons",
+    "isbn13": "9780312863555",
+    "genres": [
+      "Science Fiction",
+      "Hard Sci-Fi",
+      "Political Fiction"
+    ],
+    "synopsis": "On the penal colony of the Moon in 2075, a one-armed computer technician, an agitator, an academic, and a self-aware supercomputer named Mike orchestrate a lunar revolution against Earth.",
+    "countryOfOrigin": "United States",
+    "pageCount": 382,
+    "spineColor": "#374151"
+  },
+  {
+    "id": "babel-17",
+    "title": "Babel-17",
+    "authorId": "samuel-r-delany",
+    "authorName": "Samuel R. Delany",
+    "publicationYear": 1966,
+    "publisher": "Ace Books",
+    "isbn13": "9780375706691",
+    "genres": [
+      "Science Fiction",
+      "Linguistic Sci-Fi",
+      "Space Opera"
+    ],
+    "synopsis": "Rydra Wong, a renowned poet, cryptographer, and starship captain, is tasked with cracking Babel-17, an analytical enemy language that alters the neurochemistry and thought processes of anyone who learns it.",
+    "countryOfOrigin": "United States",
+    "pageCount": 192,
+    "spineColor": "#831843"
+  },
+  {
+    "id": "ten-north-frederick",
+    "title": "Ten North Frederick",
+    "authorId": "john-ohara",
+    "authorName": "John O'Hara",
+    "publicationYear": 1955,
+    "publisher": "Random House",
+    "isbn13": "9780099528654",
+    "genres": [
+      "Literary Fiction",
+      "Social Realism",
+      "American Tragedy"
+    ],
+    "synopsis": "Opening at the funeral of prominent Pennsylvania aristocrat Joe Chapin, charting how unfulfilled political ambition and marital compromise hollowed out an enviable life.",
+    "countryOfOrigin": "United States",
+    "pageCount": 408,
+    "spineColor": "#374151"
+  },
+  {
+    "id": "the-field-of-vision",
+    "title": "The Field of Vision",
+    "authorId": "wright-morris",
+    "authorName": "Wright Morris",
+    "publicationYear": 1956,
+    "publisher": "Harcourt, Brace & Co.",
+    "isbn13": "9780803281905",
+    "genres": [
+      "Literary Fiction",
+      "Modernist",
+      "Psychological Fiction"
+    ],
+    "synopsis": "A modernist masterpiece set in a Mexico City bullring, where a group of Midwestern tourists witness a bullfight that triggers internal reflections on personal myth, memory, and blindness.",
+    "countryOfOrigin": "United States",
+    "pageCount": 251,
+    "spineColor": "#b45309"
+  },
+  {
+    "id": "the-wapshot-chronicle",
+    "title": "The Wapshot Chronicle",
+    "authorId": "john-cheever",
+    "authorName": "John Cheever",
+    "publicationYear": 1957,
+    "publisher": "Harper & Brothers",
+    "isbn13": "9780060990336",
+    "genres": [
+      "Literary Fiction",
+      "Family Saga",
+      "Satire"
+    ],
+    "synopsis": "The eccentric, decaying Massachusetts maritime dynasty of St. Botolphs, following Moses and Coverly Wapshot as they venture into modern mid-century America under their aunt's will.",
+    "countryOfOrigin": "United States",
+    "pageCount": 320,
+    "spineColor": "#047857"
+  },
+  {
+    "id": "the-magic-barrel",
+    "title": "The Magic Barrel",
+    "authorId": "bernard-malamud",
+    "authorName": "Bernard Malamud",
+    "publicationYear": 1958,
+    "publisher": "Farrar, Straus & Cudahy",
+    "isbn13": "9780374528744",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories",
+      "Jewish-American"
+    ],
+    "synopsis": "Thirteen compassionate, bittersweet stories of Jewish-American shopkeepers, matchmakers, and immigrants in New York navigating heartbreak, faith, and moral dignity.",
+    "countryOfOrigin": "United States",
+    "pageCount": 224,
+    "spineColor": "#78350f"
+  },
+  {
+    "id": "the-waters-of-kronos",
+    "title": "The Waters of Kronos",
+    "authorId": "conrad-richter",
+    "authorName": "Conrad Richter",
+    "publicationYear": 1960,
+    "publisher": "Alfred A. Knopf",
+    "isbn13": "9780821415283",
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism",
+      "Pastoral"
+    ],
+    "synopsis": "Aging John Donner returns to his ancestral Pennsylvania hometown, submerged beneath a hydroelectric reservoir, and finds himself miraculously wandering among the living town of his childhood.",
+    "countryOfOrigin": "United States",
+    "pageCount": 176,
+    "spineColor": "#0f766e"
+  },
+  {
+    "id": "morte-durban",
+    "title": "Morte d'Urban",
+    "authorId": "j-f-powers",
+    "authorName": "J. F. Powers",
+    "publicationYear": 1962,
+    "publisher": "Doubleday",
+    "isbn13": "9780940322349",
+    "genres": [
+      "Literary Fiction",
+      "Clerical Satire",
+      "Comedy"
+    ],
+    "synopsis": "Father Urban, an entrepreneurial, worldly Chicago priest adept at golfing and fundraising, is exiled to a desolate Minnesota retreat house where his commercial ambitions encounter spiritual reality.",
+    "countryOfOrigin": "United States",
+    "pageCount": 352,
+    "spineColor": "#1e3a8a"
+  },
+  {
+    "id": "the-centaur",
+    "title": "The Centaur",
+    "authorId": "john-updike",
+    "authorName": "John Updike",
+    "publicationYear": 1963,
+    "publisher": "Alfred A. Knopf",
+    "isbn13": "9780449911631",
+    "genres": [
+      "Literary Fiction",
+      "Mythological",
+      "Coming-of-Age"
+    ],
+    "synopsis": "Updike weaves the Greek myth of Chiron the centaur sacrificing his immortality into the domestic life of George Caldwell, an anxious high school science teacher in 1947 Pennsylvania, and his teenage son Peter.",
+    "countryOfOrigin": "United States",
+    "pageCount": 304,
+    "spineColor": "#831843"
+  },
+  {
+    "id": "the-eighth-day",
+    "title": "The Eighth Day",
+    "authorId": "thornton-wilder",
+    "authorName": "Thornton Wilder",
+    "publicationYear": 1967,
+    "publisher": "Harper & Row",
+    "isbn13": "9780060088927",
+    "genres": [
+      "Literary Fiction",
+      "Philosophical Mystery",
+      "Historical Epic"
+    ],
+    "synopsis": "In 1902 Illinois, John Ashley is convicted of murdering his best friend and rescued from a death-row train by mysterious armed men, prompting an expansive philosophical exploration of fate and providence.",
+    "countryOfOrigin": "United States",
+    "pageCount": 448,
+    "spineColor": "#475569"
+  },
+  {
+    "id": "steps",
+    "title": "Steps",
+    "authorId": "jerzy-kosinski",
+    "authorName": "Jerzy Kosiński",
+    "publicationYear": 1968,
+    "publisher": "Random House",
+    "isbn13": "9780802135261",
+    "genres": [
+      "Literary Fiction",
+      "Experimental",
+      "Psychological Fiction"
+    ],
+    "synopsis": "A shocking, fragmented sequence of interconnected vignettes exploring dominance, sexual transgression, and moral numbness across nameless totalitarian regimes and capitalist cities.",
+    "countryOfOrigin": "United States",
+    "pageCount": 160,
+    "spineColor": "#111827"
+  },
+  {
+    "id": "mr-sammlers-planet",
+    "title": "Mr. Sammler's Planet",
+    "authorId": "saul-bellow",
+    "authorName": "Saul Bellow",
+    "publicationYear": 1970,
+    "publisher": "Viking Press",
+    "isbn13": "9780142437834",
+    "genres": [
+      "Literary Fiction",
+      "Philosophical Fiction",
+      "Urban Realism"
+    ],
+    "synopsis": "Artur Sammler, an elderly one-eyed Holocaust survivor living on Manhattan's Upper West Side in the late 1960s, observes the sexual revolution, urban decay, and the lunar landing with philosophical sorrow.",
+    "countryOfOrigin": "United States",
+    "pageCount": 320,
+    "spineColor": "#1e293b"
+  },
+  {
+    "id": "the-complete-stories-flannery-oconnor",
+    "title": "The Complete Stories of Flannery O'Connor",
+    "authorId": "flannery-oconnor",
+    "authorName": "Flannery O'Connor",
+    "publicationYear": 1971,
+    "publisher": "Farrar, Straus and Giroux",
+    "isbn13": "9780374515362",
+    "genres": [
+      "Literary Fiction",
+      "Southern Gothic",
+      "Short Stories"
+    ],
+    "synopsis": "Thirty-one peerless, shocking stories exploring religious grace, moral violence, and human stubbornness in the rural South, including 'A Good Man Is Hard to Find' and 'Good Country People'.",
+    "countryOfOrigin": "United States",
+    "pageCount": 576,
+    "spineColor": "#991b1b"
+  },
+  {
+    "id": "chimera",
+    "title": "Chimera",
+    "authorId": "john-barth",
+    "authorName": "John Barth",
+    "publicationYear": 1972,
+    "publisher": "Random House",
+    "isbn13": "9780618131655",
+    "genres": [
+      "Literary Fiction",
+      "Metafiction",
+      "Postmodernism"
+    ],
+    "synopsis": "Three interconnected novellas reimagining the Greek myths of Scheherazade, Perseus, and Bellerophon through self-reflexive humor, metafictional acrobatics, and philosophical wit.",
+    "countryOfOrigin": "United States",
+    "pageCount": 320,
+    "spineColor": "#4338ca"
+  },
+  {
+    "id": "augustus",
+    "title": "Augustus",
+    "authorId": "john-williams",
+    "authorName": "John Williams",
+    "publicationYear": 1972,
+    "publisher": "Viking Press",
+    "isbn13": "9781590178218",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Epistolary"
+    ],
+    "synopsis": "The transformation of Octavius into Augustus Caesar, founder of the Roman Empire, told through letters, military dispatches, and journal entries dissecting the brutal sacrifices of supreme power.",
+    "countryOfOrigin": "United States",
+    "pageCount": 320,
+    "spineColor": "#78350f"
+  },
+  {
+    "id": "dog-soldiers",
+    "title": "Dog Soldiers",
+    "authorId": "robert-stone",
+    "authorName": "Robert Stone",
+    "publicationYear": 1974,
+    "publisher": "Houghton Mifflin",
+    "isbn13": "9780618042456",
+    "genres": [
+      "Literary Fiction",
+      "Noir Thriller",
+      "Counterculture Drama"
+    ],
+    "synopsis": "Journalist John Converse smuggles three kilograms of pure heroin home from Saigon, triggering a deadly cross-country pursuit through the California counterculture underbelly.",
+    "countryOfOrigin": "United States",
+    "pageCount": 352,
+    "spineColor": "#334155"
+  },
+  {
+    "id": "the-spectator-bird",
+    "title": "The Spectator Bird",
+    "authorId": "wallace-stegner",
+    "authorName": "Wallace Stegner",
+    "publicationYear": 1976,
+    "publisher": "Doubleday",
+    "isbn13": "9780143105794",
+    "genres": [
+      "Literary Fiction",
+      "Domestic Drama",
+      "Aging"
+    ],
+    "synopsis": "Retired literary agent Joe Allston receives a postcard from Denmark that unearths memories of an aristocratic Scandinavian romance twenty years earlier, confronting mortality and marriage.",
+    "countryOfOrigin": "United States",
+    "pageCount": 240,
+    "spineColor": "#047857"
+  },
+  {
+    "id": "blood-tie",
+    "title": "Blood Tie",
+    "authorId": "mary-lee-settle",
+    "authorName": "Mary Lee Settle",
+    "publicationYear": 1977,
+    "publisher": "Houghton Mifflin",
+    "isbn13": "9780870814891",
+    "genres": [
+      "Literary Fiction",
+      "Expatriate Fiction",
+      "Political Drama"
+    ],
+    "synopsis": "A group of wealthy European and American expatriates living in a Turkish coastal resort town find their self-absorbed lives brutally disrupted by local political and religious reality.",
+    "countryOfOrigin": "United States",
+    "pageCount": 400,
+    "spineColor": "#0284c7"
+  },
+  {
+    "id": "sophies-choice",
+    "title": "Sophie's Choice",
+    "authorId": "william-styron",
+    "authorName": "William Styron",
+    "publicationYear": 1979,
+    "publisher": "Random House",
+    "isbn13": "9780679736370",
+    "genres": [
+      "Literary Fiction",
+      "Holocaust Fiction",
+      "Tragedy"
+    ],
+    "synopsis": "In 1947 Brooklyn, aspiring Southern writer Stingo befriends Polish Catholic concentration camp survivor Sophie Zawistowska and her brilliant, volatile Jewish lover Nathan, slowly uncovering Sophie's horrific Auschwitz secret.",
+    "countryOfOrigin": "United States",
+    "pageCount": 528,
+    "spineColor": "#1e293b"
+  },
+  {
+    "id": "victory-over-japan",
+    "title": "Victory over Japan: A Book of Stories",
+    "authorId": "ellen-gilchrist",
+    "authorName": "Ellen Gilchrist",
+    "publicationYear": 1984,
+    "publisher": "Little, Brown and Company",
+    "isbn13": "9780316313179",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories",
+      "Southern Fiction"
+    ],
+    "synopsis": "Fourteen vibrant stories featuring headstrong, eccentric Southern women navigating love, divorce, and rebellion in New Orleans and the Mississippi Delta.",
+    "countryOfOrigin": "United States",
+    "pageCount": 288,
+    "spineColor": "#b45309"
+  },
+  {
+    "id": "worlds-fair",
+    "title": "World's Fair",
+    "authorId": "e-l-doctorow",
+    "authorName": "E. L. Doctorow",
+    "publicationYear": 1985,
+    "publisher": "Random House",
+    "isbn13": "9780452275720",
+    "genres": [
+      "Literary Fiction",
+      "Coming-of-Age",
+      "Historical Fiction"
+    ],
+    "synopsis": "A luminous autobiographical recreation of 1930s Bronx childhood seen through the eyes of young Edgar, culminating in the wonder of the 1939 New York World's Fair.",
+    "countryOfOrigin": "United States",
+    "pageCount": 288,
+    "spineColor": "#0284c7"
+  },
+  {
+    "id": "pacos-story",
+    "title": "Paco's Story",
+    "authorId": "larry-heinemann",
+    "authorName": "Larry Heinemann",
+    "publicationYear": 1986,
+    "publisher": "Farrar, Straus and Giroux",
+    "isbn13": "9780679769392",
+    "genres": [
+      "Literary Fiction",
+      "War Trauma",
+      "Veterans"
+    ],
+    "synopsis": "Narrated by the ghosts of Alpha Company, following Paco Sullivan—the sole survivor of a devastating friendly-fire artillery strike on Fire Base Harriette—as he washes dishes in a small Midwest town, crippled by physical wounds and survivor guilt.",
+    "countryOfOrigin": "United States",
+    "pageCount": 224,
+    "spineColor": "#475569"
+  },
+  {
+    "id": "paris-trout",
+    "title": "Paris Trout",
+    "authorId": "pete-dexter",
+    "authorName": "Pete Dexter",
+    "publicationYear": 1988,
+    "publisher": "Random House",
+    "isbn13": "9780140122060",
+    "genres": [
+      "Literary Fiction",
+      "Southern Gothic",
+      "Crime Realism"
+    ],
+    "synopsis": "In a 1950s Georgia town, bigoted hardware merchant Paris Trout murders a fourteen-year-old Black girl in cold blood and remains completely blind to his own moral monstrosity.",
+    "countryOfOrigin": "United States",
+    "pageCount": 320,
+    "spineColor": "#7c2d12"
+  },
+  {
+    "id": "spartina",
+    "title": "Spartina",
+    "authorId": "john-casey",
+    "authorName": "John Casey",
+    "publicationYear": 1989,
+    "publisher": "Alfred A. Knopf",
+    "isbn13": "9780380711048",
+    "genres": [
+      "Literary Fiction",
+      "Maritime Fiction",
+      "Regional Realism"
+    ],
+    "synopsis": "Rhode Island fisherman Dick Pierce struggles against debts, family pressures, and pride to finish building his dream fifty-foot boat, Spartina, risking everything in an autumn hurricane.",
+    "countryOfOrigin": "United States",
+    "pageCount": 384,
+    "spineColor": "#0f766e"
+  },
+  {
+    "id": "middle-passage",
+    "title": "Middle Passage",
+    "authorId": "charles-johnson",
+    "authorName": "Charles Johnson",
+    "publicationYear": 1990,
+    "publisher": "Atheneum",
+    "isbn13": "9780684855882",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Philosophical Picaresque"
+    ],
+    "synopsis": "Rutherford Calhoun, a newly freed Black rogue in 1830 New Orleans, stows away on a ship to escape marriage, discovering too late it is an illegal slave vessel carrying the mythic Allmuseri tribe.",
+    "countryOfOrigin": "United States",
+    "pageCount": 224,
+    "spineColor": "#1e3a8a"
+  },
+  {
+    "id": "mating",
+    "title": "Mating",
+    "authorId": "norman-rush",
+    "authorName": "Norman Rush",
+    "publicationYear": 1991,
+    "publisher": "Alfred A. Knopf",
+    "isbn13": "9780679737094",
+    "genres": [
+      "Literary Fiction",
+      "Intellectual Romance",
+      "Utopian"
+    ],
+    "synopsis": "An unnamed American anthropology student in Botswana treks into the Kalahari Desert to track Nelson Denoon, a charismatic visionary who has founded a matriarchal self-sustaining village.",
+    "countryOfOrigin": "United States",
+    "pageCount": 496,
+    "spineColor": "#b45309"
+  },
+  {
+    "id": "a-frolic-of-his-own",
+    "title": "A Frolic of His Own",
+    "authorId": "william-gaddis",
+    "authorName": "William Gaddis",
+    "publicationYear": 1994,
+    "publisher": "Poseidon Press",
+    "isbn13": "9780684800226",
+    "genres": [
+      "Literary Fiction",
+      "Satire",
+      "Legal Fiction"
+    ],
+    "synopsis": "A riotous, talk-drunk satire of litigious American culture following college professor Oscar Crease, who sues a Hollywood blockbuster for plagiarizing his unproduced play about the Civil War.",
+    "countryOfOrigin": "United States",
+    "pageCount": 592,
+    "spineColor": "#374151"
+  },
+  {
+    "id": "sabbaths-theater",
+    "title": "Sabbath's Theater",
+    "authorId": "philip-roth",
+    "authorName": "Philip Roth",
+    "publicationYear": 1995,
+    "publisher": "Houghton Mifflin",
+    "isbn13": "9780679772590",
+    "genres": [
+      "Literary Fiction",
+      "Black Comedy",
+      "Erotic Fiction"
+    ],
+    "synopsis": "Mickey Sabbath, a sixty-four-year-old arthritic former puppeteer and shameless hedonist, reels in grief after the death of his long-time mistress Drenka, embarking on a scandalous pilgrimage through memory and mortality.",
+    "countryOfOrigin": "United States",
+    "pageCount": 464,
+    "spineColor": "#831843"
+  },
+  {
+    "id": "ship-fever",
+    "title": "Ship Fever and Other Stories",
+    "authorId": "andrea-barrett",
+    "authorName": "Andrea Barrett",
+    "publicationYear": 1996,
+    "publisher": "W. W. Norton & Company",
+    "isbn13": "9780393316001",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Short Stories"
+    ],
+    "synopsis": "Eight luminous stories intertwining historical science, naturalists, and human love, anchored by the title novella set in the 1847 Irish typhus quarantine station at Grosse Île.",
+    "countryOfOrigin": "United States",
+    "pageCount": 256,
+    "spineColor": "#0284c7"
+  },
+  {
+    "id": "cold-mountain",
+    "title": "Cold Mountain",
+    "authorId": "charles-frazier",
+    "authorName": "Charles Frazier",
+    "publicationYear": 1997,
+    "publisher": "Atlantic Monthly Press",
+    "isbn13": "9780802135711",
+    "genres": [
+      "Literary Fiction",
+      "Civil War",
+      "Historical Odyssey"
+    ],
+    "synopsis": "Inman, a wounded Confederate deserter, walks home through the devastated North Carolina wilderness toward Cold Mountain and Ada, the woman he loves who is struggling to survive on her father's farm.",
+    "countryOfOrigin": "United States",
+    "pageCount": 464,
+    "spineColor": "#166534"
+  },
+  {
+    "id": "charming-billy",
+    "title": "Charming Billy",
+    "authorId": "alice-mcdermott",
+    "authorName": "Alice McDermott",
+    "publicationYear": 1998,
+    "publisher": "Farrar, Straus and Giroux",
+    "isbn13": "9780312429676",
+    "genres": [
+      "Literary Fiction",
+      "Irish-American",
+      "Family Drama"
+    ],
+    "synopsis": "Following the funeral of beloved, alcoholic Billy Lynch in the Bronx, friends and family gather in a neighborhood bar to untangle the romantic lie that defined and destroyed his life.",
+    "countryOfOrigin": "United States",
+    "pageCount": 256,
+    "spineColor": "#475569"
+  },
+  {
+    "id": "in-america",
+    "title": "In America",
+    "authorId": "susan-sontag",
+    "authorName": "Susan Sontag",
+    "publicationYear": 2000,
+    "publisher": "Farrar, Straus and Giroux",
+    "isbn13": "9780312273262",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Immigrant Epic"
+    ],
+    "synopsis": "In 1876, a legendary Polish actress emigrates to California with an aristocratic entourage to found a utopian commune, reinventing herself on the American frontier stage.",
+    "countryOfOrigin": "United States",
+    "pageCount": 388,
+    "spineColor": "#1e3a8a"
+  },
+  {
+    "id": "three-junes",
+    "title": "Three Junes",
+    "authorId": "julia-glass",
+    "authorName": "Julia Glass",
+    "publicationYear": 2002,
+    "publisher": "Pantheon Books",
+    "isbn13": "9780385721424",
+    "genres": [
+      "Literary Fiction",
+      "Family Saga",
+      "LGBTQ+"
+    ],
+    "synopsis": "Spanning three Junes in the late 1980s and 1990s, chronicling the Scottish McLeod family across Greece, London, and Manhattan as grief, closeted desire, and healing intersect.",
+    "countryOfOrigin": "United States",
+    "pageCount": 353,
+    "spineColor": "#0f766e"
+  },
+  {
+    "id": "the-great-fire",
+    "title": "The Great Fire",
+    "authorId": "shirley-hazzard",
+    "authorName": "Shirley Hazzard",
+    "publicationYear": 2003,
+    "publisher": "Farrar, Straus and Giroux",
+    "isbn13": "9780374164386",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Romance"
+    ],
+    "synopsis": "In 1947 devastated Japan, thirty-two-year-old decorated British war hero Peter Aldred visits Hiroshima and falls in love with young Australian Helen Driscoll amidst geopolitical rebuilding.",
+    "countryOfOrigin": "Australia",
+    "pageCount": 288,
+    "spineColor": "#c2410c"
+  },
+  {
+    "id": "the-news-from-paraguay",
+    "title": "The News from Paraguay",
+    "authorId": "lily-tuck",
+    "authorName": "Lily Tuck",
+    "publicationYear": 2004,
+    "publisher": "HarperCollins",
+    "isbn13": "9780066209449",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Latin American Epic"
+    ],
+    "synopsis": "In 1854 Paris, Irish courtesan Ella Lynch meets Francisco Solano López, future dictator of Paraguay, following him to South America as his consort through a catastrophic continental war.",
+    "countryOfOrigin": "United States",
+    "pageCount": 272,
+    "spineColor": "#854d0e"
+  },
+  {
+    "id": "europe-central",
+    "title": "Europe Central",
+    "authorId": "william-t-vollmann",
+    "authorName": "William T. Vollmann",
+    "publicationYear": 2005,
+    "publisher": "Viking Press",
+    "isbn13": "9780143036593",
+    "genres": [
+      "Literary Fiction",
+      "Historical Epic",
+      "WWII Drama"
+    ],
+    "synopsis": "A monumental polyphonic masterpiece exploring moral culpability, totalitarian terror, and artistic survival along the bloody Eastern Front, centering on composer Dmitri Shostakovich.",
+    "countryOfOrigin": "United States",
+    "pageCount": 816,
+    "spineColor": "#1e293b"
+  },
+  {
+    "id": "shadow-country",
+    "title": "Shadow Country",
+    "authorId": "peter-matthiessen",
+    "authorName": "Peter Matthiessen",
+    "publicationYear": 2008,
+    "publisher": "Modern Library",
+    "isbn13": "9780812975970",
+    "genres": [
+      "Literary Fiction",
+      "Historical Epic",
+      "Western/Southern Noir"
+    ],
+    "synopsis": "A colossal, rewritten trilogy documenting the life and 1910 vigilante slaughter of Florida Everglades desperado and sugar-cane patriarch Edgar 'Bloody' Watson.",
+    "countryOfOrigin": "United States",
+    "pageCount": 912,
+    "spineColor": "#166534"
+  },
+  {
+    "id": "lord-of-misrule",
+    "title": "Lord of Misrule",
+    "authorId": "jaimy-gordon",
+    "authorName": "Jaimy Gordon",
+    "publicationYear": 2010,
+    "publisher": "McPherson & Company",
+    "isbn13": "9780929701837",
+    "genres": [
+      "Literary Fiction",
+      "Horse Racing",
+      "Subcultural Drama"
+    ],
+    "synopsis": "Set over a single racing season at a seedy West Virginia bullring racetrack in 1970, capturing the grifters, grooms, gamblers, and aging horses with rich, flavorful vernacular.",
+    "countryOfOrigin": "United States",
+    "pageCount": 296,
+    "spineColor": "#78350f"
+  },
+  {
+    "id": "fortune-smiles",
+    "title": "Fortune Smiles",
+    "authorId": "adam-johnson",
+    "authorName": "Adam Johnson",
+    "publicationYear": 2015,
+    "publisher": "Random House",
+    "isbn13": "9780812994100",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories",
+      "Speculative Fiction"
+    ],
+    "synopsis": "Six profound, darkly inventive stories traversing Palo Alto tech guilt, North Korean defectors in Seoul, Stasi prisons, and post-Katrina resilience.",
+    "countryOfOrigin": "United States",
+    "pageCount": 304,
+    "spineColor": "#0284c7"
+  },
+  {
+    "id": "the-true-true-story-of-raja",
+    "title": "The True True Story of Raja the Gullible (and His Mother)",
+    "authorId": "rabih-alameddine",
+    "authorName": "Rabih Alameddine",
+    "publicationYear": 2025,
+    "publisher": "Grove Press",
+    "isbn13": "9780802164100",
+    "genres": [
+      "Literary Fiction",
+      "Satire",
+      "Picaresque",
+      "Middle Eastern Fiction"
+    ],
+    "synopsis": "A hilarious, heartbreaking picaresque epic tracking a Lebanese immigrant storyteller navigating Beirut, San Francisco, and the mythic illusions of family loyalty.",
+    "countryOfOrigin": "United States",
+    "pageCount": 352,
+    "spineColor": "#d97706"
+  },
+  {
+    "id": "paradiso-17",
+    "title": "Paradiso 17",
+    "authorId": "hannah-lillith-assadi",
+    "authorName": "Hannah Lillith Assadi",
+    "publicationYear": 2026,
+    "publisher": "Riverhead Books",
+    "isbn13": "9780593541234",
+    "genres": [
+      "Literary Fiction",
+      "Polyphonic",
+      "Historical Fiction"
+    ],
+    "synopsis": "A mesmerizing polyphonic novel traversing centuries of desert displacement, Levantine music, and ancestral echoes in a rapidly changing modern metropolis.",
+    "countryOfOrigin": "United States",
+    "pageCount": 320,
+    "spineColor": "#701a75"
+  },
+  {
+    "id": "song-of-solomon",
+    "title": "Song of Solomon",
+    "authorId": "toni-morrison",
+    "authorName": "Toni Morrison",
+    "publicationYear": 1977,
+    "publisher": "Alfred A. Knopf",
+    "isbn13": "9781400033423",
+    "genres": [
+      "Literary Fiction",
+      "African American Literature",
+      "Magical Realism"
+    ],
+    "synopsis": "Macon 'Milkman' Dead III journeys from his rustbelt Michigan hometown to his ancestral Southern roots, discovering a secret family heritage of flight and liberation.",
+    "countryOfOrigin": "United States",
+    "pageCount": 352,
+    "spineColor": "#991b1b"
+  },
+  {
+    "id": "austerlitz",
+    "title": "Austerlitz",
+    "authorId": "w-g-sebald",
+    "authorName": "W. G. Sebald",
+    "publicationYear": 2001,
+    "publisher": "Hanthorn / Anthea Bell",
+    "isbn13": "9780375756566",
+    "genres": [
+      "Literary Fiction",
+      "Documentary Fiction",
+      "Holocaust Memory"
+    ],
+    "synopsis": "Jacques Austerlitz, an architectural historian living in London, uncovers the truth of his childhood identity: sent to Britain on a 1939 Kindertransport from Prague before his parents were deported.",
+    "countryOfOrigin": "Germany",
+    "translator": "Anthea Bell",
+    "originalLanguage": "German",
+    "originalTitle": "Austerlitz",
+    "pageCount": 448,
+    "spineColor": "#1f2937"
   }
 ]

@@ -4297,5 +4297,1017 @@
     "category": "Fiction",
     "citation": "Winner: A rich, morally rigorous companion to Little Women exploring the devastating human cost of the Civil War.",
     "sourceUrl": "https://www.pulitzer.org/winners/geraldine-brooks"
+  },
+  {
+    "id": "nom-remembering-babylon-dublin-1996",
+    "prizeId": "dublin-literary-award",
+    "bookId": "remembering-babylon",
+    "year": 1996,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Inaugural Winner: A profound meditation on identity, belonging, and language in colonial Australia.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/remembering-babylon/"
+  },
+  {
+    "id": "nom-heart-so-white-dublin-1997",
+    "prizeId": "dublin-literary-award",
+    "bookId": "a-heart-so-white",
+    "year": 1997,
+    "status": "winner",
+    "category": "Translated Fiction",
+    "citation": "Winner: A hypnotic philosophical investigation of secrets, listening, and memory in marriage.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/a-heart-so-white/",
+    "translator": "Margaret Jull Costa"
+  },
+  {
+    "id": "nom-green-plums-dublin-1998",
+    "prizeId": "dublin-literary-award",
+    "bookId": "the-land-of-green-plums",
+    "year": 1998,
+    "status": "winner",
+    "category": "Translated Fiction",
+    "citation": "Winner: A chilling, poetic reckoning with fear and persecution under Ceausescu's totalitarian regime.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/the-land-of-green-plums/",
+    "translator": "Michael Hofmann"
+  },
+  {
+    "id": "nom-ingenious-pain-dublin-1999",
+    "prizeId": "dublin-literary-award",
+    "bookId": "ingenious-pain",
+    "year": 1999,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A visionary historical novel exploring enlightenment science, suffering, and moral awakening.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/ingenious-pain/"
+  },
+  {
+    "id": "nom-wide-open-dublin-2000",
+    "prizeId": "dublin-literary-award",
+    "bookId": "wide-open",
+    "year": 2000,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: An exuberant, darkly comic, and emotionally acute portrait of eccentricity and trauma.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/wide-open/"
+  },
+  {
+    "id": "nom-no-great-mischief-dublin-2001",
+    "prizeId": "dublin-literary-award",
+    "bookId": "no-great-mischief",
+    "year": 2001,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: An unforgettable, emotionally resonance epic of Cape Breton Scottish-Canadian diaspora memory.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/no-great-mischief/"
+  },
+  {
+    "id": "nom-atomised-dublin-2002",
+    "prizeId": "dublin-literary-award",
+    "bookId": "atomised",
+    "year": 2002,
+    "status": "winner",
+    "category": "Translated Fiction",
+    "citation": "Winner: A blistering, controversial dissection of Western spiritual decay and scientific utopianism.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/atomised/",
+    "translator": "Frank Wynne"
+  },
+  {
+    "id": "nom-my-name-is-red-dublin-2003",
+    "prizeId": "dublin-literary-award",
+    "bookId": "my-name-is-red",
+    "year": 2003,
+    "status": "winner",
+    "category": "Translated Fiction",
+    "citation": "Winner: A dazzling postmodern murder mystery and meditation on Islamic miniature art and Western perspective.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/my-name-is-red/",
+    "translator": "Erdağ Göknar"
+  },
+  {
+    "id": "nom-blinding-absence-dublin-2004",
+    "prizeId": "dublin-literary-award",
+    "bookId": "this-blinding-absence-of-light",
+    "year": 2004,
+    "status": "winner",
+    "category": "Translated Fiction",
+    "citation": "Winner: A harrowing, luminous testament to human endurance inside Morocco's subterranean death camp.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/this-blinding-absence-of-light/",
+    "translator": "Linda Coverdale"
+  },
+  {
+    "id": "nom-known-world-dublin-2005",
+    "prizeId": "dublin-literary-award",
+    "bookId": "the-known-world",
+    "year": 2005,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A profound, complex historical masterpiece examining Black slaveownership in antebellum Virginia.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/the-known-world/"
+  },
+  {
+    "id": "nom-the-master-dublin-2006",
+    "prizeId": "dublin-literary-award",
+    "bookId": "the-master",
+    "year": 2006,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: An exquisite psychological portrait of Henry James's solitary interior life and creative devotion.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/the-master/"
+  },
+  {
+    "id": "nom-out-stealing-horses-dublin-2007",
+    "prizeId": "dublin-literary-award",
+    "bookId": "out-stealing-horses",
+    "year": 2007,
+    "status": "winner",
+    "category": "Translated Fiction",
+    "citation": "Winner: A quiet, luminous Norwegian masterpiece of childhood loss, nature, and wartime secrets.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/out-stealing-horses/",
+    "translator": "Anne Born"
+  },
+  {
+    "id": "nom-deniros-game-dublin-2008",
+    "prizeId": "dublin-literary-award",
+    "bookId": "de-niros-game",
+    "year": 2008,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A fierce, explosive coming-of-age chronicle amidst the devastation of civil-war Beirut.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/de-niros-game/"
+  },
+  {
+    "id": "nom-man-gone-down-dublin-2009",
+    "prizeId": "dublin-literary-award",
+    "bookId": "man-gone-down",
+    "year": 2009,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: An electrifying, unflinching portrait of race, class, and paternal desperation in contemporary Manhattan.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/man-gone-down/"
+  },
+  {
+    "id": "nom-the-twin-dublin-2010",
+    "prizeId": "dublin-literary-award",
+    "bookId": "the-twin",
+    "year": 2010,
+    "status": "winner",
+    "category": "Translated Fiction",
+    "citation": "Winner: A poignant, understated Dutch rural drama of fraternal grief, isolation, and late awakening.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/the-twin/",
+    "translator": "David Colmer"
+  },
+  {
+    "id": "nom-great-world-spin-dublin-2011",
+    "prizeId": "dublin-literary-award",
+    "bookId": "let-the-great-world-spin",
+    "year": 2011,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A soaring, kaleidoscopic portrait of 1974 New York anchored by Philippe Petit's high-wire walk.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/let-the-great-world-spin/"
+  },
+  {
+    "id": "nom-even-the-dogs-dublin-2012",
+    "prizeId": "dublin-literary-award",
+    "bookId": "even-the-dogs",
+    "year": 2012,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A formally daring, deeply empathetic chronicle of urban addiction and invisible lives.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/even-the-dogs/"
+  },
+  {
+    "id": "nom-city-of-bohane-dublin-2013",
+    "prizeId": "dublin-literary-award",
+    "bookId": "city-of-bohane",
+    "year": 2013,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A wildly inventive, language-drunk gangster dystopia set on the lost coast of western Ireland.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/city-of-bohane/"
+  },
+  {
+    "id": "nom-sound-things-falling-dublin-2014",
+    "prizeId": "dublin-literary-award",
+    "bookId": "the-sound-of-things-falling",
+    "year": 2014,
+    "status": "winner",
+    "category": "Translated Fiction",
+    "citation": "Winner: A gripping, somber historical noir examining the psychological scars of Colombia's cartel wars.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/the-sound-of-things-falling/",
+    "translator": "Anne McLean"
+  },
+  {
+    "id": "nom-harvest-dublin-2015",
+    "prizeId": "dublin-literary-award",
+    "bookId": "harvest",
+    "year": 2015,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A haunting, elegiac parable of the death of rural communal life at the dawn of agrarian capitalism.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/harvest/"
+  },
+  {
+    "id": "nom-family-life-dublin-2016",
+    "prizeId": "dublin-literary-award",
+    "bookId": "family-life",
+    "year": 2016,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: An intensely moving, sparely written autobiographical novel of immigrant struggle and familial tragedy.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/family-life/"
+  },
+  {
+    "id": "nom-general-theory-oblivion-dublin-2017",
+    "prizeId": "dublin-literary-award",
+    "bookId": "a-general-theory-of-oblivion",
+    "year": 2017,
+    "status": "winner",
+    "category": "Translated Fiction",
+    "citation": "Winner: A mesmerizing, fable-like Angolan tale of fear, isolation, and community connection.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/a-general-theory-of-oblivion/",
+    "translator": "Daniel Hahn"
+  },
+  {
+    "id": "nom-solar-bones-dublin-2018",
+    "prizeId": "dublin-literary-award",
+    "bookId": "solar-bones",
+    "year": 2018,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A transcendent, single-sentence hymn to ordinary family life, engineering, and the spirit world.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/solar-bones/"
+  },
+  {
+    "id": "nom-idaho-dublin-2019",
+    "prizeId": "dublin-literary-award",
+    "bookId": "idaho",
+    "year": 2019,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A luminous, emotionally fearless debut probing grief, memory loss, and unconditional devotion.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/idaho/"
+  },
+  {
+    "id": "nom-milkman-dublin-2020",
+    "prizeId": "dublin-literary-award",
+    "bookId": "milkman",
+    "year": 2020,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: An extraordinary, claustrophobic portrait of predatory surveillance and communal sectarian silence.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/milkman/"
+  },
+  {
+    "id": "nom-lost-children-archive-dublin-2021",
+    "prizeId": "dublin-literary-award",
+    "bookId": "lost-children-archive",
+    "year": 2021,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A formally daring tapestry of sound, migration, and the crisis of child detention at the border.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/lost-children-archive/"
+  },
+  {
+    "id": "nom-art-of-losing-dublin-2022",
+    "prizeId": "dublin-literary-award",
+    "bookId": "the-art-of-losing",
+    "year": 2022,
+    "status": "winner",
+    "category": "Translated Fiction",
+    "citation": "Winner: A panoramic, compassionate epic tracing three generations of an Algerian family from Kabylia to Paris.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/the-art-of-losing/",
+    "translator": "Frank Wynne"
+  },
+  {
+    "id": "nom-marzahn-mon-amour-dublin-2023",
+    "prizeId": "dublin-literary-award",
+    "bookId": "marzahn-mon-amour",
+    "year": 2023,
+    "status": "winner",
+    "category": "Translated Fiction",
+    "citation": "Winner: A warm, deeply humane collection of vignettes honoring the dignity and stories of Berlin elders.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/marzahn-mon-amour/",
+    "translator": "Jo Heinrich"
+  },
+  {
+    "id": "nom-the-adversary-dublin-2025",
+    "prizeId": "dublin-literary-award",
+    "bookId": "the-adversary",
+    "year": 2025,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A savage, darkly poetic masterpiece of sibling vengeance on the brutal Newfoundland coast.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/the-adversary/"
+  },
+  {
+    "id": "nom-gliff-dublin-2026",
+    "prizeId": "dublin-literary-award",
+    "bookId": "gliff",
+    "year": 2026,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A luminous, playful, and defiant fable exploring surveillance, exclusion, and human connection.",
+    "sourceUrl": "https://dublinliteraryaward.ie/book/gliff/"
+  },
+  {
+    "id": "nom-how-to-be-both-goldsmiths-2014",
+    "prizeId": "goldsmiths-prize",
+    "bookId": "how-to-be-both",
+    "year": 2014,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A dazzling, form-bending dual narrative interrogating grief, art history, and perspective.",
+    "sourceUrl": "https://www.gold.ac.uk/goldsmiths-prize/prize-archive/2014/"
+  },
+  {
+    "id": "nom-beatlebone-goldsmiths-2015",
+    "prizeId": "goldsmiths-prize",
+    "bookId": "beatlebone",
+    "year": 2015,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A wild, hallucinatory odyssey into the creative consciousness of John Lennon in the west of Ireland.",
+    "sourceUrl": "https://www.gold.ac.uk/goldsmiths-prize/prize-archive/2015/"
+  },
+  {
+    "id": "nom-solar-bones-goldsmiths-2016",
+    "prizeId": "goldsmiths-prize",
+    "bookId": "solar-bones",
+    "year": 2016,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A magnificent, rhythmically fluid single-sentence novel expanding the boundaries of fiction.",
+    "sourceUrl": "https://www.gold.ac.uk/goldsmiths-prize/prize-archive/2016/"
+  },
+  {
+    "id": "nom-happy-goldsmiths-2017",
+    "prizeId": "goldsmiths-prize",
+    "bookId": "happy",
+    "year": 2017,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A typographic and narrative marvel deconstructing algorithmic happiness and human spirituality.",
+    "sourceUrl": "https://www.gold.ac.uk/goldsmiths-prize/prize-archive/2017/"
+  },
+  {
+    "id": "nom-long-take-goldsmiths-2018",
+    "prizeId": "goldsmiths-prize",
+    "bookId": "the-long-take",
+    "year": 2018,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A breathtaking hybrid of poetry, film noir, and documentary prose capturing post-war trauma.",
+    "sourceUrl": "https://www.gold.ac.uk/goldsmiths-prize/prize-archive/2018/"
+  },
+  {
+    "id": "nom-sunken-land-goldsmiths-2020",
+    "prizeId": "goldsmiths-prize",
+    "bookId": "the-sunken-land-begins-to-rise-again",
+    "year": 2020,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A brilliantly unsettling, psychogeographical masterpiece exploring national decay and transformation.",
+    "sourceUrl": "https://www.gold.ac.uk/goldsmiths-prize/prize-archive/2020/"
+  },
+  {
+    "id": "nom-sterling-karat-gold-goldsmiths-2021",
+    "prizeId": "goldsmiths-prize",
+    "bookId": "sterling-karat-gold",
+    "year": 2021,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A fearless, subversive queer surrealist satire tackling carceral violence with exuberant joy.",
+    "sourceUrl": "https://www.gold.ac.uk/goldsmiths-prize/prize-archive/2021/"
+  },
+  {
+    "id": "nom-diego-garcia-goldsmiths-2022",
+    "prizeId": "goldsmiths-prize",
+    "bookId": "diego-garcia",
+    "year": 2022,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: An innovative, collaborative dual-authored novel exploring friendship and Chagos Island dispossession.",
+    "sourceUrl": "https://www.gold.ac.uk/goldsmiths-prize/prize-archive/2022/"
+  },
+  {
+    "id": "nom-cuddy-goldsmiths-2023",
+    "prizeId": "goldsmiths-prize",
+    "bookId": "cuddy",
+    "year": 2023,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A glorious polyphonic triumph spanning thirteen centuries of faith, stone, and Northern England.",
+    "sourceUrl": "https://www.gold.ac.uk/goldsmiths-prize/prize-archive/2023/"
+  },
+  {
+    "id": "nom-parade-goldsmiths-2024",
+    "prizeId": "goldsmiths-prize",
+    "bookId": "parade",
+    "year": 2024,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A fearless philosophical interrogation of art, gender, and creative violence.",
+    "sourceUrl": "https://www.gold.ac.uk/goldsmiths-prize/prize-archive/2024/"
+  },
+  {
+    "id": "nom-we-live-here-now-goldsmiths-2025",
+    "prizeId": "goldsmiths-prize",
+    "bookId": "we-live-here-now",
+    "year": 2025,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: An ingenious, meta-textual investigation into the fragile boundaries of memory and art.",
+    "sourceUrl": "https://www.gold.ac.uk/goldsmiths-prize/prize-archive/2025/"
+  },
+  {
+    "id": "nom-the-rouse-goldsmiths-2026",
+    "prizeId": "goldsmiths-prize",
+    "bookId": "the-rouse",
+    "year": 2026,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A staggering 1,200-page monumental achievement that shatters genre categories and linguistic limits.",
+    "sourceUrl": "https://www.gold.ac.uk/goldsmiths-prize/prize-archive/2026/"
+  },
+  {
+    "id": "nom-the-master-booker-2004",
+    "prizeId": "booker-prize",
+    "bookId": "the-master",
+    "year": 2004,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: An exquisite psychological meditation on the solitude and artistic devotion of Henry James.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-master"
+  },
+  {
+    "id": "nom-flowers-algernon-nebula-1966",
+    "prizeId": "nebula-award-novel",
+    "bookId": "flowers-for-algernon",
+    "year": 1966,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner (joint): A devastating and poignant journey of artificial intelligence and emotional tragedy.",
+    "sourceUrl": "https://nebulas.sfwa.com/award-year/1966/"
+  },
+  {
+    "id": "nom-babel-17-nebula-1966",
+    "prizeId": "nebula-award-novel",
+    "bookId": "babel-17",
+    "year": 1966,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner (joint): A brilliant linguistic science-fiction classic examining language as a weapon of perception.",
+    "sourceUrl": "https://nebulas.sfwa.com/award-year/1966/"
+  },
+  {
+    "id": "nom-starship-troopers-hugo-1960",
+    "prizeId": "hugo-award-novel",
+    "bookId": "starship-troopers",
+    "year": 1960,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: The defining military science-fiction novel that invented the powered armor combat suit.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1960-hugo-awards/"
+  },
+  {
+    "id": "nom-stranger-strange-land-hugo-1962",
+    "prizeId": "hugo-award-novel",
+    "bookId": "stranger-in-a-strange-land",
+    "year": 1962,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Heinlein's iconoclastic countercultural satire that introduced \"grok\" to the language.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1962-hugo-awards/"
+  },
+  {
+    "id": "nom-moon-harsh-mistress-hugo-1967",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-moon-is-a-harsh-mistress",
+    "year": 1967,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: A masterful hard-SF tale of artificial intelligence and lunar revolution.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1967-hugo-awards/"
+  },
+  {
+    "id": "nom-rama-nebula-1973",
+    "prizeId": "nebula-award-novel",
+    "bookId": "rendezvous-with-rama",
+    "year": 1973,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Arthur C. Clarke's quintessential first-contact enigma inside an extraterrestrial cylinder.",
+    "sourceUrl": "https://nebulas.sfwa.com/award-year/1973/"
+  },
+  {
+    "id": "nom-rama-hugo-1974",
+    "prizeId": "hugo-award-novel",
+    "bookId": "rendezvous-with-rama",
+    "year": 1974,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Arthur C. Clarke's masterwork of cosmological wonder and scientific exploration.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1974-hugo-awards/"
+  },
+  {
+    "id": "nom-fountains-paradise-hugo-1980",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-fountains-of-paradise",
+    "year": 1980,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Arthur C. Clarke's grand vision of the first orbital space elevator.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1980-hugo-awards/"
+  },
+  {
+    "id": "nom-fountains-paradise-nebula-1979",
+    "prizeId": "nebula-award-novel",
+    "bookId": "the-fountains-of-paradise",
+    "year": 1979,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Arthur C. Clarke's space engineering epic.",
+    "sourceUrl": "https://nebulas.sfwa.com/award-year/1979/"
+  },
+  {
+    "id": "nom-speaker-dead-nebula-1986",
+    "prizeId": "nebula-award-novel",
+    "bookId": "speaker-for-the-dead",
+    "year": 1986,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Consecutive victory honoring Card's deeply philosophical exploration of alien grief.",
+    "sourceUrl": "https://nebulas.sfwa.com/award-year/1986/"
+  },
+  {
+    "id": "nom-speaker-dead-hugo-1987",
+    "prizeId": "hugo-award-novel",
+    "bookId": "speaker-for-the-dead",
+    "year": 1987,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Consecutive Hugo victory for Orson Scott Card.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1987-hugo-awards/"
+  },
+  {
+    "id": "nom-porter-nba-1966",
+    "prizeId": "national-book-award",
+    "bookId": "the-collected-stories-of-katherine-anne-porter",
+    "year": 1966,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Dual Pulitzer and National Book Award laureate for her peerless short fiction.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1966/"
+  },
+  {
+    "id": "nom-ten-north-frederick-nba-1956",
+    "prizeId": "national-book-award",
+    "bookId": "ten-north-frederick",
+    "year": 1956,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: John O'Hara's sharp social study of Pennsylvania politics and domestic compromise.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1956/"
+  },
+  {
+    "id": "nom-field-vision-nba-1957",
+    "prizeId": "national-book-award",
+    "bookId": "the-field-of-vision",
+    "year": 1957,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Wright Morris's modernist psychological bullring masterpiece.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1957/"
+  },
+  {
+    "id": "nom-wapshot-chronicle-nba-1958",
+    "prizeId": "national-book-award",
+    "bookId": "the-wapshot-chronicle",
+    "year": 1958,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: John Cheever's exuberant family chronicle of coastal Massachusetts.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1958/"
+  },
+  {
+    "id": "nom-magic-barrel-nba-1959",
+    "prizeId": "national-book-award",
+    "bookId": "the-magic-barrel",
+    "year": 1959,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Bernard Malamud's tender, unforgettable stories of grace in Jewish New York.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1959/"
+  },
+  {
+    "id": "nom-waters-kronos-nba-1961",
+    "prizeId": "national-book-award",
+    "bookId": "the-waters-of-kronos",
+    "year": 1961,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Conrad Richter's poetic return to a sunken ancestral village.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1961/"
+  },
+  {
+    "id": "nom-morte-durban-nba-1963",
+    "prizeId": "national-book-award",
+    "bookId": "morte-durban",
+    "year": 1963,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: J. F. Powers's dry, witty Midwestern clerical satire.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1963/"
+  },
+  {
+    "id": "nom-centaur-nba-1964",
+    "prizeId": "national-book-award",
+    "bookId": "the-centaur",
+    "year": 1964,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: John Updike's mythological tribute to paternal sacrifice.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1964/"
+  },
+  {
+    "id": "nom-eighth-day-nba-1968",
+    "prizeId": "national-book-award",
+    "bookId": "the-eighth-day",
+    "year": 1968,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Thornton Wilder's philosophical murder mystery and family epic.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1968/"
+  },
+  {
+    "id": "nom-steps-nba-1969",
+    "prizeId": "national-book-award",
+    "bookId": "steps",
+    "year": 1969,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Jerzy Kosiński's chilling modernist mosaic of alienation and control.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1969/"
+  },
+  {
+    "id": "nom-sammlers-planet-nba-1971",
+    "prizeId": "national-book-award",
+    "bookId": "mr-sammlers-planet",
+    "year": 1971,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Saul Bellow's sharp-eyed philosophical contemplation of late-60s Manhattan.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1971/"
+  },
+  {
+    "id": "nom-oconnor-stories-nba-1972",
+    "prizeId": "national-book-award",
+    "bookId": "the-complete-stories-flannery-oconnor",
+    "year": 1972,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Flannery O'Connor's supreme body of short fiction awarded posthumously.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1972/"
+  },
+  {
+    "id": "nom-chimera-nba-1973",
+    "prizeId": "national-book-award",
+    "bookId": "chimera",
+    "year": 1973,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner (joint): John Barth's brilliant postmodern retelling of mythological heroines.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1973/"
+  },
+  {
+    "id": "nom-augustus-nba-1973",
+    "prizeId": "national-book-award",
+    "bookId": "augustus",
+    "year": 1973,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner (joint): John Williams's epistolary Roman masterpiece of empire and power.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1973/"
+  },
+  {
+    "id": "nom-dog-soldiers-nba-1975",
+    "prizeId": "national-book-award",
+    "bookId": "dog-soldiers",
+    "year": 1975,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Robert Stone's visceral noir of Vietnam contraband and American disillusionment.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1975/"
+  },
+  {
+    "id": "nom-spectator-bird-nba-1977",
+    "prizeId": "national-book-award",
+    "bookId": "the-spectator-bird",
+    "year": 1977,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Wallace Stegner's reflective, deeply honest examination of aging and marriage.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1977/"
+  },
+  {
+    "id": "nom-blood-tie-nba-1978",
+    "prizeId": "national-book-award",
+    "bookId": "blood-tie",
+    "year": 1978,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Mary Lee Settle's complex portrait of expatriate illusion on the Turkish coast.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1978/"
+  },
+  {
+    "id": "nom-sophies-choice-nba-1980",
+    "prizeId": "national-book-award",
+    "bookId": "sophies-choice",
+    "year": 1980,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: William Styron's tragic exploration of Auschwitz survival and Brooklyn intimacy.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1980/"
+  },
+  {
+    "id": "nom-victory-japan-nba-1984",
+    "prizeId": "national-book-award",
+    "bookId": "victory-over-japan",
+    "year": 1984,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Ellen Gilchrist's vivacious stories of headstrong Southern women.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1984/"
+  },
+  {
+    "id": "nom-worlds-fair-nba-1986",
+    "prizeId": "national-book-award",
+    "bookId": "worlds-fair",
+    "year": 1986,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: E. L. Doctorow's nostalgic, vivid childhood journey in 1930s New York.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1986/"
+  },
+  {
+    "id": "nom-pacos-story-nba-1987",
+    "prizeId": "national-book-award",
+    "bookId": "pacos-story",
+    "year": 1987,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Larry Heinemann's raw, ghost-narrated chronicle of surviving Vietnam.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1987/"
+  },
+  {
+    "id": "nom-paris-trout-nba-1988",
+    "prizeId": "national-book-award",
+    "bookId": "paris-trout",
+    "year": 1988,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Pete Dexter's chilling, unrelenting Southern gothic courtroom drama.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1988/"
+  },
+  {
+    "id": "nom-spartina-nba-1989",
+    "prizeId": "national-book-award",
+    "bookId": "spartina",
+    "year": 1989,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: John Casey's lyrical ode to Rhode Island boatbuilding and coastal resilience.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1989/"
+  },
+  {
+    "id": "nom-middle-passage-nba-1990",
+    "prizeId": "national-book-award",
+    "bookId": "middle-passage",
+    "year": 1990,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Charles Johnson's philosophical sea adventure deconstructing racial myth.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1990/"
+  },
+  {
+    "id": "nom-mating-nba-1991",
+    "prizeId": "national-book-award",
+    "bookId": "mating",
+    "year": 1991,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Norman Rush's dazzling intellectual romance across the Kalahari Desert.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1991/"
+  },
+  {
+    "id": "nom-frolic-own-nba-1994",
+    "prizeId": "national-book-award",
+    "bookId": "a-frolic-of-his-own",
+    "year": 1994,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: William Gaddis's hilarious, labyrinthine satire of American litigation.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1994/"
+  },
+  {
+    "id": "nom-sabbaths-theater-nba-1995",
+    "prizeId": "national-book-award",
+    "bookId": "sabbaths-theater",
+    "year": 1995,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Philip Roth's ferocious, bawdy, and heartbreaking comic masterpiece.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1995/"
+  },
+  {
+    "id": "nom-ship-fever-nba-1996",
+    "prizeId": "national-book-award",
+    "bookId": "ship-fever",
+    "year": 1996,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Andrea Barrett's exquisite fusion of nineteenth-century science and human passion.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1996/"
+  },
+  {
+    "id": "nom-cold-mountain-nba-1997",
+    "prizeId": "national-book-award",
+    "bookId": "cold-mountain",
+    "year": 1997,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Charles Frazier's poetic Appalachian Civil War odyssey.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1997/"
+  },
+  {
+    "id": "nom-charming-billy-nba-1998",
+    "prizeId": "national-book-award",
+    "bookId": "charming-billy",
+    "year": 1998,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Alice McDermott's beautifully observed portrait of faith, grief, and illusion in Irish New York.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-1998/"
+  },
+  {
+    "id": "nom-in-america-nba-2000",
+    "prizeId": "national-book-award",
+    "bookId": "in-america",
+    "year": 2000,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Susan Sontag's panoramic novel of immigrant reinvention on the American stage.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-2000/"
+  },
+  {
+    "id": "nom-three-junes-nba-2002",
+    "prizeId": "national-book-award",
+    "bookId": "three-junes",
+    "year": 2002,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Julia Glass's luminous debut charting love and loss across three decades.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-2002/"
+  },
+  {
+    "id": "nom-great-fire-nba-2003",
+    "prizeId": "national-book-award",
+    "bookId": "the-great-fire",
+    "year": 2003,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Shirley Hazzard's elegant, restrained romance set in post-atomic Japan.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-2003/"
+  },
+  {
+    "id": "nom-news-paraguay-nba-2004",
+    "prizeId": "national-book-award",
+    "bookId": "the-news-from-paraguay",
+    "year": 2004,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Lily Tuck's vivid historical romance of nineteenth-century South American despotism.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-2004/"
+  },
+  {
+    "id": "nom-europe-central-nba-2005",
+    "prizeId": "national-book-award",
+    "bookId": "europe-central",
+    "year": 2005,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: William T. Vollmann's colossal polyphonic epic of the Eastern Front.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-2005/"
+  },
+  {
+    "id": "nom-shadow-country-nba-2008",
+    "prizeId": "national-book-award",
+    "bookId": "shadow-country",
+    "year": 2008,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Peter Matthiessen's monumental Everglades epic of pioneer violence and myth.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-2008/"
+  },
+  {
+    "id": "nom-lord-misrule-nba-2010",
+    "prizeId": "national-book-award",
+    "bookId": "lord-of-misrule",
+    "year": 2010,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Jaimy Gordon's language-drenched racetrack noir.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-2010/"
+  },
+  {
+    "id": "nom-fortune-smiles-nba-2015",
+    "prizeId": "national-book-award",
+    "bookId": "fortune-smiles",
+    "year": 2015,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Adam Johnson's inventive, darkly compassionate stories of survival.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-2015/"
+  },
+  {
+    "id": "nom-raja-gullible-nba-2025",
+    "prizeId": "national-book-award",
+    "bookId": "the-true-true-story-of-raja",
+    "year": 2025,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Rabih Alameddine's exuberant, poignant picaresque of exile and storytelling.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/"
+  },
+  {
+    "id": "nom-paradiso-17-nba-2026",
+    "prizeId": "national-book-award",
+    "bookId": "paradiso-17",
+    "year": 2026,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Hannah Lillith Assadi's luminous tapestry of generational displacement and urban memory.",
+    "sourceUrl": "https://www.nationalbook.org/awards-prizes/national-book-awards-2026/"
+  },
+  {
+    "id": "nom-song-of-solomon-nbcc-1977",
+    "prizeId": "nbcc-fiction",
+    "bookId": "song-of-solomon",
+    "year": 1977,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Toni Morrison's soaring epic of Black identity and flight.",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/"
+  },
+  {
+    "id": "nom-shipping-news-nbcc-1993",
+    "prizeId": "nbcc-fiction",
+    "bookId": "the-shipping-news",
+    "year": 1993,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: E. Annie Proulx's rugged, eccentric Newfoundland masterpiece.",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/"
+  },
+  {
+    "id": "nom-austerlitz-nbcc-2001",
+    "prizeId": "nbcc-fiction",
+    "bookId": "austerlitz",
+    "year": 2001,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: W. G. Sebald's haunting labyrinth of Holocaust memory and architectural ruins.",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/",
+    "translator": "Anthea Bell"
+  },
+  {
+    "id": "nom-inheritance-loss-nbcc-2006",
+    "prizeId": "nbcc-fiction",
+    "bookId": "the-inheritance-of-loss",
+    "year": 2006,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Dual Booker and NBCC champion exploring globalization and post-colonial exile.",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/"
+  },
+  {
+    "id": "nom-sing-unburied-nbcc-2017",
+    "prizeId": "nbcc-fiction",
+    "bookId": "sing-unburied-sing",
+    "year": 2017,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Jesmyn Ward's ghost-haunted Mississippi road odyssey.",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/"
+  },
+  {
+    "id": "nom-hamnet-nbcc-2020",
+    "prizeId": "nbcc-fiction",
+    "bookId": "hamnet",
+    "year": 2020,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Maggie O'Farrell's devastating portrait of grief behind Shakespeare's greatest play.",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/"
   }
 ]
