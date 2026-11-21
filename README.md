@@ -26,21 +26,21 @@ The **Fiction Prize Index** centralizes major world fiction awards into a unifie
 
 ### 📊 Dataset Scorecard & Historical Coverage
 
-The index currently catalogs **11 prizes**, **605 authors**, **797 books**, and **920 nominations**:
+The index currently catalogs **11 prizes**, **1,341 authors**, **2,178 books**, and **2,641 nominations**:
 
 | Prize | Scope / Focus | Award Years | Winners | Historical Coverage |
 | :--- | :--- | :---: | :---: | :---: |
-| **The Booker Prize** | UK, Commonwealth & Global English | 1969–2026 | 62 | **100% Complete** (+ 46 shortlists) |
+| **The Booker Prize** | UK, Commonwealth & Global English | 1969–2026 | 62 | **100% Complete** (+ 283 shortlists 1969–2026) |
 | **The Pulitzer Prize for Fiction** | American literary distinction | 1918–2026 | 100 | **100% Complete** (+ 95 finalists 1980–2026) |
-| **National Book Award for Fiction** | US national literary achievement | 1950–2026 | 76 | **100% Complete** |
-| **Hugo Award for Best Novel** | World Science Fiction Convention | 1953–2026 | 78 | **100% Complete** |
-| **Nebula Award for Best Novel** | Science Fiction & Fantasy Writers (SFWA) | 1965–2026 | 67 | **100% Complete** |
-| **National Book Critics Circle (NBCC)** | American professional book critics | 1975–2025 | 53 | **100% Complete** |
+| **National Book Award for Fiction** | US national literary achievement | 1950–2026 | 76 | **100% Complete** (+ 369 finalists 1951–2026) |
 | **Women's Prize for Fiction** | Full-length novels by women worldwide | 1996–2026 | 31 | **100% Complete** (+ 155 shortlists 1996–2026) |
-| **International Dublin Literary Award** | Public library nominations worldwide | 1996–2026 | 31 | **100% Complete** |
-| **International Booker Prize** | Translated fiction into English | 2005–2026 | 17 | **100% Complete** (+ 16 shortlists) |
-| **The Goldsmiths Prize** | Mould-breaking fiction & novel form | 2013–2026 | 14 | **100% Complete** |
-| **Nobel Prize in Literature** | Master novelists & prose laureates | 1905–2025 | 73 | **Complete Fiction Roster** |
+| **International Booker Prize** | Translated fiction into English | 2005–2026 | 17 | **100% Complete** (+ 55 shortlists 2016–2026) |
+| **International Dublin Literary Award** | Public library nominations worldwide | 1996–2026 | 31 | **100% Complete** (+ 228 shortlists 1996–2026) |
+| **The Goldsmiths Prize** | Mould-breaking fiction & novel form | 2013–2026 | 14 | **100% Complete** (+ 70 shortlists 2013–2026) |
+| **Hugo Award for Best Novel** | World Science Fiction Convention | 1953–2026 | 78 | **100% Complete** (+ 287 finalists 1956–2026) |
+| **Nebula Award for Best Novel** | Science Fiction & Fantasy Writers (SFWA) | 1965–2026 | 67 | **100% Complete** (+ 322 finalists 1965–2025) |
+| **National Book Critics Circle (NBCC)** | American professional book critics | 1975–2025 | 53 | **100% Complete** (+ 175 finalists 1976–2025) |
+| **Nobel Prize in Literature** | Master novelists & prose laureates | 1905–2025 | 73 | **Complete Fiction Roster** (Nominees sealed 50 yrs) |
 
 ---
 
