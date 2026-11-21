@@ -1,6 +1,6 @@
 # Fiction Prize Index: Project Specification & Architecture
 
-An open-access, static-first catalog and discovery platform for major literary fiction prizes, awards, winners, finalists, and publishing metadata. Inspired by Benjamin Breen's [Book Prize Index](https://github.com/benjaminbreen/BookPrizeIndex).
+An open-access, static-first catalog and discovery platform for major literary fiction prizes, awards, winners, finalists, and publishing metadata. Inspired by Benjamin Breen's [Book Prize Index](https://book-prize-index.vercel.app).
 
 ---
 

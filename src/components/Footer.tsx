@@ -21,7 +21,7 @@ export const Footer: React.FC = () => {
             <p className="text-xs text-parchment-600 dark:text-ink-500">
               Inspired by and modeled after Benjamin Breen’s{' '}
               <a
-                href="https://github.com/benjaminbreen/BookPrizeIndex"
+                href="https://book-prize-index.vercel.app"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="underline hover:text-gilded-600 dark:hover:text-gilded-400 font-medium inline-flex items-center"

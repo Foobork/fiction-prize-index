@@ -2,7 +2,7 @@
 
 An open-access, static-first catalog and interactive discovery platform for major literary fiction prizes, awards, winners, shortlists, and publishing metadata.
 
-Inspired by and modeled after Benjamin Breen’s [Book Prize Index](https://github.com/benjaminbreen/BookPrizeIndex).
+Inspired by and modeled after Benjamin Breen’s [Book Prize Index](https://book-prize-index.vercel.app).
 
 ---
 
