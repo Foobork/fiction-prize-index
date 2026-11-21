@@ -69,7 +69,25 @@ export const Footer: React.FC = () => {
 
         <div className="mt-12 pt-6 border-t border-parchment-200 dark:border-ink-800/80 flex flex-col sm:flex-row items-center justify-between text-xs text-parchment-600 dark:text-ink-500">
           <div>
-            Open source under MIT License. Curated for readers, authors, and researchers.
+            Open source under MIT License. Curated by{' '}
+            <a
+              href="https://github.com/foobork"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline font-medium hover:text-gilded-600 dark:hover:text-gilded-400"
+            >
+              foobork
+            </a>{' '}
+            &{' '}
+            <a
+              href="https://github.com/midlevels"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline font-medium hover:text-gilded-600 dark:hover:text-gilded-400"
+            >
+              midlevels
+            </a>
+            .
           </div>
           <div className="mt-2 sm:mt-0 flex items-center space-x-1">
             <span>Crafted with</span>

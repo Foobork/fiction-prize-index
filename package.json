@@ -4,6 +4,16 @@
   "private": true,
   "description": "An open-access, static-first catalog and discovery platform for major literary fiction prizes.",
   "author": "foobork",
+  "contributors": [
+    {
+      "name": "foobork",
+      "url": "https://github.com/foobork"
+    },
+    {
+      "name": "midlevels",
+      "url": "https://github.com/midlevels"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/foobork/fiction-prize-index.git"

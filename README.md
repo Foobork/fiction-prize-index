@@ -145,6 +145,13 @@ fiction-prize-index/
 
 ---
 
+## 👥 Curators & Authors
+
+- [@foobork](https://github.com/foobork)
+- [@midlevels](https://github.com/midlevels)
+
+---
+
 ## 🤝 Contributing
 
 Contributions of past prize years, new eligible fiction prizes, or corrections are welcomed!

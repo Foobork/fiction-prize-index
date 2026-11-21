@@ -16,7 +16,10 @@ export const metadata: Metadata = {
     'Goldsmiths Prize',
     'Literary Awards',
   ],
-  authors: [{ name: 'Fiction Prize Index Curators' }],
+  authors: [
+    { name: 'foobork', url: 'https://github.com/foobork' },
+    { name: 'midlevels', url: 'https://github.com/midlevels' },
+  ],
   openGraph: {
     title: 'Fiction Prize Index',
     description: 'An open-access catalog and virtual bookshelf of world-class fiction honors.',
