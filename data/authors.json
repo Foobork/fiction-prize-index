@@ -947,7 +947,8 @@
     "nationality": "American",
     "birthYear": 1885,
     "deathYear": 1951,
-    "bio": "First American Nobel laureate in Literature; awarded the 1926 Pulitzer for Arrowsmith, which he famously declined."
+    "bio": "First American Nobel laureate in Literature; awarded the 1926 Pulitzer for Arrowsmith, which he famously declined.",
+    "nobelYear": 1930
   },
   {
     "id": "thornton-wilder",
@@ -2247,5 +2248,264 @@
     "birthYear": 1943,
     "bio": "Pseudonymous Italian author of the internationally bestselling Neapolitan Quartet, culminating in The Story of the Lost Child (2016 International Booker shortlist).",
     "websiteUrl": "https://thebookerprizes.com/the-booker-library/authors/elena-ferrante"
+  },
+  {
+    "id": "ernest-poole",
+    "name": "Ernest Poole",
+    "nationality": "American",
+    "birthYear": 1880,
+    "deathYear": 1950,
+    "bio": "American novelist, journalist, and social reformer; winner of the inaugural Pulitzer Prize for the Novel in 1918 for His Family.",
+    "websiteUrl": "https://www.pulitzer.org/winners/ernest-poole"
+  },
+  {
+    "id": "margaret-wilson",
+    "name": "Margaret Wilson",
+    "nationality": "American",
+    "birthYear": 1882,
+    "deathYear": 1973,
+    "bio": "American novelist and missionary whose debut novel The Able McLaughlins won the 1924 Pulitzer Prize for the Novel.",
+    "websiteUrl": "https://www.pulitzer.org/winners/margaret-wilson"
+  },
+  {
+    "id": "louis-bromfield",
+    "name": "Louis Bromfield",
+    "nationality": "American",
+    "birthYear": 1896,
+    "deathYear": 1956,
+    "bio": "American author and pioneer of sustainable agriculture; awarded the 1927 Pulitzer Prize for the Novel for Early Autumn.",
+    "websiteUrl": "https://www.pulitzer.org/winners/louis-bromfield"
+  },
+  {
+    "id": "julia-peterkin",
+    "name": "Julia Peterkin",
+    "nationality": "American",
+    "birthYear": 1880,
+    "deathYear": 1961,
+    "bio": "American novelist celebrated for her empathetic depictions of African American Gullah plantation culture; winner of the 1929 Pulitzer Prize for Scarlet Sister Mary.",
+    "websiteUrl": "https://www.pulitzer.org/winners/julia-peterkin"
+  },
+  {
+    "id": "oliver-la-farge",
+    "name": "Oliver La Farge",
+    "nationality": "American",
+    "birthYear": 1901,
+    "deathYear": 1963,
+    "bio": "American anthropologist and writer dedicated to Native American rights; awarded the 1930 Pulitzer Prize for Laughing Boy.",
+    "websiteUrl": "https://www.pulitzer.org/winners/oliver-la-farge"
+  },
+  {
+    "id": "margaret-ayer-barnes",
+    "name": "Margaret Ayer Barnes",
+    "nationality": "American",
+    "birthYear": 1886,
+    "deathYear": 1967,
+    "bio": "American playwright and novelist whose expansive social chronicle Years of Grace won the 1931 Pulitzer Prize for the Novel.",
+    "websiteUrl": "https://www.pulitzer.org/winners/margaret-ayer-barnes"
+  },
+  {
+    "id": "thomas-sigismund-stribling",
+    "name": "T. S. Stribling",
+    "nationality": "American",
+    "birthYear": 1881,
+    "deathYear": 1965,
+    "bio": "American Southern realist novelist whose hard-hitting Reconstruction chronicle The Store won the 1933 Pulitzer Prize for the Novel.",
+    "websiteUrl": "https://www.pulitzer.org/winners/t-s-stribling"
+  },
+  {
+    "id": "caroline-miller",
+    "name": "Caroline Miller",
+    "nationality": "American",
+    "birthYear": 1903,
+    "deathYear": 1992,
+    "bio": "Georgia novelist whose pioneer debut Lamb in His Bosom won the 1934 Pulitzer Prize for the Novel and the Prix Femina Américain.",
+    "websiteUrl": "https://www.pulitzer.org/winners/caroline-miller"
+  },
+  {
+    "id": "josephine-johnson",
+    "name": "Josephine Johnson",
+    "nationality": "American",
+    "birthYear": 1910,
+    "deathYear": 1990,
+    "bio": "American novelist, poet, and environmentalist who at age twenty-four became the youngest person to win the Pulitzer Prize for the Novel for Now in November (1935).",
+    "websiteUrl": "https://www.pulitzer.org/winners/josephine-winslow-johnson"
+  },
+  {
+    "id": "harold-l-davis",
+    "name": "H. L. Davis",
+    "nationality": "American",
+    "birthYear": 1894,
+    "deathYear": 1960,
+    "bio": "Oregon poet and novelist whose frontier chronicle Honey in the Horn won the 1936 Pulitzer Prize for the Novel.",
+    "websiteUrl": "https://www.pulitzer.org/winners/harold-l-davis"
+  },
+  {
+    "id": "margaret-mitchell",
+    "name": "Margaret Mitchell",
+    "nationality": "American",
+    "birthYear": 1900,
+    "deathYear": 1949,
+    "bio": "American author and journalist whose landmark epic Gone with the Wind won the 1937 Pulitzer Prize for the Novel and became one of the bestselling books in publishing history.",
+    "websiteUrl": "https://www.pulitzer.org/winners/margaret-mitchell"
+  },
+  {
+    "id": "john-p-marquand",
+    "name": "John P. Marquand",
+    "nationality": "American",
+    "birthYear": 1893,
+    "deathYear": 1960,
+    "bio": "American novelist and satirist of upper-class American society; awarded the 1938 Pulitzer Prize for the Novel for The Late George Apley.",
+    "websiteUrl": "https://www.pulitzer.org/winners/john-p-marquand"
+  },
+  {
+    "id": "ellen-glasgow",
+    "name": "Ellen Glasgow",
+    "nationality": "American",
+    "birthYear": 1873,
+    "deathYear": 1945,
+    "bio": "Pioneering Virginia realist novelist who dismantled sentimental Southern myths; awarded the 1942 Pulitzer Prize for In This Our Life.",
+    "websiteUrl": "https://www.pulitzer.org/winners/ellen-glasgow"
+  },
+  {
+    "id": "upton-sinclair",
+    "name": "Upton Sinclair",
+    "nationality": "American",
+    "birthYear": 1878,
+    "deathYear": 1968,
+    "bio": "Prolific muckraking journalist, social critic, and author of The Jungle; awarded the 1943 Pulitzer Prize for the Novel for Dragon's Teeth.",
+    "websiteUrl": "https://www.pulitzer.org/winners/upton-sinclair"
+  },
+  {
+    "id": "martin-flavin",
+    "name": "Martin Flavin",
+    "nationality": "American",
+    "birthYear": 1883,
+    "deathYear": 1967,
+    "bio": "American playwright and novelist whose sweeping portrait of American commercial ambition Journey in the Dark won the 1944 Pulitzer Prize.",
+    "websiteUrl": "https://www.pulitzer.org/winners/martin-flavin"
+  },
+  {
+    "id": "john-hersey",
+    "name": "John Hersey",
+    "nationality": "American",
+    "birthYear": 1914,
+    "deathYear": 1993,
+    "bio": "American journalist, pioneer of the New Journalism, and author of Hiroshima; awarded the 1945 Pulitzer Prize for the Novel for A Bell for Adano.",
+    "websiteUrl": "https://www.pulitzer.org/winners/john-hersey"
+  },
+  {
+    "id": "james-gould-cozzens",
+    "name": "James Gould Cozzens",
+    "nationality": "American",
+    "birthYear": 1903,
+    "deathYear": 1978,
+    "bio": "American novelist acclaimed for his meticulous portrayals of professions and institutions; awarded the 1949 Pulitzer Prize for Guard of Honor.",
+    "websiteUrl": "https://www.pulitzer.org/winners/james-gould-cozzens"
+  },
+  {
+    "id": "a-b-guthrie-jr",
+    "name": "A. B. Guthrie Jr.",
+    "nationality": "American",
+    "birthYear": 1901,
+    "deathYear": 1991,
+    "bio": "American novelist, screenwriter, and historian of the American West; awarded the 1950 Pulitzer Prize for Fiction for The Way West.",
+    "websiteUrl": "https://www.pulitzer.org/winners/b-guthrie-jr"
+  },
+  {
+    "id": "conrad-richter",
+    "name": "Conrad Richter",
+    "nationality": "American",
+    "birthYear": 1890,
+    "deathYear": 1968,
+    "bio": "American novelist celebrated for his evocative Ohio pioneer trilogy; awarded the 1951 Pulitzer Prize for Fiction for The Town.",
+    "websiteUrl": "https://www.pulitzer.org/winners/conrad-richter"
+  },
+  {
+    "id": "mackinlay-kantor",
+    "name": "MacKinlay Kantor",
+    "nationality": "American",
+    "birthYear": 1904,
+    "deathYear": 1977,
+    "bio": "American novelist, journalist, and screenwriter; awarded the 1956 Pulitzer Prize for Fiction for his Civil War epic Andersonville.",
+    "websiteUrl": "https://www.pulitzer.org/winners/mackinlay-kantor"
+  },
+  {
+    "id": "robert-lewis-taylor",
+    "name": "Robert Lewis Taylor",
+    "nationality": "American",
+    "birthYear": 1912,
+    "deathYear": 1998,
+    "bio": "American biographer and adventure novelist; awarded the 1959 Pulitzer Prize for Fiction for The Travels of Jaimie McPheeters.",
+    "websiteUrl": "https://www.pulitzer.org/winners/robert-lewis-taylor"
+  },
+  {
+    "id": "allen-drury",
+    "name": "Allen Drury",
+    "nationality": "American",
+    "birthYear": 1918,
+    "deathYear": 1998,
+    "bio": "Veteran Washington Capitol Hill correspondent whose bestselling political thriller Advise and Consent won the 1960 Pulitzer Prize for Fiction.",
+    "websiteUrl": "https://www.pulitzer.org/winners/allen-drury"
+  },
+  {
+    "id": "edwin-oconnor",
+    "name": "Edwin O'Connor",
+    "nationality": "American",
+    "birthYear": 1918,
+    "deathYear": 1968,
+    "bio": "American novelist and commentator on Irish-American political and clerical life; awarded the 1962 Pulitzer Prize for The Edge of Sadness.",
+    "websiteUrl": "https://www.pulitzer.org/winners/edwin-oconnor"
+  },
+  {
+    "id": "shirley-ann-grau",
+    "name": "Shirley Ann Grau",
+    "nationality": "American",
+    "birthYear": 1929,
+    "deathYear": 2020,
+    "bio": "American Southern writer whose multi-generational racial chronicle The Keepers of the House won the 1965 Pulitzer Prize for Fiction.",
+    "websiteUrl": "https://www.pulitzer.org/winners/shirley-ann-grau"
+  },
+  {
+    "id": "jean-stafford",
+    "name": "Jean Stafford",
+    "nationality": "American",
+    "birthYear": 1915,
+    "deathYear": 1979,
+    "bio": "American short-story master and novelist awarded the 1970 Pulitzer Prize for Fiction for The Collected Stories of Jean Stafford.",
+    "websiteUrl": "https://www.pulitzer.org/winners/jean-stafford"
+  },
+  {
+    "id": "alison-lurie",
+    "name": "Alison Lurie",
+    "nationality": "American",
+    "birthYear": 1926,
+    "deathYear": 2020,
+    "bio": "American novelist and academic whose witty comedy of transatlantic academic manners Foreign Affairs won the 1985 Pulitzer Prize for Fiction.",
+    "websiteUrl": "https://www.pulitzer.org/winners/alison-lurie"
+  },
+  {
+    "id": "peter-taylor",
+    "name": "Peter Taylor",
+    "nationality": "American",
+    "birthYear": 1917,
+    "deathYear": 1994,
+    "bio": "Tennessee master of Southern fiction; awarded the 1987 Pulitzer Prize for Fiction for his subtle family drama A Summons to Memphis.",
+    "websiteUrl": "https://www.pulitzer.org/winners/peter-taylor"
+  },
+  {
+    "id": "robert-olen-butler",
+    "name": "Robert Olen Butler",
+    "nationality": "American",
+    "birthYear": 1945,
+    "bio": "American novelist and Vietnam War veteran; awarded the 1993 Pulitzer Prize for Fiction for A Good Scent from a Strange Mountain.",
+    "websiteUrl": "https://www.pulitzer.org/winners/robert-olen-butler"
+  },
+  {
+    "id": "steven-millhauser",
+    "name": "Steven Millhauser",
+    "nationality": "American",
+    "birthYear": 1943,
+    "bio": "American novelist and short-story virtuoso of fabulous, architectural wonder; awarded the 1997 Pulitzer Prize for Martin Dressler.",
+    "websiteUrl": "https://www.pulitzer.org/winners/steven-millhauser"
   }
 ]

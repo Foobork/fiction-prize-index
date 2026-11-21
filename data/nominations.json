@@ -3827,5 +3827,475 @@
     "citation": "Shortlist: The devastating crescendo of the Neapolitan quartet, probing womanhood, friendship, and history.",
     "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-story-of-the-lost-child",
     "translator": "Ann Goldstein"
+  },
+  {
+    "id": "nom-his-family-pulitzer-1918",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "his-family",
+    "year": 1918,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Inaugural winner of the Pulitzer Prize for the Novel, chronicling the transition of old New York into the modern era.",
+    "sourceUrl": "https://www.pulitzer.org/winners/ernest-poole"
+  },
+  {
+    "id": "nom-alice-adams-pulitzer-1922",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "alice-adams",
+    "year": 1922,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: Awarded for its piercing and compassionate study of American social pretension and youth.",
+    "sourceUrl": "https://www.pulitzer.org/winners/booth-tarkington-0"
+  },
+  {
+    "id": "nom-one-of-ours-pulitzer-1923",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "one-of-ours",
+    "year": 1923,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A profound wartime portrait of Midwestern longing and sacrifice on the Western Front.",
+    "sourceUrl": "https://www.pulitzer.org/winners/willa-cather"
+  },
+  {
+    "id": "nom-able-mclaughlins-pulitzer-1924",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-able-mclaughlins",
+    "year": 1924,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A tender, deeply moral tale of pioneer fortitude in nineteenth-century rural Iowa.",
+    "sourceUrl": "https://www.pulitzer.org/winners/margaret-wilson"
+  },
+  {
+    "id": "nom-so-big-pulitzer-1925",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "so-big",
+    "year": 1925,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: Celebrating maternal endurance, artistic passion, and Midwestern soil.",
+    "sourceUrl": "https://www.pulitzer.org/winners/edna-ferber"
+  },
+  {
+    "id": "nom-arrowsmith-pulitzer-1926",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "arrowsmith",
+    "year": 1926,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: Sinclair Lewis famously declined the prize, asserting prizes compromise authorial independence.",
+    "sourceUrl": "https://www.pulitzer.org/winners/sinclair-lewis"
+  },
+  {
+    "id": "nom-early-autumn-pulitzer-1927",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "early-autumn",
+    "year": 1927,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A trenchant critique of decaying Puritan tradition and aristocratic Bostonian reserve.",
+    "sourceUrl": "https://www.pulitzer.org/winners/louis-bromfield"
+  },
+  {
+    "id": "nom-scarlet-sister-mary-pulitzer-1929",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "scarlet-sister-mary",
+    "year": 1929,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: An unflinching, lyrical chronicle of resilience and autonomy among the coastal Gullah community.",
+    "sourceUrl": "https://www.pulitzer.org/winners/julia-peterkin"
+  },
+  {
+    "id": "nom-laughing-boy-pulitzer-1930",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "laughing-boy",
+    "year": 1930,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A haunting and poetic exploration of Navajo life, love, and cultural encroachment.",
+    "sourceUrl": "https://www.pulitzer.org/winners/oliver-la-farge"
+  },
+  {
+    "id": "nom-years-of-grace-pulitzer-1931",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "years-of-grace",
+    "year": 1931,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A panoramic social history tracing changing manners and morals across three generations of Chicago.",
+    "sourceUrl": "https://www.pulitzer.org/winners/margaret-ayer-barnes"
+  },
+  {
+    "id": "nom-the-store-pulitzer-1933",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-store",
+    "year": 1933,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: An acute historical satire dissecting commercial ambition and racial tension in the Reconstruction South.",
+    "sourceUrl": "https://www.pulitzer.org/winners/t-s-stribling"
+  },
+  {
+    "id": "nom-lamb-in-his-bosom-pulitzer-1934",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "lamb-in-his-bosom",
+    "year": 1934,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A poetic pioneer epic depicting the hardships and dignity of antebellum Georgia wilderness settlers.",
+    "sourceUrl": "https://www.pulitzer.org/winners/caroline-miller"
+  },
+  {
+    "id": "nom-now-in-november-pulitzer-1935",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "now-in-november",
+    "year": 1935,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: Awarded to twenty-four-year-old Josephine Johnson for her devastating Dust Bowl pastoral.",
+    "sourceUrl": "https://www.pulitzer.org/winners/josephine-winslow-johnson"
+  },
+  {
+    "id": "nom-honey-in-the-horn-pulitzer-1936",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "honey-in-the-horn",
+    "year": 1936,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A flavorful, sprawling picaresque novel capturing the gritty frontier spirit of 1900s Oregon.",
+    "sourceUrl": "https://www.pulitzer.org/winners/harold-l-davis"
+  },
+  {
+    "id": "nom-gone-with-the-wind-pulitzer-1937",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "gone-with-the-wind",
+    "year": 1937,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: The monumental Civil War epic that defined an era of American popular storytelling.",
+    "sourceUrl": "https://www.pulitzer.org/winners/margaret-mitchell"
+  },
+  {
+    "id": "nom-the-late-george-apley-pulitzer-1938",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-late-george-apley",
+    "year": 1938,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A masterfully dry and ironic epistolary satire of Beacon Hill and Boston Brahmin caste rituals.",
+    "sourceUrl": "https://www.pulitzer.org/winners/john-p-marquand"
+  },
+  {
+    "id": "nom-the-yearling-pulitzer-1939",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-yearling",
+    "year": 1939,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A timeless American classic of childhood innocence, wilderness survival, and tragic loss in Florida scrub country.",
+    "sourceUrl": "https://www.pulitzer.org/winners/marjorie-kinnan-rawlings"
+  },
+  {
+    "id": "nom-in-this-our-life-pulitzer-1942",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "in-this-our-life",
+    "year": 1942,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A razor-sharp psychological study of Southern familial decline and moral evasion.",
+    "sourceUrl": "https://www.pulitzer.org/winners/ellen-glasgow"
+  },
+  {
+    "id": "nom-dragons-teeth-pulitzer-1943",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "dragons-teeth",
+    "year": 1943,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A prescient political thriller documenting the rise of fascism in Germany through 1930s Europe.",
+    "sourceUrl": "https://www.pulitzer.org/winners/upton-sinclair"
+  },
+  {
+    "id": "nom-journey-in-the-dark-pulitzer-1944",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "journey-in-the-dark",
+    "year": 1944,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A realistic chronicle of American industrial ambition and the isolation of commercial success.",
+    "sourceUrl": "https://www.pulitzer.org/winners/martin-flavin"
+  },
+  {
+    "id": "nom-bell-for-adano-pulitzer-1945",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "a-bell-for-adano",
+    "year": 1945,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner: A deeply humane wartime story of an American officer rebuilding community and trust in Allied-occupied Sicily.",
+    "sourceUrl": "https://www.pulitzer.org/winners/john-hersey"
+  },
+  {
+    "id": "nom-guard-of-honor-pulitzer-1949",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "guard-of-honor",
+    "year": 1949,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A tour de force of institutional realism exploring command, race, and bureaucracy on a wartime air base.",
+    "sourceUrl": "https://www.pulitzer.org/winners/james-gould-cozzens"
+  },
+  {
+    "id": "nom-the-way-west-pulitzer-1950",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-way-west",
+    "year": 1950,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A magnificent, realistic epic of the Oregon Trail that redefined twentieth-century frontier literature.",
+    "sourceUrl": "https://www.pulitzer.org/winners/b-guthrie-jr"
+  },
+  {
+    "id": "nom-the-town-pulitzer-1951",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-town",
+    "year": 1951,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: The crowning volume of Conrad Richter's trilogy depicting the transformation of the Ohio frontier.",
+    "sourceUrl": "https://www.pulitzer.org/winners/conrad-richter"
+  },
+  {
+    "id": "nom-andersonville-pulitzer-1956",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "andersonville",
+    "year": 1956,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A staggering, visceral historical recreation of the infamous Confederate Civil War prison camp.",
+    "sourceUrl": "https://www.pulitzer.org/winners/mackinlay-kantor"
+  },
+  {
+    "id": "nom-death-in-family-pulitzer-1958",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "a-death-in-the-family",
+    "year": 1958,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Awarded posthumously for Agee's luminous autobiographical portrait of family grief and childhood.",
+    "sourceUrl": "https://www.pulitzer.org/winners/james-agee"
+  },
+  {
+    "id": "nom-jaimie-mcpheeters-pulitzer-1959",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-travels-of-jaimie-mcpheeters",
+    "year": 1959,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: An exuberant, colorful picaresque adventure set against the California Gold Rush of 1849.",
+    "sourceUrl": "https://www.pulitzer.org/winners/robert-lewis-taylor"
+  },
+  {
+    "id": "nom-advise-and-consent-pulitzer-1960",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "advise-and-consent",
+    "year": 1960,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: The definitive political novel of Cold War Washington and United States Senate backroom power.",
+    "sourceUrl": "https://www.pulitzer.org/winners/allen-drury"
+  },
+  {
+    "id": "nom-edge-of-sadness-pulitzer-1962",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-edge-of-sadness",
+    "year": 1962,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A compassionate, warmly observed study of Irish-American Catholic life, faith, and redemption.",
+    "sourceUrl": "https://www.pulitzer.org/winners/edwin-oconnor"
+  },
+  {
+    "id": "nom-keepers-of-house-pulitzer-1965",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-keepers-of-the-house",
+    "year": 1965,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A searing generational Southern tragedy exposing the destructive legacies of racism and hypocrisy.",
+    "sourceUrl": "https://www.pulitzer.org/winners/shirley-ann-grau"
+  },
+  {
+    "id": "nom-porter-stories-pulitzer-1966",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-collected-stories-of-katherine-anne-porter",
+    "year": 1966,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Honoring a lifetime of peerless short fiction characterized by moral precision and stylistic mastery.",
+    "sourceUrl": "https://www.pulitzer.org/winners/katherine-anne-porter"
+  },
+  {
+    "id": "nom-stafford-stories-pulitzer-1970",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-collected-stories-of-jean-stafford",
+    "year": 1970,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Thirty brilliant, acidly funny, and psychologically acute stories of American life and isolation.",
+    "sourceUrl": "https://www.pulitzer.org/winners/jean-stafford"
+  },
+  {
+    "id": "nom-optimists-daughter-pulitzer-1973",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-optimists-daughter",
+    "year": 1973,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Eudora Welty's masterfully compressed novella of family conflict, memory, and bereavement in Mississippi.",
+    "sourceUrl": "https://www.pulitzer.org/winners/eudora-welty"
+  },
+  {
+    "id": "nom-elbow-room-pulitzer-1978",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "elbow-room",
+    "year": 1978,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: The first short-story collection by a Black writer to win the Pulitzer, praised for its empathy and range.",
+    "sourceUrl": "https://www.pulitzer.org/winners/james-alan-mcpherson"
+  },
+  {
+    "id": "nom-cheever-stories-pulitzer-1979",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-stories-of-john-cheever",
+    "year": 1979,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: The definitive chronicle of post-war American suburban longing, mortality, and domestic enchantment.",
+    "sourceUrl": "https://www.pulitzer.org/winners/john-cheever"
+  },
+  {
+    "id": "nom-executioners-song-pulitzer-1980",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-executioners-song",
+    "year": 1980,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A monumental true-life novel examining the crime, punishment, and execution of Gary Gilmore.",
+    "sourceUrl": "https://www.pulitzer.org/winners/norman-mailer"
+  },
+  {
+    "id": "nom-ironweed-pulitzer-1984",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "ironweed",
+    "year": 1984,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A mythic, harrowing journey through Depression-era Albany exploring remorse, grace, and redemption.",
+    "sourceUrl": "https://www.pulitzer.org/winners/william-kennedy"
+  },
+  {
+    "id": "nom-foreign-affairs-pulitzer-1985",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "foreign-affairs",
+    "year": 1985,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A delightful, witty comedy of transatlantic manners following two academics abroad in London.",
+    "sourceUrl": "https://www.pulitzer.org/winners/alison-lurie"
+  },
+  {
+    "id": "nom-summons-memphis-pulitzer-1987",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "a-summons-to-memphis",
+    "year": 1987,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A quietly devastating portrait of family vengeance, gentility, and patriarchal dominance in Tennessee.",
+    "sourceUrl": "https://www.pulitzer.org/winners/peter-taylor"
+  },
+  {
+    "id": "nom-breathing-lessons-pulitzer-1989",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "breathing-lessons",
+    "year": 1989,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A warm, affectionate, and deeply perceptive portrait of long-term marriage and everyday resilience.",
+    "sourceUrl": "https://www.pulitzer.org/winners/anne-tyler"
+  },
+  {
+    "id": "nom-mambo-kings-pulitzer-1990",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-mambo-kings-play-songs-of-love",
+    "year": 1990,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: The first Pulitzer for Fiction awarded to a Hispanic author, celebrating Cuban immigrant music and memory.",
+    "sourceUrl": "https://www.pulitzer.org/winners/oscar-hijuelos"
+  },
+  {
+    "id": "nom-thousand-acres-pulitzer-1992",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "a-thousand-acres",
+    "year": 1992,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A gripping, feminist reimagining of King Lear set against the toxic realities of Midwestern agribusiness.",
+    "sourceUrl": "https://www.pulitzer.org/winners/jane-smiley"
+  },
+  {
+    "id": "nom-good-scent-pulitzer-1993",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "a-good-scent-from-a-strange-mountain",
+    "year": 1993,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: Lyrical, compassionate stories exploring displacement, war trauma, and reconciliation among Vietnamese Americans.",
+    "sourceUrl": "https://www.pulitzer.org/winners/robert-olen-butler"
+  },
+  {
+    "id": "nom-stone-diaries-pulitzer-1995",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-stone-diaries",
+    "year": 1995,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A transcendent fictional autobiography honoring the dignity, quiet joys, and private grief of an ordinary woman's century.",
+    "sourceUrl": "https://www.pulitzer.org/winners/carol-shields"
+  },
+  {
+    "id": "nom-independence-day-pulitzer-1996",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "independence-day",
+    "year": 1996,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: The first novel to win both the Pulitzer Prize and the PEN/Faulkner Award, probing American middle age and hope.",
+    "sourceUrl": "https://www.pulitzer.org/winners/richard-ford"
+  },
+  {
+    "id": "nom-martin-dressler-pulitzer-1997",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "martin-dressler",
+    "year": 1997,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A dazzling fable of American ambition, architecture, and imagination at the turn of the twentieth century.",
+    "sourceUrl": "https://www.pulitzer.org/winners/steven-millhauser"
+  },
+  {
+    "id": "nom-march-pulitzer-2006",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "march",
+    "year": 2006,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A rich, morally rigorous companion to Little Women exploring the devastating human cost of the Civil War.",
+    "sourceUrl": "https://www.pulitzer.org/winners/geraldine-brooks"
   }
 ]

@@ -6217,5 +6217,850 @@
     "originalTitle": "Storia della bambina perduta",
     "pageCount": 480,
     "spineColor": "#0369a1"
+  },
+  {
+    "id": "his-family",
+    "title": "His Family",
+    "authorId": "ernest-poole",
+    "authorName": "Ernest Poole",
+    "publicationYear": 1917,
+    "publisher": "Macmillan",
+    "isbn13": "9780807844076",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Family Saga"
+    ],
+    "synopsis": "The inaugural winner of the Pulitzer Prize for the Novel, following an aging widower in early 20th-century New York City struggling to understand and reconcile the divergent lives of his three modern daughters.",
+    "countryOfOrigin": "United States",
+    "pageCount": 320,
+    "spineColor": "#3f3f46"
+  },
+  {
+    "id": "alice-adams",
+    "title": "Alice Adams",
+    "authorId": "booth-tarkington",
+    "authorName": "Booth Tarkington",
+    "publicationYear": 1921,
+    "publisher": "Doubleday, Page & Co.",
+    "isbn13": "9780140186710",
+    "genres": [
+      "Literary Fiction",
+      "Social Realism",
+      "Coming-of-Age"
+    ],
+    "synopsis": "A sharp, poignant satire of Midwestern social climbing following Alice Adams, a spirited young woman whose family's financial pretense crumbles during a disastrous dinner party.",
+    "countryOfOrigin": "United States",
+    "pageCount": 304,
+    "spineColor": "#b45309"
+  },
+  {
+    "id": "one-of-ours",
+    "title": "One of Ours",
+    "authorId": "willa-cather",
+    "authorName": "Willa Cather",
+    "publicationYear": 1922,
+    "publisher": "Alfred A. Knopf",
+    "isbn13": "9780679737445",
+    "genres": [
+      "Literary Fiction",
+      "War Fiction",
+      "Historical Fiction"
+    ],
+    "synopsis": "Claude Wheeler, a restless Nebraska farm boy suffocating in domestic dissatisfaction, finds tragic purpose and spiritual idealism on the brutal battlefields of France during World War I.",
+    "countryOfOrigin": "United States",
+    "pageCount": 384,
+    "spineColor": "#047857"
+  },
+  {
+    "id": "the-able-mclaughlins",
+    "title": "The Able McLaughlins",
+    "authorId": "margaret-wilson",
+    "authorName": "Margaret Wilson",
+    "publicationYear": 1923,
+    "publisher": "Harper & Brothers",
+    "isbn13": "9781585444854",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Pioneer Fiction"
+    ],
+    "synopsis": "In a close-knit community of Scottish pioneer immigrants in 1860s Iowa, a returning Civil War veteran marries a shamed childhood sweetheart to shield her from ostracism and revenge.",
+    "countryOfOrigin": "United States",
+    "pageCount": 262,
+    "spineColor": "#1e3a8a"
+  },
+  {
+    "id": "so-big",
+    "title": "So Big",
+    "authorId": "edna-ferber",
+    "authorName": "Edna Ferber",
+    "publicationYear": 1924,
+    "publisher": "Doubleday, Page & Co.",
+    "isbn13": "9780060931247",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Family Saga"
+    ],
+    "synopsis": "Selina Peake DeJong, a resilient city girl widowed on a struggling Dutch truck farm outside Chicago, dedicates her life to raising her son while refusing to compromise her devotion to art and natural beauty.",
+    "countryOfOrigin": "United States",
+    "pageCount": 360,
+    "spineColor": "#854d0e"
+  },
+  {
+    "id": "arrowsmith",
+    "title": "Arrowsmith",
+    "authorId": "sinclair-lewis",
+    "authorName": "Sinclair Lewis",
+    "publicationYear": 1925,
+    "publisher": "Harcourt, Brace & Co.",
+    "isbn13": "9780451530868",
+    "genres": [
+      "Literary Fiction",
+      "Medical Fiction",
+      "Satire"
+    ],
+    "synopsis": "The classic chronicle of Dr. Martin Arrowsmith, an idealistic bacteriologist who confronts commercial exploitation, professional compromises, and a deadly bubonic plague outbreak in the Caribbean. Lewis famously declined the Pulitzer.",
+    "countryOfOrigin": "United States",
+    "pageCount": 464,
+    "spineColor": "#0284c7"
+  },
+  {
+    "id": "early-autumn",
+    "title": "Early Autumn",
+    "authorId": "louis-bromfield",
+    "authorName": "Louis Bromfield",
+    "publicationYear": 1926,
+    "publisher": "Frederick A. Stokes",
+    "isbn13": "9780820330990",
+    "genres": [
+      "Literary Fiction",
+      "Social Realism",
+      "Gothic Fiction"
+    ],
+    "synopsis": "A searing portrait of the decay and suffocating puritanical traditions of a Boston Brahmin dynasty, as an outsider married into the family contemplates breaking free with an alluring politician.",
+    "countryOfOrigin": "United States",
+    "pageCount": 307,
+    "spineColor": "#78350f"
+  },
+  {
+    "id": "scarlet-sister-mary",
+    "title": "Scarlet Sister Mary",
+    "authorId": "julia-peterkin",
+    "authorName": "Julia Peterkin",
+    "publicationYear": 1928,
+    "publisher": "Bobbs-Merrill Company",
+    "isbn13": "9780820324869",
+    "genres": [
+      "Literary Fiction",
+      "Southern Gothic",
+      "Social Realism"
+    ],
+    "synopsis": "Set on a South Carolina plantation among the Gullah people, following Mary, an abandoned young bride who defies community gossip and church condemnation to claim emotional and physical independence.",
+    "countryOfOrigin": "United States",
+    "pageCount": 345,
+    "spineColor": "#991b1b"
+  },
+  {
+    "id": "laughing-boy",
+    "title": "Laughing Boy",
+    "authorId": "oliver-la-farge",
+    "authorName": "Oliver La Farge",
+    "publicationYear": 1929,
+    "publisher": "Houghton Mifflin",
+    "isbn13": "9780451530738",
+    "genres": [
+      "Literary Fiction",
+      "Indigenous Literature",
+      "Tragedy"
+    ],
+    "synopsis": "A lyrical, tragic love story between Laughing Boy, a traditional Navajo silversmith, and Slim Girl, a woman raised in American boarding schools torn between two incompatible cultural worlds.",
+    "countryOfOrigin": "United States",
+    "pageCount": 302,
+    "spineColor": "#0f766e"
+  },
+  {
+    "id": "years-of-grace",
+    "title": "Years of Grace",
+    "authorId": "margaret-ayer-barnes",
+    "authorName": "Margaret Ayer Barnes",
+    "publicationYear": 1930,
+    "publisher": "Houghton Mifflin",
+    "isbn13": "9780897332460",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Social Realism"
+    ],
+    "synopsis": "An expansive chronicle of Chicago society from the 1890s through the Roaring Twenties, following Jane Ward as she navigates shifting marital morals and generational conflicts.",
+    "countryOfOrigin": "United States",
+    "pageCount": 581,
+    "spineColor": "#4c1d95"
+  },
+  {
+    "id": "the-store",
+    "title": "The Store",
+    "authorId": "thomas-sigismund-stribling",
+    "authorName": "T. S. Stribling",
+    "publicationYear": 1932,
+    "publisher": "Doubleday, Doran & Co.",
+    "isbn13": "9780817301644",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Southern Fiction"
+    ],
+    "synopsis": "The second volume in Stribling's Tennessee Valley trilogy, examining the rise of merchant capitalism, racial exploitation, and Jim Crow disenfranchisement in Reconstruction-era Alabama.",
+    "countryOfOrigin": "United States",
+    "pageCount": 571,
+    "spineColor": "#374151"
+  },
+  {
+    "id": "lamb-in-his-bosom",
+    "title": "Lamb in His Bosom",
+    "authorId": "caroline-miller",
+    "authorName": "Caroline Miller",
+    "publicationYear": 1933,
+    "publisher": "Harper & Brothers",
+    "isbn13": "9781561456901",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Pioneer Fiction"
+    ],
+    "synopsis": "A pioneer epic depicting the harsh, elemental lives of backcountry settlers in the piney woods of antebellum southern Georgia as they endure isolation, panther attacks, Civil War, and spiritual devotion.",
+    "countryOfOrigin": "United States",
+    "pageCount": 345,
+    "spineColor": "#166534"
+  },
+  {
+    "id": "now-in-november",
+    "title": "Now in November",
+    "authorId": "josephine-johnson",
+    "authorName": "Josephine Johnson",
+    "publicationYear": 1934,
+    "publisher": "Simon & Schuster",
+    "isbn13": "9781558614987",
+    "genres": [
+      "Literary Fiction",
+      "Pastoral",
+      "Great Depression"
+    ],
+    "synopsis": "Written when Johnson was only twenty-four, this poetic Great Depression masterpiece charts a family's desperate struggle to hold onto their drought-stricken Missouri dairy farm against mortgage debt and blazing heat.",
+    "countryOfOrigin": "United States",
+    "pageCount": 231,
+    "spineColor": "#854d0e"
+  },
+  {
+    "id": "honey-in-the-horn",
+    "title": "Honey in the Horn",
+    "authorId": "harold-l-davis",
+    "authorName": "H. L. Davis",
+    "publicationYear": 1935,
+    "publisher": "Harper & Brothers",
+    "isbn13": "9780893011550",
+    "genres": [
+      "Literary Fiction",
+      "Western",
+      "Picaresque"
+    ],
+    "synopsis": "A raucous, unsentimental picaresque epic of the Oregon frontier during the homesteading boom of 1906–1908, chronicling the drifting adventures of teenage orphan Clay Calvert and horse trader Luce Farrow.",
+    "countryOfOrigin": "United States",
+    "pageCount": 380,
+    "spineColor": "#1e293b"
+  },
+  {
+    "id": "gone-with-the-wind",
+    "title": "Gone with the Wind",
+    "authorId": "margaret-mitchell",
+    "authorName": "Margaret Mitchell",
+    "publicationYear": 1936,
+    "publisher": "Macmillan",
+    "isbn13": "9781451635621",
+    "genres": [
+      "Historical Fiction",
+      "Southern Fiction",
+      "Romantic Drama"
+    ],
+    "synopsis": "The colossal Civil War and Reconstruction epic tracing the ruthless survival instincts and tangled passions of Georgia plantation belle Scarlett O'Hara and cynical blockade runner Rhett Butler.",
+    "countryOfOrigin": "United States",
+    "pageCount": 1037,
+    "spineColor": "#831843"
+  },
+  {
+    "id": "the-late-george-apley",
+    "title": "The Late George Apley",
+    "authorId": "john-p-marquand",
+    "authorName": "John P. Marquand",
+    "publicationYear": 1937,
+    "publisher": "Little, Brown and Company",
+    "isbn13": "9780316547239",
+    "genres": [
+      "Literary Fiction",
+      "Satire",
+      "Epistolary"
+    ],
+    "synopsis": "A brilliantly deadpan epistolary satire of Boston Brahmin aristocratic propriety, told through the letters and memoirs of George Apley, whose rigid caste conventions smother his youthful passions.",
+    "countryOfOrigin": "United States",
+    "pageCount": 354,
+    "spineColor": "#1f2937"
+  },
+  {
+    "id": "the-yearling",
+    "title": "The Yearling",
+    "authorId": "marjorie-kinnan-rawlings",
+    "authorName": "Marjorie Kinnan Rawlings",
+    "publicationYear": 1938,
+    "publisher": "Charles Scribner's Sons",
+    "isbn13": "9780689846236",
+    "genres": [
+      "Literary Fiction",
+      "Coming-of-Age",
+      "Classics"
+    ],
+    "synopsis": "In the wild Florida scrub country of the 1870s, young Jody Baxter adopts an orphaned fawn named Flag, forging a profound bond that leads inexorably to the agonizing heartbreak of growing up.",
+    "countryOfOrigin": "United States",
+    "pageCount": 428,
+    "spineColor": "#047857"
+  },
+  {
+    "id": "in-this-our-life",
+    "title": "In This Our Life",
+    "authorId": "ellen-glasgow",
+    "authorName": "Ellen Glasgow",
+    "publicationYear": 1941,
+    "publisher": "Harcourt, Brace & Co.",
+    "isbn13": "9780813919010",
+    "genres": [
+      "Literary Fiction",
+      "Southern Realism",
+      "Family Drama"
+    ],
+    "synopsis": "In a fading Virginia city on the eve of WWII, an aristocratic family disintegrates as a selfish daughter causes a fatal hit-and-run accident and attempts to frame an innocent Black boy.",
+    "countryOfOrigin": "United States",
+    "pageCount": 467,
+    "spineColor": "#475569"
+  },
+  {
+    "id": "dragons-teeth",
+    "title": "Dragon's Teeth",
+    "authorId": "upton-sinclair",
+    "authorName": "Upton Sinclair",
+    "publicationYear": 1942,
+    "publisher": "Viking Press",
+    "isbn13": "9780979870538",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Political Thriller"
+    ],
+    "synopsis": "The third book in Sinclair's Lanny Budd series, witnessing the rise of Adolf Hitler and the Nazi party in Germany through the 1930s, culminating in a daring undercover rescue following the 1938 Kristallnacht pogroms.",
+    "countryOfOrigin": "United States",
+    "pageCount": 731,
+    "spineColor": "#991b1b"
+  },
+  {
+    "id": "journey-in-the-dark",
+    "title": "Journey in the Dark",
+    "authorId": "martin-flavin",
+    "authorName": "Martin Flavin",
+    "publicationYear": 1943,
+    "publisher": "Harper & Brothers",
+    "isbn13": "9781406734102",
+    "genres": [
+      "Literary Fiction",
+      "Social Realism",
+      "American Dream"
+    ],
+    "synopsis": "The rise of Sam Braden, an impoverished boy from a small Mississippi river town who amasses immense commercial wealth during America's industrial expansion, only to find hollow spiritual loneliness.",
+    "countryOfOrigin": "United States",
+    "pageCount": 432,
+    "spineColor": "#334155"
+  },
+  {
+    "id": "a-bell-for-adano",
+    "title": "A Bell for Adano",
+    "authorId": "john-hersey",
+    "authorName": "John Hersey",
+    "publicationYear": 1944,
+    "publisher": "Alfred A. Knopf",
+    "isbn13": "9780679767299",
+    "genres": [
+      "Literary Fiction",
+      "War Fiction",
+      "Historical Fiction"
+    ],
+    "synopsis": "Major Victor Joppolo, an Italian-American Allied civil affairs officer in Sicily during WWII, wins the devotion of a shattered coastal town by helping replace their historic 700-year-old municipal town bell melted down for munitions.",
+    "countryOfOrigin": "United States",
+    "pageCount": 269,
+    "spineColor": "#0284c7"
+  },
+  {
+    "id": "guard-of-honor",
+    "title": "Guard of Honor",
+    "authorId": "james-gould-cozzens",
+    "authorName": "James Gould Cozzens",
+    "publicationYear": 1948,
+    "publisher": "Harcourt, Brace & Co.",
+    "isbn13": "9780156376099",
+    "genres": [
+      "Literary Fiction",
+      "War Fiction",
+      "Military Drama"
+    ],
+    "synopsis": "Set over three frantic days at a massive Florida air force training base during WWII, capturing the complex administrative tensions, racial integration flashpoints, and institutional machinery of the American military.",
+    "countryOfOrigin": "United States",
+    "pageCount": 631,
+    "spineColor": "#1e3a8a"
+  },
+  {
+    "id": "the-way-west",
+    "title": "The Way West",
+    "authorId": "a-b-guthrie-jr",
+    "authorName": "A. B. Guthrie Jr.",
+    "publicationYear": 1949,
+    "publisher": "William Sloane Associates",
+    "isbn13": "9780618154623",
+    "genres": [
+      "Literary Fiction",
+      "Western",
+      "Historical Epic"
+    ],
+    "synopsis": "A majestic, authentic chronicle of an 1845 wagon train journeying from Missouri across the wilderness to Oregon, depicting the courage, fractures, and human triumphs of the westward migration.",
+    "countryOfOrigin": "United States",
+    "pageCount": 340,
+    "spineColor": "#b45309"
+  },
+  {
+    "id": "the-town",
+    "title": "The Town",
+    "authorId": "conrad-richter",
+    "authorName": "Conrad Richter",
+    "publicationYear": 1950,
+    "publisher": "Alfred A. Knopf",
+    "isbn13": "9780821415276",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Pioneer Fiction"
+    ],
+    "synopsis": "The concluding masterpiece of Richter's Awakening trilogy, chronicling Sayward Wheeler's old age as the Ohio wilderness transforms from dense primeval forest into an industrialized canal and railroad boomtown.",
+    "countryOfOrigin": "United States",
+    "pageCount": 430,
+    "spineColor": "#047857"
+  },
+  {
+    "id": "andersonville",
+    "title": "Andersonville",
+    "authorId": "mackinlay-kantor",
+    "authorName": "MacKinlay Kantor",
+    "publicationYear": 1955,
+    "publisher": "World Publishing Company",
+    "isbn13": "9780452269804",
+    "genres": [
+      "Literary Fiction",
+      "Civil War",
+      "Historical Epic"
+    ],
+    "synopsis": "A staggering, panoramic recreation of the notorious Confederate prisoner-of-war camp in Georgia where tens of thousands of Union soldiers endured starvation, dysentery, disease, and brutality.",
+    "countryOfOrigin": "United States",
+    "pageCount": 768,
+    "spineColor": "#7f1d1d"
+  },
+  {
+    "id": "a-death-in-the-family",
+    "title": "A Death in the Family",
+    "authorId": "james-agee",
+    "authorName": "James Agee",
+    "publicationYear": 1957,
+    "publisher": "McDowell, Obolensky",
+    "isbn13": "9780143105718",
+    "genres": [
+      "Literary Fiction",
+      "Autobiographical",
+      "Southern Fiction"
+    ],
+    "synopsis": "Published posthumously after Agee's untimely death, this deeply tender, lyrical masterpiece portrays the sudden loss of a father in Knoxville, Tennessee, and the shattering grief experienced by his six-year-old son Rufus.",
+    "countryOfOrigin": "United States",
+    "pageCount": 320,
+    "spineColor": "#374151"
+  },
+  {
+    "id": "the-travels-of-jaimie-mcpheeters",
+    "title": "The Travels of Jaimie McPheeters",
+    "authorId": "robert-lewis-taylor",
+    "authorName": "Robert Lewis Taylor",
+    "publicationYear": 1958,
+    "publisher": "Doubleday",
+    "isbn13": "9780385023917",
+    "genres": [
+      "Literary Fiction",
+      "Historical Adventure",
+      "Coming-of-Age"
+    ],
+    "synopsis": "An exuberant, picaresque frontier adventure narrated by fourteen-year-old Jaimie McPheeters as he travels with his gambling-addicted physician father from Louisville to the California Gold Rush of 1849.",
+    "countryOfOrigin": "United States",
+    "pageCount": 544,
+    "spineColor": "#854d0e"
+  },
+  {
+    "id": "advise-and-consent",
+    "title": "Advise and Consent",
+    "authorId": "allen-drury",
+    "authorName": "Allen Drury",
+    "publicationYear": 1959,
+    "publisher": "Doubleday",
+    "isbn13": "9780385054195",
+    "genres": [
+      "Literary Fiction",
+      "Political Thriller",
+      "Courtroom / Senate Drama"
+    ],
+    "synopsis": "A gripping, insider exposé of the United States Senate as a controversial Secretary of State nomination triggers blackmail, Cold War brinkmanship, and backroom legislative warfare.",
+    "countryOfOrigin": "United States",
+    "pageCount": 616,
+    "spineColor": "#1e3a8a"
+  },
+  {
+    "id": "the-edge-of-sadness",
+    "title": "The Edge of Sadness",
+    "authorId": "edwin-oconnor",
+    "authorName": "Edwin O'Connor",
+    "publicationYear": 1961,
+    "publisher": "Little, Brown and Company",
+    "isbn13": "9780829421255",
+    "genres": [
+      "Literary Fiction",
+      "Irish-American",
+      "Religious Fiction"
+    ],
+    "synopsis": "Father Hugh Kennedy, a recovering alcoholic Irish-American priest assigned to a run-down inner-city parish, rediscovers faith and compassion through his re-engagement with an eccentric, wealthy family of former friends.",
+    "countryOfOrigin": "United States",
+    "pageCount": 460,
+    "spineColor": "#475569"
+  },
+  {
+    "id": "the-keepers-of-the-house",
+    "title": "The Keepers of the House",
+    "authorId": "shirley-ann-grau",
+    "authorName": "Shirley Ann Grau",
+    "publicationYear": 1964,
+    "publisher": "Alfred A. Knopf",
+    "isbn13": "9780807129159",
+    "genres": [
+      "Literary Fiction",
+      "Southern Gothic",
+      "Family Saga"
+    ],
+    "synopsis": "A multi-generational Alabama chronicle following Abigail Howland, whose family prominence is violently shattered when white supremacists discover her grandfather's secret thirty-year marriage to a Black woman.",
+    "countryOfOrigin": "United States",
+    "pageCount": 309,
+    "spineColor": "#701a75"
+  },
+  {
+    "id": "the-collected-stories-of-katherine-anne-porter",
+    "title": "The Collected Stories of Katherine Anne Porter",
+    "authorId": "katherine-anne-porter",
+    "authorName": "Katherine Anne Porter",
+    "publicationYear": 1965,
+    "publisher": "Harcourt, Brace & World",
+    "isbn13": "9780156188760",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories",
+      "Classics"
+    ],
+    "synopsis": "A monumental gathering of twentieth-century American short fiction containing Flowering Judas, Pale Horse, Pale Rider, and The Leaning Tower, showcasing Porter's immaculate, razor-sharp psychological realism.",
+    "countryOfOrigin": "United States",
+    "pageCount": 495,
+    "spineColor": "#0f766e"
+  },
+  {
+    "id": "the-collected-stories-of-jean-stafford",
+    "title": "The Collected Stories of Jean Stafford",
+    "authorId": "jean-stafford",
+    "authorName": "Jean Stafford",
+    "publicationYear": 1969,
+    "publisher": "Farrar, Straus and Giroux",
+    "isbn13": "9780374529321",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "synopsis": "Thirty piercing, mordantly funny stories chronicling isolated women, precocious children, and social snobbery across small-town Colorado, Heidelberg, Boston, and Manhattan.",
+    "countryOfOrigin": "United States",
+    "pageCount": 463,
+    "spineColor": "#1e293b"
+  },
+  {
+    "id": "the-optimists-daughter",
+    "title": "The Optimist's Daughter",
+    "authorId": "eudora-welty",
+    "authorName": "Eudora Welty",
+    "publicationYear": 1972,
+    "publisher": "Random House",
+    "isbn13": "9780679728832",
+    "genres": [
+      "Literary Fiction",
+      "Southern Fiction",
+      "Family Drama"
+    ],
+    "synopsis": "Laurel McKelva Hand, a widowed textile designer in Chicago, returns to Mississippi for her father's eye surgery and death, clashing with his vulgar young second wife while sifting through family relics and grief.",
+    "countryOfOrigin": "United States",
+    "pageCount": 180,
+    "spineColor": "#0284c7"
+  },
+  {
+    "id": "elbow-room",
+    "title": "Elbow Room",
+    "authorId": "james-alan-mcpherson",
+    "authorName": "James Alan McPherson",
+    "publicationYear": 1977,
+    "publisher": "Atlantic Monthly Press / Little, Brown",
+    "isbn13": "9780671701109",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories",
+      "African American Literature"
+    ],
+    "synopsis": "The first short-story collection by an African American author to win the Pulitzer Prize, containing twelve dazzling, compassionate stories about racial complexity, community, and personal connection.",
+    "countryOfOrigin": "United States",
+    "pageCount": 241,
+    "spineColor": "#581c87"
+  },
+  {
+    "id": "the-stories-of-john-cheever",
+    "title": "The Stories of John Cheever",
+    "authorId": "john-cheever",
+    "authorName": "John Cheever",
+    "publicationYear": 1978,
+    "publisher": "Alfred A. Knopf",
+    "isbn13": "9780375706868",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories",
+      "Suburban Realism"
+    ],
+    "synopsis": "Sixty-one landmark stories exploring the hidden sorrows, cocktails, infidelities, and spiritual longings of mid-century suburban Westchester and Manhattan, including 'The Swimmer' and 'The Country Husband'.",
+    "countryOfOrigin": "United States",
+    "pageCount": 693,
+    "spineColor": "#065f46"
+  },
+  {
+    "id": "the-executioners-song",
+    "title": "The Executioner's Song",
+    "authorId": "norman-mailer",
+    "authorName": "Norman Mailer",
+    "publicationYear": 1979,
+    "publisher": "Little, Brown and Company",
+    "isbn13": "9780316544177",
+    "genres": [
+      "Literary Fiction",
+      "True Crime",
+      "Documentary Novel"
+    ],
+    "synopsis": "A monumental, true life novel tracking the murders committed by Gary Gilmore in Utah and his subsequent demand to be executed by firing squad, capturing the desolate American West with austere brilliance.",
+    "countryOfOrigin": "United States",
+    "pageCount": 1056,
+    "spineColor": "#111827"
+  },
+  {
+    "id": "ironweed",
+    "title": "Ironweed",
+    "authorId": "william-kennedy",
+    "authorName": "William Kennedy",
+    "publicationYear": 1983,
+    "publisher": "Viking Press",
+    "isbn13": "9780140070200",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Irish-American"
+    ],
+    "synopsis": "Francis Phelan, an alcoholic ex-major league ballplayer haunted by the accidental death of his infant son, returns to Depression-era Albany for Halloween 1938 to face the ghosts of his past.",
+    "countryOfOrigin": "United States",
+    "pageCount": 227,
+    "spineColor": "#475569"
+  },
+  {
+    "id": "foreign-affairs",
+    "title": "Foreign Affairs",
+    "authorId": "alison-lurie",
+    "authorName": "Alison Lurie",
+    "publicationYear": 1984,
+    "publisher": "Random House",
+    "isbn13": "9780380700868",
+    "genres": [
+      "Literary Fiction",
+      "Academic Satire",
+      "Romance"
+    ],
+    "synopsis": "A witty, elegant comedy of manners following two American academics on sabbatical in London who find unexpected, unconventional love affairs that upend their sophisticated self-illusions.",
+    "countryOfOrigin": "United States",
+    "pageCount": 291,
+    "spineColor": "#854d0e"
+  },
+  {
+    "id": "a-summons-to-memphis",
+    "title": "A Summons to Memphis",
+    "authorId": "peter-taylor",
+    "authorName": "Peter Taylor",
+    "publicationYear": 1986,
+    "publisher": "Alfred A. Knopf",
+    "isbn13": "9780345347312",
+    "genres": [
+      "Literary Fiction",
+      "Southern Fiction",
+      "Family Drama"
+    ],
+    "synopsis": "Middle-aged book collector Phillip Carver is summoned back to Tennessee from New York by his unmarried sisters to stop their eighty-one-year-old autocratic father from remarrying a younger woman.",
+    "countryOfOrigin": "United States",
+    "pageCount": 209,
+    "spineColor": "#312e81"
+  },
+  {
+    "id": "breathing-lessons",
+    "title": "Breathing Lessons",
+    "authorId": "anne-tyler",
+    "authorName": "Anne Tyler",
+    "publicationYear": 1988,
+    "publisher": "Alfred A. Knopf",
+    "isbn13": "9780449911617",
+    "genres": [
+      "Literary Fiction",
+      "Domestic Realism",
+      "Comedy-Drama"
+    ],
+    "synopsis": "Over the course of a single summer day driving to a funeral in Pennsylvania, middle-aged Baltimore couple Maggie and Ira Moran navigate twenty-eight years of marriage, foibles, and family reconciliation.",
+    "countryOfOrigin": "United States",
+    "pageCount": 327,
+    "spineColor": "#0284c7"
+  },
+  {
+    "id": "the-mambo-kings-play-songs-of-love",
+    "title": "The Mambo Kings Play Songs of Love",
+    "authorId": "oscar-hijuelos",
+    "authorName": "Oscar Hijuelos",
+    "publicationYear": 1989,
+    "publisher": "Farrar, Straus and Giroux",
+    "isbn13": "9780060936259",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Latino Literature"
+    ],
+    "synopsis": "The first novel by a Hispanic author to win the Pulitzer Prize, following Cuban musician brothers Cesar and Nestor Castillo as they take 1950s New York dance halls by storm and appear on 'I Love Lucy'.",
+    "countryOfOrigin": "United States",
+    "pageCount": 407,
+    "spineColor": "#b45309"
+  },
+  {
+    "id": "a-thousand-acres",
+    "title": "A Thousand Acres",
+    "authorId": "jane-smiley",
+    "authorName": "Jane Smiley",
+    "publicationYear": 1991,
+    "publisher": "Alfred A. Knopf",
+    "isbn13": "9781400033836",
+    "genres": [
+      "Literary Fiction",
+      "Family Drama",
+      "Tragedy"
+    ],
+    "synopsis": "A brilliant retelling of Shakespeare's King Lear set on a thousand-acre Iowa family farm, unearthing dark family incest, patriarchal dominion, and ecological contamination through the eyes of the eldest daughter Ginny.",
+    "countryOfOrigin": "United States",
+    "pageCount": 371,
+    "spineColor": "#166534"
+  },
+  {
+    "id": "a-good-scent-from-a-strange-mountain",
+    "title": "A Good Scent from a Strange Mountain",
+    "authorId": "robert-olen-butler",
+    "authorName": "Robert Olen Butler",
+    "publicationYear": 1992,
+    "publisher": "Henry Holt and Company",
+    "isbn13": "9780802137111",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories",
+      "Immigrant Fiction"
+    ],
+    "synopsis": "Fifteen lyrical, deeply empathetic first-person stories narrated by Vietnamese refugees living in Louisiana, balancing memories of their war-torn homeland with the adjustments of American life.",
+    "countryOfOrigin": "United States",
+    "pageCount": 249,
+    "spineColor": "#0f766e"
+  },
+  {
+    "id": "the-stone-diaries",
+    "title": "The Stone Diaries",
+    "authorId": "carol-shields",
+    "authorName": "Carol Shields",
+    "publicationYear": 1993,
+    "publisher": "Random House / Viking",
+    "isbn13": "9780140233131",
+    "genres": [
+      "Literary Fiction",
+      "Fictional Biography",
+      "Family Saga"
+    ],
+    "synopsis": "The fictional autobiography of Daisy Goodwill Frobisher, born on a kitchen floor in rural Manitoba in 1905, reflecting on the overlooked joys, quiet losses, and domestic dignity of an ordinary 20th-century woman's life.",
+    "countryOfOrigin": "Canada",
+    "pageCount": 361,
+    "spineColor": "#854d0e"
+  },
+  {
+    "id": "independence-day",
+    "title": "Independence Day",
+    "authorId": "richard-ford",
+    "authorName": "Richard Ford",
+    "publicationYear": 1995,
+    "publisher": "Alfred A. Knopf",
+    "isbn13": "9780679735144",
+    "genres": [
+      "Literary Fiction",
+      "Social Realism",
+      "Family Drama"
+    ],
+    "synopsis": "Real estate agent Frank Bascombe takes his troubled teenage son on an Independence Day weekend trip to the Baseball Hall of Fame, exploring the 'Existence Period' of midlife American compromise. First book to win both the Pulitzer and the PEN/Faulkner.",
+    "countryOfOrigin": "United States",
+    "pageCount": 451,
+    "spineColor": "#1e3a8a"
+  },
+  {
+    "id": "martin-dressler",
+    "title": "Martin Dressler: The Tale of an American Dreamer",
+    "authorId": "steven-millhauser",
+    "authorName": "Steven Millhauser",
+    "publicationYear": 1996,
+    "publisher": "Crown Publishers",
+    "isbn13": "9780679781271",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Fable"
+    ],
+    "synopsis": "In Gilded Age New York, an ambitious cigar-shop clerk rises to become a visionary hotel builder, whose increasingly fantastical and self-contained architectural dreams eventually surpass human scale.",
+    "countryOfOrigin": "United States",
+    "pageCount": 293,
+    "spineColor": "#4c1d95"
+  },
+  {
+    "id": "march",
+    "title": "March",
+    "authorId": "geraldine-brooks",
+    "authorName": "Geraldine Brooks",
+    "publicationYear": 2005,
+    "publisher": "Viking Press",
+    "isbn13": "9780143036661",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Civil War"
+    ],
+    "synopsis": "An evocative retelling of Louisa May Alcott's Little Women from the perspective of Mr. March, an abolitionist Union Army chaplain whose moral idealism confronts the brutal, unglamorous horrors of war.",
+    "countryOfOrigin": "United States",
+    "pageCount": 280,
+    "spineColor": "#374151"
   }
 ]
