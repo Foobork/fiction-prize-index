@@ -102,7 +102,7 @@ export const IndexTable: React.FC<IndexTableProps> = ({
             value={search}
             onChange={(e) => setSearch(e.target.value)}
             placeholder="Search by book title, author, translator, synopsis, genre, or publisher..."
-            className="w-full pl-10 pr-10 py-2.5 rounded-lg bg-parchment-50 dark:bg-ink-800 border border-parchment-300 dark:border-ink-700 text-sm text-parchment-950 dark:text-parchment-50 placeholder-parchment-500 focus:outline-none focus:ring-2 focus:ring-gilded-500"
+            className="w-full pl-10 pr-10 py-2.5 rounded-lg bg-parchment-50 dark:bg-ink-800 border border-parchment-300 dark:border-ink-700 text-base sm:text-sm text-parchment-950 dark:text-parchment-50 placeholder-parchment-500 focus:outline-none focus:ring-2 focus:ring-gilded-500"
           />
           {search && (
             <button

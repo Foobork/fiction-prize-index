@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useEffect, useMemo } from 'react';
+import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import { Navbar } from '@/components/Navbar';
 import { Footer } from '@/components/Footer';
 import { IndexTable } from '@/components/IndexTable';
@@ -13,7 +13,33 @@ import { BookModal } from '@/components/BookModal';
 import { prizes, authors, getEnrichedBooks } from '@/lib/data';
 import { getSavedBooks, saveBookStatus, removeSavedBook } from '@/lib/storage';
 import { BookWithNominations, ReadingStatus, UserSavedBook } from '@/types';
-import { BookOpen, Trophy, Sparkles, Library, Layers } from 'lucide-react';
+import { Trophy, Sparkles, Library } from 'lucide-react';
+
+const VALID_TABS = new Set([
+  'index',
+  'shelf',
+  'prizes',
+  'authors',
+  'analytics',
+  'reading-list',
+]);
+
+const DEFAULT_TITLE = 'Fiction Prize Index | Open Catalog of Major Literary Fiction Awards';
+
+function buildNavigationUrl(tab: string, bookId: string | null): string {
+  const url = new URL(window.location.href);
+  if (tab && tab !== 'index' && VALID_TABS.has(tab)) {
+    url.searchParams.set('tab', tab);
+  } else {
+    url.searchParams.delete('tab');
+  }
+  if (bookId) {
+    url.searchParams.set('book', bookId);
+  } else {
+    url.searchParams.delete('book');
+  }
+  return `${url.pathname}${url.search}${url.hash}`;
+}
 
 export default function Home() {
   const [activeTab, setActiveTab] = useState('index');
@@ -22,17 +48,37 @@ export default function Home() {
   const [savedBooks, setSavedBooks] = useState<Record<string, UserSavedBook>>({});
 
   const enrichedBooks = useMemo(() => getEnrichedBooks(), []);
+  const booksById = useMemo(
+    () => new Map(enrichedBooks.map((book) => [book.id, book])),
+    [enrichedBooks]
+  );
 
-  // Initialize theme & local reading list
+  // Sync state from current URL query params (?tab=...&book=...)
+  const syncFromUrl = useCallback(() => {
+    if (typeof window === 'undefined') return;
+    const params = new URLSearchParams(window.location.search);
+    const tabParam = params.get('tab');
+    const bookParam = params.get('book');
+
+    setActiveTab(tabParam && VALID_TABS.has(tabParam) ? tabParam : 'index');
+    setSelectedBook(bookParam ? booksById.get(bookParam) ?? null : null);
+  }, [booksById]);
+
+  // Initialize theme, local reading list, deep link state, and popstate listener
   useEffect(() => {
     setSavedBooks(getSavedBooks());
 
-    // Check system preference for dark mode
     if (typeof window !== 'undefined') {
       const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
       setDarkMode(prefersDark);
+
+      syncFromUrl();
+      window.addEventListener('popstate', syncFromUrl);
+      return () => {
+        window.removeEventListener('popstate', syncFromUrl);
+      };
     }
-  }, []);
+  }, [syncFromUrl]);
 
   // Synchronize darkMode class on <html>
   useEffect(() => {
@@ -42,6 +88,60 @@ export default function Home() {
       document.documentElement.classList.remove('dark');
     }
   }, [darkMode]);
+
+  // Keep document title in sync with selected book for browser history & sharing
+  useEffect(() => {
+    if (selectedBook) {
+      document.title = `${selectedBook.title} by ${selectedBook.authorName} | Fiction Prize Index`;
+    } else {
+      document.title = DEFAULT_TITLE;
+    }
+  }, [selectedBook]);
+
+  const handleSelectTab = useCallback(
+    (tab: string) => {
+      const normalizedTab = VALID_TABS.has(tab) ? tab : 'index';
+      if (normalizedTab === activeTab && !selectedBook) return;
+
+      setActiveTab(normalizedTab);
+      setSelectedBook(null);
+
+      if (typeof window !== 'undefined') {
+        const nextUrl = buildNavigationUrl(normalizedTab, null);
+        window.history.pushState({ tab: normalizedTab, bookId: null }, '', nextUrl);
+      }
+    },
+    [activeTab, selectedBook]
+  );
+
+  const handleSelectBook = useCallback(
+    (book: BookWithNominations) => {
+      setSelectedBook(book);
+
+      if (typeof window !== 'undefined') {
+        const nextUrl = buildNavigationUrl(activeTab, book.id);
+        window.history.pushState(
+          { tab: activeTab, bookId: book.id, inAppBook: true },
+          '',
+          nextUrl
+        );
+      }
+    },
+    [activeTab]
+  );
+
+  const handleCloseBook = useCallback(() => {
+    if (typeof window !== 'undefined' && window.history.state?.inAppBook) {
+      window.history.back();
+      return;
+    }
+
+    setSelectedBook(null);
+    if (typeof window !== 'undefined') {
+      const nextUrl = buildNavigationUrl(activeTab, null);
+      window.history.replaceState({ tab: activeTab, bookId: null }, '', nextUrl);
+    }
+  }, [activeTab]);
 
   const handleUpdateStatus = (bookId: string, status: ReadingStatus) => {
     const updated = saveBookStatus(bookId, status);
@@ -60,7 +160,7 @@ export default function Home() {
       <div>
         <Navbar
           activeTab={activeTab}
-          setActiveTab={setActiveTab}
+          setActiveTab={handleSelectTab}
           savedCount={savedCount}
           darkMode={darkMode}
           setDarkMode={setDarkMode}
@@ -79,14 +179,14 @@ export default function Home() {
                   Fiction Prize Index
                 </h1>
                 <p className="text-sm sm:text-base text-parchment-700 dark:text-ink-300 leading-relaxed">
-                  A static-first, verifiable directory indexing laureates, shortlists, publishers, and citations from the Booker, Pulitzer, National Book Award, Women's Prize, Hugo, and beyond.
+                  A static-first, verifiable directory indexing laureates, shortlists, publishers, and citations from the Booker, Pulitzer, National Book Award, Women&apos;s Prize, Hugo, and beyond.
                 </p>
               </div>
 
               {/* Quick Jump Buttons */}
               <div className="flex flex-wrap sm:flex-col gap-2 w-full sm:w-auto">
                 <button
-                  onClick={() => setActiveTab('shelf')}
+                  onClick={() => handleSelectTab('shelf')}
                   className={`flex items-center justify-center space-x-2 px-4 py-2.5 rounded-lg text-xs font-bold transition-all shadow-xs ${
                     activeTab === 'shelf'
                       ? 'bg-parchment-800 text-white dark:bg-gilded-500 dark:text-ink-950'
@@ -97,7 +197,7 @@ export default function Home() {
                   <span>Virtual Bookshelf Simulator</span>
                 </button>
                 <button
-                  onClick={() => setActiveTab('analytics')}
+                  onClick={() => handleSelectTab('analytics')}
                   className="flex items-center justify-center space-x-2 px-4 py-2.5 rounded-lg text-xs font-bold bg-parchment-100 dark:bg-ink-800 hover:bg-parchment-200 text-parchment-900 dark:text-parchment-100 border border-parchment-300 dark:border-ink-700 transition-all shadow-xs"
                 >
                   <Trophy className="w-4 h-4 text-amber-500" />
@@ -114,14 +214,14 @@ export default function Home() {
             <IndexTable
               books={enrichedBooks}
               prizes={prizes}
-              onSelectBook={(book) => setSelectedBook(book)}
+              onSelectBook={handleSelectBook}
             />
           )}
 
           {activeTab === 'shelf' && (
             <VirtualBookshelf
               books={enrichedBooks}
-              onSelectBook={(book) => setSelectedBook(book)}
+              onSelectBook={handleSelectBook}
             />
           )}
 
@@ -129,7 +229,7 @@ export default function Home() {
             <PrizeDirectory
               prizes={prizes}
               books={enrichedBooks}
-              onSelectBook={(book) => setSelectedBook(book)}
+              onSelectBook={handleSelectBook}
             />
           )}
 
@@ -137,13 +237,13 @@ export default function Home() {
             <AuthorDirectory
               authors={authors}
               books={enrichedBooks}
-              onSelectBook={(book) => setSelectedBook(book)}
+              onSelectBook={handleSelectBook}
             />
           )}
 
           {activeTab === 'analytics' && (
             <AnalyticsView
-              onSelectBook={(book) => setSelectedBook(book)}
+              onSelectBook={handleSelectBook}
             />
           )}
 
@@ -151,7 +251,7 @@ export default function Home() {
             <ReadingListView
               savedBooks={savedBooks}
               allBooks={enrichedBooks}
-              onSelectBook={(book) => setSelectedBook(book)}
+              onSelectBook={handleSelectBook}
               onUpdateStatus={handleUpdateStatus}
               onRemoveStatus={handleRemoveStatus}
             />
@@ -162,7 +262,7 @@ export default function Home() {
       {/* Book Inspection Modal */}
       <BookModal
         book={selectedBook}
-        onClose={() => setSelectedBook(null)}
+        onClose={handleCloseBook}
         savedStatus={selectedBook ? savedBooks[selectedBook.id]?.status : undefined}
         onUpdateStatus={handleUpdateStatus}
         onRemoveStatus={handleRemoveStatus}
