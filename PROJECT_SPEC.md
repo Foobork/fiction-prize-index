@@ -59,34 +59,34 @@ The platform is designed to be:
 
 ```mermaid
 flowchart TD
-    subgraph Data Layer ["Data Layer (Static JSON)"]
-        P[data/prizes.json]
-        B[data/books.json]
-        A[data/authors.json]
-        N[data/nominations.json]
+    subgraph DataLayer ["Data Layer (Static JSON)"]
+        P["data/prizes.json"]
+        B["data/books.json"]
+        A["data/authors.json"]
+        N["data/nominations.json"]
     end
 
-    subgraph Ingestion & Validation Scripts
-        V[scripts/validate.ts]
-        S[scripts/enrich_openlibrary.py]
+    subgraph IngestionScripts ["Ingestion & Validation Scripts"]
+        V["scripts/validate.ts"]
+        S["scripts/enrich_openlibrary.py"]
     end
 
     subgraph Application ["Next.js (App Router) + Tailwind CSS"]
-        Search[Faceted Search & Filter Engine]
-        Shelf[Virtual Bookshelf Simulator]
-        PrizeView[Prize Directory & Timeline]
-        AuthorView[Author Dossiers & Multi-Winners]
-        Analytics[Publisher & Genre Analytics]
-        UserShelf[Local-First Reading List (IndexedDB / LocalStorage)]
+        Search["Faceted Search & Filter Engine"]
+        Shelf["Virtual Bookshelf Simulator"]
+        PrizeView["Prize Directory & Timeline"]
+        AuthorView["Author Dossiers & Multi-Winners"]
+        Analytics["Publisher & Genre Analytics"]
+        UserShelf["Local-First Reading List (IndexedDB / LocalStorage)"]
     end
 
-    subgraph Deployment
-        GH[GitHub Repository]
-        Deploy[Vercel / GitHub Pages]
+    subgraph Deployment ["Deployment"]
+        GH["GitHub Repository"]
+        Deploy["Vercel / GitHub Pages"]
     end
 
-    Data Layer --> Application
-    Ingestion & Validation Scripts --> Data Layer
+    DataLayer --> Application
+    IngestionScripts --> DataLayer
     Application --> Deployment
     GH --> Deploy
 ```
