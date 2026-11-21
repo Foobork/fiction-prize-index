@@ -36,10 +36,11 @@ export const IndexTable: React.FC<IndexTableProps> = ({
       if (query) {
         const matchTitle = book.title.toLowerCase().includes(query);
         const matchAuthor = book.authorName.toLowerCase().includes(query);
+        const matchTranslator = book.translator ? book.translator.toLowerCase().includes(query) : false;
         const matchPublisher = book.publisher.toLowerCase().includes(query);
         const matchSynopsis = book.synopsis.toLowerCase().includes(query);
         const matchGenres = book.genres.some((g) => g.toLowerCase().includes(query));
-        if (!matchTitle && !matchAuthor && !matchPublisher && !matchSynopsis && !matchGenres) {
+        if (!matchTitle && !matchAuthor && !matchTranslator && !matchPublisher && !matchSynopsis && !matchGenres) {
           return false;
         }
       }
@@ -100,7 +101,7 @@ export const IndexTable: React.FC<IndexTableProps> = ({
             type="text"
             value={search}
             onChange={(e) => setSearch(e.target.value)}
-            placeholder="Search by book title, author, synopsis, genre, or publisher..."
+            placeholder="Search by book title, author, translator, synopsis, genre, or publisher..."
             className="w-full pl-10 pr-10 py-2.5 rounded-lg bg-parchment-50 dark:bg-ink-800 border border-parchment-300 dark:border-ink-700 text-sm text-parchment-950 dark:text-parchment-50 placeholder-parchment-500 focus:outline-none focus:ring-2 focus:ring-gilded-500"
           />
           {search && (
@@ -268,6 +269,11 @@ export const IndexTable: React.FC<IndexTableProps> = ({
                     <p className="font-serif italic text-xs text-parchment-700 dark:text-parchment-300 truncate mt-0.5">
                       by {book.authorName}
                     </p>
+                    {book.translator && (
+                      <p className="font-sans text-[11px] text-purple-700 dark:text-purple-300 truncate mt-0.5">
+                        trans. {book.translator}
+                      </p>
+                    )}
                   </div>
 
                   <p className="text-[11px] text-parchment-600 dark:text-ink-400 line-clamp-2 leading-relaxed">
@@ -330,6 +336,11 @@ export const IndexTable: React.FC<IndexTableProps> = ({
                 <p className="font-serif italic text-[11px] text-parchment-600 dark:text-ink-400 truncate mt-0.5">
                   {book.authorName}
                 </p>
+                {book.translator && (
+                  <p className="font-sans text-[9px] text-purple-700 dark:text-purple-300 truncate">
+                    trans. {book.translator}
+                  </p>
+                )}
                 <div className="flex items-center justify-center space-x-1 mt-1">
                   <span className="text-[10px] text-parchment-500 dark:text-ink-500 font-mono">
                     {book.publicationYear}
@@ -372,8 +383,13 @@ export const IndexTable: React.FC<IndexTableProps> = ({
                       <div className="font-serif font-bold text-parchment-950 dark:text-white">
                         {book.title}
                       </div>
-                      <div className="text-xs text-parchment-600 dark:text-ink-400 font-serif italic">
-                        {book.authorName}
+                      <div className="text-xs text-parchment-600 dark:text-ink-400 font-serif italic flex items-center flex-wrap gap-x-1.5">
+                        <span>{book.authorName}</span>
+                        {book.translator && (
+                          <span className="font-sans not-italic text-[10px] text-purple-700 dark:text-purple-300">
+                            (trans. {book.translator})
+                          </span>
+                        )}
                       </div>
                     </td>
                     <td className="px-4 py-3.5 text-xs font-mono text-parchment-700 dark:text-ink-300">

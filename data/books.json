@@ -530,7 +530,10 @@
     "pageCount": 320,
     "spineColor": "#831843",
     "countryOfOrigin": "Germany",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781846277252-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781846277252-L.jpg?default=false",
+    "translator": "Michael Hofmann",
+    "originalLanguage": "German",
+    "originalTitle": "Kairos"
   },
   {
     "id": "time-shelter",
@@ -550,7 +553,10 @@
     "pageCount": 304,
     "spineColor": "#3b82f6",
     "countryOfOrigin": "Bulgaria",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781474623070-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781474623070-L.jpg?default=false",
+    "translator": "Angela Rodel",
+    "originalLanguage": "Bulgarian",
+    "originalTitle": "Времеубежище"
   },
   {
     "id": "tomb-of-sand",
@@ -569,7 +575,10 @@
     "pageCount": 736,
     "spineColor": "#d97706",
     "countryOfOrigin": "India",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781911284611-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781911284611-L.jpg?default=false",
+    "translator": "Daisy Rockwell",
+    "originalLanguage": "Hindi",
+    "originalTitle": "रेत समाधि (Ret Samadhi)"
   },
   {
     "id": "the-vegetarian",
@@ -588,7 +597,10 @@
     "pageCount": 192,
     "spineColor": "#15803d",
     "countryOfOrigin": "South Korea",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781846276033-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781846276033-L.jpg?default=false",
+    "translator": "Deborah Smith",
+    "originalLanguage": "Korean",
+    "originalTitle": "채식주의자 (Chaeshikjuuija)"
   },
   {
     "id": "a-memory-called-empire",
@@ -666,7 +678,10 @@
     "pageCount": 672,
     "spineColor": "#3b0764",
     "countryOfOrigin": "Romania",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781646052028-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781646052028-L.jpg?default=false",
+    "translator": "Sean Cotter",
+    "originalLanguage": "Romanian",
+    "originalTitle": "Solenoid"
   },
   {
     "id": "the-sellout",
@@ -1428,7 +1443,10 @@
     "pageCount": 160,
     "spineColor": "#111827",
     "countryOfOrigin": "France",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781782276074-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781782276074-L.jpg?default=false",
+    "translator": "Anna Moschovakis",
+    "originalLanguage": "French",
+    "originalTitle": "Frère d'âme"
   },
   {
     "id": "the-discomfort-of-evening",
@@ -1447,7 +1465,10 @@
     "pageCount": 288,
     "spineColor": "#475569",
     "countryOfOrigin": "Netherlands",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780571349357-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780571349357-L.jpg?default=false",
+    "translator": "Michele Hutchison",
+    "originalLanguage": "Dutch",
+    "originalTitle": "De avond is ongemak"
   },
   {
     "id": "celestial-bodies",
@@ -1466,7 +1487,10 @@
     "pageCount": 256,
     "spineColor": "#0f766e",
     "countryOfOrigin": "Oman",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781912240166-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781912240166-L.jpg?default=false",
+    "translator": "Marilyn Booth",
+    "originalLanguage": "Arabic",
+    "originalTitle": "سيدات القمر (Sayyidat el-Qamar)"
   },
   {
     "id": "flights",
@@ -1485,7 +1509,10 @@
     "pageCount": 416,
     "spineColor": "#0284c7",
     "countryOfOrigin": "Poland",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781910695432-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781910695432-L.jpg?default=false",
+    "translator": "Jennifer Croft",
+    "originalLanguage": "Polish",
+    "originalTitle": "Bieguni"
   },
   {
     "id": "network-effect",
@@ -2309,7 +2336,10 @@
     "pageCount": 224,
     "spineColor": "#d97706",
     "countryOfOrigin": "India",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781911284857-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781911284857-L.jpg?default=false",
+    "translator": "Deepa Bhasthi",
+    "originalLanguage": "Kannada",
+    "originalTitle": "ಹಸೀನಾ ಮತ್ತು ಇತರ ಕಥೆಗಳು (Haseena Mattu Ithara Kategalu)"
   },
   {
     "id": "taiwan-travelogue",
@@ -2328,7 +2358,10 @@
     "pageCount": 288,
     "spineColor": "#047857",
     "countryOfOrigin": "Taiwan",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781644452936-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781644452936-L.jpg?default=false",
+    "translator": "Lin King",
+    "originalLanguage": "Chinese",
+    "originalTitle": "臺灣漫遊錄"
   },
   {
     "id": "the-age-of-innocence",
@@ -3280,7 +3313,10 @@
     "pageCount": 417,
     "spineColor": "#ca8a04",
     "countryOfOrigin": "Colombia",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780060883287-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780060883287-L.jpg?default=false",
+    "translator": "Gregory Rabassa",
+    "originalLanguage": "Spanish",
+    "originalTitle": "Cien años de soledad"
   },
   {
     "id": "satantango",
@@ -3299,7 +3335,10 @@
     "pageCount": 288,
     "spineColor": "#18181b",
     "countryOfOrigin": "Hungary",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780811219778-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780811219778-L.jpg?default=false",
+    "translator": "George Szirtes",
+    "originalLanguage": "Hungarian",
+    "originalTitle": "Sátántangó"
   },
   {
     "id": "blindness",
@@ -3318,7 +3357,10 @@
     "pageCount": 352,
     "spineColor": "#f5f5f4",
     "countryOfOrigin": "Portugal",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780156007757-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780156007757-L.jpg?default=false",
+    "translator": "Giovanni Pontiero",
+    "originalLanguage": "Portuguese",
+    "originalTitle": "Ensaio sobre a cegueira"
   },
   {
     "id": "the-stranger",
@@ -3337,7 +3379,10 @@
     "pageCount": 123,
     "spineColor": "#ea580c",
     "countryOfOrigin": "France",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780679720201-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780679720201-L.jpg?default=false",
+    "translator": "Matthew Ward",
+    "originalLanguage": "French",
+    "originalTitle": "L'Étranger"
   },
   {
     "id": "creation-lake",
@@ -4677,7 +4722,10 @@
     "pageCount": 400,
     "spineColor": "#b91c1c",
     "countryOfOrigin": "China",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780765377067-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780765377067-L.jpg?default=false",
+    "translator": "Ken Liu",
+    "originalLanguage": "Chinese",
+    "originalTitle": "三体 (San Ti)"
   },
   {
     "id": "annihilation",
@@ -5736,5 +5784,438 @@
     "spineColor": "#312e81",
     "countryOfOrigin": "United Kingdom",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780670861613-L.jpg?default=false"
+  },
+  {
+    "id": "a-horse-walks-into-a-bar",
+    "title": "A Horse Walks Into a Bar",
+    "authorId": "david-grossman",
+    "authorName": "David Grossman",
+    "publicationYear": 2016,
+    "publisher": "Jonathan Cape",
+    "isbn13": "9781910702956",
+    "genres": [
+      "Literary Fiction",
+      "Dark Comedy",
+      "Psychological Fiction"
+    ],
+    "synopsis": "Over the course of a single, agonizing stand-up comedy performance in a small Israeli basement club, veteran comic Dovaleh Greenstein strips away comedic defenses to reveal childhood grief, guilt, and the deepest traumas of survival.",
+    "countryOfOrigin": "Israel",
+    "translator": "Jessica Cohen",
+    "originalLanguage": "Hebrew",
+    "originalTitle": "סוס אחד נכנס לבר (Sus Ehad Nikhnas Lebar)",
+    "pageCount": 208,
+    "spineColor": "#831843"
+  },
+  {
+    "id": "the-collected-stories-of-lydia-davis",
+    "title": "The Collected Stories of Lydia Davis",
+    "authorId": "lydia-davis",
+    "authorName": "Lydia Davis",
+    "publicationYear": 2009,
+    "publisher": "Farrar, Straus and Giroux",
+    "isbn13": "9780141040615",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories",
+      "Flash Fiction"
+    ],
+    "synopsis": "An unparalleled gathering of masterfully distilled short fiction spanning four collections, showcasing Davis's peerless precision, philosophical brevity, and acerbic humor.",
+    "countryOfOrigin": "United States",
+    "pageCount": 736,
+    "spineColor": "#0f766e"
+  },
+  {
+    "id": "runaway",
+    "title": "Runaway",
+    "authorId": "alice-munro",
+    "authorName": "Alice Munro",
+    "publicationYear": 2004,
+    "publisher": "Knopf / Chatto & Windus",
+    "isbn13": "9780099472254",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "synopsis": "Eight luminous stories exploring love, surrender, and the devastating turning points of ordinary women's lives in small-town Ontario, demonstrating Munro's unmatched psychological depth.",
+    "countryOfOrigin": "Canada",
+    "pageCount": 352,
+    "spineColor": "#b45309"
+  },
+  {
+    "id": "things-fall-apart",
+    "title": "Things Fall Apart",
+    "authorId": "chinua-achebe",
+    "authorName": "Chinua Achebe",
+    "publicationYear": 1958,
+    "publisher": "William Heinemann",
+    "isbn13": "9780385474542",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "African Literature"
+    ],
+    "synopsis": "The cornerstone epic of modern African literature following Okonkwo, an Igbo leader and wrestling champion, as European colonialism and Christian missionaries dismantle traditional tribal culture.",
+    "countryOfOrigin": "Nigeria",
+    "pageCount": 209,
+    "spineColor": "#9a3412"
+  },
+  {
+    "id": "the-general-of-the-dead-army",
+    "title": "The General of the Dead Army",
+    "authorId": "ismail-kadare",
+    "authorName": "Ismail Kadare",
+    "publicationYear": 1963,
+    "publisher": "Harvill Press / Vintage",
+    "isbn13": "9781846552090",
+    "genres": [
+      "Literary Fiction",
+      "War Fiction",
+      "Historical Fiction"
+    ],
+    "synopsis": "An Italian general and an austere priest arrive in the stark Albanian mountains twenty years after WWII to disinter and repatriate the bones of fallen soldiers, unraveling amidst haunting folklore and survivor memories.",
+    "countryOfOrigin": "Albania",
+    "translator": "Derek Coltman & David Bellos",
+    "originalLanguage": "Albanian",
+    "originalTitle": "Gjenerali i ushtrisë së vdekur",
+    "pageCount": 272,
+    "spineColor": "#1e293b"
+  },
+  {
+    "id": "not-a-river",
+    "title": "Not a River",
+    "authorId": "selva-almada",
+    "authorName": "Selva Almada",
+    "publicationYear": 2024,
+    "publisher": "Charco Press",
+    "isbn13": "9781913505967",
+    "genres": [
+      "Literary Fiction",
+      "Psychological Fiction",
+      "Rural Noir"
+    ],
+    "synopsis": "Three men journey down a river for a fishing weekend that turns into a haunting reckoning with past drownings, repressed masculinity, and the rural spirit world.",
+    "countryOfOrigin": "Argentina",
+    "translator": "Annie McDermott",
+    "originalLanguage": "Spanish",
+    "originalTitle": "No es un río",
+    "pageCount": 110,
+    "spineColor": "#047857"
+  },
+  {
+    "id": "crooked-plow",
+    "title": "Crooked Plow",
+    "authorId": "itamar-vieira-junior",
+    "authorName": "Itamar Vieira Junior",
+    "publicationYear": 2023,
+    "publisher": "Verso Books",
+    "isbn13": "9781804270417",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Social Realism"
+    ],
+    "synopsis": "In the poorest region of Brazil, two Afro-Brazilian sisters discover a mysterious silver knife hidden in their grandmother's suitcase, sparking an accidental tragedy that binds them in a lifelong struggle against land slavery.",
+    "countryOfOrigin": "Brazil",
+    "translator": "Johnny Lorenz",
+    "originalLanguage": "Portuguese",
+    "originalTitle": "Torto Arado",
+    "pageCount": 288,
+    "spineColor": "#78350f"
+  },
+  {
+    "id": "boulder",
+    "title": "Boulder",
+    "authorId": "eva-baltasar",
+    "authorName": "Eva Baltasar",
+    "publicationYear": 2022,
+    "publisher": "And Other Stories",
+    "isbn13": "9781913505547",
+    "genres": [
+      "Literary Fiction",
+      "LGBTQ+",
+      "Contemporary"
+    ],
+    "synopsis": "A loner cook on a merchant ship nicknames herself Boulder and falls passionately for a woman in Chile, until the arrival of motherhood threatens her solitary sanctuary and fierce autonomy.",
+    "countryOfOrigin": "Spain",
+    "translator": "Julia Sanches",
+    "originalLanguage": "Catalan",
+    "originalTitle": "Boulder",
+    "pageCount": 112,
+    "spineColor": "#475569"
+  },
+  {
+    "id": "whale",
+    "title": "Whale",
+    "authorId": "cheon-myeong-kwan",
+    "authorName": "Cheon Myeong-kwan",
+    "publicationYear": 2023,
+    "publisher": "Europa Editions",
+    "isbn13": "9781609459031",
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism",
+      "Picaresque"
+    ],
+    "synopsis": "A barnstorming, multi-generational Korean epic spanning the rapid industrialization of modern Korea through the interconnected lives of an ambitious rural woman, her mute daughter, and a one-eyed woman.",
+    "countryOfOrigin": "South Korea",
+    "translator": "Chi-Young Kim",
+    "originalLanguage": "Korean",
+    "originalTitle": "고래 (Gorae)",
+    "pageCount": 416,
+    "spineColor": "#1d4ed8"
+  },
+  {
+    "id": "the-books-of-jacob",
+    "title": "The Books of Jacob",
+    "authorId": "olga-tokarczuk",
+    "authorName": "Olga Tokarczuk",
+    "publicationYear": 2021,
+    "publisher": "Fitzcarraldo Editions / Riverhead",
+    "isbn13": "9780525595755",
+    "genres": [
+      "Literary Fiction",
+      "Historical Epic",
+      "Philosophical Fiction"
+    ],
+    "synopsis": "A sprawling, nine-hundred-page epic reconstructing eighteenth-century Central Europe through the mesmerizing true history of charismatic heretic leader Jacob Frank.",
+    "countryOfOrigin": "Poland",
+    "translator": "Jennifer Croft",
+    "originalLanguage": "Polish",
+    "originalTitle": "Księgi Jakubowe",
+    "pageCount": 912,
+    "spineColor": "#701a75"
+  },
+  {
+    "id": "cursed-bunny",
+    "title": "Cursed Bunny",
+    "authorId": "bora-chung",
+    "authorName": "Bora Chung",
+    "publicationYear": 2021,
+    "publisher": "Honford Star",
+    "isbn13": "9781913861612",
+    "genres": [
+      "Speculative Fiction",
+      "Horror",
+      "Short Stories",
+      "Magical Realism"
+    ],
+    "synopsis": "A genre-defying collection of ten eerie, biting allegorical stories addressing the terrors of modern capitalism, patriarchy, and bodily destruction with visceral fairy-tale logic.",
+    "countryOfOrigin": "South Korea",
+    "translator": "Anton Hur",
+    "originalLanguage": "Korean",
+    "originalTitle": "저주토끼 (Jeojutokki)",
+    "pageCount": 251,
+    "spineColor": "#991b1b"
+  },
+  {
+    "id": "elena-knows",
+    "title": "Elena Knows",
+    "authorId": "claudia-pineiro",
+    "authorName": "Claudia Piñeiro",
+    "publicationYear": 2021,
+    "publisher": "Charco Press",
+    "isbn13": "9781913505080",
+    "genres": [
+      "Literary Fiction",
+      "Mystery",
+      "Psychological Fiction"
+    ],
+    "synopsis": "Elena, an elderly woman in Buenos Aires suffering from advanced Parkinson's disease, navigates the physical cruelty of her body across the city to uncover the truth behind her daughter's apparent suicide.",
+    "countryOfOrigin": "Argentina",
+    "translator": "Frances Riddle",
+    "originalLanguage": "Spanish",
+    "originalTitle": "Elena sabe",
+    "pageCount": 145,
+    "spineColor": "#155e75"
+  },
+  {
+    "id": "the-dangers-of-smoking-in-bed",
+    "title": "The Dangers of Smoking in Bed",
+    "authorId": "mariana-enriquez",
+    "authorName": "Mariana Enríquez",
+    "publicationYear": 2021,
+    "publisher": "Granta Books",
+    "isbn13": "9781783786251",
+    "genres": [
+      "Literary Fiction",
+      "Gothic Horror",
+      "Short Stories"
+    ],
+    "synopsis": "Twelve macabre, politically acute short stories exploring urban dread, forgotten curses, and adolescent frenzy through the haunted streets and dark history of Buenos Aires.",
+    "countryOfOrigin": "Argentina",
+    "translator": "Megan McDowell",
+    "originalLanguage": "Spanish",
+    "originalTitle": "Los peligros de fumar en la cama",
+    "pageCount": 208,
+    "spineColor": "#581c87"
+  },
+  {
+    "id": "when-we-cease-to-understand-the-world",
+    "title": "When We Cease to Understand the World",
+    "authorId": "benjamin-labatut",
+    "authorName": "Benjamín Labatut",
+    "publicationYear": 2020,
+    "publisher": "Pushkin Press",
+    "isbn13": "9781782276135",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Philosophical Fiction"
+    ],
+    "synopsis": "A luminous, feverish hybrid of biography and historical fiction tracking twentieth-century scientific visionaries—from Fritz Haber to Heisenberg and Schrödinger—as their discoveries border madness and cosmic terror.",
+    "countryOfOrigin": "Chile",
+    "translator": "Adrian Nathan West",
+    "originalLanguage": "Spanish",
+    "originalTitle": "Un verdor terrible",
+    "pageCount": 192,
+    "spineColor": "#1e3a8a"
+  },
+  {
+    "id": "the-employees",
+    "title": "The Employees",
+    "authorId": "olga-ravn",
+    "authorName": "Olga Ravn",
+    "publicationYear": 2020,
+    "publisher": "Lolli Editions",
+    "isbn13": "9781913097363",
+    "genres": [
+      "Speculative Fiction",
+      "Science Fiction",
+      "Workplace Satire"
+    ],
+    "synopsis": "Composed as a sequence of sterile human resource witness statements aboard the Six-Thousand Ship, human and humanoid crew members unravel after encountering strange, intoxicating artifacts from the planet New Discovery.",
+    "countryOfOrigin": "Denmark",
+    "translator": "Martin Aitken",
+    "originalLanguage": "Danish",
+    "originalTitle": "De ansatte",
+    "pageCount": 136,
+    "spineColor": "#0284c7"
+  },
+  {
+    "id": "the-memory-police",
+    "title": "The Memory Police",
+    "authorId": "yoko-ogawa",
+    "authorName": "Yoko Ogawa",
+    "publicationYear": 2019,
+    "publisher": "Pantheon / Harvill Secker",
+    "isbn13": "9781101911815",
+    "genres": [
+      "Literary Fiction",
+      "Dystopian",
+      "Speculative Fiction"
+    ],
+    "synopsis": "On an unnamed island, objects systematically disappear—first roses, then birds, then novels—with citizens forced to forget their very existence by an ominous surveillance force known as the Memory Police.",
+    "countryOfOrigin": "Japan",
+    "translator": "Stephen Snyder",
+    "originalLanguage": "Japanese",
+    "originalTitle": "密やかな結晶 (Hisoyaka na Kesshō)",
+    "pageCount": 288,
+    "spineColor": "#334155"
+  },
+  {
+    "id": "hurricane-season",
+    "title": "Hurricane Season",
+    "authorId": "fernanda-melchor",
+    "authorName": "Fernanda Melchor",
+    "publicationYear": 2020,
+    "publisher": "Fitzcarraldo Editions / New Directions",
+    "isbn13": "9781913097103",
+    "genres": [
+      "Literary Fiction",
+      "Crime Fiction",
+      "Gothic Fiction"
+    ],
+    "synopsis": "When the local Witch is found dead floating in an irrigation canal near the destitute Mexican village of La Matosa, a cascade of torrential, unbroken monologue chapters exposes the cycle of violence, misogyny, and desperation that consumed her murderers.",
+    "countryOfOrigin": "Mexico",
+    "translator": "Sophie Hughes",
+    "originalLanguage": "Spanish",
+    "originalTitle": "Temporada de huracanes",
+    "pageCount": 224,
+    "spineColor": "#c2410c"
+  },
+  {
+    "id": "the-years",
+    "title": "The Years",
+    "authorId": "annie-ernaux",
+    "authorName": "Annie Ernaux",
+    "publicationYear": 2017,
+    "publisher": "Fitzcarraldo Editions / Seven Stories Press",
+    "isbn13": "9781609454876",
+    "genres": [
+      "Literary Fiction",
+      "Autobiography",
+      "Social History"
+    ],
+    "synopsis": "A collective autobiography spanning six decades of postwar French life, told through family photographs, popular songs, changing politics, and generational memories using the plural 'she' and 'we'.",
+    "countryOfOrigin": "France",
+    "translator": "Alison L. Strayer",
+    "originalLanguage": "French",
+    "originalTitle": "Les Années",
+    "pageCount": 240,
+    "spineColor": "#4338ca"
+  },
+  {
+    "id": "drive-your-plow-over-the-bones-of-the-dead",
+    "title": "Drive Your Plow Over the Bones of the Dead",
+    "authorId": "olga-tokarczuk",
+    "authorName": "Olga Tokarczuk",
+    "publicationYear": 2018,
+    "publisher": "Fitzcarraldo Editions / Riverhead",
+    "isbn13": "9781911547228",
+    "genres": [
+      "Literary Fiction",
+      "Mystery",
+      "Ecological Fiction",
+      "Dark Comedy"
+    ],
+    "synopsis": "In a secluded Polish valley, eccentric astrological enthusiast Janina Duszejko investigates the gruesome deaths of local hunting enthusiasts, convinced the woodland animals are taking revenge.",
+    "countryOfOrigin": "Poland",
+    "translator": "Jennifer Croft",
+    "originalLanguage": "Polish",
+    "originalTitle": "Prowadź swój pług przez kości umarłych",
+    "pageCount": 272,
+    "spineColor": "#166534"
+  },
+  {
+    "id": "fever-dream",
+    "title": "Fever Dream",
+    "authorId": "samanta-schweblin",
+    "authorName": "Samanta Schweblin",
+    "publicationYear": 2017,
+    "publisher": "Oneworld / Riverhead",
+    "isbn13": "9780399184598",
+    "genres": [
+      "Literary Fiction",
+      "Psychological Thriller",
+      "Eco-Horror"
+    ],
+    "synopsis": "A breathless, hallucinatory dialogue in a rural clinic between a dying woman and a strange boy named David, probing environmental poison and an agonizing paternal measurement called the 'rescue distance'.",
+    "countryOfOrigin": "Argentina",
+    "translator": "Megan McDowell",
+    "originalLanguage": "Spanish",
+    "originalTitle": "Distancia de rescate",
+    "pageCount": 192,
+    "spineColor": "#3f6212"
+  },
+  {
+    "id": "the-story-of-the-lost-child",
+    "title": "The Story of the Lost Child",
+    "authorId": "elena-ferrante",
+    "authorName": "Elena Ferrante",
+    "publicationYear": 2015,
+    "publisher": "Europa Editions",
+    "isbn13": "9781609452865",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Coming-of-Age"
+    ],
+    "synopsis": "The triumphant, shattering conclusion to Elena Ferrante's Neapolitan quartet, chronicling the mature lives, marriages, creative triumphs, and ultimate heartbreak of lifelong friends Elena and Lila.",
+    "countryOfOrigin": "Italy",
+    "translator": "Ann Goldstein",
+    "originalLanguage": "Italian",
+    "originalTitle": "Storia della bambina perduta",
+    "pageCount": 480,
+    "spineColor": "#0369a1"
   }
 ]

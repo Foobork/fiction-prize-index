@@ -213,6 +213,11 @@ const SavedBookCard: React.FC<{
             <p className="font-serif italic text-xs text-parchment-700 dark:text-parchment-300 mt-0.5 truncate">
               by {book.authorName} ({book.publicationYear})
             </p>
+            {book.translator && (
+              <p className="font-sans text-[11px] text-purple-700 dark:text-purple-300 truncate mt-0.5">
+                trans. {book.translator}
+              </p>
+            )}
           </div>
         </div>
       </div>

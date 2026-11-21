@@ -143,6 +143,11 @@ export const PrizeDirectory: React.FC<PrizeDirectoryProps> = ({
                                 <span className="font-serif italic text-xs text-parchment-600 dark:text-ink-400 ml-2">
                                   by {book.authorName}
                                 </span>
+                                {(nom.translator || book.translator) && (
+                                  <span className="font-sans not-italic text-[10px] text-purple-700 dark:text-purple-300 ml-1.5">
+                                    (trans. {nom.translator || book.translator})
+                                  </span>
+                                )}
                               </div>
                             </div>
 

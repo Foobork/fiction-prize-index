@@ -2090,5 +2090,162 @@
     "birthYear": 1952,
     "deathYear": 2017,
     "bio": "British novelist and poet, inaugural winner of the Women’s Prize for Fiction in 1996 for A Spell of Winter."
+  },
+  {
+    "id": "david-grossman",
+    "name": "David Grossman",
+    "nationality": "Israeli",
+    "birthYear": 1954,
+    "bio": "Acclaimed Israeli author and essayist whose kaleidoscopic novel A Horse Walks Into a Bar won the 2017 International Booker Prize.",
+    "websiteUrl": "https://thebookerprizes.com/the-booker-library/authors/david-grossman"
+  },
+  {
+    "id": "ismail-kadare",
+    "name": "Ismail Kadare",
+    "nationality": "Albanian",
+    "birthYear": 1936,
+    "deathYear": 2024,
+    "bio": "Monumental Albanian novelist and poet, winner of the inaugural Man Booker International Prize in 2005 for a lifetime oeuvre exploring totalitarianism and Balkan myth.",
+    "websiteUrl": "https://thebookerprizes.com/the-booker-library/authors/ismail-kadare"
+  },
+  {
+    "id": "chinua-achebe",
+    "name": "Chinua Achebe",
+    "nationality": "Nigerian",
+    "birthYear": 1930,
+    "deathYear": 2013,
+    "bio": "Revered Nigerian novelist, poet, and critic celebrated as the father of modern African literature; winner of the 2007 Man Booker International Prize.",
+    "websiteUrl": "https://thebookerprizes.com/the-booker-library/authors/chinua-achebe"
+  },
+  {
+    "id": "alice-munro",
+    "name": "Alice Munro",
+    "nationality": "Canadian",
+    "birthYear": 1931,
+    "deathYear": 2024,
+    "bio": "Canadian short-story virtuoso, awarded the 2009 Man Booker International Prize for her lifetime body of work and the 2013 Nobel Prize in Literature.",
+    "nobelYear": 2013,
+    "websiteUrl": "https://thebookerprizes.com/the-booker-library/authors/alice-munro"
+  },
+  {
+    "id": "lydia-davis",
+    "name": "Lydia Davis",
+    "nationality": "American",
+    "birthYear": 1947,
+    "bio": "Renowned American short-story master and translator of Proust and Flaubert, awarded the 2013 Man Booker International Prize for her visionary brevity.",
+    "websiteUrl": "https://thebookerprizes.com/the-booker-library/authors/lydia-davis"
+  },
+  {
+    "id": "annie-ernaux",
+    "name": "Annie Ernaux",
+    "nationality": "French",
+    "birthYear": 1940,
+    "bio": "French autobiographical author awarded the 2022 Nobel Prize in Literature and shortlisted for the 2019 International Booker Prize for The Years.",
+    "nobelYear": 2022,
+    "websiteUrl": "https://thebookerprizes.com/the-booker-library/authors/annie-ernaux"
+  },
+  {
+    "id": "samanta-schweblin",
+    "name": "Samanta Schweblin",
+    "nationality": "Argentine",
+    "birthYear": 1978,
+    "bio": "Argentine writer celebrated for her unsettling, surrealist fiction, shortlisted for the International Booker Prize for Fever Dream (2017) and Mouthful of Birds (2019).",
+    "websiteUrl": "https://thebookerprizes.com/the-booker-library/authors/samanta-schweblin"
+  },
+  {
+    "id": "mariana-enriquez",
+    "name": "Mariana Enríquez",
+    "nationality": "Argentine",
+    "birthYear": 1973,
+    "bio": "Argentine journalist and horror novelist, shortlisted for the 2021 International Booker Prize for The Dangers of Smoking in Bed.",
+    "websiteUrl": "https://thebookerprizes.com/the-booker-library/authors/mariana-enriquez"
+  },
+  {
+    "id": "benjamin-labatut",
+    "name": "Benjamín Labatut",
+    "nationality": "Chilean",
+    "birthYear": 1980,
+    "bio": "Dutch-born Chilean novelist whose hybrid non-fiction/speculative work When We Cease to Understand the World was shortlisted for the 2021 International Booker Prize.",
+    "websiteUrl": "https://thebookerprizes.com/the-booker-library/authors/benjamin-labatut"
+  },
+  {
+    "id": "yoko-ogawa",
+    "name": "Yoko Ogawa",
+    "nationality": "Japanese",
+    "birthYear": 1962,
+    "bio": "Celebrated Japanese author of over fifty works, shortlisted for the 2020 International Booker Prize for The Memory Police.",
+    "websiteUrl": "https://thebookerprizes.com/the-booker-library/authors/yoko-ogawa"
+  },
+  {
+    "id": "fernanda-melchor",
+    "name": "Fernanda Melchor",
+    "nationality": "Mexican",
+    "birthYear": 1982,
+    "bio": "Mexican journalist and author acclaimed for her searing, rhythmic prose in Hurricane Season, shortlisted for the 2020 International Booker Prize.",
+    "websiteUrl": "https://thebookerprizes.com/the-booker-library/authors/fernanda-melchor"
+  },
+  {
+    "id": "bora-chung",
+    "name": "Bora Chung",
+    "nationality": "South Korean",
+    "birthYear": 1976,
+    "bio": "South Korean speculative fiction writer and Slavic literature translator, shortlisted for the 2022 International Booker Prize for Cursed Bunny.",
+    "websiteUrl": "https://thebookerprizes.com/the-booker-library/authors/bora-chung"
+  },
+  {
+    "id": "claudia-pineiro",
+    "name": "Claudia Piñeiro",
+    "nationality": "Argentine",
+    "birthYear": 1960,
+    "bio": "Prolific Argentine novelist and playwright, shortlisted for the 2022 International Booker Prize for Elena Knows.",
+    "websiteUrl": "https://thebookerprizes.com/the-booker-library/authors/claudia-pineiro"
+  },
+  {
+    "id": "eva-baltasar",
+    "name": "Eva Baltasar",
+    "nationality": "Spanish",
+    "birthYear": 1978,
+    "bio": "Catalan poet and novelist whose fierce and sensual novel Boulder was shortlisted for the 2023 International Booker Prize.",
+    "websiteUrl": "https://thebookerprizes.com/the-booker-library/authors/eva-baltasar"
+  },
+  {
+    "id": "cheon-myeong-kwan",
+    "name": "Cheon Myeong-kwan",
+    "nationality": "South Korean",
+    "birthYear": 1964,
+    "bio": "South Korean novelist and screenwriter whose sweeping, picaresque epic Whale was shortlisted for the 2023 International Booker Prize.",
+    "websiteUrl": "https://thebookerprizes.com/the-booker-library/authors/cheon-myeong-kwan"
+  },
+  {
+    "id": "selva-almada",
+    "name": "Selva Almada",
+    "nationality": "Argentine",
+    "birthYear": 1973,
+    "bio": "Leading voice in modern Latin American literature, shortlisted for the 2024 International Booker Prize for Not a River.",
+    "websiteUrl": "https://thebookerprizes.com/the-booker-library/authors/selva-almada"
+  },
+  {
+    "id": "itamar-vieira-junior",
+    "name": "Itamar Vieira Junior",
+    "nationality": "Brazilian",
+    "birthYear": 1979,
+    "bio": "Brazilian author and geographer whose generational epic Crooked Plow was shortlisted for the 2024 International Booker Prize.",
+    "websiteUrl": "https://thebookerprizes.com/the-booker-library/authors/itamar-vieira-junior"
+  },
+  {
+    "id": "olga-ravn",
+    "name": "Olga Ravn",
+    "nationality": "Danish",
+    "birthYear": 1986,
+    "bio": "Acclaimed Danish poet and novelist whose workplace science-fiction masterpiece The Employees was shortlisted for the 2021 International Booker Prize.",
+    "websiteUrl": "https://thebookerprizes.com/the-booker-library/authors/olga-ravn"
+  },
+  {
+    "id": "elena-ferrante",
+    "name": "Elena Ferrante",
+    "nationality": "Italian",
+    "birthYear": 1943,
+    "bio": "Pseudonymous Italian author of the internationally bestselling Neapolitan Quartet, culminating in The Story of the Lost Child (2016 International Booker shortlist).",
+    "websiteUrl": "https://thebookerprizes.com/the-booker-library/authors/elena-ferrante"
   }
 ]

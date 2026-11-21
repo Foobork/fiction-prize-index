@@ -78,13 +78,18 @@ export const BookCover: React.FC<BookCoverProps> = ({
             </div>
 
             {/* Title & Author */}
-            <div className="text-center my-auto px-0.5 space-y-1">
+            <div className="text-center my-auto px-0.5 space-y-0.5">
               <h4 className="font-serif font-bold text-white leading-tight drop-shadow-xs line-clamp-3">
                 {book.title}
               </h4>
               <p className="font-serif italic text-white/85 text-[10px] leading-tight truncate">
                 {book.authorName}
               </p>
+              {book.translator && (
+                <p className="font-sans text-white/75 text-[8px] leading-tight truncate">
+                  trans. {book.translator}
+                </p>
+              )}
             </div>
 
             {/* Foil Seal / Publisher */}

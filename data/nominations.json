@@ -297,7 +297,8 @@
     "status": "winner",
     "category": "Translated Fiction",
     "citation": "Winner: An agonizing and luminous interrogation of intimacy, power, and political disillusionment.",
-    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/kairos"
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/kairos",
+    "translator": "Michael Hofmann"
   },
   {
     "id": "nom-time-shelter-intl-booker-2023",
@@ -307,7 +308,8 @@
     "status": "winner",
     "category": "Translated Fiction",
     "citation": "Winner: A brilliant philosophical satire exploring nostalgia as a modern weapon and sanctuary.",
-    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/time-shelter"
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/time-shelter",
+    "translator": "Angela Rodel"
   },
   {
     "id": "nom-tomb-of-sand-intl-booker-2022",
@@ -317,7 +319,8 @@
     "status": "winner",
     "category": "Translated Fiction",
     "citation": "Winner: The first book translated from Hindi to win the prize, celebrated for its playful, exuberantly rich language.",
-    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/tomb-of-sand"
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/tomb-of-sand",
+    "translator": "Daisy Rockwell"
   },
   {
     "id": "nom-the-vegetarian-intl-booker-2016",
@@ -327,7 +330,8 @@
     "status": "winner",
     "category": "Translated Fiction",
     "citation": "Winner: Unforgettably powerful and original, exploring bodily autonomy and patriarchal refusal.",
-    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-vegetarian"
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-vegetarian",
+    "translator": "Deborah Smith"
   },
   {
     "id": "nom-memory-called-empire-hugo-2020",
@@ -807,7 +811,8 @@
     "status": "winner",
     "category": "Translated Fiction",
     "citation": "A harrowing, hypnotic exploration of the psychological terrors of the Western Front.",
-    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/at-night-all-blood-is-black"
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/at-night-all-blood-is-black",
+    "translator": "Anna Moschovakis"
   },
   {
     "id": "nom-discomfort-evening-intl-booker-2020",
@@ -817,7 +822,8 @@
     "status": "winner",
     "category": "Translated Fiction",
     "citation": "A visceral, unflinching portrait of a rural childhood engulfed by grief.",
-    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-discomfort-of-evening"
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-discomfort-of-evening",
+    "translator": "Michele Hutchison"
   },
   {
     "id": "nom-celestial-bodies-intl-booker-2019",
@@ -827,7 +833,8 @@
     "status": "winner",
     "category": "Translated Fiction",
     "citation": "The first book in Arabic to win the International Booker Prize, charting generations of social transition.",
-    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/celestial-bodies"
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/celestial-bodies",
+    "translator": "Marilyn Booth"
   },
   {
     "id": "nom-flights-intl-booker-2018",
@@ -837,7 +844,8 @@
     "status": "winner",
     "category": "Translated Fiction",
     "citation": "A magnificent constellation novel of anatomy, travel, and restlessness.",
-    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/flights"
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/flights",
+    "translator": "Jennifer Croft"
   },
   {
     "id": "nom-network-effect-hugo-2021",
@@ -1307,7 +1315,8 @@
     "status": "winner",
     "category": "Translated Fiction",
     "citation": "Winner: A warm, deeply humane collection illuminating courage and womanhood with subtle wit.",
-    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/heart-lamp"
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/heart-lamp",
+    "translator": "Deepa Bhasthi"
   },
   {
     "id": "nom-taiwan-travelogue-intl-booker-2026",
@@ -1317,7 +1326,8 @@
     "status": "winner",
     "category": "Translated Fiction",
     "citation": "Winner: The first Taiwanese book to win the prize, celebrating colonial culinary memory and secret intimacy.",
-    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/taiwan-travelogue"
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/taiwan-travelogue",
+    "translator": "Lin King"
   },
   {
     "id": "nom-age-innocence-pulitzer-1921",
@@ -3548,5 +3558,274 @@
     "category": "Fiction",
     "citation": "Inaugural Winner: The first winner of the Women’s Prize, a haunting, sensual gothic tale of sibling obsession and decay.",
     "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-horse-walks-bar-intl-booker-2017",
+    "prizeId": "international-booker",
+    "bookId": "a-horse-walks-into-a-bar",
+    "year": 2017,
+    "status": "winner",
+    "category": "Translated Fiction",
+    "citation": "Winner: A luminous spotlight on the grief, love, and courage underlying an agonizing stand-up comedy performance.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/a-horse-walks-into-a-bar",
+    "translator": "Jessica Cohen"
+  },
+  {
+    "id": "nom-satantango-intl-booker-2015",
+    "prizeId": "international-booker",
+    "bookId": "satantango",
+    "year": 2015,
+    "status": "winner",
+    "category": "Body of Work",
+    "citation": "Winner: Awarded for his extraordinary lifetime achievement and apocalyptic, relentless prose mastery.",
+    "sourceUrl": "https://thebookerprizes.com/the-international-booker-prize",
+    "translator": "George Szirtes & Ottilie Mulzet"
+  },
+  {
+    "id": "nom-lydia-davis-intl-booker-2013",
+    "prizeId": "international-booker",
+    "bookId": "the-collected-stories-of-lydia-davis",
+    "year": 2013,
+    "status": "winner",
+    "category": "Body of Work",
+    "citation": "Winner: Awarded for her visionary brevity and micro-fiction redefining contemporary short form.",
+    "sourceUrl": "https://thebookerprizes.com/the-international-booker-prize"
+  },
+  {
+    "id": "nom-philip-roth-intl-booker-2011",
+    "prizeId": "international-booker",
+    "bookId": "american-pastoral",
+    "year": 2011,
+    "status": "winner",
+    "category": "Body of Work",
+    "citation": "Winner: Awarded for a monumental half-century oeuvre interrogating American identity, mortality, and postwar history.",
+    "sourceUrl": "https://thebookerprizes.com/the-international-booker-prize"
+  },
+  {
+    "id": "nom-alice-munro-intl-booker-2009",
+    "prizeId": "international-booker",
+    "bookId": "runaway",
+    "year": 2009,
+    "status": "winner",
+    "category": "Body of Work",
+    "citation": "Winner: Awarded for a lifetime of peerless mastery in the modern short story.",
+    "sourceUrl": "https://thebookerprizes.com/the-international-booker-prize"
+  },
+  {
+    "id": "nom-runaway-nobel-2013",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "runaway",
+    "year": 2013,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "Master of the contemporary short story.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/2013/summary/"
+  },
+  {
+    "id": "nom-chinua-achebe-intl-booker-2007",
+    "prizeId": "international-booker",
+    "bookId": "things-fall-apart",
+    "year": 2007,
+    "status": "winner",
+    "category": "Body of Work",
+    "citation": "Winner: Celebrated as the founding father of modern African literature whose fiction illuminated continent-wide transformation.",
+    "sourceUrl": "https://thebookerprizes.com/the-international-booker-prize"
+  },
+  {
+    "id": "nom-ismail-kadare-intl-booker-2005",
+    "prizeId": "international-booker",
+    "bookId": "the-general-of-the-dead-army",
+    "year": 2005,
+    "status": "winner",
+    "category": "Body of Work",
+    "citation": "Inaugural Winner: Honoring a universal storyteller with a narrative tradition reaching back to ancient Homeric epics.",
+    "sourceUrl": "https://thebookerprizes.com/the-international-booker-prize",
+    "translator": "Derek Coltman & David Bellos"
+  },
+  {
+    "id": "nom-not-a-river-intl-booker-2024",
+    "prizeId": "international-booker",
+    "bookId": "not-a-river",
+    "year": 2024,
+    "status": "shortlist",
+    "category": "Translated Fiction",
+    "citation": "Shortlist: A haunting, evocative exploration of masculine grief, memory, and river spirits in rural Argentina.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/not-a-river",
+    "translator": "Annie McDermott"
+  },
+  {
+    "id": "nom-crooked-plow-intl-booker-2024",
+    "prizeId": "international-booker",
+    "bookId": "crooked-plow",
+    "year": 2024,
+    "status": "shortlist",
+    "category": "Translated Fiction",
+    "citation": "Shortlist: An unforgettable polyphonic epic of land struggle and Afro-Brazilian spirituality in Bahia.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/crooked-plow",
+    "translator": "Johnny Lorenz"
+  },
+  {
+    "id": "nom-boulder-intl-booker-2023",
+    "prizeId": "international-booker",
+    "bookId": "boulder",
+    "year": 2023,
+    "status": "shortlist",
+    "category": "Translated Fiction",
+    "citation": "Shortlist: A fiercely poetic, razor-sharp chronicle of queerness, solitude, and domestic ambivalence.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/boulder",
+    "translator": "Julia Sanches"
+  },
+  {
+    "id": "nom-whale-intl-booker-2023",
+    "prizeId": "international-booker",
+    "bookId": "whale",
+    "year": 2023,
+    "status": "shortlist",
+    "category": "Translated Fiction",
+    "citation": "Shortlist: A wild, exuberant picaresque epic tracing modern Korean industrialization through mythic storytelling.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/whale",
+    "translator": "Chi-Young Kim"
+  },
+  {
+    "id": "nom-books-of-jacob-intl-booker-2022",
+    "prizeId": "international-booker",
+    "bookId": "the-books-of-jacob",
+    "year": 2022,
+    "status": "shortlist",
+    "category": "Translated Fiction",
+    "citation": "Shortlist: Olga Tokarczuk's magnum opus recreating eighteenth-century Enlightenment borderlands with panoramic genius.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-books-of-jacob",
+    "translator": "Jennifer Croft"
+  },
+  {
+    "id": "nom-cursed-bunny-intl-booker-2022",
+    "prizeId": "international-booker",
+    "bookId": "cursed-bunny",
+    "year": 2022,
+    "status": "shortlist",
+    "category": "Translated Fiction",
+    "citation": "Shortlist: Sharp, visceral, feminist genre-bending tales dissecting modern capitalism and alienation.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/cursed-bunny",
+    "translator": "Anton Hur"
+  },
+  {
+    "id": "nom-elena-knows-intl-booker-2022",
+    "prizeId": "international-booker",
+    "bookId": "elena-knows",
+    "year": 2022,
+    "status": "shortlist",
+    "category": "Translated Fiction",
+    "citation": "Shortlist: A relentless, compassionate portrait of bodily vulnerability, maternal grief, and personal autonomy.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/elena-knows",
+    "translator": "Frances Riddle"
+  },
+  {
+    "id": "nom-dangers-smoking-bed-intl-booker-2021",
+    "prizeId": "international-booker",
+    "bookId": "the-dangers-of-smoking-in-bed",
+    "year": 2021,
+    "status": "shortlist",
+    "category": "Translated Fiction",
+    "citation": "Shortlist: Gothic, contemporary Argentinian horror fusing political memory with terrifying urban lore.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-dangers-of-smoking-in-bed",
+    "translator": "Megan McDowell"
+  },
+  {
+    "id": "nom-cease-understand-intl-booker-2021",
+    "prizeId": "international-booker",
+    "bookId": "when-we-cease-to-understand-the-world",
+    "year": 2021,
+    "status": "shortlist",
+    "category": "Translated Fiction",
+    "citation": "Shortlist: A breathtaking metaphysical journey examining the abyss where science, mathematics, and madness collide.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/when-we-cease-to-understand-the-world",
+    "translator": "Adrian Nathan West"
+  },
+  {
+    "id": "nom-employees-intl-booker-2021",
+    "prizeId": "international-booker",
+    "bookId": "the-employees",
+    "year": 2021,
+    "status": "shortlist",
+    "category": "Translated Fiction",
+    "citation": "Shortlist: A sterile yet deeply moving science-fiction workplace satire probing human empathy and artificial existence.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-employees",
+    "translator": "Martin Aitken"
+  },
+  {
+    "id": "nom-memory-police-intl-booker-2020",
+    "prizeId": "international-booker",
+    "bookId": "the-memory-police",
+    "year": 2020,
+    "status": "shortlist",
+    "category": "Translated Fiction",
+    "citation": "Shortlist: A quiet, devastating Orwellian parable exploring loss, authoritarian erasure, and human preservation.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-memory-police",
+    "translator": "Stephen Snyder"
+  },
+  {
+    "id": "nom-hurricane-season-intl-booker-2020",
+    "prizeId": "international-booker",
+    "bookId": "hurricane-season",
+    "year": 2020,
+    "status": "shortlist",
+    "category": "Translated Fiction",
+    "citation": "Shortlist: A torrential, incandescent tour de force of language, chronicling the brutal cycles of Mexican rural violence.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/hurricane-season",
+    "translator": "Sophie Hughes"
+  },
+  {
+    "id": "nom-the-years-intl-booker-2019",
+    "prizeId": "international-booker",
+    "bookId": "the-years",
+    "year": 2019,
+    "status": "shortlist",
+    "category": "Translated Fiction",
+    "citation": "Shortlist: A monumental collective biography weaving individual memory through the social tapestry of six decades.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-years",
+    "translator": "Alison L. Strayer"
+  },
+  {
+    "id": "nom-the-years-nobel-2022",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-years",
+    "year": 2022,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For the courage and clinical acuity with which she uncovers the roots, estrangements and collective restraints of personal memory.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/2022/summary/"
+  },
+  {
+    "id": "nom-plow-bones-dead-intl-booker-2019",
+    "prizeId": "international-booker",
+    "bookId": "drive-your-plow-over-the-bones-of-the-dead",
+    "year": 2019,
+    "status": "shortlist",
+    "category": "Translated Fiction",
+    "citation": "Shortlist: An existential eco-thriller and dark comedy of eccentric rebellion against human cruelty.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/drive-your-plow-over-the-bones-of-the-dead",
+    "translator": "Jennifer Croft"
+  },
+  {
+    "id": "nom-fever-dream-intl-booker-2017",
+    "prizeId": "international-booker",
+    "bookId": "fever-dream",
+    "year": 2017,
+    "status": "shortlist",
+    "category": "Translated Fiction",
+    "citation": "Shortlist: A taut, hypnotic eco-nightmare told in a relentless dialogue of maternal dread and toxic danger.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/fever-dream",
+    "translator": "Megan McDowell"
+  },
+  {
+    "id": "nom-story-lost-child-intl-booker-2016",
+    "prizeId": "international-booker",
+    "bookId": "the-story-of-the-lost-child",
+    "year": 2016,
+    "status": "shortlist",
+    "category": "Translated Fiction",
+    "citation": "Shortlist: The devastating crescendo of the Neapolitan quartet, probing womanhood, friendship, and history.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-story-of-the-lost-child",
+    "translator": "Ann Goldstein"
   }
 ]

@@ -50,6 +50,9 @@ export interface Book {
   pageCount?: number;
   spineColor?: string;     // For virtual bookshelf rendering
   countryOfOrigin?: string;
+  translator?: string;
+  originalLanguage?: string;
+  originalTitle?: string;
 }
 
 export interface Nomination {
@@ -61,6 +64,7 @@ export interface Nomination {
   category?: string;       // e.g. "Best Novel", "Translated Fiction"
   citation?: string;       // Jury citation/blurb
   sourceUrl: string;       // Verification link to official archive
+  translator?: string;
 }
 
 export interface BookWithNominations extends Book {

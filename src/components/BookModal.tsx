@@ -1,7 +1,7 @@
 'use client';
 
 import React from 'react';
-import { X, ExternalLink, Bookmark, CheckCircle2, BookOpen, Trophy, Award, Calendar, Building, Globe } from 'lucide-react';
+import { X, ExternalLink, Bookmark, CheckCircle2, BookOpen, Trophy, Award, Calendar, Building, Globe, Languages } from 'lucide-react';
 import { BookWithNominations, ReadingStatus } from '@/types';
 import { BookCover } from './BookCover';
 
@@ -73,6 +73,22 @@ export const BookModal: React.FC<BookModalProps> = ({
                 <p className="font-serif italic text-lg text-parchment-700 dark:text-parchment-300 mt-1">
                   by {book.authorName}
                 </p>
+                {book.translator && (
+                  <p className="text-xs sm:text-sm font-sans text-purple-700 dark:text-purple-300 mt-1.5 flex items-center flex-wrap gap-x-1.5">
+                    <span className="flex items-center font-medium">
+                      <Languages className="w-3.5 h-3.5 mr-1 text-purple-600 dark:text-purple-400 shrink-0" />
+                      Translated from {book.originalLanguage ? `the ${book.originalLanguage}` : 'the original'} by
+                    </span>
+                    <strong className="font-semibold text-purple-950 dark:text-purple-100">
+                      {book.translator}
+                    </strong>
+                    {book.originalTitle && (
+                      <span className="text-xs text-parchment-500 dark:text-ink-400 italic">
+                        (Original: <em>{book.originalTitle}</em>)
+                      </span>
+                    )}
+                  </p>
+                )}
               </div>
 
               {/* Publisher & Metadata */}
@@ -154,6 +170,14 @@ export const BookModal: React.FC<BookModalProps> = ({
                     <blockquote className="text-xs italic text-parchment-600 dark:text-ink-400 pl-3 border-l-2 border-gilded-500/50">
                       "{nom.citation}"
                     </blockquote>
+                  )}
+                  {nom.translator && (
+                    <div className="flex items-center text-xs text-purple-700 dark:text-purple-300 font-sans pt-0.5">
+                      <Languages className="w-3.5 h-3.5 mr-1 text-purple-500 shrink-0" />
+                      <span>
+                        Translated by <strong className="font-semibold text-purple-900 dark:text-purple-200">{nom.translator}</strong>
+                      </span>
+                    </div>
                   )}
                 </div>
               ))}

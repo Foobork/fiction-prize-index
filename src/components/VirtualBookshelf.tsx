@@ -111,7 +111,7 @@ export const VirtualBookshelf: React.FC<VirtualBookshelfProps> = ({
                       backgroundColor: book.spineColor || '#334155',
                     }}
                     className="relative group cursor-pointer rounded-t-sm shadow-md transition-all duration-300 hover:-translate-y-4 hover:shadow-2xl flex flex-col justify-between py-3 px-1 text-white border-l border-white/20 border-r border-black/30 select-none flex-shrink-0"
-                    title={`${book.title} by ${book.authorName} (${book.publicationYear})`}
+                    title={`${book.title} by ${book.authorName}${book.translator ? ` (trans. ${book.translator})` : ''} (${book.publicationYear})`}
                   >
                     {/* Top Spine Foil Accent */}
                     <div className="flex flex-col items-center">

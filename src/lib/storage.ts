@@ -64,7 +64,10 @@ export function exportToMarkdown(savedList: UserSavedBook[], allBooks: BookWithN
       const book = booksMap.get(item.bookId);
       if (!book) continue;
       const awards = book.nominations.map((n) => `${n.status === 'winner' ? '🏆' : '⭐'} ${n.prize.shortName} (${n.year})`).join(', ');
-      md += `- **${book.title}** by ${book.authorName} (${book.publicationYear})\n`;
+      md += `- **${book.title}** by ${book.authorName}${book.translator ? ` (trans. ${book.translator})` : ''} (${book.publicationYear})\n`;
+      if (book.originalLanguage || book.originalTitle) {
+        md += `  - *Original*: ${book.originalTitle ? `"${book.originalTitle}" ` : ''}${book.originalLanguage ? `(${book.originalLanguage})` : ''}\n`;
+      }
       md += `  - *Publisher*: ${book.publisher}\n`;
       md += `  - *Honors*: ${awards || 'None'}\n`;
       if (item.notes) {
@@ -79,7 +82,7 @@ export function exportToMarkdown(savedList: UserSavedBook[], allBooks: BookWithN
 
 export function exportToCSV(savedList: UserSavedBook[], allBooks: BookWithNominations[]): string {
   const booksMap = new Map(allBooks.map((b) => [b.id, b]));
-  const headers = ['Title', 'Author', 'Publication Year', 'Reading Status', 'Publisher', 'Awards Won', 'Saved Date', 'Notes'];
+  const headers = ['Title', 'Author', 'Translator', 'Original Language', 'Publication Year', 'Reading Status', 'Publisher', 'Awards Won', 'Saved Date', 'Notes'];
 
   const rows = savedList.map((item) => {
     const book = booksMap.get(item.bookId);
@@ -88,6 +91,8 @@ export function exportToCSV(savedList: UserSavedBook[], allBooks: BookWithNomina
     return [
       `"${book.title.replace(/"/g, '""')}"`,
       `"${book.authorName.replace(/"/g, '""')}"`,
+      `"${(book.translator || '').replace(/"/g, '""')}"`,
+      `"${(book.originalLanguage || '').replace(/"/g, '""')}"`,
       book.publicationYear,
       item.status,
       `"${book.publisher.replace(/"/g, '""')}"`,
