@@ -79,7 +79,7 @@ The **Fiction Prize Index** centralizes major world fiction awards into a unifie
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/fiction-prize-index.git
+git clone https://github.com/foobork/fiction-prize-index.git
 cd fiction-prize-index
 
 # Install dependencies

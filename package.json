@@ -3,6 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "description": "An open-access, static-first catalog and discovery platform for major literary fiction prizes.",
+  "author": "foobork",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/foobork/fiction-prize-index.git"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",

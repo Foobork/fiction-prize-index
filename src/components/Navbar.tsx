@@ -86,7 +86,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               {darkMode ? <Sun className="w-5 h-5 text-gilded-400" /> : <Moon className="w-5 h-5" />}
             </button>
             <a
-              href="https://github.com"
+              href="https://github.com/foobork/fiction-prize-index"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub Repository"
