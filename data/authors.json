@@ -2919,5 +2919,233 @@
     "deathYear": 2001,
     "bio": "German writer and academic whose hybrid works of wandering, documentary photography, and European trauma culminated in Austerlitz (2001 NBCC Award).",
     "websiteUrl": "https://www.theparisreview.org/interviews/1630/the-art-of-fiction-no-175-w-g-sebald"
+  },
+  {
+    "id": "mark-clifton",
+    "name": "Mark Clifton",
+    "nationality": "American",
+    "birthYear": 1906,
+    "deathYear": 1963,
+    "bio": "Pioneering science fiction author and industrial personnel psychologist; co-winner of the 1955 Hugo Award for They'd Rather Be Right.",
+    "websiteUrl": "https://www.thehugoawards.org/hugo-history/"
+  },
+  {
+    "id": "fritz-leiber",
+    "name": "Fritz Leiber",
+    "nationality": "American",
+    "birthYear": 1910,
+    "deathYear": 1992,
+    "bio": "Giant of fantasy, horror, and science fiction who coined the term \"sword and sorcery\"; two-time Hugo Award winner for The Big Time and The Wanderer.",
+    "websiteUrl": "https://www.thehugoawards.org/hugo-history/"
+  },
+  {
+    "id": "james-blish",
+    "name": "James Blish",
+    "nationality": "American",
+    "birthYear": 1921,
+    "deathYear": 1975,
+    "bio": "American science fiction writer and pioneering genre literary critic; awarded the 1959 Hugo Award for A Case of Conscience.",
+    "websiteUrl": "https://www.thehugoawards.org/hugo-history/"
+  },
+  {
+    "id": "clifford-d-simak",
+    "name": "Clifford D. Simak",
+    "nationality": "American",
+    "birthYear": 1904,
+    "deathYear": 1988,
+    "bio": "Beloved pastoral science fiction grandmaster; awarded the 1964 Hugo Award for Best Novel for Way Station.",
+    "websiteUrl": "https://www.thehugoawards.org/hugo-history/"
+  },
+  {
+    "id": "roger-zelazny",
+    "name": "Roger Zelazny",
+    "nationality": "American",
+    "birthYear": 1937,
+    "deathYear": 1995,
+    "bio": "Leader of the American science fiction New Wave and creator of The Chronicles of Amber; six-time Hugo winner, awarded the 1968 Hugo for Lord of Light.",
+    "websiteUrl": "https://www.thehugoawards.org/hugo-history/"
+  },
+  {
+    "id": "john-brunner",
+    "name": "John Brunner",
+    "nationality": "British",
+    "birthYear": 1934,
+    "deathYear": 1995,
+    "bio": "Visionary British science fiction author whose dystopian masterpiece Stand on Zanzibar won the 1969 Hugo Award for Best Novel.",
+    "websiteUrl": "https://www.thehugoawards.org/hugo-history/"
+  },
+  {
+    "id": "philip-jose-farmer",
+    "name": "Philip José Farmer",
+    "nationality": "American",
+    "birthYear": 1918,
+    "deathYear": 2009,
+    "bio": "Audacious science fiction pioneer and Riverworld creator; awarded the 1972 Hugo Award for To Your Scattered Bodies Go.",
+    "websiteUrl": "https://www.thehugoawards.org/hugo-history/"
+  },
+  {
+    "id": "kate-wilhelm",
+    "name": "Kate Wilhelm",
+    "nationality": "American",
+    "birthYear": 1928,
+    "deathYear": 2018,
+    "bio": "Prolific speculative and mystery author, co-founder of the Clarion Writers' Workshop; awarded the 1977 Hugo Award for Where Late the Sweet Birds Sang.",
+    "websiteUrl": "https://www.thehugoawards.org/hugo-history/"
+  },
+  {
+    "id": "joan-d-vinge",
+    "name": "Joan D. Vinge",
+    "nationality": "American",
+    "birthYear": 1948,
+    "bio": "Accomplished space opera author and anthropologist; awarded the 1981 Hugo Award for Best Novel for The Snow Queen.",
+    "websiteUrl": "https://www.thehugoawards.org/hugo-history/"
+  },
+  {
+    "id": "c-j-cherryh",
+    "name": "C. J. Cherryh",
+    "nationality": "American",
+    "birthYear": 1942,
+    "bio": "SFWA Grand Master acclaimed for her dense, politically intricate Alliance-Union and Foreigner universes; two-time Hugo winner for Downbelow Station and Cyteen.",
+    "websiteUrl": "https://www.thehugoawards.org/hugo-history/"
+  },
+  {
+    "id": "j-k-rowling",
+    "name": "J. K. Rowling",
+    "nationality": "British",
+    "birthYear": 1965,
+    "bio": "British author and creator of Harry Potter; awarded the 2001 Hugo Award for Best Novel for Harry Potter and the Goblet of Fire.",
+    "websiteUrl": "https://www.thehugoawards.org/hugo-history/2001-hugo-awards/"
+  },
+  {
+    "id": "robert-j-sawyer",
+    "name": "Robert J. Sawyer",
+    "nationality": "Canadian",
+    "birthYear": 1960,
+    "bio": "Dean of Canadian science fiction, winner of the Hugo Award for Hominids and the Nebula Award for The Terminal Experiment.",
+    "websiteUrl": "https://www.thehugoawards.org/hugo-history/2003-hugo-awards/"
+  },
+  {
+    "id": "robert-charles-wilson",
+    "name": "Robert Charles Wilson",
+    "nationality": "Canadian",
+    "birthYear": 1953,
+    "bio": "Canadian hard science fiction author whose cosmic time-dilation masterpiece Spin won the 2006 Hugo Award for Best Novel.",
+    "websiteUrl": "https://www.thehugoawards.org/hugo-history/2006-hugo-awards/"
+  },
+  {
+    "id": "alexei-panshin",
+    "name": "Alexei Panshin",
+    "nationality": "American",
+    "birthYear": 1940,
+    "deathYear": 2022,
+    "bio": "Science fiction author and pioneering scholar of Robert A. Heinlein; awarded the 1968 Nebula Award for Best Novel for Rite of Passage.",
+    "websiteUrl": "https://nebulas.sfwa.org/nominees/alexei-panshin/"
+  },
+  {
+    "id": "robert-silverberg",
+    "name": "Robert Silverberg",
+    "nationality": "American",
+    "birthYear": 1935,
+    "bio": "Prolific titan of American science fiction and SFWA Grand Master; winner of multiple Hugo and Nebula awards including A Time of Changes.",
+    "websiteUrl": "https://nebulas.sfwa.org/nominees/robert-silverberg/"
+  },
+  {
+    "id": "gregory-benford",
+    "name": "Gregory Benford",
+    "nationality": "American",
+    "birthYear": 1941,
+    "bio": "Astrophysicist and science fiction novelist; awarded the 1980 Nebula Award for Best Novel for his tachyon time-travel masterpiece Timescape.",
+    "websiteUrl": "https://nebulas.sfwa.org/nominees/gregory-benford/"
+  },
+  {
+    "id": "gene-wolfe",
+    "name": "Gene Wolfe",
+    "nationality": "American",
+    "birthYear": 1931,
+    "deathYear": 2019,
+    "bio": "Widely regarded as one of speculative fiction's finest literary stylists, creator of The Book of the New Sun; winner of the 1981 Nebula for The Claw of the Conciliator.",
+    "websiteUrl": "https://nebulas.sfwa.org/nominees/gene-wolfe/"
+  },
+  {
+    "id": "michael-bishop",
+    "name": "Michael Bishop",
+    "nationality": "American",
+    "birthYear": 1945,
+    "deathYear": 2023,
+    "bio": "Anthropological science fiction author; awarded the 1982 Nebula Award for Best Novel for his Pleistocene time-travel novel No Enemy But Time.",
+    "websiteUrl": "https://nebulas.sfwa.org/nominees/michael-bishop/"
+  },
+  {
+    "id": "pat-murphy",
+    "name": "Pat Murphy",
+    "nationality": "American",
+    "birthYear": 1955,
+    "bio": "Author and co-founder of the James Tiptree Jr. (Otherwise) Award; awarded the 1987 Nebula Award for Best Novel for The Falling Woman.",
+    "websiteUrl": "https://nebulas.sfwa.org/nominees/pat-murphy/"
+  },
+  {
+    "id": "elizabeth-ann-scarborough",
+    "name": "Elizabeth Ann Scarborough",
+    "nationality": "American",
+    "birthYear": 1947,
+    "bio": "Vietnam War veteran and author; awarded the 1989 Nebula Award for Best Novel for her mystical military healing novel The Healer's War.",
+    "websiteUrl": "https://nebulas.sfwa.org/nominees/elizabeth-ann-scarborough/"
+  },
+  {
+    "id": "michael-swanwick",
+    "name": "Michael Swanwick",
+    "nationality": "American",
+    "birthYear": 1950,
+    "bio": "Five-time Hugo Award winner; awarded the 1991 Nebula Award for Best Novel for his visionary planetary transformation novel Stations of the Tide.",
+    "websiteUrl": "https://nebulas.sfwa.org/nominees/michael-swanwick/"
+  },
+  {
+    "id": "greg-bear",
+    "name": "Greg Bear",
+    "nationality": "American",
+    "birthYear": 1951,
+    "deathYear": 2022,
+    "bio": "Hard science fiction grandmaster; two-time Nebula Award Best Novel winner for Moving Mars (1994) and Darwin's Radio (2000).",
+    "websiteUrl": "https://nebulas.sfwa.org/nominees/greg-bear/"
+  },
+  {
+    "id": "nicola-griffith",
+    "name": "Nicola Griffith",
+    "nationality": "British-American",
+    "birthYear": 1960,
+    "bio": "Acclaimed author of speculative and historical fiction; awarded the 1996 Nebula Award for Best Novel for her post-cyberpunk classic Slow River.",
+    "websiteUrl": "https://nebulas.sfwa.org/nominees/nicola-griffith/"
+  },
+  {
+    "id": "catherine-asaro",
+    "name": "Catherine Asaro",
+    "nationality": "American",
+    "birthYear": 1955,
+    "bio": "Chemical physicist, dancer, and SFWA president; awarded the 2001 Nebula Award for Best Novel for The Quantum Rose.",
+    "websiteUrl": "https://nebulas.sfwa.org/nominees/catherine-asaro/"
+  },
+  {
+    "id": "elizabeth-moon",
+    "name": "Elizabeth Moon",
+    "nationality": "American",
+    "birthYear": 1945,
+    "bio": "Military and speculative fiction author; awarded the 2003 Nebula Award for Best Novel for The Speed of Dark.",
+    "websiteUrl": "https://nebulas.sfwa.org/nominees/elizabeth-moon/"
+  },
+  {
+    "id": "jack-mcdevitt",
+    "name": "Jack McDevitt",
+    "nationality": "American",
+    "birthYear": 1935,
+    "bio": "Premier author of interstellar archaeological mysteries; awarded the 2006 Nebula Award for Best Novel for Seeker.",
+    "websiteUrl": "https://nebulas.sfwa.org/nominees/jack-mcdevitt/"
+  },
+  {
+    "id": "john-wiswell",
+    "name": "John Wiswell",
+    "nationality": "American",
+    "birthYear": 1989,
+    "bio": "Disabled fantasy author and humorist; awarded the 2025 Nebula Award for Best Novel for Someone You Can Build a Nest In.",
+    "websiteUrl": "https://nebulas.sfwa.org/nominees/john-wiswell/"
   }
 ]

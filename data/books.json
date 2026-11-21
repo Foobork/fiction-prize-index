@@ -8540,5 +8540,924 @@
     "originalTitle": "Austerlitz",
     "pageCount": 448,
     "spineColor": "#1f2937"
+  },
+  {
+    "id": "theyd-rather-be-right",
+    "title": "They'd Rather Be Right",
+    "authorId": "mark-clifton",
+    "authorName": "Mark Clifton & Frank Riley",
+    "publicationYear": 1954,
+    "publisher": "Gnome Press",
+    "isbn13": "9781504040945",
+    "genres": [
+      "Science Fiction",
+      "Cybernetics",
+      "Psychological Sci-Fi"
+    ],
+    "synopsis": "Two scientists build Bossy, an advanced cybernetic computer that offers physical rejuvenation and immortality to anyone willing to abandon all their prejudiced beliefs and neuroses.",
+    "countryOfOrigin": "United States",
+    "pageCount": 192,
+    "spineColor": "#374151"
+  },
+  {
+    "id": "double-star",
+    "title": "Double Star",
+    "authorId": "robert-a-heinlein",
+    "authorName": "Robert A. Heinlein",
+    "publicationYear": 1956,
+    "publisher": "Doubleday",
+    "isbn13": "9780345330130",
+    "genres": [
+      "Science Fiction",
+      "Political Intrigue",
+      "Space Opera"
+    ],
+    "synopsis": "Down-on-his-luck actor Lorenzo Smythe is hired to impersonate John Joseph Bonforte, the solar system's most powerful politician, who has been kidnapped on the eve of delicate Martian treaties.",
+    "countryOfOrigin": "United States",
+    "pageCount": 243,
+    "spineColor": "#1e3a8a"
+  },
+  {
+    "id": "the-big-time",
+    "title": "The Big Time",
+    "authorId": "fritz-leiber",
+    "authorName": "Fritz Leiber",
+    "publicationYear": 1958,
+    "publisher": "Ace Books",
+    "isbn13": "9780879975760",
+    "genres": [
+      "Science Fiction",
+      "Time War",
+      "Chamber Drama"
+    ],
+    "synopsis": "Set entirely inside an extradimensional rest-and-recreation Station outside the cosmos, where soldiers recuperating from a cosmic Change War between Spiders and Snakes face a nuclear mutiny.",
+    "countryOfOrigin": "United States",
+    "pageCount": 129,
+    "spineColor": "#701a75"
+  },
+  {
+    "id": "a-case-of-conscience",
+    "title": "A Case of Conscience",
+    "authorId": "james-blish",
+    "authorName": "James Blish",
+    "publicationYear": 1958,
+    "publisher": "Ballantine Books",
+    "isbn13": "9780345438355",
+    "genres": [
+      "Science Fiction",
+      "Theological Sci-Fi",
+      "First Contact"
+    ],
+    "synopsis": "Father Ramon Ruiz-Sanchez, a Jesuit biologist evaluating the reptilian planet Lithia, is horrified to find an idyllic, completely moral civilization that has achieved peace without any concept of God.",
+    "countryOfOrigin": "United States",
+    "pageCount": 240,
+    "spineColor": "#0f766e"
+  },
+  {
+    "id": "way-station",
+    "title": "Way Station",
+    "authorId": "clifford-d-simak",
+    "authorName": "Clifford D. Simak",
+    "publicationYear": 1963,
+    "publisher": "Doubleday",
+    "isbn13": "9780020253808",
+    "genres": [
+      "Science Fiction",
+      "Pastoral Sci-Fi",
+      "First Contact"
+    ],
+    "synopsis": "Enoch Wallace, an unaging Civil War veteran living in a secluded Wisconsin farmhouse, secretly tends a way station for interstellar alien travelers teleporting across the galaxy.",
+    "countryOfOrigin": "United States",
+    "pageCount": 210,
+    "spineColor": "#15803d"
+  },
+  {
+    "id": "the-wanderer",
+    "title": "The Wanderer",
+    "authorId": "fritz-leiber",
+    "authorName": "Fritz Leiber",
+    "publicationYear": 1964,
+    "publisher": "Ballantine Books",
+    "isbn13": "9780441871704",
+    "genres": [
+      "Science Fiction",
+      "Disaster Epic",
+      "Planetary Intrusion"
+    ],
+    "synopsis": "An artificial planetoid painted in yellow and purple checks emerges from hyperspace directly beside Earth's Moon, triggering catastrophic tidal surges and global societal collapse.",
+    "countryOfOrigin": "United States",
+    "pageCount": 318,
+    "spineColor": "#854d0e"
+  },
+  {
+    "id": "lord-of-light",
+    "title": "Lord of Light",
+    "authorId": "roger-zelazny",
+    "authorName": "Roger Zelazny",
+    "publicationYear": 1967,
+    "publisher": "Doubleday",
+    "isbn13": "9780060567231",
+    "genres": [
+      "Science Fiction",
+      "Mythological Sci-Fi",
+      "Far-Future Epic"
+    ],
+    "synopsis": "On a colony world where the ruling elite use advanced technology and body-transference to masquerade as the Hindu pantheon, a renegade named Sam wages war as the Buddha of liberation.",
+    "countryOfOrigin": "United States",
+    "pageCount": 320,
+    "spineColor": "#b45309"
+  },
+  {
+    "id": "stand-on-zanzibar",
+    "title": "Stand on Zanzibar",
+    "authorId": "john-brunner",
+    "authorName": "John Brunner",
+    "publicationYear": 1968,
+    "publisher": "Doubleday",
+    "isbn13": "9780765326782",
+    "genres": [
+      "Science Fiction",
+      "Dystopian",
+      "Experimental New Wave"
+    ],
+    "synopsis": "A prescient, multi-perspectival collage set in an overcrowded 2010 where mass surveillance, corporate mercenaries, genetic optimization, and supercomputers dominate global affairs.",
+    "countryOfOrigin": "United Kingdom",
+    "pageCount": 512,
+    "spineColor": "#1f2937"
+  },
+  {
+    "id": "to-your-scattered-bodies-go",
+    "title": "To Your Scattered Bodies Go",
+    "authorId": "philip-jose-farmer",
+    "authorName": "Philip José Farmer",
+    "publicationYear": 1971,
+    "publisher": "G. P. Putnam's Sons",
+    "isbn13": "9780345419675",
+    "genres": [
+      "Science Fiction",
+      "Planetary Romance",
+      "Afterlife Sci-Fi"
+    ],
+    "synopsis": "Victorian explorer Sir Richard Francis Burton awakens naked beside an endless river spanning an artificial planet, discovering that all thirty-six billion humans who ever died have been resurrected together.",
+    "countryOfOrigin": "United States",
+    "pageCount": 221,
+    "spineColor": "#0284c7"
+  },
+  {
+    "id": "where-late-the-sweet-birds-sang",
+    "title": "Where Late the Sweet Birds Sang",
+    "authorId": "kate-wilhelm",
+    "authorName": "Kate Wilhelm",
+    "publicationYear": 1976,
+    "publisher": "Harper & Row",
+    "isbn13": "9780312866150",
+    "genres": [
+      "Science Fiction",
+      "Post-Apocalyptic",
+      "Cloning Drama"
+    ],
+    "synopsis": "Following environmental collapse and global human infertility, a wealthy Virginia family turns to cloning to preserve the species, creating a communal, emotionless monoculture.",
+    "countryOfOrigin": "United States",
+    "pageCount": 251,
+    "spineColor": "#166534"
+  },
+  {
+    "id": "the-snow-queen",
+    "title": "The Snow Queen",
+    "authorId": "joan-d-vinge",
+    "authorName": "Joan D. Vinge",
+    "publicationYear": 1980,
+    "publisher": "The Dial Press",
+    "isbn13": "9780440077299",
+    "genres": [
+      "Science Fiction",
+      "Space Opera",
+      "Planetary Romance"
+    ],
+    "synopsis": "On the ocean world of Tiamat, the tyrannical Winter Queen Arienrhod plots to maintain immortality and dominion by cloning herself before the orbital gates close for two centuries.",
+    "countryOfOrigin": "United States",
+    "pageCount": 538,
+    "spineColor": "#0369a1"
+  },
+  {
+    "id": "downbelow-station",
+    "title": "Downbelow Station",
+    "authorId": "c-j-cherryh",
+    "authorName": "C. J. Cherryh",
+    "publicationYear": 1981,
+    "publisher": "DAW Books",
+    "isbn13": "9780886779672",
+    "genres": [
+      "Science Fiction",
+      "Hard Space Opera",
+      "Military Sci-Fi"
+    ],
+    "synopsis": "Pell Station, in orbit above the world of Downbelow, becomes the focal flashpoint of refugees, corporate stationmasters, merchants, and the ruthless Earth Company fleet during an interstellar war of independence.",
+    "countryOfOrigin": "United States",
+    "pageCount": 432,
+    "spineColor": "#334155"
+  },
+  {
+    "id": "foundations-edge",
+    "title": "Foundation's Edge",
+    "authorId": "isaac-asimov",
+    "authorName": "Isaac Asimov",
+    "publicationYear": 1982,
+    "publisher": "Doubleday",
+    "isbn13": "9780553293388",
+    "genres": [
+      "Science Fiction",
+      "Space Opera",
+      "Galactic Empire"
+    ],
+    "synopsis": "Five hundred years after Hari Seldon launched his Plan, exiled Councilman Golan Trevize suspects the Second Foundation still secretly controls the galaxy, embarking on a quest to locate Earth.",
+    "countryOfOrigin": "United States",
+    "pageCount": 448,
+    "spineColor": "#1e3a8a"
+  },
+  {
+    "id": "the-uplift-war",
+    "title": "The Uplift War",
+    "authorId": "david-brin",
+    "authorName": "David Brin",
+    "publicationYear": 1987,
+    "publisher": "Bantam Spectra",
+    "isbn13": "9780553279719",
+    "genres": [
+      "Science Fiction",
+      "Space Opera",
+      "Uplift"
+    ],
+    "synopsis": "When the avian Gubru invade the frontier colony world of Garth, genetically uplifted chimpanzees and human partisans wage guerrilla warfare across the mountains to defend Terran sovereignty.",
+    "countryOfOrigin": "United States",
+    "pageCount": 640,
+    "spineColor": "#78350f"
+  },
+  {
+    "id": "cyteen",
+    "title": "Cyteen",
+    "authorId": "c-j-cherryh",
+    "authorName": "C. J. Cherryh",
+    "publicationYear": 1988,
+    "publisher": "Warner Books",
+    "isbn13": "9780446355322",
+    "genres": [
+      "Science Fiction",
+      "Political Intrigue",
+      "Bio-engineering Thriller"
+    ],
+    "synopsis": "When Ariane Emory, the brilliant, ruthless director of the genetic engineering empire Reseune, is assassinated, administrators secretly create a genetic and psychological clone to inherit her intellect and power.",
+    "countryOfOrigin": "United States",
+    "pageCount": 680,
+    "spineColor": "#1e293b"
+  },
+  {
+    "id": "the-vor-game",
+    "title": "The Vor Game",
+    "authorId": "lois-mcmaster-bujold",
+    "authorName": "Lois McMaster Bujold",
+    "publicationYear": 1990,
+    "publisher": "Baen Books",
+    "isbn13": "9780671720148",
+    "genres": [
+      "Science Fiction",
+      "Space Opera",
+      "Military Sci-Fi"
+    ],
+    "synopsis": "Fresh from the imperial military academy, Miles Vorkosigan is assigned to an arctic weather station where treason, imperial custody, and the Dendarii Free Mercenary Fleet drag him into galactic conflict.",
+    "countryOfOrigin": "United States",
+    "pageCount": 352,
+    "spineColor": "#065f46"
+  },
+  {
+    "id": "barrayar",
+    "title": "Barrayar",
+    "authorId": "lois-mcmaster-bujold",
+    "authorName": "Lois McMaster Bujold",
+    "publicationYear": 1991,
+    "publisher": "Baen Books",
+    "isbn13": "9780671720834",
+    "genres": [
+      "Science Fiction",
+      "Space Opera",
+      "Political Intrigue"
+    ],
+    "synopsis": "Newlywed Cordelia Naismith Vorkosigan must defend her unborn disabled son and the child Emperor Gregor during a bloody military coup on feudal, patriarchal Barrayar.",
+    "countryOfOrigin": "United States",
+    "pageCount": 384,
+    "spineColor": "#831843"
+  },
+  {
+    "id": "mirror-dance",
+    "title": "Mirror Dance",
+    "authorId": "lois-mcmaster-bujold",
+    "authorName": "Lois McMaster Bujold",
+    "publicationYear": 1994,
+    "publisher": "Baen Books",
+    "isbn13": "9780671722104",
+    "genres": [
+      "Science Fiction",
+      "Space Opera",
+      "Clone Saga"
+    ],
+    "synopsis": "Mark, the genetic clone created to assassinate Miles Vorkosigan, impersonates Admiral Naismith to free clone-children on Jackson's Whole, leading to horrific torture and fraternal redemption.",
+    "countryOfOrigin": "United States",
+    "pageCount": 480,
+    "spineColor": "#4c1d95"
+  },
+  {
+    "id": "blue-mars",
+    "title": "Blue Mars",
+    "authorId": "kim-stanley-robinson",
+    "authorName": "Kim Stanley Robinson",
+    "publicationYear": 1996,
+    "publisher": "Bantam Spectra",
+    "isbn13": "9780553573350",
+    "genres": [
+      "Science Fiction",
+      "Hard Sci-Fi",
+      "Planetary Engineering"
+    ],
+    "synopsis": "The epic conclusion to the Mars Trilogy, chronicling the emergence of breathable Martian atmosphere and seas, long-term longevity treatments, and the colonization of the outer solar system.",
+    "countryOfOrigin": "United States",
+    "pageCount": 784,
+    "spineColor": "#0284c7"
+  },
+  {
+    "id": "forever-peace",
+    "title": "Forever Peace",
+    "authorId": "joe-haldeman",
+    "authorName": "Joe Haldeman",
+    "publicationYear": 1997,
+    "publisher": "Ace Books",
+    "isbn13": "9780441005666",
+    "genres": [
+      "Science Fiction",
+      "Military Sci-Fi",
+      "Nanotechnology"
+    ],
+    "synopsis": "Soldier-operator Julian Class remotely pilots lethal war machines called \"boyboys\" while neural-interfacing with his platoon, discovering a secret nanofabrication breakthrough that could eliminate human violence or cause cosmic annihilation.",
+    "countryOfOrigin": "United States",
+    "pageCount": 368,
+    "spineColor": "#475569"
+  },
+  {
+    "id": "to-say-nothing-of-the-dog",
+    "title": "To Say Nothing of the Dog",
+    "authorId": "connie-willis",
+    "authorName": "Connie Willis",
+    "publicationYear": 1998,
+    "publisher": "Bantam Spectra",
+    "isbn13": "9780553575385",
+    "genres": [
+      "Science Fiction",
+      "Comedy",
+      "Time Travel",
+      "Victorian Parody"
+    ],
+    "synopsis": "Time-traveling Oxford historian Ned Henry is sent to 1888 Victorian England to return an incongruous cat, getting entangled in boating mishaps on the Thames and frantic temporal anomalies.",
+    "countryOfOrigin": "United States",
+    "pageCount": 448,
+    "spineColor": "#b45309"
+  },
+  {
+    "id": "a-deepness-in-the-sky",
+    "title": "A Deepness in the Sky",
+    "authorId": "vernor-vinge",
+    "authorName": "Vernor Vinge",
+    "publicationYear": 1999,
+    "publisher": "Tor Books",
+    "isbn13": "9780812536355",
+    "genres": [
+      "Science Fiction",
+      "Hard Space Opera",
+      "First Contact"
+    ],
+    "synopsis": "Two rival human fleet civilizations arrive at the On-Off star to exploit the emerging technology of intelligent arachnid aliens, leading to totalitarian subversion and high-stakes computational warfare.",
+    "countryOfOrigin": "United States",
+    "pageCount": 784,
+    "spineColor": "#1e3a8a"
+  },
+  {
+    "id": "harry-potter-and-the-goblet-of-fire",
+    "title": "Harry Potter and the Goblet of Fire",
+    "authorId": "j-k-rowling",
+    "authorName": "J. K. Rowling",
+    "publicationYear": 2000,
+    "publisher": "Bloomsbury / Scholastic",
+    "isbn13": "9780439139601",
+    "genres": [
+      "Fantasy",
+      "Young Adult",
+      "Magical Adventure"
+    ],
+    "synopsis": "Fourteen-year-old Harry Potter is mysteriously entered into the deadly Triwizard Tournament against older international champions, culminating in the terrifying resurrection of Lord Voldemort.",
+    "countryOfOrigin": "United Kingdom",
+    "pageCount": 636,
+    "spineColor": "#991b1b"
+  },
+  {
+    "id": "hominids",
+    "title": "Hominids",
+    "authorId": "robert-j-sawyer",
+    "authorName": "Robert J. Sawyer",
+    "publicationYear": 2002,
+    "publisher": "Tor Books",
+    "isbn13": "9780765342294",
+    "genres": [
+      "Science Fiction",
+      "Parallel Universe",
+      "Anthropological Sci-Fi"
+    ],
+    "synopsis": "A Neanderthal quantum physicist from a parallel Earth where Neanderthals survived and Homo sapiens went extinct is accidentally teleported into a modern Canadian neutrino observatory.",
+    "countryOfOrigin": "Canada",
+    "pageCount": 448,
+    "spineColor": "#0f766e"
+  },
+  {
+    "id": "spin",
+    "title": "Spin",
+    "authorId": "robert-charles-wilson",
+    "authorName": "Robert Charles Wilson",
+    "publicationYear": 2005,
+    "publisher": "Tor Books",
+    "isbn13": "9780765348258",
+    "genres": [
+      "Science Fiction",
+      "Cosmic Sci-Fi",
+      "Hard Sci-Fi"
+    ],
+    "synopsis": "One night, the stars disappear behind a mysterious black membrane enclosing Earth; for every second that passes inside, millions of years tick by in the outside cosmos, accelerating the Sun's death.",
+    "countryOfOrigin": "Canada",
+    "pageCount": 464,
+    "spineColor": "#d97706"
+  },
+  {
+    "id": "rainbows-end",
+    "title": "Rainbows End",
+    "authorId": "vernor-vinge",
+    "authorName": "Vernor Vinge",
+    "publicationYear": 2006,
+    "publisher": "Tor Books",
+    "isbn13": "9780812536362",
+    "genres": [
+      "Science Fiction",
+      "Cyberpunk",
+      "Post-Singularity"
+    ],
+    "synopsis": "Poet Robert Gu recovers from Alzheimer's via advanced medical biotechnology in 2025 San Diego, adapting to wearable augmented reality smart-contact lenses amidst an international mind-control conspiracy.",
+    "countryOfOrigin": "United States",
+    "pageCount": 384,
+    "spineColor": "#0284c7"
+  },
+  {
+    "id": "the-graveyard-book",
+    "title": "The Graveyard Book",
+    "authorId": "neil-gaiman",
+    "authorName": "Neil Gaiman",
+    "publicationYear": 2008,
+    "publisher": "HarperCollins",
+    "isbn13": "9780060530921",
+    "genres": [
+      "Fantasy",
+      "Gothic",
+      "Coming-of-Age"
+    ],
+    "synopsis": "After his family is murdered, an orphaned toddler wanders into a cemetery and is adopted and raised by ghosts, ghouls, and a mysterious supernatural guardian named Silas.",
+    "countryOfOrigin": "United Kingdom",
+    "pageCount": 320,
+    "spineColor": "#1e293b"
+  },
+  {
+    "id": "the-einstein-intersection",
+    "title": "The Einstein Intersection",
+    "authorId": "samuel-r-delany",
+    "authorName": "Samuel R. Delany",
+    "publicationYear": 1967,
+    "publisher": "Ace Books",
+    "isbn13": "9780819563361",
+    "genres": [
+      "Science Fiction",
+      "Mythological Sci-Fi",
+      "New Wave"
+    ],
+    "synopsis": "Alien beings settle on an abandoned post-apocalyptic Earth and attempt to assimilate ancient human cultural myths, music, and the legend of Orpheus through mutated biological forms.",
+    "countryOfOrigin": "United States",
+    "pageCount": 156,
+    "spineColor": "#831843"
+  },
+  {
+    "id": "rite-of-passage",
+    "title": "Rite of Passage",
+    "authorId": "alexei-panshin",
+    "authorName": "Alexei Panshin",
+    "publicationYear": 1968,
+    "publisher": "Ace Books",
+    "isbn13": "9780575078734",
+    "genres": [
+      "Science Fiction",
+      "Coming-of-Age",
+      "Generation Ship"
+    ],
+    "synopsis": "Fourteen-year-old Mia Havero grows up aboard a massive hollowed-out asteroid Ship, preparing for the Trial: thirty days of solo wilderness survival on an untamed planetary colony.",
+    "countryOfOrigin": "United States",
+    "pageCount": 256,
+    "spineColor": "#065f46"
+  },
+  {
+    "id": "a-time-of-changes",
+    "title": "A Time of Changes",
+    "authorId": "robert-silverberg",
+    "authorName": "Robert Silverberg",
+    "publicationYear": 1971,
+    "publisher": "Doubleday",
+    "isbn13": "9780812543322",
+    "genres": [
+      "Science Fiction",
+      "Sociological Sci-Fi",
+      "New Wave"
+    ],
+    "synopsis": "On the planet Borthan, the self is considered obscene and uttering \"I\" is a capital blasphemy, until Prince Kinnall Darival consumes a telepathic drug that shatters psychic isolation.",
+    "countryOfOrigin": "United States",
+    "pageCount": 224,
+    "spineColor": "#78350f"
+  },
+  {
+    "id": "man-plus",
+    "title": "Man Plus",
+    "authorId": "frederik-pohl",
+    "authorName": "Frederik Pohl",
+    "publicationYear": 1976,
+    "publisher": "Random House",
+    "isbn13": "9780765321794",
+    "genres": [
+      "Science Fiction",
+      "Cyborg Sci-Fi",
+      "Biopunk"
+    ],
+    "synopsis": "Astronaut Roger Torraway is surgically transformed into an artificial monster with bat-like solar wings and red faceted eyes to allow humans to survive naked on the hostile surface of Mars.",
+    "countryOfOrigin": "United States",
+    "pageCount": 288,
+    "spineColor": "#991b1b"
+  },
+  {
+    "id": "timescape",
+    "title": "Timescape",
+    "authorId": "gregory-benford",
+    "authorName": "Gregory Benford",
+    "publicationYear": 1980,
+    "publisher": "Simon & Schuster",
+    "isbn13": "9780553297096",
+    "genres": [
+      "Science Fiction",
+      "Hard Sci-Fi",
+      "Time Travel"
+    ],
+    "synopsis": "In an ecologically collapsing 1998, scientists transmit tachyons backward across time to 1962 California to warn earlier physicists of the impending oceanic ecological doom.",
+    "countryOfOrigin": "United States",
+    "pageCount": 448,
+    "spineColor": "#1e3a8a"
+  },
+  {
+    "id": "the-claw-of-the-conciliator",
+    "title": "The Claw of the Conciliator",
+    "authorId": "gene-wolfe",
+    "authorName": "Gene Wolfe",
+    "publicationYear": 1981,
+    "publisher": "Timescape / Pocket Books",
+    "isbn13": "9780671413705",
+    "genres": [
+      "Science Fiction",
+      "Dying Earth",
+      "Literary Fantasy"
+    ],
+    "synopsis": "Severian the torturer continues his exile across dying Urth toward the northern city of Thrax, carrying the radiant healing gem known as the Claw of the Conciliator.",
+    "countryOfOrigin": "United States",
+    "pageCount": 304,
+    "spineColor": "#1e293b"
+  },
+  {
+    "id": "no-enemy-but-time",
+    "title": "No Enemy But Time",
+    "authorId": "michael-bishop",
+    "authorName": "Michael Bishop",
+    "publicationYear": 1982,
+    "publisher": "Timescape Books",
+    "isbn13": "9780671449742",
+    "genres": [
+      "Science Fiction",
+      "Anthropological Sci-Fi",
+      "Prehistoric Time Travel"
+    ],
+    "synopsis": "John Monegal, an African American who experiences lucid dreams of ancient Africa, travels two million years into the Pleistocene via time-dilation machine, living among early Homo habilis.",
+    "countryOfOrigin": "United States",
+    "pageCount": 416,
+    "spineColor": "#854d0e"
+  },
+  {
+    "id": "the-falling-woman",
+    "title": "The Falling Woman",
+    "authorId": "pat-murphy",
+    "authorName": "Pat Murphy",
+    "publicationYear": 1986,
+    "publisher": "Tor Books",
+    "isbn13": "9780812546446",
+    "genres": [
+      "Science Fiction",
+      "Archaeological Fantasy",
+      "Magical Realism"
+    ],
+    "synopsis": "At a Mayan archaeological excavation in Yucatán, archaeologist Elizabeth Butler sees visions of ancient priestesses and must choose between her estranged daughter and the spectral spirits of the past.",
+    "countryOfOrigin": "United States",
+    "pageCount": 288,
+    "spineColor": "#7c2d12"
+  },
+  {
+    "id": "falling-free",
+    "title": "Falling Free",
+    "authorId": "lois-mcmaster-bujold",
+    "authorName": "Lois McMaster Bujold",
+    "publicationYear": 1988,
+    "publisher": "Baen Books",
+    "isbn13": "9780671653989",
+    "genres": [
+      "Science Fiction",
+      "Space Opera",
+      "Genetic Engineering"
+    ],
+    "synopsis": "Welding engineer Leo Graf is assigned to teach zero-gravity construction to the \"quaddies\"—genetically engineered humans with four arms instead of legs—and organizes their escape when the corporation plans to exterminate them.",
+    "countryOfOrigin": "United States",
+    "pageCount": 304,
+    "spineColor": "#0284c7"
+  },
+  {
+    "id": "the-healers-war",
+    "title": "The Healer's War",
+    "authorId": "elizabeth-ann-scarborough",
+    "authorName": "Elizabeth Ann Scarborough",
+    "publicationYear": 1988,
+    "publisher": "Doubleday Foundation",
+    "isbn13": "9780553282276",
+    "genres": [
+      "Science Fiction",
+      "Military Fantasy",
+      "Magical Realism"
+    ],
+    "synopsis": "An American military nurse at a Vietnam evacuation hospital receives a magical amulet from a dying holy man that allows her to see human auras and heal horrific spiritual and physical wounds.",
+    "countryOfOrigin": "United States",
+    "pageCount": 308,
+    "spineColor": "#047857"
+  },
+  {
+    "id": "tehanu",
+    "title": "Tehanu",
+    "authorId": "ursula-k-le-guin",
+    "authorName": "Ursula K. Le Guin",
+    "publicationYear": 1990,
+    "publisher": "Atheneum",
+    "isbn13": "9780689846014",
+    "genres": [
+      "Fantasy",
+      "Feminist Fantasy",
+      "Earthsea"
+    ],
+    "synopsis": "Tenar adopts a horribly burned young girl named Therru on Gont, reuniting with a powerless, aging Ged in a profound feminist revisioning of Earthsea and heroic magic.",
+    "countryOfOrigin": "United States",
+    "pageCount": 288,
+    "spineColor": "#334155"
+  },
+  {
+    "id": "stations-of-the-tide",
+    "title": "Stations of the Tide",
+    "authorId": "michael-swanwick",
+    "authorName": "Michael Swanwick",
+    "publicationYear": 1991,
+    "publisher": "William Morrow and Company",
+    "isbn13": "9780380718788",
+    "genres": [
+      "Science Fiction",
+      "Planetary Fantasy",
+      "Post-Cyberpunk"
+    ],
+    "synopsis": "An unnamed Bureaucrat travels to the planet Miranda on the eve of the Jubilee Tides to apprehend a rogue magician accused of smuggling prohibited proscribed genetic technology.",
+    "countryOfOrigin": "United States",
+    "pageCount": 256,
+    "spineColor": "#0f766e"
+  },
+  {
+    "id": "red-mars",
+    "title": "Red Mars",
+    "authorId": "kim-stanley-robinson",
+    "authorName": "Kim Stanley Robinson",
+    "publicationYear": 1992,
+    "publisher": "Bantam Spectra",
+    "isbn13": "9780553560732",
+    "genres": [
+      "Science Fiction",
+      "Hard Sci-Fi",
+      "Terraforming Epic"
+    ],
+    "synopsis": "The landmark chronicle of the First Hundred colonists sent to Mars in 2026, clashing over whether to preserve the pristine red desert or terraform it into a green, living biosphere.",
+    "countryOfOrigin": "United States",
+    "pageCount": 572,
+    "spineColor": "#b91c1c"
+  },
+  {
+    "id": "moving-mars",
+    "title": "Moving Mars",
+    "authorId": "greg-bear",
+    "authorName": "Greg Bear",
+    "publicationYear": 1993,
+    "publisher": "Tor Books",
+    "isbn13": "9780812524802",
+    "genres": [
+      "Science Fiction",
+      "Hard Sci-Fi",
+      "Planetary Politics"
+    ],
+    "synopsis": "Caspar Morrow and political leader Casseia Majumdar navigate revolutionary tensions between Earth and Martian settlements, utilizing quantum physics to physically transport the entire planet.",
+    "countryOfOrigin": "United States",
+    "pageCount": 448,
+    "spineColor": "#c2410c"
+  },
+  {
+    "id": "the-terminal-experiment",
+    "title": "The Terminal Experiment",
+    "authorId": "robert-j-sawyer",
+    "authorName": "Robert J. Sawyer",
+    "publicationYear": 1995,
+    "publisher": "HarperPrism",
+    "isbn13": "9780061054907",
+    "genres": [
+      "Science Fiction",
+      "AI Thriller",
+      "Philosophy"
+    ],
+    "synopsis": "Biomedical researcher Peter Hobson creates three distinct AI computer scans of his brain—one immortal, one devoid of biology, and one baseline—until one of the three turns into a digital serial killer.",
+    "countryOfOrigin": "Canada",
+    "pageCount": 352,
+    "spineColor": "#374151"
+  },
+  {
+    "id": "slow-river",
+    "title": "Slow River",
+    "authorId": "nicola-griffith",
+    "authorName": "Nicola Griffith",
+    "publicationYear": 1995,
+    "publisher": "Del Rey / Ballantine",
+    "isbn13": "9780345395375",
+    "genres": [
+      "Science Fiction",
+      "Cyberpunk",
+      "Queer Fiction"
+    ],
+    "synopsis": "Lore Van de Oest, heiress to a powerful bio-engineered sewage treatment conglomerate, is kidnapped in Rotterdam and abandoned on the streets, surviving through data fraud and wastewater engineering.",
+    "countryOfOrigin": "United States",
+    "pageCount": 352,
+    "spineColor": "#047857"
+  },
+  {
+    "id": "the-moon-and-the-sun",
+    "title": "The Moon and the Sun",
+    "authorId": "vonda-n-mcintyre",
+    "authorName": "Vonda N. McIntyre",
+    "publicationYear": 1997,
+    "publisher": "Pocket Books",
+    "isbn13": "9780671567439",
+    "genres": [
+      "Science Fiction",
+      "Historical Fantasy",
+      "Court Drama"
+    ],
+    "synopsis": "In the court of Louis XIV at Versailles, a captured sea monster turns out to be an intelligent mermaid destined to be sacrificed for the King's immortality, prompting an impassioned rescue.",
+    "countryOfOrigin": "United States",
+    "pageCount": 416,
+    "spineColor": "#701a75"
+  },
+  {
+    "id": "darwins-radio",
+    "title": "Darwin's Radio",
+    "authorId": "greg-bear",
+    "authorName": "Greg Bear",
+    "publicationYear": 1999,
+    "publisher": "Del Rey / Ballantine",
+    "isbn13": "9780345435248",
+    "genres": [
+      "Science Fiction",
+      "Evolutionary Thriller",
+      "Hard Sci-Fi"
+    ],
+    "synopsis": "An ancient retrovirus dormant in human DNA suddenly reactivates across the globe, causing miscarriages that turn out to be the next punctuated evolutionary leap of the human species.",
+    "countryOfOrigin": "United States",
+    "pageCount": 544,
+    "spineColor": "#1e3a8a"
+  },
+  {
+    "id": "the-quantum-rose",
+    "title": "The Quantum Rose",
+    "authorId": "catherine-asaro",
+    "authorName": "Catherine Asaro",
+    "publicationYear": 2000,
+    "publisher": "Tor Books",
+    "isbn13": "9780812579987",
+    "genres": [
+      "Science Fiction",
+      "Space Opera",
+      "Science Romance"
+    ],
+    "synopsis": "On the resource-starved colony world of Lyshriol, Governor Kamuz must marry an off-world cyborg aristocrat to shield her people, using quantum scattering mechanics as a metaphor for diplomacy and love.",
+    "countryOfOrigin": "United States",
+    "pageCount": 400,
+    "spineColor": "#831843"
+  },
+  {
+    "id": "the-speed-of-dark",
+    "title": "The Speed of Dark",
+    "authorId": "elizabeth-moon",
+    "authorName": "Elizabeth Moon",
+    "publicationYear": 2002,
+    "publisher": "Ballantine Books",
+    "isbn13": "9780345447548",
+    "genres": [
+      "Science Fiction",
+      "Near-Future",
+      "Neurodiversity"
+    ],
+    "synopsis": "Lou Arrendale, an autistic bioinformatics specialist living an independent life in a near future where autism has been eliminated in infants, is pressured by corporate superiors to undergo an experimental cure.",
+    "countryOfOrigin": "United States",
+    "pageCount": 368,
+    "spineColor": "#0284c7"
+  },
+  {
+    "id": "camouflage",
+    "title": "Camouflage",
+    "authorId": "joe-haldeman",
+    "authorName": "Joe Haldeman",
+    "publicationYear": 2004,
+    "publisher": "Ace Books",
+    "isbn13": "9780441012527",
+    "genres": [
+      "Science Fiction",
+      "Alien Immersion",
+      "Marine Sci-Fi"
+    ],
+    "synopsis": "Two immortal extraterrestrial shapeshifters who have wandered Earth undetected for millions of years—one a pacifist chameleon, the other a merciless killer—converge at an oceanic archaeological recovery in Samoa.",
+    "countryOfOrigin": "United States",
+    "pageCount": 288,
+    "spineColor": "#334155"
+  },
+  {
+    "id": "seeker",
+    "title": "Seeker",
+    "authorId": "jack-mcdevitt",
+    "authorName": "Jack McDevitt",
+    "publicationYear": 2005,
+    "publisher": "Ace Books",
+    "isbn13": "9780441013753",
+    "genres": [
+      "Science Fiction",
+      "Space Archaeology",
+      "Mystery"
+    ],
+    "synopsis": "Antiquities dealer Alex Benedict discovers an authentic nine-thousand-year-old plastic cup from the Seeker, one of humanity's mythic lost colony transport ships that fled Earth in 2688.",
+    "countryOfOrigin": "United States",
+    "pageCount": 384,
+    "spineColor": "#78350f"
+  },
+  {
+    "id": "powers",
+    "title": "Powers",
+    "authorId": "ursula-k-le-guin",
+    "authorName": "Ursula K. Le Guin",
+    "publicationYear": 2007,
+    "publisher": "Harcourt",
+    "isbn13": "9780152066741",
+    "genres": [
+      "Fantasy",
+      "Philosophical Fantasy",
+      "Coming-of-Age"
+    ],
+    "synopsis": "Young house slave Gavir possesses the gift of remembering events before they happen, fleeing into the harsh wilderness after his city is destroyed to find true freedom and meaning.",
+    "countryOfOrigin": "United States",
+    "pageCount": 512,
+    "spineColor": "#475569"
+  },
+  {
+    "id": "someone-you-can-build-a-nest-in",
+    "title": "Someone You Can Build a Nest In",
+    "authorId": "john-wiswell",
+    "authorName": "John Wiswell",
+    "publicationYear": 2024,
+    "publisher": "DAW Books",
+    "isbn13": "9780756418854",
+    "genres": [
+      "Fantasy",
+      "Horror Comedy",
+      "Monster Romance"
+    ],
+    "synopsis": "Shesheshen is a shapeshifting, bone-wearing cave monster who accidentally falls in love with an amiable human woman, unaware that her lover has been sent by local hunters to slay her.",
+    "countryOfOrigin": "United States",
+    "pageCount": 304,
+    "spineColor": "#166534"
   }
 ]

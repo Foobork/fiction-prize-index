@@ -5309,5 +5309,525 @@
     "category": "Fiction",
     "citation": "Winner: Maggie O'Farrell's devastating portrait of grief behind Shakespeare's greatest play.",
     "sourceUrl": "https://www.bookcritics.org/past-awards/"
+  },
+  {
+    "id": "nom-theyd-rather-be-right-hugo-1955",
+    "prizeId": "hugo-award-novel",
+    "bookId": "theyd-rather-be-right",
+    "year": 1955,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Mark Clifton and Frank Riley's visionary cybernetic morality tale.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1955-hugo-awards/"
+  },
+  {
+    "id": "nom-double-star-hugo-1956",
+    "prizeId": "hugo-award-novel",
+    "bookId": "double-star",
+    "year": 1956,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Robert A. Heinlein's thrilling tale of theatrical impersonation and interplanetary diplomacy.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1956-hugo-awards/"
+  },
+  {
+    "id": "nom-big-time-hugo-1958",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-big-time",
+    "year": 1958,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Fritz Leiber's innovative cosmic time-war chamber drama.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1958-hugo-awards/"
+  },
+  {
+    "id": "nom-case-conscience-hugo-1959",
+    "prizeId": "hugo-award-novel",
+    "bookId": "a-case-of-conscience",
+    "year": 1959,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: James Blish's theological science fiction masterpiece.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1959-hugo-awards/"
+  },
+  {
+    "id": "nom-way-station-hugo-1964",
+    "prizeId": "hugo-award-novel",
+    "bookId": "way-station",
+    "year": 1964,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Clifford D. Simak's poetic, pastoral interstellar first-contact classic.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1964-hugo-awards/"
+  },
+  {
+    "id": "nom-wanderer-hugo-1965",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-wanderer",
+    "year": 1965,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Fritz Leiber's colorful and chaotic planetary disaster epic.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1965-hugo-awards/"
+  },
+  {
+    "id": "nom-lord-of-light-hugo-1968",
+    "prizeId": "hugo-award-novel",
+    "bookId": "lord-of-light",
+    "year": 1968,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Roger Zelazny's magnificent mythological sci-fi rebellion.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1968-hugo-awards/"
+  },
+  {
+    "id": "nom-stand-zanzibar-hugo-1969",
+    "prizeId": "hugo-award-novel",
+    "bookId": "stand-on-zanzibar",
+    "year": 1969,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: John Brunner's dazzling New Wave collage predicting twenty-first-century overload.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1969-hugo-awards/"
+  },
+  {
+    "id": "nom-to-scattered-bodies-hugo-1972",
+    "prizeId": "hugo-award-novel",
+    "bookId": "to-your-scattered-bodies-go",
+    "year": 1972,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Philip José Farmer's iconic Riverworld adventure resurrecting all of humanity.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1972-hugo-awards/"
+  },
+  {
+    "id": "nom-sweet-birds-sang-hugo-1977",
+    "prizeId": "hugo-award-novel",
+    "bookId": "where-late-the-sweet-birds-sang",
+    "year": 1977,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Kate Wilhelm's haunting post-apocalyptic exploration of cloning and individuality.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1977-hugo-awards/"
+  },
+  {
+    "id": "nom-snow-queen-hugo-1981",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-snow-queen",
+    "year": 1981,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Joan D. Vinge's lush, sprawling planetary space opera.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1981-hugo-awards/"
+  },
+  {
+    "id": "nom-downbelow-station-hugo-1982",
+    "prizeId": "hugo-award-novel",
+    "bookId": "downbelow-station",
+    "year": 1982,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: C. J. Cherryh's intense, realistic military and political station drama.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1982-hugo-awards/"
+  },
+  {
+    "id": "nom-foundations-edge-hugo-1983",
+    "prizeId": "hugo-award-novel",
+    "bookId": "foundations-edge",
+    "year": 1983,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Isaac Asimov's triumphant return to the galactic Foundation saga.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1983-hugo-awards/"
+  },
+  {
+    "id": "nom-uplift-war-hugo-1988",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-uplift-war",
+    "year": 1988,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: David Brin's action-packed Uplift guerrilla conflict on Garth.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1988-hugo-awards/"
+  },
+  {
+    "id": "nom-cyteen-hugo-1989",
+    "prizeId": "hugo-award-novel",
+    "bookId": "cyteen",
+    "year": 1989,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: C. J. Cherryh's towering bio-engineering and political intrigue opus.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1989-hugo-awards/"
+  },
+  {
+    "id": "nom-vor-game-hugo-1991",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-vor-game",
+    "year": 1991,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Lois McMaster Bujold's military coming-of-age classic for Miles Vorkosigan.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1991-hugo-awards/"
+  },
+  {
+    "id": "nom-barrayar-hugo-1992",
+    "prizeId": "hugo-award-novel",
+    "bookId": "barrayar",
+    "year": 1992,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Lois McMaster Bujold's fiercely emotional chronicle of maternal defense and civil war.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1992-hugo-awards/"
+  },
+  {
+    "id": "nom-mirror-dance-hugo-1995",
+    "prizeId": "hugo-award-novel",
+    "bookId": "mirror-dance",
+    "year": 1995,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Lois McMaster Bujold's harrowing and redemptive dual-brother space opera.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1995-hugo-awards/"
+  },
+  {
+    "id": "nom-blue-mars-hugo-1997",
+    "prizeId": "hugo-award-novel",
+    "bookId": "blue-mars",
+    "year": 1997,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Kim Stanley Robinson's grand culmination of the terraformed Mars saga.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1997-hugo-awards/"
+  },
+  {
+    "id": "nom-forever-peace-hugo-1998",
+    "prizeId": "hugo-award-novel",
+    "bookId": "forever-peace",
+    "year": 1998,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Joe Haldeman's profound dual Hugo and Nebula champion of war and peace.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1998-hugo-awards/"
+  },
+  {
+    "id": "nom-to-say-nothing-hugo-1999",
+    "prizeId": "hugo-award-novel",
+    "bookId": "to-say-nothing-of-the-dog",
+    "year": 1999,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Connie Willis's delightful, laugh-out-loud Victorian time-travel caper.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/1999-hugo-awards/"
+  },
+  {
+    "id": "nom-deepness-sky-hugo-2000",
+    "prizeId": "hugo-award-novel",
+    "bookId": "a-deepness-in-the-sky",
+    "year": 2000,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Vernor Vinge's staggering space opera of computational mastery and alien evolution.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2000-hugo-awards/"
+  },
+  {
+    "id": "nom-harry-potter-4-hugo-2001",
+    "prizeId": "hugo-award-novel",
+    "bookId": "harry-potter-and-the-goblet-of-fire",
+    "year": 2001,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: J. K. Rowling's pivotal fantasy epic marking the return of darkness.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2001-hugo-awards/"
+  },
+  {
+    "id": "nom-hominids-hugo-2003",
+    "prizeId": "hugo-award-novel",
+    "bookId": "hominids",
+    "year": 2003,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Robert J. Sawyer's thoughtful parallel-world Neanderthal thought experiment.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2003-hugo-awards/"
+  },
+  {
+    "id": "nom-spin-hugo-2006",
+    "prizeId": "hugo-award-novel",
+    "bookId": "spin",
+    "year": 2006,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Robert Charles Wilson's awe-inspiring cosmic time-dilation mystery.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2006-hugo-awards/"
+  },
+  {
+    "id": "nom-rainbows-end-hugo-2007",
+    "prizeId": "hugo-award-novel",
+    "bookId": "rainbows-end",
+    "year": 2007,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Vernor Vinge's near-future augmented reality technological vision.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2007-hugo-awards/"
+  },
+  {
+    "id": "nom-graveyard-book-hugo-2009",
+    "prizeId": "hugo-award-novel",
+    "bookId": "the-graveyard-book",
+    "year": 2009,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Neil Gaiman's magical and haunting gothic coming-of-age classic.",
+    "sourceUrl": "https://www.thehugoawards.org/hugo-history/2009-hugo-awards/"
+  },
+  {
+    "id": "nom-einstein-intersection-nebula-1967",
+    "prizeId": "nebula-award-novel",
+    "bookId": "the-einstein-intersection",
+    "year": 1967,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Samuel R. Delany's lyrical, mythological post-human journey.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1967/"
+  },
+  {
+    "id": "nom-rite-passage-nebula-1968",
+    "prizeId": "nebula-award-novel",
+    "bookId": "rite-of-passage",
+    "year": 1968,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Alexei Panshin's thoughtful generational-ship coming-of-age survival tale.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1968/"
+  },
+  {
+    "id": "nom-time-changes-nebula-1971",
+    "prizeId": "nebula-award-novel",
+    "bookId": "a-time-of-changes",
+    "year": 1971,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Robert Silverberg's lyrical exploration of selfhood and intimacy.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1971/"
+  },
+  {
+    "id": "nom-man-plus-nebula-1976",
+    "prizeId": "nebula-award-novel",
+    "bookId": "man-plus",
+    "year": 1976,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Frederik Pohl's bio-engineering tour de force of cyborg transformation.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1976/"
+  },
+  {
+    "id": "nom-timescape-nebula-1980",
+    "prizeId": "nebula-award-novel",
+    "bookId": "timescape",
+    "year": 1980,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Gregory Benford's brilliant hard-SF tachyon time communication epic.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1980/"
+  },
+  {
+    "id": "nom-claw-conciliator-nebula-1981",
+    "prizeId": "nebula-award-novel",
+    "bookId": "the-claw-of-the-conciliator",
+    "year": 1981,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Gene Wolfe's incomparable masterpiece of Dying Earth prose.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1981/"
+  },
+  {
+    "id": "nom-no-enemy-time-nebula-1982",
+    "prizeId": "nebula-award-novel",
+    "bookId": "no-enemy-but-time",
+    "year": 1982,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Michael Bishop's empathetic prehistoric anthropological journey.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1982/"
+  },
+  {
+    "id": "nom-falling-woman-nebula-1987",
+    "prizeId": "nebula-award-novel",
+    "bookId": "the-falling-woman",
+    "year": 1987,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Pat Murphy's haunting archaeological ghost fantasy.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1987/"
+  },
+  {
+    "id": "nom-falling-free-nebula-1988",
+    "prizeId": "nebula-award-novel",
+    "bookId": "falling-free",
+    "year": 1988,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Lois McMaster Bujold's zero-g genetic engineering liberation epic.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1988/"
+  },
+  {
+    "id": "nom-healers-war-nebula-1989",
+    "prizeId": "nebula-award-novel",
+    "bookId": "the-healers-war",
+    "year": 1989,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Elizabeth Ann Scarborough's mystical healing drama set in wartime Vietnam.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1989/"
+  },
+  {
+    "id": "nom-tehanu-nebula-1990",
+    "prizeId": "nebula-award-novel",
+    "bookId": "tehanu",
+    "year": 1990,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Ursula K. Le Guin's deeply moving and feminist Earthsea return.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1990/"
+  },
+  {
+    "id": "nom-stations-tide-nebula-1991",
+    "prizeId": "nebula-award-novel",
+    "bookId": "stations-of-the-tide",
+    "year": 1991,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Michael Swanwick's lush, enigmatic planetary fantasy.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1991/"
+  },
+  {
+    "id": "nom-red-mars-nebula-1993",
+    "prizeId": "nebula-award-novel",
+    "bookId": "red-mars",
+    "year": 1993,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Kim Stanley Robinson's seminal hard-science terraforming epic.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1993/"
+  },
+  {
+    "id": "nom-moving-mars-nebula-1994",
+    "prizeId": "nebula-award-novel",
+    "bookId": "moving-mars",
+    "year": 1994,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Greg Bear's grand political and quantum physics Martian revolution.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1994/"
+  },
+  {
+    "id": "nom-terminal-experiment-nebula-1995",
+    "prizeId": "nebula-award-novel",
+    "bookId": "the-terminal-experiment",
+    "year": 1995,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Robert J. Sawyer's gripping near-future electronic soul mystery.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1995/"
+  },
+  {
+    "id": "nom-slow-river-nebula-1996",
+    "prizeId": "nebula-award-novel",
+    "bookId": "slow-river",
+    "year": 1996,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Nicola Griffith's stylish, emotionally raw post-cyberpunk classic.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1996/"
+  },
+  {
+    "id": "nom-moon-sun-nebula-1997",
+    "prizeId": "nebula-award-novel",
+    "bookId": "the-moon-and-the-sun",
+    "year": 1997,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Vonda N. McIntyre's sumptuous historical fantasy at the court of Versailles.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1997/"
+  },
+  {
+    "id": "nom-forever-peace-nebula-1998",
+    "prizeId": "nebula-award-novel",
+    "bookId": "forever-peace",
+    "year": 1998,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Dual Hugo and Nebula crown for Joe Haldeman's profound anti-war vision.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/1998/"
+  },
+  {
+    "id": "nom-darwins-radio-nebula-2000",
+    "prizeId": "nebula-award-novel",
+    "bookId": "darwins-radio",
+    "year": 2000,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Greg Bear's brilliant biological thriller of human speciation.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2000/"
+  },
+  {
+    "id": "nom-quantum-rose-nebula-2001",
+    "prizeId": "nebula-award-novel",
+    "bookId": "the-quantum-rose",
+    "year": 2001,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Catherine Asaro's sophisticated fusion of mathematical physics and space romance.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2001/"
+  },
+  {
+    "id": "nom-speed-dark-nebula-2003",
+    "prizeId": "nebula-award-novel",
+    "bookId": "the-speed-of-dark",
+    "year": 2003,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Elizabeth Moon's compassionate near-future exploration of autism and human identity.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2003/"
+  },
+  {
+    "id": "nom-camouflage-nebula-2005",
+    "prizeId": "nebula-award-novel",
+    "bookId": "camouflage",
+    "year": 2005,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Joe Haldeman's gripping shapeshifting alien mystery in the South Pacific.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2005/"
+  },
+  {
+    "id": "nom-seeker-nebula-2006",
+    "prizeId": "nebula-award-novel",
+    "bookId": "seeker",
+    "year": 2006,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Jack McDevitt's engaging space archaeology mystery of a lost colony.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2006/"
+  },
+  {
+    "id": "nom-powers-nebula-2008",
+    "prizeId": "nebula-award-novel",
+    "bookId": "powers",
+    "year": 2008,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: Ursula K. Le Guin's wise and poetic journey of enslavement and liberation.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2008/"
+  },
+  {
+    "id": "nom-build-nest-nebula-2025",
+    "prizeId": "nebula-award-novel",
+    "bookId": "someone-you-can-build-a-nest-in",
+    "year": 2025,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "Winner: John Wiswell's hilariously tender monster romance and dark fantasy.",
+    "sourceUrl": "https://nebulas.sfwa.org/award-year/2025/"
   }
 ]
