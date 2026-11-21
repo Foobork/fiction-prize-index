@@ -2209,5 +2209,840 @@
     "pageCount": 288,
     "spineColor": "#047857",
     "countryOfOrigin": "Taiwan"
+  },
+  {
+    "id": "the-age-of-innocence",
+    "title": "The Age of Innocence",
+    "authorId": "edith-wharton",
+    "authorName": "Edith Wharton",
+    "publicationYear": 1920,
+    "publisher": "D. Appleton & Company",
+    "genres": [
+      "Gilded Age",
+      "Classics",
+      "Tragic Romance"
+    ],
+    "synopsis": "In 1870s high-society New York, Newland Archer must choose between a socially advantageous marriage and his scandalous passion for Countess Ellen Olenska.",
+    "pageCount": 304,
+    "spineColor": "#831843",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-magnificent-ambersons",
+    "title": "The Magnificent Ambersons",
+    "authorId": "booth-tarkington",
+    "authorName": "Booth Tarkington",
+    "publicationYear": 1918,
+    "publisher": "Doubleday, Page & Co.",
+    "genres": [
+      "Family Saga",
+      "Midwest",
+      "Industrialization"
+    ],
+    "synopsis": "The decline of a proud, wealthy aristocratic Indianapolis family eclipsed by the rise of the automobile and industrial wealth.",
+    "pageCount": 336,
+    "spineColor": "#78350f",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-bridge-of-san-luis-rey",
+    "title": "The Bridge of San Luis Rey",
+    "authorId": "thornton-wilder",
+    "authorName": "Thornton Wilder",
+    "publicationYear": 1927,
+    "publisher": "Albert & Charles Boni",
+    "genres": [
+      "Philosophical",
+      "Fate",
+      "Historical"
+    ],
+    "synopsis": "When an ancient Incan rope bridge collapses in 18th-century Peru sending five travelers to their deaths, a Franciscan friar investigates whether it was divine providence or chance.",
+    "pageCount": 160,
+    "spineColor": "#b45309",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-good-earth",
+    "title": "The Good Earth",
+    "authorId": "pearl-s-buck",
+    "authorName": "Pearl S. Buck",
+    "publicationYear": 1931,
+    "publisher": "John Day Company",
+    "genres": [
+      "Historical Fiction",
+      "Chinese History",
+      "Generational Saga"
+    ],
+    "synopsis": "The epic dramatization of rural Chinese peasant Wang Lung and his stoic wife O-Lan, charting their struggle from famine to immense land wealth.",
+    "pageCount": 352,
+    "spineColor": "#ca8a04",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-grapes-of-wrath",
+    "title": "The Grapes of Wrath",
+    "authorId": "john-steinbeck",
+    "authorName": "John Steinbeck",
+    "publicationYear": 1939,
+    "publisher": "Viking Press",
+    "genres": [
+      "Great Depression",
+      "American Epic",
+      "Social Protest"
+    ],
+    "synopsis": "Driven from their Oklahoma farm by drought and economic ruin, the Joad family joins thousands of Dust Bowl refugees journeying along Route 66 to California.",
+    "pageCount": 464,
+    "spineColor": "#15803d",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "all-the-kings-men",
+    "title": "All the King's Men",
+    "authorId": "robert-penn-warren",
+    "authorName": "Robert Penn Warren",
+    "publicationYear": 1946,
+    "publisher": "Harcourt, Brace & Co.",
+    "genres": [
+      "Political Fiction",
+      "Southern Gothic",
+      "Tragedy"
+    ],
+    "synopsis": "Narrated by political reporter Jack Burden, tracing the meteoric rise and moral corruption of populist Southern governor Willie Stark.",
+    "pageCount": 448,
+    "spineColor": "#1e3a8a",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "tales-of-the-south-pacific",
+    "title": "Tales of the South Pacific",
+    "authorId": "james-a-michener",
+    "authorName": "James A. Michener",
+    "publicationYear": 1947,
+    "publisher": "Macmillan",
+    "genres": [
+      "WWII",
+      "Pacific Theater",
+      "Linked Stories"
+    ],
+    "synopsis": "A collection of nineteen interconnected stories capturing the lives, boredom, romance, and courage of US sailors, Marines, and islanders during WWII.",
+    "pageCount": 384,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-caine-mutiny",
+    "title": "The Caine Mutiny",
+    "authorId": "herman-wouk",
+    "authorName": "Herman Wouk",
+    "publicationYear": 1951,
+    "publisher": "Doubleday",
+    "genres": [
+      "Naval Fiction",
+      "WWII",
+      "Courtroom Drama"
+    ],
+    "synopsis": "Aboard an obsolete US Navy minesweeper in the Pacific, junior officers relieve their paranoid, neurotic commander Captain Queeg of duty during a typhoon.",
+    "pageCount": 560,
+    "spineColor": "#1e293b",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-old-man-and-the-sea",
+    "title": "The Old Man and the Sea",
+    "authorId": "ernest-hemingway",
+    "authorName": "Ernest Hemingway",
+    "publicationYear": 1952,
+    "publisher": "Charles Scribner's Sons",
+    "genres": [
+      "Novella",
+      "Maritime",
+      "Existential"
+    ],
+    "synopsis": "An aging Cuban fisherman named Santiago endures an agonizing, heroic battle in the Gulf Stream against a giant marlin and marauding sharks.",
+    "pageCount": 128,
+    "spineColor": "#0369a1",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "a-fable",
+    "title": "A Fable",
+    "authorId": "william-faulkner",
+    "authorName": "William Faulkner",
+    "publicationYear": 1954,
+    "publisher": "Random House",
+    "genres": [
+      "War",
+      "Modernist",
+      "Allegory"
+    ],
+    "synopsis": "A complex allegorical WWI novel transposing the Passion of Christ into a mutiny on the Western Front led by a corporal and twelve followers.",
+    "pageCount": 448,
+    "spineColor": "#475569",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "to-kill-a-mockingbird",
+    "title": "To Kill a Mockingbird",
+    "authorId": "harper-lee",
+    "authorName": "Harper Lee",
+    "publicationYear": 1960,
+    "publisher": "J. B. Lippincott & Co.",
+    "genres": [
+      "Southern Gothic",
+      "Coming of Age",
+      "Courtroom Drama"
+    ],
+    "synopsis": "In 1930s Maycomb, Alabama, young Scout Finch watches her lawyer father Atticus defend Tom Robinson, a Black man falsely accused of raping a white woman.",
+    "pageCount": 336,
+    "spineColor": "#065f46",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-reivers",
+    "title": "The Reivers",
+    "authorId": "william-faulkner",
+    "authorName": "William Faulkner",
+    "publicationYear": 1962,
+    "publisher": "Random House",
+    "genres": [
+      "Picaresque",
+      "Coming of Age",
+      "Southern"
+    ],
+    "synopsis": "In 1905, eleven-year-old Lucius Priest and two companions steal his grandfather's car to take a four-day joyride to a Memphis brothel and horse race.",
+    "pageCount": 320,
+    "spineColor": "#b45309",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-fixer",
+    "title": "The Fixer",
+    "authorId": "bernard-malamud",
+    "authorName": "Bernard Malamud",
+    "publicationYear": 1966,
+    "publisher": "Farrar, Straus and Giroux",
+    "genres": [
+      "Historical Fiction",
+      "Antisemitism",
+      "Incarceration"
+    ],
+    "synopsis": "In Tsarist Russia, Yakov Bok, a poor Jewish handyman, is unjustly imprisoned and tortured under false accusations of ritual murder.",
+    "pageCount": 352,
+    "spineColor": "#334155",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-confessions-of-nat-turner",
+    "title": "The Confessions of Nat Turner",
+    "authorId": "william-styron",
+    "authorName": "William Styron",
+    "publicationYear": 1967,
+    "publisher": "Random House",
+    "genres": [
+      "Historical Fiction",
+      "Slavery",
+      "Rebellion"
+    ],
+    "synopsis": "A fictional first-person account of Nat Turner as he sits in a Virginia jail cell awaiting execution for leading the bloody 1831 slave rebellion.",
+    "pageCount": 448,
+    "spineColor": "#450a0a",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "house-made-of-dawn",
+    "title": "House Made of Dawn",
+    "authorId": "n-scott-momaday",
+    "authorName": "N. Scott Momaday",
+    "publicationYear": 1968,
+    "publisher": "Harper & Row",
+    "genres": [
+      "Native American",
+      "Post-War",
+      "Lyrical"
+    ],
+    "synopsis": "Young Abel returns to his New Mexico pueblo traumatized after World War II, caught between traditional Kiowa identity and the alienating urban world.",
+    "pageCount": 224,
+    "spineColor": "#047857",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "angle-of-repose",
+    "title": "Angle of Repose",
+    "authorId": "wallace-stegner",
+    "authorName": "Wallace Stegner",
+    "publicationYear": 1971,
+    "publisher": "Doubleday",
+    "genres": [
+      "Western",
+      "Historical Fiction",
+      "Marriage"
+    ],
+    "synopsis": "A wheelchair-bound historian reconstructs the turbulent frontier marriage of his pioneer grandparents across California and Idaho mining camps.",
+    "pageCount": 576,
+    "spineColor": "#78350f",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-killer-angels",
+    "title": "The Killer Angels",
+    "authorId": "michael-shaara",
+    "authorName": "Michael Shaara",
+    "publicationYear": 1974,
+    "publisher": "David McKay Co.",
+    "genres": [
+      "Civil War",
+      "Military",
+      "Historical"
+    ],
+    "synopsis": "The four fateful days of the Battle of Gettysburg in July 1863, told through the perspectives of Confederate and Union commanders.",
+    "pageCount": 384,
+    "spineColor": "#1e1b4b",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "humboldts-gift",
+    "title": "Humboldt's Gift",
+    "authorId": "saul-bellow",
+    "authorName": "Saul Bellow",
+    "nationality": "American",
+    "publicationYear": 1975,
+    "publisher": "Viking Press",
+    "genres": [
+      "Literary Fiction",
+      "Satire",
+      "Intellectual"
+    ],
+    "synopsis": "Playwright Charlie Citrine reflects on his friendship with the brilliant, manic poet Von Humboldt Fleisher, receiving an unexpected posthumous legacy.",
+    "pageCount": 496,
+    "spineColor": "#d97706",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "a-confederacy-of-dunces",
+    "title": "A Confederacy of Dunces",
+    "authorId": "john-kennedy-toole",
+    "authorName": "John Kennedy Toole",
+    "publicationYear": 1980,
+    "publisher": "Louisiana State University Press",
+    "genres": [
+      "Picaresque",
+      "Comedy",
+      "New Orleans"
+    ],
+    "synopsis": "The misadventures of Ignatius J. Reilly, an eccentric, flatulent, medievalist philosopher forced to take odd jobs across 1960s New Orleans.",
+    "pageCount": 416,
+    "spineColor": "#059669",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "rabbit-is-rich",
+    "title": "Rabbit Is Rich",
+    "authorId": "john-updike",
+    "authorName": "John Updike",
+    "publicationYear": 1981,
+    "publisher": "Knopf",
+    "genres": [
+      "Suburban",
+      "Domestic",
+      "1970s America"
+    ],
+    "synopsis": "Harry 'Rabbit' Angstrom is middle-aged, prosperous, and running a Toyota dealership during the 1979 energy crisis, until ghosts of the past resurface.",
+    "pageCount": 480,
+    "spineColor": "#b45309",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-color-purple",
+    "title": "The Color Purple",
+    "authorId": "alice-walker",
+    "authorName": "Alice Walker",
+    "publicationYear": 1982,
+    "publisher": "Harcourt Brace Jovanovich",
+    "genres": [
+      "Epistolary",
+      "Feminist",
+      "African American"
+    ],
+    "synopsis": "Through letters written to God and her sister, impoverished Southern Black girl Celie survives decades of abuse and discovers love and empowerment.",
+    "pageCount": 304,
+    "spineColor": "#581c87",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "lonesome-dove",
+    "title": "Lonesome Dove",
+    "authorId": "larry-mcmurtry",
+    "authorName": "Larry McMurtry",
+    "publicationYear": 1985,
+    "publisher": "Simon & Schuster",
+    "genres": [
+      "Western Epic",
+      "Adventure",
+      "Friendship"
+    ],
+    "synopsis": "Two aging Texas Rangers lead an epic cattle drive from the dusty Rio Grande to the untamed wilderness of Montana.",
+    "pageCount": 864,
+    "spineColor": "#854d0e",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "rabbit-at-rest",
+    "title": "Rabbit at Rest",
+    "authorId": "john-updike",
+    "authorName": "John Updike",
+    "publicationYear": 1990,
+    "publisher": "Knopf",
+    "genres": [
+      "Mortality",
+      "Suburban",
+      "Tragicomedy"
+    ],
+    "synopsis": "In the final installment of the Rabbit tetralogy, Harry Angstrom confronts declining health, heart failure, and familial unraveling in late 1980s Florida.",
+    "pageCount": 528,
+    "spineColor": "#991b1b",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "american-pastoral",
+    "title": "American Pastoral",
+    "authorId": "philip-roth",
+    "authorName": "Philip Roth",
+    "publicationYear": 1997,
+    "publisher": "Houghton Mifflin",
+    "genres": [
+      "Tragedy",
+      "1960s Politics",
+      "Jewish American"
+    ],
+    "synopsis": "Seymour 'Swede' Levov, a Newark athletic idol and prosperous glove manufacturer, watches his American dream shattered when his daughter bombs a local post office in anti-war protest.",
+    "pageCount": 432,
+    "spineColor": "#1e3a8a",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-hours",
+    "title": "The Hours",
+    "authorId": "michael-cunningham",
+    "authorName": "Michael Cunningham",
+    "publicationYear": 1998,
+    "publisher": "Farrar, Straus and Giroux",
+    "genres": [
+      "Polyphonic",
+      "Queer Literature",
+      "Literary Homage"
+    ],
+    "synopsis": "Three generations of women affected by Virginia Woolf's Mrs. Dalloway: Woolf herself in 1923, a 1949 post-war housewife, and a 1990s editor in Manhattan.",
+    "pageCount": 240,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "interpreter-of-maladies",
+    "title": "Interpreter of Maladies",
+    "authorId": "jhumpa-lahiri",
+    "authorName": "Jhumpa Lahiri",
+    "publicationYear": 1999,
+    "publisher": "Houghton Mifflin",
+    "genres": [
+      "Short Stories",
+      "Diaspora",
+      "Indian American"
+    ],
+    "synopsis": "Nine luminous stories exploring emotional dislocation, marital secrets, and cultural navigation among Indians and Indian Americans.",
+    "pageCount": 208,
+    "spineColor": "#ca8a04",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "empire-falls",
+    "title": "Empire Falls",
+    "authorId": "richard-russo",
+    "authorName": "Richard Russo",
+    "publicationYear": 2001,
+    "publisher": "Knopf",
+    "genres": [
+      "Small Town",
+      "Working Class",
+      "Maine"
+    ],
+    "synopsis": "Miles Roby manages the Empire Grill in a declining Maine mill town dominated by a ruthless matriarch, balancing family dreams and sudden violence.",
+    "pageCount": 496,
+    "spineColor": "#475569",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-known-world",
+    "title": "The Known World",
+    "authorId": "edward-p-jones",
+    "authorName": "Edward P. Jones",
+    "publicationYear": 2003,
+    "publisher": "Amistad",
+    "imprint": "HarperCollins",
+    "genres": [
+      "Historical Fiction",
+      "Slavery",
+      "Virginia"
+    ],
+    "synopsis": "In antebellum Virginia, Henry Townsend, a Black farmer and former slave, becomes a slaveholder under the guidance of his white mentor, unravelling moral complexities.",
+    "pageCount": 400,
+    "spineColor": "#1c1917",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "olive-kitteridge",
+    "title": "Olive Kitteridge",
+    "authorId": "elizabeth-strout",
+    "authorName": "Elizabeth Strout",
+    "publicationYear": 2008,
+    "publisher": "Random House",
+    "genres": [
+      "Linked Stories",
+      "Maine",
+      "Character Study"
+    ],
+    "synopsis": "Thirteen interconnected stories centered on blunt, compassionate retired schoolteacher Olive Kitteridge in coastal Crosby, Maine.",
+    "pageCount": 288,
+    "spineColor": "#0f766e",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-orphan-masters-son",
+    "title": "The Orphan Master's Son",
+    "authorId": "adam-johnson",
+    "authorName": "Adam Johnson",
+    "publicationYear": 2012,
+    "publisher": "Random House",
+    "genres": [
+      "Totalitarianism",
+      "Dystopian Reality",
+      "North Korea"
+    ],
+    "synopsis": "An orphan raised in North Korea navigates shifting roles as tunnel soldier, kidnapper, radio spy, and imposter across a surreal totalitarian state.",
+    "pageCount": 464,
+    "spineColor": "#b91c1c",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "invisible-man",
+    "title": "Invisible Man",
+    "authorId": "ralph-ellison",
+    "authorName": "Ralph Ellison",
+    "publicationYear": 1952,
+    "publisher": "Random House",
+    "genres": [
+      "Masterpiece",
+      "African American",
+      "Existential"
+    ],
+    "synopsis": "A nameless Black narrator addresses the reader from an underground coal cellar illuminated by 1,369 lightbulbs, recounting his invisibility in racist America.",
+    "pageCount": 592,
+    "spineColor": "#18181b",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-adventures-of-augie-march",
+    "title": "The Adventures of Augie March",
+    "authorId": "saul-bellow",
+    "authorName": "Saul Bellow",
+    "publicationYear": 1953,
+    "publisher": "Viking Press",
+    "genres": [
+      "Picaresque",
+      "Chicago",
+      "Great Depression"
+    ],
+    "synopsis": "'I am an American, Chicago born...' Augie March grows up in poverty during the Depression, dodging domestic traps and wandering the world on his own terms.",
+    "pageCount": 544,
+    "spineColor": "#d97706",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-man-with-the-golden-arm",
+    "title": "The Man with the Golden Arm",
+    "authorId": "nelson-algren",
+    "authorName": "Nelson Algren",
+    "publicationYear": 1949,
+    "publisher": "Doubleday",
+    "genres": [
+      "Noir",
+      "Chicago",
+      "Addiction"
+    ],
+    "synopsis": "Inaugural National Book Award winner: Frankie Machine, a card dealer and morphine addict on Chicago's gritty West Side, dreams of becoming a jazz drummer.",
+    "pageCount": 352,
+    "spineColor": "#334155",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "from-here-to-eternity",
+    "title": "From Here to Eternity",
+    "authorId": "james-jones",
+    "authorName": "James Jones",
+    "publicationYear": 1951,
+    "publisher": "Charles Scribner's Sons",
+    "genres": [
+      "Military",
+      "WWII",
+      "Hawaii"
+    ],
+    "synopsis": "The raw, brutal realities of life in a peacetime US Army infantry company stationed in Oahu in the months leading up to the attack on Pearl Harbor.",
+    "pageCount": 864,
+    "spineColor": "#1e3a8a",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "goodbye-columbus",
+    "title": "Goodbye, Columbus",
+    "authorId": "philip-roth",
+    "authorName": "Philip Roth",
+    "publicationYear": 1959,
+    "publisher": "Houghton Mifflin",
+    "genres": [
+      "Novella",
+      "Class",
+      "Jewish American"
+    ],
+    "synopsis": "Roth's sensational debut: A working-class Newark boy falls in love with an affluent Radcliffe student in suburban New Jersey over one fateful summer.",
+    "pageCount": 160,
+    "spineColor": "#831843",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-moviegoer",
+    "title": "The Moviegoer",
+    "authorId": "walker-percy",
+    "authorName": "Walker Percy",
+    "publicationYear": 1961,
+    "publisher": "Alfred A. Knopf",
+    "genres": [
+      "Existential",
+      "Southern",
+      "New Orleans"
+    ],
+    "synopsis": "During Mardi Gras in New Orleans, 29-year-old stockbroker Binx Bolling undertakes an existential 'search' to awaken from the malaise of modern everyday life.",
+    "pageCount": 256,
+    "spineColor": "#065f46",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "herzog",
+    "title": "Herzog",
+    "authorId": "saul-bellow",
+    "authorName": "Saul Bellow",
+    "publicationYear": 1964,
+    "publisher": "Viking Press",
+    "genres": [
+      "Epistolary",
+      "Satire",
+      "Intellectual"
+    ],
+    "synopsis": "Moses Herzog, a cuckolded and spiraling academic, composes unmailed, brilliant letters to the living and dead, from ex-wives to Nietzsche and God.",
+    "pageCount": 352,
+    "spineColor": "#b45309",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "them",
+    "title": "them",
+    "authorId": "joyce-carol-oates",
+    "authorName": "Joyce Carol Oates",
+    "publicationYear": 1969,
+    "publisher": "Vanguard Press",
+    "genres": [
+      "Family Saga",
+      "Detroit",
+      "Social Realism"
+    ],
+    "synopsis": "Three decades in the turbulent, impoverished lives of a working-class Detroit mother and her two children, culminating in the 1967 Detroit riots.",
+    "pageCount": 512,
+    "spineColor": "#991b1b",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "gravitys-rainbow",
+    "title": "Gravity's Rainbow",
+    "authorId": "thomas-pynchon",
+    "authorName": "Thomas Pynchon",
+    "publicationYear": 1973,
+    "publisher": "Viking Press",
+    "genres": [
+      "Postmodern Epic",
+      "WWII",
+      "Encyclopedic"
+    ],
+    "synopsis": "Set in Europe at the end of WWII, tracing American lieutenant Tyrone Slothrop and the elusive V-2 rocket in a colossal, paranoid labyrinth of science, sex, and conspiracy.",
+    "pageCount": 776,
+    "spineColor": "#1e1b4b",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "j-r",
+    "title": "J R",
+    "authorId": "william-gaddis",
+    "authorName": "William Gaddis",
+    "publicationYear": 1975,
+    "publisher": "Alfred A. Knopf",
+    "genres": [
+      "Experimental",
+      "Dialogue",
+      "Wall Street Satire"
+    ],
+    "synopsis": "Told almost exclusively through dialogue with no attribution: An eleven-year-old Long Island schoolboy builds a multi-million-dollar paper business empire from a school payphone.",
+    "pageCount": 736,
+    "spineColor": "#047857",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "going-after-cacciato",
+    "title": "Going After Cacciato",
+    "authorId": "tim-obrien",
+    "authorName": "Tim O'Brien",
+    "publicationYear": 1978,
+    "publisher": "Delacorte Press",
+    "genres": [
+      "Vietnam War",
+      "Magical Realism",
+      "Anti-War"
+    ],
+    "synopsis": "When a soldier deserts his unit in Vietnam to walk 8,600 miles to Paris, his squad tracks him across real and imagined landscapes of war and peace.",
+    "pageCount": 352,
+    "spineColor": "#15803d",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "white-noise",
+    "title": "White Noise",
+    "authorId": "don-delillo",
+    "authorName": "Don DeLillo",
+    "publicationYear": 1985,
+    "publisher": "Viking",
+    "genres": [
+      "Satire",
+      "Consumerism",
+      "Postmodern"
+    ],
+    "synopsis": "Jack Gladney, chairman of Hitler studies at a Midwest college, confronts suburban consumerism, media saturation, and mortality during an 'Airborne Toxic Event'.",
+    "pageCount": 336,
+    "spineColor": "#334155",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "all-the-pretty-horses",
+    "title": "All the Pretty Horses",
+    "authorId": "cormac-mccarthy",
+    "authorName": "Cormac McCarthy",
+    "publicationYear": 1992,
+    "publisher": "Knopf",
+    "genres": [
+      "Western",
+      "Coming of Age",
+      "Border Trilogy"
+    ],
+    "synopsis": "In 1949 Texas, sixteen-year-old John Grady Cole rides horseback into Mexico with a friend, discovering romantic cowboy dreams crushed by brutality.",
+    "pageCount": 320,
+    "spineColor": "#78350f",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "waiting",
+    "title": "Waiting",
+    "authorId": "ha-jin",
+    "authorName": "Ha Jin",
+    "publicationYear": 1999,
+    "publisher": "Pantheon Books",
+    "genres": [
+      "Historical Fiction",
+      "Cultural Revolution",
+      "Patience"
+    ],
+    "synopsis": "Every summer for eighteen years, army doctor Lin Kong returns to his village to divorce his arranged wife, trapped by bureaucratic and emotional inertia.",
+    "pageCount": 320,
+    "spineColor": "#b91c1c",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-corrections",
+    "title": "The Corrections",
+    "authorId": "jonathan-franzen",
+    "authorName": "Jonathan Franzen",
+    "publicationYear": 2001,
+    "publisher": "Farrar, Straus and Giroux",
+    "genres": [
+      "Family Saga",
+      "Social Realism",
+      "Satire"
+    ],
+    "synopsis": "The Lambert family—an aging Midwestern couple and their three troubled adult children—try to assemble for one last Christmas at home as their father descends into Parkinson's.",
+    "pageCount": 576,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "the-echo-maker",
+    "title": "The Echo Maker",
+    "authorId": "richard-powers",
+    "authorName": "Richard Powers",
+    "publicationYear": 2006,
+    "publisher": "Farrar, Straus and Giroux",
+    "genres": [
+      "Cognitive Science",
+      "Ecological",
+      "Mystery"
+    ],
+    "synopsis": "After surviving a near-fatal truck rollover on a misty Nebraska river road during crane migration, Mark Schluter awakens with Capgras delusion, believing his sister is an imposter.",
+    "pageCount": 464,
+    "spineColor": "#065f46",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "tree-of-smoke",
+    "title": "Tree of Smoke",
+    "authorId": "denis-johnson",
+    "authorName": "Denis Johnson",
+    "publicationYear": 2007,
+    "publisher": "Farrar, Straus and Giroux",
+    "genres": [
+      "Vietnam War",
+      "Espionage",
+      "Epic"
+    ],
+    "synopsis": "A colossal, psychedelic Vietnam War epic centering on young CIA operative Skip Sands, his legendary spymaster uncle, and two soldier brothers.",
+    "pageCount": 624,
+    "spineColor": "#111827",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "let-the-great-world-spin",
+    "title": "Let the Great World Spin",
+    "authorId": "colum-mccann",
+    "authorName": "Colum McCann",
+    "publicationYear": 2009,
+    "publisher": "Random House",
+    "genres": [
+      "Polyphonic",
+      "New York City",
+      "Elegiac"
+    ],
+    "synopsis": "On a misty August morning in 1974, Philippe Petit walks a tightrope between the Twin Towers, connecting disparate New Yorkers down below in grief and redemption.",
+    "pageCount": 368,
+    "spineColor": "#1e3a8a",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "redeployment",
+    "title": "Redeployment",
+    "authorId": "phil-klay",
+    "authorName": "Phil Klay",
+    "publicationYear": 2014,
+    "publisher": "Penguin Press",
+    "genres": [
+      "Short Stories",
+      "Iraq War",
+      "Veterans"
+    ],
+    "synopsis": "Twelve searing stories detailing the brutal psychological costs of the wars in Iraq and Afghanistan on soldiers, chaplains, and returning veterans.",
+    "pageCount": 304,
+    "spineColor": "#475569",
+    "countryOfOrigin": "United States"
   }
 ]

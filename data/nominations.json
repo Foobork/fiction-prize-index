@@ -1318,5 +1318,535 @@
     "category": "Translated Fiction",
     "citation": "Winner: The first Taiwanese book to win the prize, celebrating colonial culinary memory and secret intimacy.",
     "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/taiwan-travelogue"
+  },
+  {
+    "id": "nom-age-innocence-pulitzer-1921",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-age-of-innocence",
+    "year": 1921,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Edith Wharton becomes the first woman to win the Pulitzer Prize for Fiction.",
+    "sourceUrl": "https://www.pulitzer.org/winners/edith-wharton"
+  },
+  {
+    "id": "nom-ambersons-pulitzer-1919",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-magnificent-ambersons",
+    "year": 1919,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner of the Pulitzer Prize for the Novel.",
+    "sourceUrl": "https://www.pulitzer.org/winners/booth-tarkington"
+  },
+  {
+    "id": "nom-san-luis-rey-pulitzer-1928",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-bridge-of-san-luis-rey",
+    "year": 1928,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Winner of the Pulitzer Prize for the Novel.",
+    "sourceUrl": "https://www.pulitzer.org/winners/thornton-wilder"
+  },
+  {
+    "id": "nom-good-earth-pulitzer-1932",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-good-earth",
+    "year": 1932,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Pearl S. Buck's epic novel of Chinese agrarian family life.",
+    "sourceUrl": "https://www.pulitzer.org/winners/pearl-s-buck"
+  },
+  {
+    "id": "nom-grapes-wrath-pulitzer-1940",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-grapes-of-wrath",
+    "year": 1940,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "John Steinbeck's towering Great Depression masterpiece.",
+    "sourceUrl": "https://www.pulitzer.org/winners/john-steinbeck"
+  },
+  {
+    "id": "nom-kings-men-pulitzer-1947",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "all-the-kings-men",
+    "year": 1947,
+    "status": "winner",
+    "category": "Novel",
+    "citation": "Robert Penn Warren's classic novel of Southern politics and corruption.",
+    "sourceUrl": "https://www.pulitzer.org/winners/robert-penn-warren"
+  },
+  {
+    "id": "nom-south-pacific-pulitzer-1948",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "tales-of-the-south-pacific",
+    "year": 1948,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "First winner under the category 'Pulitzer Prize for Fiction'.",
+    "sourceUrl": "https://www.pulitzer.org/winners/james-michener"
+  },
+  {
+    "id": "nom-caine-mutiny-pulitzer-1952",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-caine-mutiny",
+    "year": 1952,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Herman Wouk's unforgettable naval drama of authority and wartime command.",
+    "sourceUrl": "https://www.pulitzer.org/winners/herman-wouk"
+  },
+  {
+    "id": "nom-old-man-sea-pulitzer-1953",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-old-man-and-the-sea",
+    "year": 1953,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Ernest Hemingway's classic parable of an old fisherman and the marlin.",
+    "sourceUrl": "https://www.pulitzer.org/winners/ernest-hemingway"
+  },
+  {
+    "id": "nom-fable-pulitzer-1955",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "a-fable",
+    "year": 1955,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Faulkner's ambitious WWI allegory winning both the Pulitzer and National Book Award.",
+    "sourceUrl": "https://www.pulitzer.org/winners/william-faulkner"
+  },
+  {
+    "id": "nom-mockingbird-pulitzer-1961",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "to-kill-a-mockingbird",
+    "year": 1961,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Harper Lee's enduring American masterpiece on justice and compassion.",
+    "sourceUrl": "https://www.pulitzer.org/winners/harper-lee"
+  },
+  {
+    "id": "nom-reivers-pulitzer-1963",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-reivers",
+    "year": 1963,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "William Faulkner captures his second Pulitzer Prize for Fiction.",
+    "sourceUrl": "https://www.pulitzer.org/winners/william-faulkner-0"
+  },
+  {
+    "id": "nom-fixer-pulitzer-1967",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-fixer",
+    "year": 1967,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Bernard Malamud's harrowing account of injustice winning both Pulitzer and NBA.",
+    "sourceUrl": "https://www.pulitzer.org/winners/bernard-malamud"
+  },
+  {
+    "id": "nom-nat-turner-pulitzer-1968",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-confessions-of-nat-turner",
+    "year": 1968,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "William Styron's provocative first-person novel of the 1831 slave revolt.",
+    "sourceUrl": "https://www.pulitzer.org/winners/william-styron"
+  },
+  {
+    "id": "nom-house-dawn-pulitzer-1969",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "house-made-of-dawn",
+    "year": 1969,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "N. Scott Momaday becomes the first Native American author to win the Pulitzer.",
+    "sourceUrl": "https://www.pulitzer.org/winners/n-scott-momaday"
+  },
+  {
+    "id": "nom-angle-repose-pulitzer-1972",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "angle-of-repose",
+    "year": 1972,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Wallace Stegner's sweeping chronicle of Western American frontier marriage.",
+    "sourceUrl": "https://www.pulitzer.org/winners/wallace-stegner"
+  },
+  {
+    "id": "nom-killer-angels-pulitzer-1975",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-killer-angels",
+    "year": 1975,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Michael Shaara's visceral, definitive novel of the Battle of Gettysburg.",
+    "sourceUrl": "https://www.pulitzer.org/winners/michael-shaara"
+  },
+  {
+    "id": "nom-humboldts-gift-pulitzer-1976",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "humboldts-gift",
+    "year": 1976,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Saul Bellow's rich tragicomedy of artistic legacy and intellectual friendship.",
+    "sourceUrl": "https://www.pulitzer.org/winners/saul-bellow"
+  },
+  {
+    "id": "nom-dunces-pulitzer-1981",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "a-confederacy-of-dunces",
+    "year": 1981,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Posthumously awarded comic masterpiece of New Orleans eccentric Ignatius J. Reilly.",
+    "sourceUrl": "https://www.pulitzer.org/winners/john-kennedy-toole"
+  },
+  {
+    "id": "nom-rabbit-rich-pulitzer-1982",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "rabbit-is-rich",
+    "year": 1982,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "John Updike's third Rabbit novel winning both the Pulitzer and National Book Award.",
+    "sourceUrl": "https://www.pulitzer.org/winners/john-updike"
+  },
+  {
+    "id": "nom-color-purple-pulitzer-1983",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-color-purple",
+    "year": 1983,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Alice Walker becomes the first African-American woman to win the Pulitzer for Fiction.",
+    "sourceUrl": "https://www.pulitzer.org/winners/alice-walker"
+  },
+  {
+    "id": "nom-lonesome-dove-pulitzer-1986",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "lonesome-dove",
+    "year": 1986,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Larry McMurtry's epic American Western cattle drive saga.",
+    "sourceUrl": "https://www.pulitzer.org/winners/larry-mcmurtry"
+  },
+  {
+    "id": "nom-rabbit-rest-pulitzer-1991",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "rabbit-at-rest",
+    "year": 1991,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "John Updike captures his second Pulitzer Prize for Fiction.",
+    "sourceUrl": "https://www.pulitzer.org/winners/john-updike-0"
+  },
+  {
+    "id": "nom-pastoral-pulitzer-1998",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "american-pastoral",
+    "year": 1998,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Philip Roth's devastating tragedy of family unraveling against 1960s protest.",
+    "sourceUrl": "https://www.pulitzer.org/winners/philip-roth"
+  },
+  {
+    "id": "nom-the-hours-pulitzer-1999",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-hours",
+    "year": 1999,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Michael Cunningham's polyphonic homage to Virginia Woolf.",
+    "sourceUrl": "https://www.pulitzer.org/winners/michael-cunningham"
+  },
+  {
+    "id": "nom-interpreter-pulitzer-2000",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "interpreter-of-maladies",
+    "year": 2000,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Jhumpa Lahiri's luminous debut collection on cultural displacement.",
+    "sourceUrl": "https://www.pulitzer.org/winners/jhumpa-lahiri"
+  },
+  {
+    "id": "nom-empire-falls-pulitzer-2002",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "empire-falls",
+    "year": 2002,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Richard Russo's humane, sprawling portrait of a declining Maine mill town.",
+    "sourceUrl": "https://www.pulitzer.org/winners/richard-russo"
+  },
+  {
+    "id": "nom-known-world-pulitzer-2004",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-known-world",
+    "year": 2004,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Edward P. Jones's morally profound masterpiece on Black slaveholders in Virginia.",
+    "sourceUrl": "https://www.pulitzer.org/winners/edward-p-jones"
+  },
+  {
+    "id": "nom-olive-kitteridge-pulitzer-2009",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "olive-kitteridge",
+    "year": 2009,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Elizabeth Strout's indelible coastal Maine tapestry of love and despair.",
+    "sourceUrl": "https://www.pulitzer.org/winners/elizabeth-strout"
+  },
+  {
+    "id": "nom-orphan-masters-son-pulitzer-2013",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-orphan-masters-son",
+    "year": 2013,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Adam Johnson's virtuosic voyage into the dark corridors of North Korea.",
+    "sourceUrl": "https://www.pulitzer.org/winners/adam-johnson"
+  },
+  {
+    "id": "nom-golden-arm-nba-1950",
+    "prizeId": "national-book-award",
+    "bookId": "the-man-with-the-golden-arm",
+    "year": 1950,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Inaugural winner of the National Book Award for Fiction.",
+    "sourceUrl": "https://www.nationalbook.org/books/the-man-with-the-golden-arm/"
+  },
+  {
+    "id": "nom-eternity-nba-1952",
+    "prizeId": "national-book-award",
+    "bookId": "from-here-to-eternity",
+    "year": 1952,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "James Jones's visceral military landmark of peacetime Hawaii.",
+    "sourceUrl": "https://www.nationalbook.org/books/from-here-to-eternity/"
+  },
+  {
+    "id": "nom-invisible-man-nba-1953",
+    "prizeId": "national-book-award",
+    "bookId": "invisible-man",
+    "year": 1953,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Ralph Ellison's foundational masterpiece of American identity and race.",
+    "sourceUrl": "https://www.nationalbook.org/books/invisible-man/"
+  },
+  {
+    "id": "nom-augie-march-nba-1954",
+    "prizeId": "national-book-award",
+    "bookId": "the-adventures-of-augie-march",
+    "year": 1954,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Saul Bellow's exuberant, sprawling American picaresque.",
+    "sourceUrl": "https://www.nationalbook.org/books/the-adventures-of-augie-march/"
+  },
+  {
+    "id": "nom-fable-nba-1955",
+    "prizeId": "national-book-award",
+    "bookId": "a-fable",
+    "year": 1955,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Faulkner captures both the National Book Award and Pulitzer Prize in the same year.",
+    "sourceUrl": "https://www.nationalbook.org/books/a-fable/"
+  },
+  {
+    "id": "nom-goodbye-columbus-nba-1960",
+    "prizeId": "national-book-award",
+    "bookId": "goodbye-columbus",
+    "year": 1960,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Philip Roth's electrifying debut winning the NBA at age twenty-six.",
+    "sourceUrl": "https://www.nationalbook.org/books/goodbye-columbus/"
+  },
+  {
+    "id": "nom-moviegoer-nba-1962",
+    "prizeId": "national-book-award",
+    "bookId": "the-moviegoer",
+    "year": 1962,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Walker Percy's philosophical New Orleans debut.",
+    "sourceUrl": "https://www.nationalbook.org/books/the-moviegoer/"
+  },
+  {
+    "id": "nom-herzog-nba-1965",
+    "prizeId": "national-book-award",
+    "bookId": "herzog",
+    "year": 1965,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Saul Bellow's second National Book Award victory.",
+    "sourceUrl": "https://www.nationalbook.org/books/herzog/"
+  },
+  {
+    "id": "nom-fixer-nba-1967",
+    "prizeId": "national-book-award",
+    "bookId": "the-fixer",
+    "year": 1967,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Bernard Malamud captures both the National Book Award and Pulitzer Prize for The Fixer.",
+    "sourceUrl": "https://www.nationalbook.org/books/the-fixer/"
+  },
+  {
+    "id": "nom-them-nba-1970",
+    "prizeId": "national-book-award",
+    "bookId": "them",
+    "year": 1970,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Joyce Carol Oates's raw Detroit family tragedy.",
+    "sourceUrl": "https://www.nationalbook.org/books/them/"
+  },
+  {
+    "id": "nom-gravitys-rainbow-nba-1974",
+    "prizeId": "national-book-award",
+    "bookId": "gravitys-rainbow",
+    "year": 1974,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Thomas Pynchon's encyclopedic postmodern tour-de-force.",
+    "sourceUrl": "https://www.nationalbook.org/books/gravitys-rainbow/"
+  },
+  {
+    "id": "nom-jr-nba-1976",
+    "prizeId": "national-book-award",
+    "bookId": "j-r",
+    "year": 1976,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "William Gaddis's groundbreaking satire of American capitalism.",
+    "sourceUrl": "https://www.nationalbook.org/books/j-r/"
+  },
+  {
+    "id": "nom-cacciato-nba-1979",
+    "prizeId": "national-book-award",
+    "bookId": "going-after-cacciato",
+    "year": 1979,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Tim O'Brien's imaginative Vietnam War anti-war classic.",
+    "sourceUrl": "https://www.nationalbook.org/books/going-after-cacciato/"
+  },
+  {
+    "id": "nom-rabbit-rich-nba-1982",
+    "prizeId": "national-book-award",
+    "bookId": "rabbit-is-rich",
+    "year": 1982,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "John Updike wins both the National Book Award and Pulitzer for Rabbit Is Rich.",
+    "sourceUrl": "https://www.nationalbook.org/books/rabbit-is-rich/"
+  },
+  {
+    "id": "nom-color-purple-nba-1983",
+    "prizeId": "national-book-award",
+    "bookId": "the-color-purple",
+    "year": 1983,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Alice Walker wins both the National Book Award and Pulitzer for The Color Purple.",
+    "sourceUrl": "https://www.nationalbook.org/books/the-color-purple/"
+  },
+  {
+    "id": "nom-white-noise-nba-1985",
+    "prizeId": "national-book-award",
+    "bookId": "white-noise",
+    "year": 1985,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Don DeLillo's peerless satire of contemporary fear and media saturation.",
+    "sourceUrl": "https://www.nationalbook.org/books/white-noise/"
+  },
+  {
+    "id": "nom-pretty-horses-nba-1992",
+    "prizeId": "national-book-award",
+    "bookId": "all-the-pretty-horses",
+    "year": 1992,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Cormac McCarthy's lyrical Western border masterpiece.",
+    "sourceUrl": "https://www.nationalbook.org/books/all-the-pretty-horses/"
+  },
+  {
+    "id": "nom-waiting-nba-1999",
+    "prizeId": "national-book-award",
+    "bookId": "waiting",
+    "year": 1999,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Ha Jin's exquisite story of Chinese provincial love and patience.",
+    "sourceUrl": "https://www.nationalbook.org/books/waiting/"
+  },
+  {
+    "id": "nom-corrections-nba-2001",
+    "prizeId": "national-book-award",
+    "bookId": "the-corrections",
+    "year": 2001,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Jonathan Franzen's generation-defining American family epic.",
+    "sourceUrl": "https://www.nationalbook.org/books/the-corrections/"
+  },
+  {
+    "id": "nom-echo-maker-nba-2006",
+    "prizeId": "national-book-award",
+    "bookId": "the-echo-maker",
+    "year": 2006,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Richard Powers's haunting exploration of neurology, ecology, and memory.",
+    "sourceUrl": "https://www.nationalbook.org/books/the-echo-maker/"
+  },
+  {
+    "id": "nom-tree-smoke-nba-2007",
+    "prizeId": "national-book-award",
+    "bookId": "tree-of-smoke",
+    "year": 2007,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Denis Johnson's psychedelic, monumental Vietnam epic.",
+    "sourceUrl": "https://www.nationalbook.org/books/tree-of-smoke/"
+  },
+  {
+    "id": "nom-great-world-spin-nba-2009",
+    "prizeId": "national-book-award",
+    "bookId": "let-the-great-world-spin",
+    "year": 2009,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Colum McCann's polyphonic New York tightrope tapestry.",
+    "sourceUrl": "https://www.nationalbook.org/books/let-the-great-world-spin/"
+  },
+  {
+    "id": "nom-redeployment-nba-2014",
+    "prizeId": "national-book-award",
+    "bookId": "redeployment",
+    "year": 2014,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Phil Klay's blistering, empathetic collection of war and homecoming.",
+    "sourceUrl": "https://www.nationalbook.org/books/redeployment/"
   }
 ]

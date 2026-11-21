@@ -810,5 +810,536 @@
     "nationality": "Taiwanese",
     "birthYear": 1984,
     "bio": "Taiwanese novelist and scholar whose novel Taiwan Travelogue (tr. Lin King) became the first Taiwanese work to win the International Booker Prize in 2026."
+  },
+  {
+    "id": "william-faulkner",
+    "name": "William Faulkner",
+    "nationality": "American",
+    "birthYear": 1897,
+    "deathYear": 1962,
+    "bio": "Nobel laureate and titan of American literature, two-time Pulitzer winner (A Fable, The Reivers) and two-time National Book Award winner."
+  },
+  {
+    "id": "saul-bellow",
+    "name": "Saul Bellow",
+    "nationality": "American",
+    "birthYear": 1915,
+    "deathYear": 2005,
+    "bio": "Nobel laureate and three-time National Book Award winner who also captured the 1976 Pulitzer Prize for Humboldt's Gift."
+  },
+  {
+    "id": "john-updike",
+    "name": "John Updike",
+    "nationality": "American",
+    "birthYear": 1932,
+    "deathYear": 2009,
+    "bio": "One of only four writers to win the Pulitzer Prize for Fiction more than once (Rabbit Is Rich, Rabbit at Rest), also a two-time NBA winner."
+  },
+  {
+    "id": "philip-roth",
+    "name": "Philip Roth",
+    "nationality": "American",
+    "birthYear": 1933,
+    "deathYear": 2018,
+    "bio": "Towering American author of American Pastoral (Pulitzer) and two-time NBA winner (Goodbye, Columbus, Sabbath's Theater)."
+  },
+  {
+    "id": "ernest-hemingway",
+    "name": "Ernest Hemingway",
+    "nationality": "American",
+    "birthYear": 1899,
+    "deathYear": 1961,
+    "bio": "Nobel laureate whose novella The Old Man and the Sea won the 1953 Pulitzer Prize."
+  },
+  {
+    "id": "john-steinbeck",
+    "name": "John Steinbeck",
+    "nationality": "American",
+    "birthYear": 1902,
+    "deathYear": 1968,
+    "bio": "Nobel laureate whose Dust Bowl masterpiece The Grapes of Wrath won the 1940 Pulitzer Prize and National Book Award."
+  },
+  {
+    "id": "ralph-ellison",
+    "name": "Ralph Ellison",
+    "nationality": "American",
+    "birthYear": 1913,
+    "deathYear": 1994,
+    "bio": "Scholar and author whose monumental 1952 novel Invisible Man won the 1953 National Book Award."
+  },
+  {
+    "id": "flannery-oconnor",
+    "name": "Flannery O'Connor",
+    "nationality": "American",
+    "birthYear": 1925,
+    "deathYear": 1964,
+    "bio": "Pioneering Southern Gothic writer whose posthumous Complete Stories won the 1972 National Book Award."
+  },
+  {
+    "id": "thomas-pynchon",
+    "name": "Thomas Pynchon",
+    "nationality": "American",
+    "birthYear": 1937,
+    "bio": "Reclusive postmodern genius whose monumental Gravity's Rainbow won the 1974 National Book Award."
+  },
+  {
+    "id": "don-delillo",
+    "name": "Don DeLillo",
+    "nationality": "American",
+    "birthYear": 1936,
+    "bio": "Acclaimed American novelist of Underworld and White Noise, which won the 1985 National Book Award."
+  },
+  {
+    "id": "william-gaddis",
+    "name": "William Gaddis",
+    "nationality": "American",
+    "birthYear": 1922,
+    "deathYear": 1998,
+    "bio": "Pioneering postmodern novelist and two-time National Book Award winner for J R (1976) and A Frolic of His Own (1994)."
+  },
+  {
+    "id": "edith-wharton",
+    "name": "Edith Wharton",
+    "nationality": "American",
+    "birthYear": 1862,
+    "deathYear": 1937,
+    "bio": "The first woman to win the Pulitzer Prize for Fiction, awarded in 1921 for The Age of Innocence."
+  },
+  {
+    "id": "booth-tarkington",
+    "name": "Booth Tarkington",
+    "nationality": "American",
+    "birthYear": 1869,
+    "deathYear": 1946,
+    "bio": "The first two-time Pulitzer winner in history, for The Magnificent Ambersons (1919) and Alice Adams (1922)."
+  },
+  {
+    "id": "willa-cather",
+    "name": "Willa Cather",
+    "nationality": "American",
+    "birthYear": 1873,
+    "deathYear": 1947,
+    "bio": "Great American prairie chronicler whose WWI novel One of Ours won the 1923 Pulitzer Prize."
+  },
+  {
+    "id": "edna-ferber",
+    "name": "Edna Ferber",
+    "nationality": "American",
+    "birthYear": 1885,
+    "deathYear": 1968,
+    "bio": "Novelist and playwright whose Midwest saga So Big won the 1925 Pulitzer Prize."
+  },
+  {
+    "id": "sinclair-lewis",
+    "name": "Sinclair Lewis",
+    "nationality": "American",
+    "birthYear": 1885,
+    "deathYear": 1951,
+    "bio": "First American Nobel laureate in Literature; awarded the 1926 Pulitzer for Arrowsmith, which he famously declined."
+  },
+  {
+    "id": "thornton-wilder",
+    "name": "Thornton Wilder",
+    "nationality": "American",
+    "birthYear": 1897,
+    "deathYear": 1975,
+    "bio": "Only writer to win Pulitzers for both drama and fiction (The Bridge of San Luis Rey, 1928), also won NBA for The Eighth Day."
+  },
+  {
+    "id": "pearl-s-buck",
+    "name": "Pearl S. Buck",
+    "nationality": "American",
+    "birthYear": 1892,
+    "deathYear": 1973,
+    "bio": "Nobel laureate whose bestselling Chinese peasant saga The Good Earth won the 1932 Pulitzer Prize."
+  },
+  {
+    "id": "marjorie-kinnan-rawlings",
+    "name": "Marjorie Kinnan Rawlings",
+    "nationality": "American",
+    "birthYear": 1896,
+    "deathYear": 1953,
+    "bio": "Author whose Florida scrub country coming-of-age classic The Yearling won the 1939 Pulitzer Prize."
+  },
+  {
+    "id": "robert-penn-warren",
+    "name": "Robert Penn Warren",
+    "nationality": "American",
+    "birthYear": 1905,
+    "deathYear": 1989,
+    "bio": "Only person to win Pulitzers in both fiction (All the King's Men, 1947) and poetry."
+  },
+  {
+    "id": "james-a-michener",
+    "name": "James A. Michener",
+    "nationality": "American",
+    "birthYear": 1907,
+    "deathYear": 1997,
+    "bio": "Prolific author whose debut collection Tales of the South Pacific won the 1948 Pulitzer Prize."
+  },
+  {
+    "id": "herman-wouk",
+    "name": "Herman Wouk",
+    "nationality": "American",
+    "birthYear": 1915,
+    "deathYear": 2019,
+    "bio": "Acclaimed historical novelist whose WWII naval classic The Caine Mutiny won the 1952 Pulitzer Prize."
+  },
+  {
+    "id": "james-agee",
+    "name": "James Agee",
+    "nationality": "American",
+    "birthYear": 1909,
+    "deathYear": 1955,
+    "bio": "Novelist, journalist, and film critic whose autobiographical A Death in the Family won a posthumous 1958 Pulitzer."
+  },
+  {
+    "id": "harper-lee",
+    "name": "Harper Lee",
+    "nationality": "American",
+    "birthYear": 1926,
+    "deathYear": 2016,
+    "bio": "Author of To Kill a Mockingbird, which won the 1961 Pulitzer Prize and became an American classic."
+  },
+  {
+    "id": "katherine-anne-porter",
+    "name": "Katherine Anne Porter",
+    "nationality": "American",
+    "birthYear": 1890,
+    "deathYear": 1980,
+    "bio": "Short story master who won both the Pulitzer Prize and National Book Award in 1966 for her Collected Stories."
+  },
+  {
+    "id": "bernard-malamud",
+    "name": "Bernard Malamud",
+    "nationality": "American",
+    "birthYear": 1914,
+    "deathYear": 1986,
+    "bio": "Great Jewish-American writer whose Tsarist prison novel The Fixer won both the Pulitzer and National Book Award in 1967."
+  },
+  {
+    "id": "william-styron",
+    "name": "William Styron",
+    "nationality": "American",
+    "birthYear": 1925,
+    "deathYear": 2006,
+    "bio": "Southern author who won the 1968 Pulitzer for The Confessions of Nat Turner and the 1980 NBA for Sophie's Choice."
+  },
+  {
+    "id": "n-scott-momaday",
+    "name": "N. Scott Momaday",
+    "nationality": "American (Kiowa)",
+    "birthYear": 1934,
+    "deathYear": 2024,
+    "bio": "Kiowa author whose House Made of Dawn won the 1969 Pulitzer, launching the Native American Renaissance."
+  },
+  {
+    "id": "wallace-stegner",
+    "name": "Wallace Stegner",
+    "nationality": "American",
+    "birthYear": 1909,
+    "deathYear": 1993,
+    "bio": "'The Dean of Western Writers', winner of the 1972 Pulitzer for Angle of Repose and 1977 NBA for The Spectator Bird."
+  },
+  {
+    "id": "eudora-welty",
+    "name": "Eudora Welty",
+    "nationality": "American",
+    "birthYear": 1909,
+    "deathYear": 2001,
+    "bio": "Celebrated Mississippi author and photographer whose novel The Optimist's Daughter won the 1973 Pulitzer."
+  },
+  {
+    "id": "michael-shaara",
+    "name": "Michael Shaara",
+    "nationality": "American",
+    "birthYear": 1928,
+    "deathYear": 1988,
+    "bio": "Author whose Battle of Gettysburg novel The Killer Angels won the 1975 Pulitzer Prize."
+  },
+  {
+    "id": "james-alan-mcpherson",
+    "name": "James Alan McPherson",
+    "nationality": "American",
+    "birthYear": 1943,
+    "deathYear": 2016,
+    "bio": "First African-American man to win the Pulitzer Prize for Fiction, for his short story collection Elbow Room in 1978."
+  },
+  {
+    "id": "john-cheever",
+    "name": "John Cheever",
+    "nationality": "American",
+    "birthYear": 1912,
+    "deathYear": 1982,
+    "bio": "'The Chekhov of the suburbs', winner of the 1979 Pulitzer and 1958 NBA for his suburban chronicles."
+  },
+  {
+    "id": "norman-mailer",
+    "name": "Norman Mailer",
+    "nationality": "American",
+    "birthYear": 1923,
+    "deathYear": 2007,
+    "bio": "Co-founder of New Journalism whose Gary Gilmore true-life novel The Executioner's Song won the 1980 Pulitzer."
+  },
+  {
+    "id": "john-kennedy-toole",
+    "name": "John Kennedy Toole",
+    "nationality": "American",
+    "birthYear": 1937,
+    "deathYear": 1969,
+    "bio": "Author whose posthumously published New Orleans comic masterpiece A Confederacy of Dunces won the 1981 Pulitzer."
+  },
+  {
+    "id": "alice-walker",
+    "name": "Alice Walker",
+    "nationality": "American",
+    "birthYear": 1944,
+    "bio": "First African-American woman to win the Pulitzer Prize for Fiction, for The Color Purple in 1983 (also won NBA)."
+  },
+  {
+    "id": "william-kennedy",
+    "name": "William Kennedy",
+    "nationality": "American",
+    "birthYear": 1928,
+    "bio": "Albany cycle author whose Great Depression novel Ironweed won the 1984 Pulitzer Prize."
+  },
+  {
+    "id": "larry-mcmurtry",
+    "name": "Larry McMurtry",
+    "nationality": "American",
+    "birthYear": 1936,
+    "deathYear": 2021,
+    "bio": "Epic Western novelist and screenwriter whose cattle-drive saga Lonesome Dove won the 1986 Pulitzer Prize."
+  },
+  {
+    "id": "anne-tyler",
+    "name": "Anne Tyler",
+    "nationality": "American",
+    "birthYear": 1941,
+    "bio": "Baltimore chronicler of quirky family life whose novel Breathing Lessons won the 1989 Pulitzer Prize."
+  },
+  {
+    "id": "oscar-hijuelos",
+    "name": "Oscar Hijuelos",
+    "nationality": "American",
+    "birthYear": 1951,
+    "deathYear": 2013,
+    "bio": "First Hispanic author to win the Pulitzer Prize for Fiction, for The Mambo Kings Play Songs of Love in 1990."
+  },
+  {
+    "id": "jane-smiley",
+    "name": "Jane Smiley",
+    "nationality": "American",
+    "birthYear": 1949,
+    "bio": "Novelist whose King Lear reimagining on an Iowa farm A Thousand Acres won the 1992 Pulitzer Prize."
+  },
+  {
+    "id": "carol-shields",
+    "name": "Carol Shields",
+    "nationality": "American-Canadian",
+    "birthYear": 1935,
+    "deathYear": 2003,
+    "bio": "American-born Canadian novelist whose fictional biography The Stone Diaries won the 1995 Pulitzer Prize."
+  },
+  {
+    "id": "richard-ford",
+    "name": "Richard Ford",
+    "nationality": "American",
+    "birthYear": 1944,
+    "bio": "Author whose Frank Bascombe novel Independence Day became the first to win both the Pulitzer and PEN/Faulkner in 1996."
+  },
+  {
+    "id": "michael-cunningham",
+    "name": "Michael Cunningham",
+    "nationality": "American",
+    "birthYear": 1952,
+    "bio": "Author of The Hours (1999 Pulitzer and PEN/Faulkner winner), interweaving Virginia Woolf's Mrs. Dalloway."
+  },
+  {
+    "id": "jhumpa-lahiri",
+    "name": "Jhumpa Lahiri",
+    "nationality": "American",
+    "birthYear": 1967,
+    "bio": "Pulitzer-winning author whose debut story collection Interpreter of Maladies won the 2000 prize."
+  },
+  {
+    "id": "richard-russo",
+    "name": "Richard Russo",
+    "nationality": "American",
+    "birthYear": 1949,
+    "bio": "Chronicler of rust-belt New York whose small-town novel Empire Falls won the 2002 Pulitzer Prize."
+  },
+  {
+    "id": "edward-p-jones",
+    "name": "Edward P. Jones",
+    "nationality": "American",
+    "birthYear": 1950,
+    "bio": "Author whose antebellum Virginia masterpiece The Known World won the 2004 Pulitzer and National Book Critics Circle awards."
+  },
+  {
+    "id": "geraldine-brooks",
+    "name": "Geraldine Brooks",
+    "nationality": "Australian-American",
+    "birthYear": 1955,
+    "bio": "Author whose Civil War Little Women reimagining March won the 2006 Pulitzer Prize."
+  },
+  {
+    "id": "elizabeth-strout",
+    "name": "Elizabeth Strout",
+    "nationality": "American",
+    "birthYear": 1956,
+    "bio": "Acclaimed Maine author whose linked-story masterpiece Olive Kitteridge won the 2009 Pulitzer Prize."
+  },
+  {
+    "id": "nelson-algren",
+    "name": "Nelson Algren",
+    "nationality": "American",
+    "birthYear": 1909,
+    "deathYear": 1981,
+    "bio": "Chicago realist author whose heroin and gambling novel The Man with the Golden Arm won the inaugural 1950 National Book Award."
+  },
+  {
+    "id": "james-jones",
+    "name": "James Jones",
+    "nationality": "American",
+    "birthYear": 1921,
+    "deathYear": 1977,
+    "bio": "WWII veteran whose Pearl Harbor military masterpiece From Here to Eternity won the 1952 National Book Award."
+  },
+  {
+    "id": "john-ohara",
+    "name": "John O'Hara",
+    "nationality": "American",
+    "birthYear": 1905,
+    "deathYear": 1970,
+    "bio": "Keen chronicler of social status whose Pennsylvania saga Ten North Frederick won the 1956 National Book Award."
+  },
+  {
+    "id": "wright-morris",
+    "name": "Wright Morris",
+    "nationality": "American",
+    "birthYear": 1910,
+    "deathYear": 1998,
+    "bio": "Novelist and photographer who won two National Book Awards for The Field of Vision (1957) and Plains Song (1981)."
+  },
+  {
+    "id": "walker-percy",
+    "name": "Walker Percy",
+    "nationality": "American",
+    "birthYear": 1916,
+    "deathYear": 1990,
+    "bio": "Southern philosophical novelist whose existential New Orleans debut The Moviegoer won the 1962 National Book Award."
+  },
+  {
+    "id": "joyce-carol-oates",
+    "name": "Joyce Carol Oates",
+    "nationality": "American",
+    "birthYear": 1938,
+    "bio": "Prolific master of American literature whose Detroit family epic them won the 1970 National Book Award."
+  },
+  {
+    "id": "john-barth",
+    "name": "John Barth",
+    "nationality": "American",
+    "birthYear": 1930,
+    "deathYear": 2024,
+    "bio": "Pioneering postmodernist whose mythic triptych Chimera won the 1973 National Book Award."
+  },
+  {
+    "id": "john-williams",
+    "name": "John Williams",
+    "nationality": "American",
+    "birthYear": 1922,
+    "deathYear": 1994,
+    "bio": "Author of Stoner and Butcher's Crossing whose epistolary historical epic Augustus won the 1973 National Book Award."
+  },
+  {
+    "id": "isaac-bashevis-singer",
+    "name": "Isaac Bashevis Singer",
+    "nationality": "Polish-American",
+    "birthYear": 1903,
+    "deathYear": 1991,
+    "bio": "Yiddish-language Nobel laureate whose collection A Crown of Feathers won the 1974 National Book Award."
+  },
+  {
+    "id": "robert-stone",
+    "name": "Robert Stone",
+    "nationality": "American",
+    "birthYear": 1937,
+    "deathYear": 2015,
+    "bio": "Author whose dark Vietnam-era heroin trafficking classic Dog Soldiers won the 1975 National Book Award."
+  },
+  {
+    "id": "tim-obrien",
+    "name": "Tim O'Brien",
+    "nationality": "American",
+    "birthYear": 1946,
+    "bio": "Vietnam War veteran and author whose surreal combat novel Going After Cacciato won the 1979 National Book Award."
+  },
+  {
+    "id": "e-l-doctorow",
+    "name": "E. L. Doctorow",
+    "nationality": "American",
+    "birthYear": 1931,
+    "deathYear": 2015,
+    "bio": "Historical fiction virtuoso of Ragtime whose Bronx memoir-novel World's Fair won the 1986 National Book Award."
+  },
+  {
+    "id": "charles-johnson",
+    "name": "Charles Johnson",
+    "nationality": "American",
+    "birthYear": 1948,
+    "bio": "Scholar and author whose slave ship philosophical novel Middle Passage won the 1990 National Book Award."
+  },
+  {
+    "id": "charles-frazier",
+    "name": "Charles Frazier",
+    "nationality": "American",
+    "birthYear": 1950,
+    "bio": "North Carolina novelist whose Civil War Odyssey Cold Mountain won the 1997 National Book Award."
+  },
+  {
+    "id": "ha-jin",
+    "name": "Ha Jin",
+    "nationality": "Chinese-American",
+    "birthYear": 1956,
+    "bio": "Chinese-born author whose cultural revolution love story Waiting won both the National Book Award and PEN/Faulkner in 1999."
+  },
+  {
+    "id": "susan-sontag",
+    "name": "Susan Sontag",
+    "nationality": "American",
+    "birthYear": 1933,
+    "deathYear": 2004,
+    "bio": "Leading essayist and critic whose historical novel In America won the 2000 National Book Award."
+  },
+  {
+    "id": "jonathan-franzen",
+    "name": "Jonathan Franzen",
+    "nationality": "American",
+    "birthYear": 1959,
+    "bio": "Author whose Midwest family epic The Corrections won the 2001 National Book Award and defined turn-of-the-century fiction."
+  },
+  {
+    "id": "denis-johnson",
+    "name": "Denis Johnson",
+    "nationality": "American",
+    "birthYear": 1949,
+    "deathYear": 2017,
+    "bio": "Author of Jesus' Son whose monumental Vietnam War epic Tree of Smoke won the 2007 National Book Award."
+  },
+  {
+    "id": "colum-mccann",
+    "name": "Colum McCann",
+    "nationality": "Irish-American",
+    "birthYear": 1965,
+    "bio": "Novelist whose 1974 tightrope-walk New York tapestry Let the Great World Spin won the 2009 National Book Award."
+  },
+  {
+    "id": "phil-klay",
+    "name": "Phil Klay",
+    "nationality": "American",
+    "birthYear": 1983,
+    "bio": "US Marine Corps veteran whose Iraq War story collection Redeployment won the 2014 National Book Award."
   }
 ]
