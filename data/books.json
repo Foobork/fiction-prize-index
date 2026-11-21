@@ -2097,5 +2097,117 @@
     "pageCount": 288,
     "spineColor": "#1e3a8a",
     "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "flesh",
+    "title": "Flesh",
+    "authorId": "david-szalay",
+    "authorName": "David Szalay",
+    "publicationYear": 2025,
+    "publisher": "Jonathan Cape",
+    "imprint": "Vintage",
+    "isbn13": "9781787334809",
+    "genres": [
+      "Literary Fiction",
+      "Contemporary",
+      "Psychological"
+    ],
+    "synopsis": "A searing and intimate examination of modern physical and emotional vulnerability, masculinity, and human connection across European cities.",
+    "pageCount": 304,
+    "spineColor": "#831843",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "the-end-of-everything",
+    "title": "The End of Everything",
+    "authorId": "m-john-harrison",
+    "authorName": "M. John Harrison",
+    "publicationYear": 2026,
+    "publisher": "Serpent's Tail",
+    "imprint": "Profile Books",
+    "isbn13": "9781800818224",
+    "genres": [
+      "Speculative",
+      "Sci-Fi",
+      "Philosophical"
+    ],
+    "synopsis": "A breathtaking metaphysical and speculative masterpiece exploring memory, decay, and the edges of reality, crowning Harrison's legendary six-decade career.",
+    "pageCount": 336,
+    "spineColor": "#1e1b4b",
+    "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "james",
+    "title": "James",
+    "authorId": "percival-everett",
+    "authorName": "Percival Everett",
+    "publicationYear": 2024,
+    "publisher": "Doubleday",
+    "imprint": "Penguin Random House",
+    "isbn13": "9780385550369",
+    "genres": [
+      "Historical Fiction",
+      "Satire",
+      "American Classic"
+    ],
+    "synopsis": "A brilliant, harrowing, and fiercely witty reimagining of Adventures of Huckleberry Finn told from the perspective of the enslaved Jim, who reveals a clandestine intellectual life.",
+    "pageCount": 320,
+    "spineColor": "#b45309",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "angel-down",
+    "title": "Angel Down",
+    "authorId": "daniel-kraus",
+    "authorName": "Daniel Kraus",
+    "publicationYear": 2025,
+    "publisher": "Atria Books",
+    "imprint": "Simon & Schuster",
+    "isbn13": "9781982186852",
+    "genres": [
+      "Gothic",
+      "Literary Fiction",
+      "American Tragedy"
+    ],
+    "synopsis": "A haunting and atmospheric American tragedy charting grief, rust-belt decay, and sudden spiritual revelation in a forgotten heartland town.",
+    "pageCount": 352,
+    "spineColor": "#1c1917",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "id": "heart-lamp",
+    "title": "Heart Lamp",
+    "authorId": "banu-mushtaq",
+    "authorName": "Banu Mushtaq",
+    "publicationYear": 2024,
+    "publisher": "Tilted Axis Press",
+    "isbn13": "9781911284857",
+    "genres": [
+      "Short Stories",
+      "Kannada Literature",
+      "Feminist"
+    ],
+    "synopsis": "Translated by Deepa Bhasthi: The first short story collection to win the International Booker, chronicling the intimate, resilient lives of Muslim women in southern India.",
+    "pageCount": 224,
+    "spineColor": "#d97706",
+    "countryOfOrigin": "India"
+  },
+  {
+    "id": "taiwan-travelogue",
+    "title": "Taiwan Travelogue",
+    "authorId": "yang-shuang-zi",
+    "authorName": "Yáng Shuāng-zǐ",
+    "publicationYear": 2024,
+    "publisher": "Graywolf Press",
+    "isbn13": "9781644452936",
+    "genres": [
+      "Historical Fiction",
+      "Culinary",
+      "Queer"
+    ],
+    "synopsis": "Translated by Lin King: Set in 1938 Japanese-occupied Taiwan, following a Japanese novelist and her local Taiwanese interpreter bonding through shared meals, linguistic secrets, and unspoken desire.",
+    "pageCount": 288,
+    "spineColor": "#047857",
+    "countryOfOrigin": "Taiwan"
   }
 ]

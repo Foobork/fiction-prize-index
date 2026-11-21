@@ -1238,5 +1238,85 @@
     "category": "Best Novel",
     "citation": "The inaugural winner of the Booker Prize, set against the paranoia of the 1956 Suez Crisis.",
     "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/something-to-answer-for"
+  },
+  {
+    "id": "nom-flesh-booker-2025",
+    "prizeId": "booker-prize",
+    "bookId": "flesh",
+    "year": 2025,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A work of astonishing emotional clarity and formal precision, dissecting modern vulnerability and human frailty.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/flesh"
+  },
+  {
+    "id": "nom-end-everything-booker-2026",
+    "prizeId": "booker-prize",
+    "bookId": "the-end-of-everything",
+    "year": 2026,
+    "status": "winner",
+    "category": "Best Novel",
+    "citation": "A visionary achievement making literary history, blending speculative grandeur with profound philosophical melancholy.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/the-end-of-everything"
+  },
+  {
+    "id": "nom-james-pulitzer-2025",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "james",
+    "year": 2025,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "A brilliant, fearless reframing of American canonical literature and a tour-de-force of language, resistance, and love.",
+    "sourceUrl": "https://www.pulitzer.org/winners/percival-everett"
+  },
+  {
+    "id": "nom-james-nba-2024",
+    "prizeId": "national-book-award",
+    "bookId": "james",
+    "year": 2024,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: An extraordinary synthesis of humor, moral gravity, and narrative power.",
+    "sourceUrl": "https://www.nationalbook.org/books/james/"
+  },
+  {
+    "id": "nom-james-booker-2024",
+    "prizeId": "booker-prize",
+    "bookId": "james",
+    "year": 2024,
+    "status": "shortlist",
+    "category": "Best Novel",
+    "citation": "Shortlisted: A masterclass in satirical subversion and moral imagination.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/james"
+  },
+  {
+    "id": "nom-angel-down-pulitzer-2026",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "angel-down",
+    "year": 2026,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "A devastating, lyrical portrait of modern American ruin, grief, and spiritual redemption.",
+    "sourceUrl": "https://www.pulitzer.org/winners/daniel-kraus"
+  },
+  {
+    "id": "nom-heart-lamp-intl-booker-2025",
+    "prizeId": "international-booker",
+    "bookId": "heart-lamp",
+    "year": 2025,
+    "status": "winner",
+    "category": "Translated Fiction",
+    "citation": "Winner: A warm, deeply humane collection illuminating courage and womanhood with subtle wit.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/heart-lamp"
+  },
+  {
+    "id": "nom-taiwan-travelogue-intl-booker-2026",
+    "prizeId": "international-booker",
+    "bookId": "taiwan-travelogue",
+    "year": 2026,
+    "status": "winner",
+    "category": "Translated Fiction",
+    "citation": "Winner: The first Taiwanese book to win the prize, celebrating colonial culinary memory and secret intimacy.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/taiwan-travelogue"
   }
 ]

@@ -768,5 +768,47 @@
     "birthYear": 1918,
     "deathYear": 1997,
     "bio": "English novelist and BBC radio managing director; winner of the inaugural Booker Prize in 1969 for Something to Answer For."
+  },
+  {
+    "id": "david-szalay",
+    "name": "David Szalay",
+    "nationality": "British-Hungarian",
+    "birthYear": 1974,
+    "bio": "British-Hungarian novelist and short story writer, winner of the 2025 Booker Prize for Flesh."
+  },
+  {
+    "id": "m-john-harrison",
+    "name": "M. John Harrison",
+    "nationality": "British",
+    "birthYear": 1945,
+    "bio": "Distinguished British author and critic; at age 81, he became the oldest winner and first science fiction author to win the Booker Prize for The End of Everything (2026)."
+  },
+  {
+    "id": "percival-everett",
+    "name": "Percival Everett",
+    "nationality": "American",
+    "birthYear": 1956,
+    "bio": "Acclaimed American novelist and academic; winner of the 2025 Pulitzer Prize for Fiction and 2024 National Book Award for James."
+  },
+  {
+    "id": "daniel-kraus",
+    "name": "Daniel Kraus",
+    "nationality": "American",
+    "birthYear": 1975,
+    "bio": "American author and filmmaker, winner of the 2026 Pulitzer Prize for Fiction for Angel Down."
+  },
+  {
+    "id": "banu-mushtaq",
+    "name": "Banu Mushtaq",
+    "nationality": "Indian",
+    "birthYear": 1948,
+    "bio": "Indian Kannada-language writer, activist, and lawyer whose collection Heart Lamp (tr. Deepa Bhasthi) won the 2025 International Booker Prize."
+  },
+  {
+    "id": "yang-shuang-zi",
+    "name": "Yáng Shuāng-zǐ",
+    "nationality": "Taiwanese",
+    "birthYear": 1984,
+    "bio": "Taiwanese novelist and scholar whose novel Taiwan Travelogue (tr. Lin King) became the first Taiwanese work to win the International Booker Prize in 2026."
   }
 ]
