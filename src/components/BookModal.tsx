@@ -11,6 +11,7 @@ import {
   Building,
   Globe,
   Languages,
+  Tag,
 } from 'lucide-react';
 import { BookWithNominations, ReadingStatus } from '@/types';
 import { BookCover } from './BookCover';
@@ -21,6 +22,8 @@ interface BookModalProps {
   savedStatus?: ReadingStatus;
   onUpdateStatus: (bookId: string, status: ReadingStatus) => void;
   onRemoveStatus: (bookId: string) => void;
+  onSelectGenre?: (genre: string) => void;
+  onSelectAuthor?: (authorName: string) => void;
 }
 
 export const BookModal: React.FC<BookModalProps> = ({
@@ -29,6 +32,8 @@ export const BookModal: React.FC<BookModalProps> = ({
   savedStatus,
   onUpdateStatus,
   onRemoveStatus,
+  onSelectGenre,
+  onSelectAuthor,
 }) => {
   const [copied, setCopied] = useState(false);
   const scrollContainerRef = useRef<HTMLDivElement>(null);
@@ -180,9 +185,20 @@ export const BookModal: React.FC<BookModalProps> = ({
                 >
                   {book.title}
                 </h2>
-                <p className="font-serif italic text-lg text-parchment-700 dark:text-parchment-300 mt-1">
-                  by {book.authorName}
-                </p>
+                {onSelectAuthor ? (
+                  <button
+                    type="button"
+                    onClick={() => onSelectAuthor(book.authorName)}
+                    className="font-serif italic text-lg text-parchment-700 dark:text-parchment-300 hover:text-gilded-600 dark:hover:text-gilded-400 transition-colors text-left hover:underline mt-1 cursor-pointer"
+                    title={`Browse other works by ${book.authorName}`}
+                  >
+                    by {book.authorName} →
+                  </button>
+                ) : (
+                  <p className="font-serif italic text-lg text-parchment-700 dark:text-parchment-300 mt-1">
+                    by {book.authorName}
+                  </p>
+                )}
                 {book.translator && (
                   <p className="text-xs sm:text-sm font-sans text-purple-700 dark:text-purple-300 mt-1.5 flex items-center flex-wrap gap-x-1.5">
                     <span className="flex items-center font-medium">
@@ -220,15 +236,25 @@ export const BookModal: React.FC<BookModalProps> = ({
                 )}
               </div>
 
-              {/* Genres */}
-              <div className="flex flex-wrap gap-1.5 pt-1">
+              {/* Interactive Genres & Tags */}
+              <div className="flex flex-wrap items-center gap-1.5 pt-1.5">
+                <span className="text-xs text-parchment-500 dark:text-ink-400 flex items-center mr-1">
+                  <Tag className="w-3 h-3 mr-1 text-gilded-500" />
+                  Genres:
+                </span>
                 {book.genres.map((g) => (
-                  <span
+                  <button
                     key={g}
-                    className="px-2 py-0.5 rounded text-xs bg-parchment-100 dark:bg-ink-800 border border-parchment-200 dark:border-ink-700 text-parchment-700 dark:text-ink-300"
+                    type="button"
+                    onClick={() => onSelectGenre?.(g)}
+                    className="inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs font-medium bg-parchment-100 hover:bg-gilded-100 hover:text-gilded-950 dark:bg-ink-800 dark:hover:bg-gilded-950/60 dark:hover:text-gilded-200 border border-parchment-300 dark:border-ink-700 hover:border-gilded-400 dark:hover:border-gilded-600 text-parchment-800 dark:text-ink-200 transition-all cursor-pointer group shadow-2xs hover:scale-105 active:scale-95"
+                    title={`Filter catalog by genre: "${g}"`}
                   >
-                    {g}
-                  </span>
+                    <span>{g}</span>
+                    <span className="text-[10px] text-gilded-600 dark:text-gilded-400 opacity-60 group-hover:opacity-100 transition-opacity">
+                      ↗
+                    </span>
+                  </button>
                 ))}
               </div>
             </div>

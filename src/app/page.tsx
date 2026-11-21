@@ -26,7 +26,7 @@ const VALID_TABS = new Set([
 
 const DEFAULT_TITLE = 'Fiction Prize Index | Open Catalog of Major Literary Fiction Awards';
 
-function buildNavigationUrl(tab: string, bookId: string | null): string {
+function buildNavigationUrl(tab: string, bookId: string | null, genre: string | null = null): string {
   const url = new URL(window.location.href);
   if (tab && tab !== 'index' && VALID_TABS.has(tab)) {
     url.searchParams.set('tab', tab);
@@ -38,6 +38,11 @@ function buildNavigationUrl(tab: string, bookId: string | null): string {
   } else {
     url.searchParams.delete('book');
   }
+  if (genre && genre !== 'all') {
+    url.searchParams.set('genre', genre);
+  } else {
+    url.searchParams.delete('genre');
+  }
   return `${url.pathname}${url.search}${url.hash}`;
 }
 
@@ -46,6 +51,8 @@ export default function Home() {
   const [darkMode, setDarkMode] = useState(false);
   const [selectedBook, setSelectedBook] = useState<BookWithNominations | null>(null);
   const [savedBooks, setSavedBooks] = useState<Record<string, UserSavedBook>>({});
+  const [selectedGenre, setSelectedGenre] = useState<string>('all');
+  const [searchQuery, setSearchQuery] = useState<string>('');
 
   const enrichedBooks = useMemo(() => getEnrichedBooks(), []);
   const booksById = useMemo(
@@ -53,15 +60,19 @@ export default function Home() {
     [enrichedBooks]
   );
 
-  // Sync state from current URL query params (?tab=...&book=...)
+  // Sync state from current URL query params (?tab=...&book=...&genre=...)
   const syncFromUrl = useCallback(() => {
     if (typeof window === 'undefined') return;
     const params = new URLSearchParams(window.location.search);
     const tabParam = params.get('tab');
     const bookParam = params.get('book');
+    const genreParam = params.get('genre');
 
     setActiveTab(tabParam && VALID_TABS.has(tabParam) ? tabParam : 'index');
     setSelectedBook(bookParam ? booksById.get(bookParam) ?? null : null);
+    if (genreParam) {
+      setSelectedGenre(genreParam);
+    }
   }, [booksById]);
 
   // Initialize theme, local reading list, deep link state, and popstate listener
@@ -138,10 +149,41 @@ export default function Home() {
 
     setSelectedBook(null);
     if (typeof window !== 'undefined') {
-      const nextUrl = buildNavigationUrl(activeTab, null);
+      const nextUrl = buildNavigationUrl(activeTab, null, selectedGenre);
       window.history.replaceState({ tab: activeTab, bookId: null }, '', nextUrl);
     }
-  }, [activeTab]);
+  }, [activeTab, selectedGenre]);
+
+  const handleSelectGenre = useCallback((genre: string) => {
+    setSelectedGenre(genre);
+    setActiveTab('index');
+    setSelectedBook(null);
+
+    if (typeof window !== 'undefined') {
+      const nextUrl = buildNavigationUrl('index', null, genre);
+      window.history.pushState({ tab: 'index', bookId: null, genre }, '', nextUrl);
+      const mainEl = document.querySelector('main');
+      if (mainEl) {
+        mainEl.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+  }, []);
+
+  const handleSelectAuthor = useCallback((authorName: string) => {
+    setSearchQuery(authorName);
+    setSelectedGenre('all');
+    setActiveTab('index');
+    setSelectedBook(null);
+
+    if (typeof window !== 'undefined') {
+      const nextUrl = buildNavigationUrl('index', null, null);
+      window.history.pushState({ tab: 'index', bookId: null }, '', nextUrl);
+      const mainEl = document.querySelector('main');
+      if (mainEl) {
+        mainEl.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+  }, []);
 
   const handleUpdateStatus = (bookId: string, status: ReadingStatus) => {
     const updated = saveBookStatus(bookId, status);
@@ -215,6 +257,10 @@ export default function Home() {
               books={enrichedBooks}
               prizes={prizes}
               onSelectBook={handleSelectBook}
+              selectedGenre={selectedGenre}
+              onGenreChange={setSelectedGenre}
+              searchQuery={searchQuery}
+              onSearchChange={setSearchQuery}
             />
           )}
 
@@ -266,6 +312,8 @@ export default function Home() {
         savedStatus={selectedBook ? savedBooks[selectedBook.id]?.status : undefined}
         onUpdateStatus={handleUpdateStatus}
         onRemoveStatus={handleRemoveStatus}
+        onSelectGenre={handleSelectGenre}
+        onSelectAuthor={handleSelectAuthor}
       />
 
       <Footer />

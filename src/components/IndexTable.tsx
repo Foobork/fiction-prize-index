@@ -2,27 +2,56 @@
 
 import React, { useState, useMemo } from 'react';
 import { BookWithNominations, Prize, AwardStatus } from '@/types';
-import { Search, Trophy, Filter, LayoutGrid, List, Sparkles, X, ChevronRight, Image as ImageIcon } from 'lucide-react';
+import { Search, Trophy, Filter, LayoutGrid, List, Sparkles, X, ChevronRight, Image as ImageIcon, Tag } from 'lucide-react';
 import { BookCover } from './BookCover';
 
 interface IndexTableProps {
   books: BookWithNominations[];
   prizes: Prize[];
   onSelectBook: (book: BookWithNominations) => void;
+  selectedGenre?: string;
+  onGenreChange?: (genre: string) => void;
+  searchQuery?: string;
+  onSearchChange?: (search: string) => void;
 }
+
+const POPULAR_GENRES = [
+  'All',
+  'Literary Fiction',
+  'Historical Fiction',
+  'Science Fiction',
+  'Satire',
+  'Short Stories',
+  'Family Saga',
+  'Social Realism',
+  'Magical Realism',
+  'Coming of Age',
+  'Philosophical',
+  'Classics',
+];
 
 export const IndexTable: React.FC<IndexTableProps> = ({
   books,
   prizes,
   onSelectBook,
+  selectedGenre: propGenre,
+  onGenreChange: propOnGenreChange,
+  searchQuery: propSearch,
+  onSearchChange: propOnSearchChange,
 }) => {
-  const [search, setSearch] = useState('');
+  const [internalSearch, setInternalSearch] = useState('');
   const [selectedPrize, setSelectedPrize] = useState<string>('all');
   const [selectedStatus, setSelectedStatus] = useState<string>('all');
-  const [selectedGenre, setSelectedGenre] = useState<string>('all');
+  const [internalGenre, setInternalGenre] = useState<string>('all');
   const [onlyMultipleWins, setOnlyMultipleWins] = useState(false);
   const [viewMode, setViewMode] = useState<'grid' | 'covers' | 'table'>('grid');
   const [sortBy, setSortBy] = useState<'year-desc' | 'year-asc' | 'title' | 'wins'>('year-desc');
+
+  const search = propSearch !== undefined ? propSearch : internalSearch;
+  const setSearch = propOnSearchChange || setInternalSearch;
+
+  const selectedGenre = propGenre !== undefined ? propGenre : internalGenre;
+  const setSelectedGenre = propOnGenreChange || setInternalGenre;
 
   const genres = useMemo(() => {
     return Array.from(new Set(books.flatMap((b) => b.genres))).sort();
@@ -229,6 +258,52 @@ export const IndexTable: React.FC<IndexTableProps> = ({
             </div>
           </div>
         </div>
+
+        {/* Popular Genre Quick-Select Ribbon */}
+        <div className="pt-3 border-t border-parchment-200 dark:border-ink-800 flex items-center gap-2 overflow-x-auto no-scrollbar py-0.5">
+          <span className="text-[11px] font-medium text-parchment-500 dark:text-ink-400 shrink-0 flex items-center gap-1">
+            <Tag className="w-3 h-3 text-gilded-500" />
+            Popular Genres:
+          </span>
+          <div className="flex items-center gap-1.5 shrink-0">
+            {POPULAR_GENRES.map((g) => {
+              const isActive = (g === 'All' && selectedGenre === 'all') || selectedGenre === g;
+              return (
+                <button
+                  key={g}
+                  type="button"
+                  onClick={() => setSelectedGenre(g === 'All' ? 'all' : g)}
+                  className={`px-2.5 py-1 rounded-full text-xs transition-all whitespace-nowrap cursor-pointer ${
+                    isActive
+                      ? 'bg-gilded-500 text-white font-semibold shadow-2xs'
+                      : 'bg-parchment-50 dark:bg-ink-800 text-parchment-700 dark:text-ink-300 hover:bg-parchment-200 dark:hover:bg-ink-700 border border-parchment-300 dark:border-ink-700'
+                  }`}
+                >
+                  {g}
+                </button>
+              );
+            })}
+          </div>
+        </div>
+
+        {/* Active Genre Pill Banner */}
+        {selectedGenre !== 'all' && (
+          <div className="pt-2 border-t border-parchment-200/60 dark:border-ink-800/60 flex items-center gap-2 text-xs">
+            <span className="text-parchment-600 dark:text-ink-400">Filtering by Genre:</span>
+            <span className="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full text-xs font-semibold bg-gilded-100 text-gilded-950 dark:bg-gilded-950/80 dark:text-gilded-200 border border-gilded-300 dark:border-gilded-700">
+              <Tag className="w-3 h-3 text-gilded-600 dark:text-gilded-400" />
+              <span>{selectedGenre}</span>
+              <button
+                type="button"
+                onClick={() => setSelectedGenre('all')}
+                className="hover:text-rose-600 dark:hover:text-rose-400 p-0.5 ml-0.5 cursor-pointer"
+                title="Remove genre filter"
+              >
+                <X className="w-3 h-3" />
+              </button>
+            </span>
+          </div>
+        )}
       </div>
 
       {/* Result Count */}
@@ -279,6 +354,28 @@ export const IndexTable: React.FC<IndexTableProps> = ({
                   <p className="text-[11px] text-parchment-600 dark:text-ink-400 line-clamp-2 leading-relaxed">
                     {book.synopsis}
                   </p>
+
+                  {/* Clickable Genre Badges */}
+                  <div className="flex flex-wrap gap-1 pt-1">
+                    {book.genres.slice(0, 3).map((g) => (
+                      <button
+                        key={g}
+                        type="button"
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          setSelectedGenre(g);
+                        }}
+                        className={`inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium transition-all cursor-pointer ${
+                          selectedGenre === g
+                            ? 'bg-gilded-500 text-white font-semibold'
+                            : 'bg-parchment-200/90 hover:bg-gilded-100 hover:text-gilded-950 dark:bg-ink-800 dark:hover:bg-ink-700 text-parchment-700 dark:text-ink-300'
+                        }`}
+                        title={`Filter catalog by genre: "${g}"`}
+                      >
+                        {g}
+                      </button>
+                    ))}
+                  </div>
                 </div>
               </div>
 
@@ -417,13 +514,23 @@ export const IndexTable: React.FC<IndexTableProps> = ({
                     </td>
                     <td className="px-4 py-3.5">
                       <div className="flex flex-wrap gap-1">
-                        {book.genres.slice(0, 2).map((g) => (
-                          <span
+                        {book.genres.slice(0, 3).map((g) => (
+                          <button
                             key={g}
-                            className="px-1.5 py-0.2 rounded text-[10px] bg-parchment-100 dark:bg-ink-800 text-parchment-600 dark:text-ink-400"
+                            type="button"
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              setSelectedGenre(g);
+                            }}
+                            className={`px-1.5 py-0.5 rounded text-[10px] font-medium transition-colors cursor-pointer ${
+                              selectedGenre === g
+                                ? 'bg-gilded-500 text-white font-semibold'
+                                : 'bg-parchment-100 hover:bg-gilded-100 hover:text-gilded-950 dark:bg-ink-800 dark:hover:bg-ink-700 text-parchment-600 dark:text-ink-400'
+                            }`}
+                            title={`Filter catalog by genre: "${g}"`}
                           >
                             {g}
-                          </span>
+                          </button>
                         ))}
                       </div>
                     </td>
