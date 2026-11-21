@@ -3228,5 +3228,560 @@
     "deathYear": 1965,
     "nobelYear": 1948,
     "bio": "Poet and critic whose pioneering contribution to modern poetry was recognized with the 1948 Nobel Prize in Literature."
+  },
+  {
+    "id": "john-gardner",
+    "name": "John Gardner",
+    "sortName": "Gardner, John",
+    "birthYear": 1933,
+    "deathYear": 1982,
+    "nationality": "United States",
+    "gender": "male",
+    "bio": "American novelist, essayist, and literary critic, author of Grendel and October Light, and influential champion of moral fiction."
+  },
+  {
+    "id": "thomas-flanagan",
+    "name": "Thomas Flanagan",
+    "sortName": "Flanagan, Thomas",
+    "birthYear": 1923,
+    "deathYear": 2002,
+    "nationality": "United States",
+    "gender": "male",
+    "bio": "American professor of Irish literature and acclaimed historical novelist, celebrated for his sweeping Irish history trilogy beginning with The Year of the French."
+  },
+  {
+    "id": "stanley-elkin",
+    "name": "Stanley Elkin",
+    "sortName": "Elkin, Stanley",
+    "birthYear": 1930,
+    "deathYear": 1995,
+    "nationality": "United States",
+    "gender": "male",
+    "bio": "American novelist and short story writer renowned for his virtuoso, exuberant prose style, tragicomic satire, and linguistic invention."
+  },
+  {
+    "id": "reynolds-price",
+    "name": "Reynolds Price",
+    "sortName": "Price, Reynolds",
+    "birthYear": 1933,
+    "deathYear": 2011,
+    "nationality": "United States",
+    "gender": "male",
+    "bio": "American novelist, poet, and dramatist from North Carolina, acclaimed for his Southern voices, lyrical prose, and moral insight."
+  },
+  {
+    "id": "bharati-mukherjee",
+    "name": "Bharati Mukherjee",
+    "sortName": "Mukherjee, Bharati",
+    "birthYear": 1940,
+    "deathYear": 2017,
+    "nationality": "United States",
+    "gender": "female",
+    "bio": "Indian-born American author acclaimed for her pioneering explorations of the South Asian diaspora, cultural displacement, and immigrant transformation."
+  },
+  {
+    "id": "ernest-j-gaines",
+    "name": "Ernest J. Gaines",
+    "sortName": "Gaines, Ernest J.",
+    "birthYear": 1933,
+    "deathYear": 2019,
+    "nationality": "United States",
+    "gender": "male",
+    "bio": "African American author renowned for his powerful Southern fiction illuminating rural Louisiana plantation history, Black dignity, and resilience."
+  },
+  {
+    "id": "gina-berriault",
+    "name": "Gina Berriault",
+    "sortName": "Berriault, Gina",
+    "birthYear": 1926,
+    "deathYear": 1999,
+    "nationality": "United States",
+    "gender": "female",
+    "bio": "American novelist and short story master praised for her psychological precision, quiet subtlety, and unflinching empathy in Women in Their Beds."
+  },
+  {
+    "id": "jonathan-lethem",
+    "name": "Jonathan Lethem",
+    "sortName": "Lethem, Jonathan",
+    "birthYear": 1964,
+    "nationality": "United States",
+    "gender": "male",
+    "bio": "American novelist, essayist, and MacArthur Fellow celebrated for blending detective fiction, science fiction, and Brooklyn urban portraiture."
+  },
+  {
+    "id": "roberto-bolano",
+    "name": "Roberto Bolaño",
+    "sortName": "Bolaño, Roberto",
+    "birthYear": 1953,
+    "deathYear": 2003,
+    "nationality": "Chile",
+    "gender": "male",
+    "bio": "Chilean novelist, short-story writer, and poet, a towering figure in contemporary world literature celebrated for 2666 and The Savage Detectives."
+  },
+  {
+    "id": "edith-pearlman",
+    "name": "Edith Pearlman",
+    "sortName": "Pearlman, Edith",
+    "birthYear": 1936,
+    "deathYear": 2023,
+    "nationality": "United States",
+    "gender": "female",
+    "bio": "American short story master praised for her wit, elegance, and deep humanity in collections like Binocular Vision and Honeydew."
+  },
+  {
+    "id": "ben-fountain",
+    "name": "Ben Fountain",
+    "sortName": "Fountain, Ben",
+    "birthYear": 1958,
+    "nationality": "United States",
+    "gender": "male",
+    "bio": "American author whose sharp, satirical war novel Billy Lynn's Long Halftime Walk won the National Book Critics Circle Award."
+  },
+  {
+    "id": "joan-silber",
+    "name": "Joan Silber",
+    "sortName": "Silber, Joan",
+    "birthYear": 1945,
+    "nationality": "United States",
+    "gender": "female",
+    "bio": "American author renowned for her ring of interconnected narratives exploring cause, consequence, and love across continents in Improvement and Secrets of Happiness."
+  },
+  {
+    "id": "edwidge-danticat",
+    "name": "Edwidge Danticat",
+    "sortName": "Danticat, Edwidge",
+    "birthYear": 1969,
+    "nationality": "Haiti",
+    "gender": "female",
+    "bio": "Haitian-American author and MacArthur Fellow whose vivid, lyrical work illuminates Haitian history, the immigrant experience, and family diaspora."
+  },
+  {
+    "id": "honoree-fanonne-jeffers",
+    "name": "Honorée Fanonne Jeffers",
+    "sortName": "Jeffers, Honorée Fanonne",
+    "birthYear": 1967,
+    "nationality": "United States",
+    "gender": "female",
+    "bio": "American poet and novelist whose monumental debut novel The Love Songs of W.E.B. Du Bois won the NBCC Award and was an Oprah Book Club selection."
+  },
+  {
+    "id": "ling-ma",
+    "name": "Ling Ma",
+    "sortName": "Ma, Ling",
+    "birthYear": 1983,
+    "nationality": "United States",
+    "gender": "female",
+    "bio": "Chinese-American fiction writer whose works Severance and Bliss Montage explore millennial alienation, apocalyptic satire, and uncanny modern life."
+  },
+  {
+    "id": "lorrie-moore",
+    "name": "Lorrie Moore",
+    "sortName": "Moore, Lorrie",
+    "birthYear": 1957,
+    "nationality": "United States",
+    "gender": "female",
+    "bio": "American fiction writer celebrated for her razor-sharp humor, linguistic play, and emotional devastation in collections like Birds of America and novel I Am Homeless If This Is Not My Home."
+  },
+  {
+    "id": "henryk-sienkiewicz",
+    "name": "Henryk Sienkiewicz",
+    "sortName": "Sienkiewicz, Henryk",
+    "birthYear": 1846,
+    "deathYear": 1916,
+    "nationality": "Poland",
+    "gender": "male",
+    "bio": "Polish epic novelist and Nobel laureate whose historical masterpieces, notably Quo Vadis and The Trilogy, rallied Polish national spirit under partition."
+  },
+  {
+    "id": "rudyard-kipling",
+    "name": "Rudyard Kipling",
+    "sortName": "Kipling, Rudyard",
+    "birthYear": 1865,
+    "deathYear": 1936,
+    "nationality": "United Kingdom",
+    "gender": "male",
+    "bio": "English novelist, short-story writer, and poet, the first English-language writer to receive the Nobel Prize in Literature, author of Kim and The Jungle Book."
+  },
+  {
+    "id": "selma-lagerlof",
+    "name": "Selma Lagerlöf",
+    "sortName": "Lagerlöf, Selma",
+    "birthYear": 1858,
+    "deathYear": 1940,
+    "nationality": "Sweden",
+    "gender": "female",
+    "bio": "Swedish author, the first woman to win the Nobel Prize in Literature (1909), acclaimed for Gösta Berling's Saga and The Wonderful Adventures of Nils."
+  },
+  {
+    "id": "knut-hamsun",
+    "name": "Knut Hamsun",
+    "sortName": "Hamsun, Knut",
+    "birthYear": 1859,
+    "deathYear": 1952,
+    "nationality": "Norway",
+    "gender": "male",
+    "bio": "Norwegian pioneer of modernist literature and Nobel laureate celebrated for Hunger, Mysteries, and his agrarian epic Growth of the Soil."
+  },
+  {
+    "id": "anatole-france",
+    "name": "Anatole France",
+    "sortName": "France, Anatole",
+    "birthYear": 1844,
+    "deathYear": 1924,
+    "nationality": "France",
+    "gender": "male",
+    "bio": "French poet, journalist, and novelist, 1921 Nobel laureate, celebrated for his classical irony, skeptical humanism, and The Gods Are Athirst."
+  },
+  {
+    "id": "wladyslaw-reymont",
+    "name": "Władysław Reymont",
+    "sortName": "Reymont, Władysław",
+    "birthYear": 1867,
+    "deathYear": 1925,
+    "nationality": "Poland",
+    "gender": "male",
+    "bio": "Polish novelist and 1924 Nobel laureate whose monumental four-volume cycle The Peasants depicts rural village life across the seasons."
+  },
+  {
+    "id": "sigrid-undset",
+    "name": "Sigrid Undset",
+    "sortName": "Undset, Sigrid",
+    "birthYear": 1882,
+    "deathYear": 1949,
+    "nationality": "Norway",
+    "gender": "female",
+    "bio": "Norwegian novelist awarded the 1928 Nobel Prize in Literature for her powerful, psychologically acute trilogy Kristin Lavransdatter set in medieval Scandinavia."
+  },
+  {
+    "id": "thomas-mann",
+    "name": "Thomas Mann",
+    "sortName": "Mann, Thomas",
+    "birthYear": 1875,
+    "deathYear": 1955,
+    "nationality": "Germany",
+    "gender": "male",
+    "bio": "German literary titan and 1929 Nobel laureate whose monumental novels Buddenbrooks, The Magic Mountain, and Doctor Faustus explore bourgeois decay, intellect, and art."
+  },
+  {
+    "id": "john-galsworthy",
+    "name": "John Galsworthy",
+    "sortName": "Galsworthy, John",
+    "birthYear": 1867,
+    "deathYear": 1933,
+    "nationality": "United Kingdom",
+    "gender": "male",
+    "bio": "English novelist and playwright awarded the 1932 Nobel Prize for his epic Victorian-Edwardian social chronicle The Forsyte Saga."
+  },
+  {
+    "id": "ivan-bunin",
+    "name": "Ivan Bunin",
+    "sortName": "Bunin, Ivan",
+    "birthYear": 1870,
+    "deathYear": 1953,
+    "nationality": "Russia",
+    "gender": "male",
+    "bio": "The first Russian writer to win the Nobel Prize in Literature (1933), renowned for the classical precision of his prose in The Gentleman from San Francisco."
+  },
+  {
+    "id": "luigi-pirandello",
+    "name": "Luigi Pirandello",
+    "sortName": "Pirandello, Luigi",
+    "birthYear": 1867,
+    "deathYear": 1936,
+    "nationality": "Italy",
+    "gender": "male",
+    "bio": "Italian dramatist, novelist, and short story writer awarded the 1934 Nobel Prize, revolutionary explorer of identity, illusion, and reality in Six Characters in Search of an Author and The Late Mattia Pascal."
+  },
+  {
+    "id": "par-lagerkvist",
+    "name": "Pär Lagerkvist",
+    "sortName": "Lagerkvist, Pär",
+    "birthYear": 1891,
+    "deathYear": 1974,
+    "nationality": "Sweden",
+    "gender": "male",
+    "bio": "Swedish author, poet, and dramatist awarded the 1951 Nobel Prize in Literature for his existential allegories of faith, evil, and grace in Barabbas and The Dwarf."
+  },
+  {
+    "id": "francois-mauriac",
+    "name": "François Mauriac",
+    "sortName": "Mauriac, François",
+    "birthYear": 1885,
+    "deathYear": 1970,
+    "nationality": "France",
+    "gender": "male",
+    "bio": "French author and 1952 Nobel laureate celebrated for penetrating psychological dramas of provincial bourgeois sin, guilt, and redemption in Thérèse Desqueyroux and The Vipers' Tangle."
+  },
+  {
+    "id": "halldor-laxness",
+    "name": "Halldór Laxness",
+    "sortName": "Laxness, Halldór",
+    "birthYear": 1902,
+    "deathYear": 1998,
+    "nationality": "Iceland",
+    "gender": "male",
+    "bio": "Icelandic writer awarded the 1955 Nobel Prize in Literature for reviving Iceland's great narrative art, author of Independent People and Iceland's Bell."
+  },
+  {
+    "id": "boris-pasternak",
+    "name": "Boris Pasternak",
+    "sortName": "Pasternak, Boris",
+    "birthYear": 1890,
+    "deathYear": 1960,
+    "nationality": "Russia",
+    "gender": "male",
+    "bio": "Russian poet and novelist awarded the 1958 Nobel Prize for his monumental epic Doctor Zhivago, which became an international phenomenon."
+  },
+  {
+    "id": "ivo-andric",
+    "name": "Ivo Andrić",
+    "sortName": "Andrić, Ivo",
+    "birthYear": 1892,
+    "deathYear": 1975,
+    "nationality": "Yugoslavia",
+    "gender": "male",
+    "bio": "Yugoslav novelist and short-story writer awarded the 1961 Nobel Prize for his epic masterpiece The Bridge on the Drina tracing four centuries of Bosnian history."
+  },
+  {
+    "id": "mikhail-sholokhov",
+    "name": "Mikhail Sholokhov",
+    "sortName": "Sholokhov, Mikhail",
+    "birthYear": 1905,
+    "deathYear": 1984,
+    "nationality": "Russia",
+    "gender": "male",
+    "bio": "Russian novelist awarded the 1965 Nobel Prize in Literature for his monumental four-volume epic And Quiet Flows the Don portraying the Cossack experience during World War I and the Civil War."
+  },
+  {
+    "id": "shmuel-yosef-agnon",
+    "name": "Shmuel Yosef Agnon",
+    "sortName": "Agnon, Shmuel Yosef",
+    "birthYear": 1888,
+    "deathYear": 1970,
+    "nationality": "Israel",
+    "gender": "male",
+    "bio": "Hebrew novelist and short-story writer, co-recipient of the 1966 Nobel Prize, known for The Bridal Canopy and A Guest for the Night."
+  },
+  {
+    "id": "miguel-angel-asturias",
+    "name": "Miguel Ángel Asturias",
+    "sortName": "Asturias, Miguel Ángel",
+    "birthYear": 1899,
+    "deathYear": 1974,
+    "nationality": "Guatemala",
+    "gender": "male",
+    "bio": "Guatemalan poet and novelist awarded the 1967 Nobel Prize, pioneer of magical realism and passionate champion of Indigenous culture in El Señor Presidente and Men of Maize."
+  },
+  {
+    "id": "yasunari-kawabata",
+    "name": "Yasunari Kawabata",
+    "sortName": "Kawabata, Yasunari",
+    "birthYear": 1899,
+    "deathYear": 1972,
+    "nationality": "Japan",
+    "gender": "male",
+    "bio": "The first Japanese author to win the Nobel Prize in Literature (1968), master of psychological restraint and sensory lyricism in Snow Country, Thousand Cranes, and The Sound of the Mountain."
+  },
+  {
+    "id": "samuel-beckett",
+    "name": "Samuel Beckett",
+    "sortName": "Beckett, Samuel",
+    "birthYear": 1906,
+    "deathYear": 1989,
+    "nationality": "Ireland",
+    "gender": "male",
+    "bio": "Irish avant-garde dramatist and novelist awarded the 1969 Nobel Prize, author of Waiting for Godot, Endgame, and his landmark trilogy Molloy, Malone Dies, and The Unnamable."
+  },
+  {
+    "id": "alexander-solzhenitsyn",
+    "name": "Alexander Solzhenitsyn",
+    "sortName": "Solzhenitsyn, Alexander",
+    "birthYear": 1918,
+    "deathYear": 2008,
+    "nationality": "Russia",
+    "gender": "male",
+    "bio": "Russian novelist, historian, and dissident awarded the 1970 Nobel Prize, whose One Day in the Life of Ivan Denisovich and The Gulag Archipelago exposed the Soviet camp system."
+  },
+  {
+    "id": "heinrich-boll",
+    "name": "Heinrich Böll",
+    "sortName": "Böll, Heinrich",
+    "birthYear": 1917,
+    "deathYear": 1985,
+    "nationality": "Germany",
+    "gender": "male",
+    "bio": "One of post-war Germany's foremost writers, 1972 Nobel laureate celebrated for his humane moral conscience in Billiards at Half-Past Nine and The Lost Honour of Katharina Blum."
+  },
+  {
+    "id": "patrick-white",
+    "name": "Patrick White",
+    "sortName": "White, Patrick",
+    "birthYear": 1912,
+    "deathYear": 1990,
+    "nationality": "Australia",
+    "gender": "male",
+    "bio": "The only Australian author to win the Nobel Prize in Literature (1973), hailed for introducing a continent into world literature with visionary epics like Voss and The Eye of the Storm."
+  },
+  {
+    "id": "elias-canetti",
+    "name": "Elias Canetti",
+    "sortName": "Canetti, Elias",
+    "birthYear": 1905,
+    "deathYear": 1994,
+    "nationality": "Bulgaria",
+    "gender": "male",
+    "bio": "Bulgarian-born modernist polymath awarded the 1981 Nobel Prize, author of the devastating psychological novel Auto-da-Fé and sociological study Crowds and Power."
+  },
+  {
+    "id": "claude-simon",
+    "name": "Claude Simon",
+    "sortName": "Simon, Claude",
+    "birthYear": 1913,
+    "deathYear": 2005,
+    "nationality": "France",
+    "gender": "male",
+    "bio": "French Nouveau Roman novelist awarded the 1985 Nobel Prize, acclaimed for intertwining personal memory, sensory perception, and war in The Flanders Road and The Georgics."
+  },
+  {
+    "id": "naguib-mahfouz",
+    "name": "Naguib Mahfouz",
+    "sortName": "Mahfouz, Naguib",
+    "birthYear": 1911,
+    "deathYear": 2006,
+    "nationality": "Egypt",
+    "gender": "male",
+    "bio": "Egyptian writer and the first Arabic-language author to win the Nobel Prize in Literature (1988), master of the modern novel renowned for his monumental Cairo Trilogy."
+  },
+  {
+    "id": "camilo-jose-cela",
+    "name": "Camilo José Cela",
+    "sortName": "Cela, Camilo José",
+    "birthYear": 1916,
+    "deathYear": 2002,
+    "nationality": "Spain",
+    "gender": "male",
+    "bio": "Spanish novelist and 1989 Nobel laureate, leading figure of the tremendismo movement in post-Civil War Spain, acclaimed for The Family of Pascual Duarte and The Hive."
+  },
+  {
+    "id": "kenzaburo-oe",
+    "name": "Kenzaburō Ōe",
+    "sortName": "Ōe, Kenzaburō",
+    "birthYear": 1935,
+    "deathYear": 2023,
+    "nationality": "Japan",
+    "gender": "male",
+    "bio": "Japanese author awarded the 1994 Nobel Prize for creating an imagined world where myth and reality condense to picture human predicament in A Personal Matter and The Silent Cry."
+  },
+  {
+    "id": "gunter-grass",
+    "name": "Günter Grass",
+    "sortName": "Grass, Günter",
+    "birthYear": 1927,
+    "deathYear": 2015,
+    "nationality": "Germany",
+    "gender": "male",
+    "bio": "German novelist, poet, and dramatist awarded the 1999 Nobel Prize, whose Danzig Trilogy beginning with The Tin Drum portrayed the forgotten face of history with frolicsome black fables."
+  },
+  {
+    "id": "gao-xingjian",
+    "name": "Gao Xingjian",
+    "sortName": "Gao, Xingjian",
+    "birthYear": 1940,
+    "nationality": "China",
+    "gender": "male",
+    "bio": "Chinese-born French novelist and playwright awarded the 2000 Nobel Prize, acclaimed for his monumental episodic novel Soul Mountain."
+  },
+  {
+    "id": "imre-kertesz",
+    "name": "Imre Kertész",
+    "sortName": "Kertész, Imre",
+    "birthYear": 1929,
+    "deathYear": 2016,
+    "nationality": "Hungary",
+    "gender": "male",
+    "bio": "Hungarian author and Holocaust survivor awarded the 2002 Nobel Prize for writing that upholds the fragile experience of the individual against the barbaric arbitrariness of history in Fatelessness."
+  },
+  {
+    "id": "elfriede-jelinek",
+    "name": "Elfriede Jelinek",
+    "sortName": "Jelinek, Elfriede",
+    "birthYear": 1946,
+    "nationality": "Austria",
+    "gender": "female",
+    "bio": "Austrian playwright and novelist awarded the 2004 Nobel Prize for her musical flow of voices in works like The Piano Teacher exposing the absurdity of society's clichés."
+  },
+  {
+    "id": "doris-lessing",
+    "name": "Doris Lessing",
+    "sortName": "Lessing, Doris",
+    "birthYear": 1919,
+    "deathYear": 2013,
+    "nationality": "United Kingdom",
+    "gender": "female",
+    "bio": "British-Zimbabwean novelist awarded the 2007 Nobel Prize, that epicist of the female experience whose masterpiece The Golden Notebook transformed modern feminist fiction."
+  },
+  {
+    "id": "j-m-g-le-clezio",
+    "name": "J. M. G. Le Clézio",
+    "sortName": "Le Clézio, J. M. G.",
+    "birthYear": 1940,
+    "nationality": "France",
+    "gender": "male",
+    "bio": "French-Mauritian author awarded the 2008 Nobel Prize, explorer of a humanity beyond and below the reigning civilization in Desert and The Interrogation."
+  },
+  {
+    "id": "mario-vargas-llosa",
+    "name": "Mario Vargas Llosa",
+    "sortName": "Vargas Llosa, Mario",
+    "birthYear": 1936,
+    "deathYear": 2025,
+    "nationality": "Peru",
+    "gender": "male",
+    "bio": "Peruvian-Spanish novelist and 2010 Nobel laureate, leading figure of the Latin American Boom celebrated for The Feast of the Goat, The Time of the Hero, and Aunt Julia and the Scriptwriter."
+  },
+  {
+    "id": "mo-yan",
+    "name": "Mo Yan",
+    "sortName": "Mo, Yan",
+    "birthYear": 1955,
+    "nationality": "China",
+    "gender": "male",
+    "bio": "Chinese novelist awarded the 2012 Nobel Prize for hallucinatory realism merging folk tales, history, and the contemporary in Red Sorghum and Life and Death Are Wearing Me Out."
+  },
+  {
+    "id": "patrick-modiano",
+    "name": "Patrick Modiano",
+    "sortName": "Modiano, Patrick",
+    "birthYear": 1945,
+    "nationality": "France",
+    "gender": "male",
+    "bio": "French novelist awarded the 2014 Nobel Prize for the art of memory with which he has evoked the most ungraspable human destinies and uncovered the life-world of the Nazi Occupation in Missing Person."
+  },
+  {
+    "id": "peter-handke",
+    "name": "Peter Handke",
+    "sortName": "Handke, Peter",
+    "birthYear": 1942,
+    "nationality": "Austria",
+    "gender": "male",
+    "bio": "Austrian novelist, playwright, and translator awarded the 2019 Nobel Prize for an influential work that with linguistic ingenuity has explored the periphery and the specificity of human experience in The Goalie's Anxiety at the Penalty Kick."
+  },
+  {
+    "id": "abdulrazak-gurnah",
+    "name": "Abdulrazak Gurnah",
+    "sortName": "Gurnah, Abdulrazak",
+    "birthYear": 1948,
+    "nationality": "Tanzania",
+    "gender": "male",
+    "bio": "Zanzibar-born British novelist awarded the 2021 Nobel Prize for his uncompromising and compassionate penetration of the effects of colonialism and the fate of the refugee in Paradise, By the Sea, and Afterlives."
+  },
+  {
+    "id": "jon-fosse",
+    "name": "Jon Fosse",
+    "sortName": "Fosse, Jon",
+    "birthYear": 1959,
+    "nationality": "Norway",
+    "gender": "male",
+    "bio": "Norwegian dramatist and novelist awarded the 2023 Nobel Prize in Literature for his innovative plays and prose which give voice to the unsayable, author of the visionary seven-part epic Septology."
   }
 ]

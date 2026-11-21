@@ -5919,5 +5919,907 @@
     "category": "Literature",
     "citation": "In recognition of his varied and significant writings in which he champions humanitarian ideals and freedom of thought.",
     "sourceUrl": "https://www.nobelprize.org/prizes/literature/1950/summary/"
+  },
+  {
+    "id": "nom-ragtime-nbcc-1975",
+    "prizeId": "nbcc-fiction",
+    "bookId": "ragtime",
+    "year": 1975,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (1975).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/1975/"
+  },
+  {
+    "id": "nom-october-light-nbcc-1976",
+    "prizeId": "nbcc-fiction",
+    "bookId": "october-light",
+    "year": 1976,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (1976).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/1976/"
+  },
+  {
+    "id": "nom-stories-cheever-nbcc-1978",
+    "prizeId": "nbcc-fiction",
+    "bookId": "the-stories-of-john-cheever",
+    "year": 1978,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (1978).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/1978/"
+  },
+  {
+    "id": "nom-year-french-nbcc-1979",
+    "prizeId": "nbcc-fiction",
+    "bookId": "the-year-of-the-french",
+    "year": 1979,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (1979).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/1979/"
+  },
+  {
+    "id": "nom-transit-venus-nbcc-1980",
+    "prizeId": "nbcc-fiction",
+    "bookId": "the-transit-of-venus",
+    "year": 1980,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (1980).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/1980/"
+  },
+  {
+    "id": "nom-rabbit-is-rich-nbcc-1981",
+    "prizeId": "nbcc-fiction",
+    "bookId": "rabbit-is-rich",
+    "year": 1981,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (1981).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/1981/"
+  },
+  {
+    "id": "nom-george-mills-nbcc-1982",
+    "prizeId": "nbcc-fiction",
+    "bookId": "george-mills",
+    "year": 1982,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (1982).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/1982/"
+  },
+  {
+    "id": "nom-ironweed-nbcc-1983",
+    "prizeId": "nbcc-fiction",
+    "bookId": "ironweed",
+    "year": 1983,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (1983).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/1983/"
+  },
+  {
+    "id": "nom-love-medicine-nbcc-1984",
+    "prizeId": "nbcc-fiction",
+    "bookId": "love-medicine",
+    "year": 1984,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (1984).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/1984/"
+  },
+  {
+    "id": "nom-accidental-tourist-nbcc-1985",
+    "prizeId": "nbcc-fiction",
+    "bookId": "the-accidental-tourist",
+    "year": 1985,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (1985).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/1985/"
+  },
+  {
+    "id": "nom-kate-vaiden-nbcc-1986",
+    "prizeId": "nbcc-fiction",
+    "bookId": "kate-vaiden",
+    "year": 1986,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (1986).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/1986/"
+  },
+  {
+    "id": "nom-counterlife-nbcc-1987",
+    "prizeId": "nbcc-fiction",
+    "bookId": "the-counterlife",
+    "year": 1987,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (1987).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/1987/"
+  },
+  {
+    "id": "nom-middleman-nbcc-1988",
+    "prizeId": "nbcc-fiction",
+    "bookId": "the-middleman-and-other-stories",
+    "year": 1988,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (1988).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/1988/"
+  },
+  {
+    "id": "nom-billy-bathgate-nbcc-1989",
+    "prizeId": "nbcc-fiction",
+    "bookId": "billy-bathgate",
+    "year": 1989,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (1989).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/1989/"
+  },
+  {
+    "id": "nom-rabbit-at-rest-nbcc-1990",
+    "prizeId": "nbcc-fiction",
+    "bookId": "rabbit-at-rest",
+    "year": 1990,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (1990).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/1990/"
+  },
+  {
+    "id": "nom-thousand-acres-nbcc-1991",
+    "prizeId": "nbcc-fiction",
+    "bookId": "a-thousand-acres",
+    "year": 1991,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (1991).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/1991/"
+  },
+  {
+    "id": "nom-all-pretty-horses-nbcc-1992",
+    "prizeId": "nbcc-fiction",
+    "bookId": "all-the-pretty-horses",
+    "year": 1992,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (1992).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/1992/"
+  },
+  {
+    "id": "nom-lesson-before-dying-nbcc-1993",
+    "prizeId": "nbcc-fiction",
+    "bookId": "a-lesson-before-dying",
+    "year": 1993,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (1993).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/1993/"
+  },
+  {
+    "id": "nom-stone-diaries-nbcc-1994",
+    "prizeId": "nbcc-fiction",
+    "bookId": "the-stone-diaries",
+    "year": 1994,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (1994).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/1994/"
+  },
+  {
+    "id": "nom-mrs-ted-bliss-nbcc-1995",
+    "prizeId": "nbcc-fiction",
+    "bookId": "mrs-ted-bliss",
+    "year": 1995,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (1995).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/1995/"
+  },
+  {
+    "id": "nom-women-beds-nbcc-1996",
+    "prizeId": "nbcc-fiction",
+    "bookId": "women-in-their-beds",
+    "year": 1996,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (1996).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/1996/"
+  },
+  {
+    "id": "nom-blue-flower-nbcc-1997",
+    "prizeId": "nbcc-fiction",
+    "bookId": "the-blue-flower",
+    "year": 1997,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (1997).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/1997/"
+  },
+  {
+    "id": "nom-love-good-woman-nbcc-1998",
+    "prizeId": "nbcc-fiction",
+    "bookId": "the-love-of-a-good-woman",
+    "year": 1998,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (1998).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/1998/"
+  },
+  {
+    "id": "nom-motherless-brooklyn-nbcc-1999",
+    "prizeId": "nbcc-fiction",
+    "bookId": "motherless-brooklyn",
+    "year": 1999,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (1999).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/1999/"
+  },
+  {
+    "id": "nom-being-dead-nbcc-2000",
+    "prizeId": "nbcc-fiction",
+    "bookId": "being-dead",
+    "year": 2000,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (2000).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/2000/"
+  },
+  {
+    "id": "nom-atonement-nbcc-2002",
+    "prizeId": "nbcc-fiction",
+    "bookId": "atonement",
+    "year": 2002,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (2002).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/2002/"
+  },
+  {
+    "id": "nom-known-world-nbcc-2003",
+    "prizeId": "nbcc-fiction",
+    "bookId": "the-known-world",
+    "year": 2003,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (2003).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/2003/"
+  },
+  {
+    "id": "nom-the-march-nbcc-2005",
+    "prizeId": "nbcc-fiction",
+    "bookId": "the-march",
+    "year": 2005,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (2005).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/2005/"
+  },
+  {
+    "id": "nom-2666-nbcc-2008",
+    "prizeId": "nbcc-fiction",
+    "bookId": "2666",
+    "year": 2008,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (2008).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/2008/",
+    "translator": "Natasha Wimmer"
+  },
+  {
+    "id": "nom-wolf-hall-nbcc-2009",
+    "prizeId": "nbcc-fiction",
+    "bookId": "wolf-hall",
+    "year": 2009,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (2009).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/2009/"
+  },
+  {
+    "id": "nom-binocular-vision-nbcc-2011",
+    "prizeId": "nbcc-fiction",
+    "bookId": "binocular-vision",
+    "year": 2011,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (2011).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/2011/"
+  },
+  {
+    "id": "nom-billy-lynn-nbcc-2012",
+    "prizeId": "nbcc-fiction",
+    "bookId": "billy-lynns-long-halftime-walk",
+    "year": 2012,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (2012).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/2012/"
+  },
+  {
+    "id": "nom-americanah-nbcc-2013",
+    "prizeId": "nbcc-fiction",
+    "bookId": "americanah",
+    "year": 2013,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (2013).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/2013/"
+  },
+  {
+    "id": "nom-lila-nbcc-2014",
+    "prizeId": "nbcc-fiction",
+    "bookId": "lila",
+    "year": 2014,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (2014).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/2014/"
+  },
+  {
+    "id": "nom-the-sellout-nbcc-2015",
+    "prizeId": "nbcc-fiction",
+    "bookId": "the-sellout",
+    "year": 2015,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (2015).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/2015/"
+  },
+  {
+    "id": "nom-larose-nbcc-2016",
+    "prizeId": "nbcc-fiction",
+    "bookId": "larose",
+    "year": 2016,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (2016).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/2016/"
+  },
+  {
+    "id": "nom-improvement-nbcc-2017",
+    "prizeId": "nbcc-fiction",
+    "bookId": "improvement",
+    "year": 2017,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (2017).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/2017/"
+  },
+  {
+    "id": "nom-milkman-nbcc-2018",
+    "prizeId": "nbcc-fiction",
+    "bookId": "milkman",
+    "year": 2018,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (2018).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/2018/"
+  },
+  {
+    "id": "nom-everything-inside-nbcc-2019",
+    "prizeId": "nbcc-fiction",
+    "bookId": "everything-inside",
+    "year": 2019,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (2019).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/2019/"
+  },
+  {
+    "id": "nom-love-songs-du-bois-nbcc-2021",
+    "prizeId": "nbcc-fiction",
+    "bookId": "the-love-songs-of-w-e-b-du-bois",
+    "year": 2021,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (2021).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/2021/"
+  },
+  {
+    "id": "nom-bliss-montage-nbcc-2022",
+    "prizeId": "nbcc-fiction",
+    "bookId": "bliss-montage",
+    "year": 2022,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (2022).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/2022/"
+  },
+  {
+    "id": "nom-homeless-home-nbcc-2023",
+    "prizeId": "nbcc-fiction",
+    "bookId": "i-am-homeless-if-this-is-not-my-home",
+    "year": 2023,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (2023).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/2023/"
+  },
+  {
+    "id": "nom-my-friends-nbcc-2024",
+    "prizeId": "nbcc-fiction",
+    "bookId": "my-friends",
+    "year": 2024,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (2024).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/2024/"
+  },
+  {
+    "id": "nom-we-do-not-part-nbcc-2025",
+    "prizeId": "nbcc-fiction",
+    "bookId": "we-do-not-part",
+    "year": 2025,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner of the National Book Critics Circle Award for Fiction (2025).",
+    "sourceUrl": "https://www.bookcritics.org/past-awards/2025/",
+    "translator": "e. yaewon and Paige Aniyah Morris"
+  },
+  {
+    "id": "nom-quo-vadis-nobel-1905",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "quo-vadis",
+    "year": 1905,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "Because of his outstanding merits as an epic writer.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1905/summary/"
+  },
+  {
+    "id": "nom-kim-nobel-1907",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "kim",
+    "year": 1907,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "In consideration of the power of observation, originality of imagination, virility of ideas and remarkable talent for narration which characterize the creations of this world-famous author.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1907/summary/"
+  },
+  {
+    "id": "nom-gosta-berling-nobel-1909",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "gosta-berlings-saga",
+    "year": 1909,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "In appreciation of the lofty idealism, vivid imagination and spiritual perception that characterize her writings.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1909/summary/"
+  },
+  {
+    "id": "nom-growth-soil-nobel-1920",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "growth-of-the-soil",
+    "year": 1920,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his monumental work, Growth of the Soil.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1920/summary/"
+  },
+  {
+    "id": "nom-gods-athirst-nobel-1921",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-gods-are-athirst",
+    "year": 1921,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "In recognition of his brilliant literary achievements, characterized as they are by a nobility of style, a profound human sympathy, grace, and a true Gallic temperament.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1921/summary/"
+  },
+  {
+    "id": "nom-the-peasants-nobel-1924",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-peasants",
+    "year": 1924,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his great national epic, The Peasants.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1924/summary/"
+  },
+  {
+    "id": "nom-kristin-lavransdatter-nobel-1928",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "kristin-lavransdatter",
+    "year": 1928,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "Principally for her powerful descriptions of Northern life during the Middle Ages.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1928/summary/"
+  },
+  {
+    "id": "nom-buddenbrooks-nobel-1929",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "buddenbrooks",
+    "year": 1929,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "Principally for his great novel, Buddenbrooks, which has won steadily increased recognition as one of the classic works of contemporary literature.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1929/summary/"
+  },
+  {
+    "id": "nom-babbitt-nobel-1930",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "babbitt",
+    "year": 1930,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his vigorous and graphic art of description and his ability to create, with wit and humour, new types of characters.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1930/summary/"
+  },
+  {
+    "id": "nom-forsyte-saga-nobel-1932",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-forsyte-saga",
+    "year": 1932,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his distinguished art of narration which takes its highest form in The Forsyte Saga.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1932/summary/"
+  },
+  {
+    "id": "nom-gentleman-san-francisco-nobel-1933",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-gentleman-from-san-francisco",
+    "year": 1933,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For the strict artistry with which he has carried on the classical Russian traditions in prose writing.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1933/summary/"
+  },
+  {
+    "id": "nom-six-characters-nobel-1934",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "six-characters-in-search-of-an-author",
+    "year": 1934,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his bold and ingenious revival of dramatic and scenic art.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1934/summary/"
+  },
+  {
+    "id": "nom-barabbas-nobel-1951",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "barabbas",
+    "year": 1951,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For the artistic vigour and true independence of mind with which he endeavours in his poetry to find answers to the eternal questions confronting mankind.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1951/summary/"
+  },
+  {
+    "id": "nom-therese-desqueyroux-nobel-1952",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "therese-desqueyroux",
+    "year": 1952,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For the deep spiritual insight and the artistic intensity with which he has in his novels penetrated the drama of human life.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1952/summary/"
+  },
+  {
+    "id": "nom-independent-people-nobel-1955",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "independent-people",
+    "year": 1955,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his vivid epic power which has renewed the great narrative art of Iceland.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1955/summary/"
+  },
+  {
+    "id": "nom-doctor-zhivago-nobel-1958",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "doctor-zhivago",
+    "year": 1958,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his important achievement both in contemporary lyrical poetry and in the field of the great Russian epic tradition.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1958/summary/"
+  },
+  {
+    "id": "nom-bridge-drina-nobel-1961",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-bridge-on-the-drina",
+    "year": 1961,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For the epic force with which he has traced themes and depicted human destinies drawn from the history of his country.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1961/summary/"
+  },
+  {
+    "id": "nom-quiet-flows-don-nobel-1965",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "and-quiet-flows-the-don",
+    "year": 1965,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For the artistic power and integrity with which, in his epic of the Don, he has given expression to a historic phase in the life of the Russian people.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1965/summary/"
+  },
+  {
+    "id": "nom-bridal-canopy-nobel-1966",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-bridal-canopy",
+    "year": 1966,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his profoundly characteristic narrative art with motifs from the life of the Jewish people.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1966/summary/"
+  },
+  {
+    "id": "nom-senor-presidente-nobel-1967",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "el-senor-presidente",
+    "year": 1967,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his vivid literary achievement, deep-rooted in the national traits and traditions of Indian peoples of Latin America.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1967/summary/"
+  },
+  {
+    "id": "nom-snow-country-nobel-1968",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "snow-country",
+    "year": 1968,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his narrative mastery, which with great sensibility expresses the essence of the Japanese mind.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1968/summary/"
+  },
+  {
+    "id": "nom-waiting-godot-nobel-1969",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "waiting-for-godot",
+    "year": 1969,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his writing, which—in new forms for the novel and drama—in the destitution of modern man acquires its elevation.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1969/summary/"
+  },
+  {
+    "id": "nom-ivan-denisovich-nobel-1970",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "one-day-in-the-life-of-ivan-denisovich",
+    "year": 1970,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For the ethical force with which he has pursued the indispensable traditions of Russian literature.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1970/summary/"
+  },
+  {
+    "id": "nom-katharina-blum-nobel-1972",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-lost-honour-of-katharina-blum",
+    "year": 1972,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his writing which through its combination of a broad perspective on his time and a sensitive skill in characterization has contributed to a renewal of German literature.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1972/summary/"
+  },
+  {
+    "id": "nom-eye-storm-nobel-1973",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-eye-of-the-storm",
+    "year": 1973,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For an epic and psychological narrative art which has introduced a new continent into literature.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1973/summary/"
+  },
+  {
+    "id": "nom-magician-lublin-nobel-1978",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-magician-of-lublin",
+    "year": 1978,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his impassioned narrative art which, with roots in a Polish-Jewish cultural tradition, brings universal human conditions to life.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1978/summary/"
+  },
+  {
+    "id": "nom-auto-da-fe-nobel-1981",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "auto-da-fe",
+    "year": 1981,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For writings marked by a broad outlook, a wealth of ideas and artistic power.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1981/summary/"
+  },
+  {
+    "id": "nom-flanders-road-nobel-1985",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-flanders-road",
+    "year": 1985,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "Who in his novel combines the poet's and the painter's creativeness with a deepened awareness of time in the depiction of the human condition.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1985/summary/"
+  },
+  {
+    "id": "nom-palace-walk-nobel-1988",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "palace-walk",
+    "year": 1988,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "Who, through works rich in nuance—now clear-sightedly realistic, now evocatively ambiguous—has formed an Arabian narrative art that applies to all mankind.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1988/summary/"
+  },
+  {
+    "id": "nom-the-hive-nobel-1989",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-hive",
+    "year": 1989,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For a rich and intensive prose, which with restrained compassion forms a challenging vision of man's vulnerability.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1989/summary/"
+  },
+  {
+    "id": "nom-personal-matter-nobel-1994",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "a-personal-matter",
+    "year": 1994,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "Who with poetic force creates an imagined world, where life and myth condense to form a disconcerting picture of the human predicament today.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1994/summary/"
+  },
+  {
+    "id": "nom-tin-drum-nobel-1999",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-tin-drum",
+    "year": 1999,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "Whose frolicsome black fables portray the forgotten face of history.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/1999/summary/"
+  },
+  {
+    "id": "nom-soul-mountain-nobel-2000",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "soul-mountain",
+    "year": 2000,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For an oeuvre of universal validity, bitter insights and linguistic ingenuity, which has opened new paths for the Chinese novel and drama.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/2000/summary/"
+  },
+  {
+    "id": "nom-fatelessness-nobel-2002",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "fatelessness",
+    "year": 2002,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For writing that upholds the fragile experience of the individual against the barbaric arbitrariness of history.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/2002/summary/"
+  },
+  {
+    "id": "nom-piano-teacher-nobel-2004",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-piano-teacher",
+    "year": 2004,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For her musical flow of voices and counter-voices in novels and plays that with extraordinary linguistic zeal reveal the absurdity of society's clichés and their subjugating power.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/2004/summary/"
+  },
+  {
+    "id": "nom-my-name-red-nobel-2006",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "my-name-is-red",
+    "year": 2006,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "Who in the quest for the melancholic soul of his native city has discovered new symbols for the clash and interlacing of cultures.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/2006/summary/"
+  },
+  {
+    "id": "nom-golden-notebook-nobel-2007",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-golden-notebook",
+    "year": 2007,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "That epicist of the female experience, who with scepticism, fire and visionary power has subjected a divided civilisation to scrutiny.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/2007/summary/"
+  },
+  {
+    "id": "nom-desert-nobel-2008",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "desert",
+    "year": 2008,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "Author of new departures, poetic adventure and sensual ecstasy, explorer of a humanity beyond and below the reigning civilization.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/2008/summary/"
+  },
+  {
+    "id": "nom-hunger-angel-nobel-2009",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-hunger-angel",
+    "year": 2009,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "Who, with the concentration of poetry and the frankness of prose, depicts the landscape of the dispossessed.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/2009/summary/"
+  },
+  {
+    "id": "nom-feast-of-goat-nobel-2010",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-feast-of-the-goat",
+    "year": 2010,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his cartography of structures of power and his trenchant images of the individual's resistance, revolt, and defeat.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/2010/summary/"
+  },
+  {
+    "id": "nom-red-sorghum-nobel-2012",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "red-sorghum",
+    "year": 2012,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "Who with hallucinatory realism merges folk tales, history and the contemporary.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/2012/summary/"
+  },
+  {
+    "id": "nom-missing-person-nobel-2014",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "missing-person",
+    "year": 2014,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For the art of memory with which he has evoked the most ungraspable human destinies and uncovered the life-world of the occupation.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/2014/summary/"
+  },
+  {
+    "id": "nom-goalie-anxiety-nobel-2019",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "the-goalies-anxiety-at-the-penalty-kick",
+    "year": 2019,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For an influential work that with linguistic ingenuity has explored the periphery and the specificity of human experience.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/2019/summary/"
+  },
+  {
+    "id": "nom-paradise-nobel-2021",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "paradise",
+    "year": 2021,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his uncompromising and compassionate penetration of the effects of colonialism and the fate of the refugee in the gulf between cultures and continents.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/2021/summary/"
+  },
+  {
+    "id": "nom-septology-nobel-2023",
+    "prizeId": "nobel-prize-literature",
+    "bookId": "septology",
+    "year": 2023,
+    "status": "winner",
+    "category": "Literature",
+    "citation": "For his innovative plays and prose which give voice to the unsayable.",
+    "sourceUrl": "https://www.nobelprize.org/prizes/literature/2023/summary/"
+  },
+  {
+    "id": "nom-atonement-booker-2001",
+    "prizeId": "booker-prize",
+    "bookId": "atonement",
+    "year": 2001,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlisted for the 2001 Booker Prize.",
+    "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/atonement"
   }
 ]

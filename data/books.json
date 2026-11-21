@@ -9597,5 +9597,1428 @@
     "synopsis": "An account of philosophy as part of social and political life, shaped by the communities in which different systems flourished.",
     "openLibraryKey": "/works/OL1088357W",
     "countryOfOrigin": "United Kingdom"
+  },
+  {
+    "id": "ragtime",
+    "title": "Ragtime",
+    "authorId": "e-l-doctorow",
+    "authorName": "E. L. Doctorow",
+    "publicationYear": 1975,
+    "publisher": "Random House",
+    "isbn13": "9780812978186",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780812978186-L.jpg?default=false",
+    "genres": [
+      "Historical Fiction",
+      "Literary Fiction",
+      "American Masterwork"
+    ],
+    "synopsis": "A kaleidoscopic portrait of early 20th-century America in New Rochelle, Harlem, and the Lower East Side, interweaving fictional families with historical icons like Houdini, Emma Goldman, and J.P. Morgan.",
+    "countryOfOrigin": "United States",
+    "pageCount": 320,
+    "spineColor": "#831843"
+  },
+  {
+    "id": "october-light",
+    "title": "October Light",
+    "authorId": "john-gardner",
+    "authorName": "John Gardner",
+    "publicationYear": 1976,
+    "publisher": "Knopf",
+    "isbn13": "9780394499123",
+    "genres": [
+      "Literary Fiction",
+      "Philosophical Fiction"
+    ],
+    "synopsis": "An epic, stubborn battle of wills between elderly Vermont siblings James and Sally Page, containing a trashy sci-fi pulp novel within a novel that comments on modern America.",
+    "countryOfOrigin": "United States",
+    "pageCount": 448,
+    "spineColor": "#78350f"
+  },
+  {
+    "id": "the-year-of-the-french",
+    "title": "The Year of the French",
+    "authorId": "thomas-flanagan",
+    "authorName": "Thomas Flanagan",
+    "publicationYear": 1979,
+    "publisher": "Holt, Rinehart and Winston",
+    "isbn13": "9781590171080",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781590171080-L.jpg?default=false",
+    "genres": [
+      "Historical Fiction",
+      "Irish Epic"
+    ],
+    "synopsis": "A panoramic, polyphonic narrative of the tragic 1798 Irish rebellion in County Mayo, where Irish peasants joined French expeditionary troops to overthrow British rule.",
+    "countryOfOrigin": "United States",
+    "pageCount": 540,
+    "spineColor": "#14532d"
+  },
+  {
+    "id": "the-transit-of-venus",
+    "title": "The Transit of Venus",
+    "authorId": "shirley-hazzard",
+    "authorName": "Shirley Hazzard",
+    "publicationYear": 1980,
+    "publisher": "Viking",
+    "isbn13": "9780140107470",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780140107470-L.jpg?default=false",
+    "genres": [
+      "Literary Fiction",
+      "Post-War Fiction"
+    ],
+    "synopsis": "An exquisite chronicle of two orphaned Australian sisters arriving in post-war England, navigating love, deception, fate, and the slow, seismic shifts of destiny over decades.",
+    "countryOfOrigin": "Australia",
+    "pageCount": 352,
+    "spineColor": "#155e75"
+  },
+  {
+    "id": "george-mills",
+    "title": "George Mills",
+    "authorId": "stanley-elkin",
+    "authorName": "Stanley Elkin",
+    "publicationYear": 1982,
+    "publisher": "E. P. Dutton",
+    "isbn13": "9780525241430",
+    "genres": [
+      "Literary Fiction",
+      "Satire",
+      "Picaresque"
+    ],
+    "synopsis": "A hilarious, linguistic tour-de-force spanning one thousand years across generations of blue-collar George Millses from the First Crusade to Poland and contemporary St. Louis.",
+    "countryOfOrigin": "United States",
+    "pageCount": 508,
+    "spineColor": "#92400e"
+  },
+  {
+    "id": "love-medicine",
+    "title": "Love Medicine",
+    "authorId": "louise-erdrich",
+    "authorName": "Louise Erdrich",
+    "publicationYear": 1984,
+    "publisher": "Holt, Rinehart and Winston",
+    "isbn13": "9780061787423",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780061787423-L.jpg?default=false",
+    "genres": [
+      "Literary Fiction",
+      "Indigenous Literature",
+      "Interconnected Stories"
+    ],
+    "synopsis": "The foundational novel of Erdrich's North Dakota reservation cycle, chronicling the tangled lives, griefs, resilience, and magic of the Kashpaw and Lamartine families.",
+    "countryOfOrigin": "United States",
+    "pageCount": 368,
+    "spineColor": "#065f46"
+  },
+  {
+    "id": "the-accidental-tourist",
+    "title": "The Accidental Tourist",
+    "authorId": "anne-tyler",
+    "authorName": "Anne Tyler",
+    "publicationYear": 1985,
+    "publisher": "Knopf",
+    "isbn13": "9780449911983",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780449911983-L.jpg?default=false",
+    "genres": [
+      "Literary Fiction",
+      "Domestic Drama"
+    ],
+    "synopsis": "Following the death of his son and separation from his wife, solitary travel-guide writer Macon Leary is unexpectedly coaxed back into life and chaos by an eccentric dog trainer.",
+    "countryOfOrigin": "United States",
+    "pageCount": 352,
+    "spineColor": "#1d4ed8"
+  },
+  {
+    "id": "kate-vaiden",
+    "title": "Kate Vaiden",
+    "authorId": "reynolds-price",
+    "authorName": "Reynolds Price",
+    "publicationYear": 1986,
+    "publisher": "Atheneum",
+    "isbn13": "9780689117879",
+    "genres": [
+      "Literary Fiction",
+      "Southern Gothic"
+    ],
+    "synopsis": "The fierce, indelible memoir of an orphaned North Carolina woman who abandons her infant son and searches for reconciliation, freedom, and self-possession.",
+    "countryOfOrigin": "United States",
+    "pageCount": 416,
+    "spineColor": "#701a75"
+  },
+  {
+    "id": "the-counterlife",
+    "title": "The Counterlife",
+    "authorId": "philip-roth",
+    "authorName": "Philip Roth",
+    "publicationYear": 1987,
+    "publisher": "Farrar, Straus and Giroux",
+    "isbn13": "9780679781325",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780679781325-L.jpg?default=false",
+    "genres": [
+      "Literary Fiction",
+      "Metafiction",
+      "Postmodern"
+    ],
+    "synopsis": "Nathan Zuckerman and his brother Henry navigate mutually contradictory versions of heart disease, Judeo-Christian identity, Zionism, and mortality across New Jersey, London, and Judea.",
+    "countryOfOrigin": "United States",
+    "pageCount": 384,
+    "spineColor": "#475569"
+  },
+  {
+    "id": "the-middleman-and-other-stories",
+    "title": "The Middleman and Other Stories",
+    "authorId": "bharati-mukherjee",
+    "authorName": "Bharati Mukherjee",
+    "publicationYear": 1988,
+    "publisher": "Grove Press",
+    "isbn13": "9780802136121",
+    "genres": [
+      "Short Stories",
+      "Immigrant Fiction",
+      "Literary Fiction"
+    ],
+    "synopsis": "Brilliant, sharp-edged stories of transformed newcomers to North America from India, the Philippines, Sri Lanka, and the Caribbean adapting with grit and passion.",
+    "countryOfOrigin": "United States",
+    "pageCount": 208,
+    "spineColor": "#b45309"
+  },
+  {
+    "id": "billy-bathgate",
+    "title": "Billy Bathgate",
+    "authorId": "e-l-doctorow",
+    "authorName": "E. L. Doctorow",
+    "publicationYear": 1989,
+    "publisher": "Random House",
+    "isbn13": "9780812978193",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780812978193-L.jpg?default=false",
+    "genres": [
+      "Historical Fiction",
+      "Crime Fiction",
+      "Coming-of-Age"
+    ],
+    "synopsis": "In 1930s Bronx, a quick-witted street kid joins Dutch Schultz's notorious bootlegging syndicate, surviving betrayals, murder, and high-society intrigue.",
+    "countryOfOrigin": "United States",
+    "pageCount": 336,
+    "spineColor": "#0f172a"
+  },
+  {
+    "id": "a-lesson-before-dying",
+    "title": "A Lesson Before Dying",
+    "authorId": "ernest-j-gaines",
+    "authorName": "Ernest J. Gaines",
+    "publicationYear": 1993,
+    "publisher": "Knopf",
+    "isbn13": "9780375702709",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780375702709-L.jpg?default=false",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Southern Classic"
+    ],
+    "synopsis": "In 1940s Louisiana, a young Black schoolteacher is asked to impart dignity and self-worth to an unjustly condemned young man awaiting execution in an electric chair.",
+    "countryOfOrigin": "United States",
+    "pageCount": 272,
+    "spineColor": "#78350f"
+  },
+  {
+    "id": "mrs-ted-bliss",
+    "title": "Mrs. Ted Bliss",
+    "authorId": "stanley-elkin",
+    "authorName": "Stanley Elkin",
+    "publicationYear": 1995,
+    "publisher": "Hyperion",
+    "isbn13": "9780786861293",
+    "genres": [
+      "Literary Fiction",
+      "Satire",
+      "Tragicomedy"
+    ],
+    "synopsis": "In a Miami Beach retirement condo, eighty-two-year-old widow Dorothy Bliss faces terminal cancer, grief, and an outlandish entanglement with drug smugglers with unbending grit.",
+    "countryOfOrigin": "United States",
+    "pageCount": 304,
+    "spineColor": "#0284c7"
+  },
+  {
+    "id": "women-in-their-beds",
+    "title": "Women in Their Beds",
+    "authorId": "gina-berriault",
+    "authorName": "Gina Berriault",
+    "publicationYear": 1996,
+    "publisher": "Counterpoint",
+    "isbn13": "9781887178389",
+    "genres": [
+      "Short Stories",
+      "Literary Fiction"
+    ],
+    "synopsis": "Thirty-five masterfully nuanced stories spanning forty years, uncovering the quiet crises, vulnerabilities, and moral dilemmas of artists, lovers, and women.",
+    "countryOfOrigin": "United States",
+    "pageCount": 352,
+    "spineColor": "#831843"
+  },
+  {
+    "id": "the-blue-flower",
+    "title": "The Blue Flower",
+    "authorId": "penelope-fitzgerald",
+    "authorName": "Penelope Fitzgerald",
+    "publicationYear": 1995,
+    "publisher": "Flamingo / Houghton Mifflin",
+    "isbn13": "9780395914618",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780395914618-L.jpg?default=false",
+    "genres": [
+      "Historical Fiction",
+      "Biographical Novel",
+      "Literary Fiction"
+    ],
+    "synopsis": "A luminous, distilled historical masterpiece dramatizing the youth of German Romantic poet Novalis and his profound, bewildering love for a plain twelve-year-old girl.",
+    "countryOfOrigin": "United Kingdom",
+    "pageCount": 240,
+    "spineColor": "#1e40af"
+  },
+  {
+    "id": "the-love-of-a-good-woman",
+    "title": "The Love of a Good Woman",
+    "authorId": "alice-munro",
+    "authorName": "Alice Munro",
+    "publicationYear": 1998,
+    "publisher": "Douglas Gibson / McClellan & Stewart",
+    "isbn13": "9780375703638",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780375703638-L.jpg?default=false",
+    "genres": [
+      "Short Stories",
+      "Literary Fiction"
+    ],
+    "synopsis": "Eight magnificent, sprawling short stories plumbing the secrets, crimes, and unexpected shifts of human emotion in rural Ontario and across decades.",
+    "countryOfOrigin": "Canada",
+    "pageCount": 368,
+    "spineColor": "#047857"
+  },
+  {
+    "id": "motherless-brooklyn",
+    "title": "Motherless Brooklyn",
+    "authorId": "jonathan-lethem",
+    "authorName": "Jonathan Lethem",
+    "publicationYear": 1999,
+    "publisher": "Doubleday",
+    "isbn13": "9780375724831",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780375724831-L.jpg?default=false",
+    "genres": [
+      "Crime Fiction",
+      "Detective Fiction",
+      "Literary Fiction"
+    ],
+    "synopsis": "Lionel Essrog, a Brooklyn detective with Tourette's syndrome, investigates the murder of his eccentric mentor and boss Minna in a bravura performance of voice and heart.",
+    "countryOfOrigin": "United States",
+    "pageCount": 336,
+    "spineColor": "#334155"
+  },
+  {
+    "id": "being-dead",
+    "title": "Being Dead",
+    "authorId": "jim-crace",
+    "authorName": "Jim Crace",
+    "publicationYear": 1999,
+    "publisher": "Penguin / Viking",
+    "isbn13": "9780140297881",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780140297881-L.jpg?default=false",
+    "genres": [
+      "Literary Fiction",
+      "Philosophical Fiction"
+    ],
+    "synopsis": "A lyrical, fearless anatomy of love and organic decomposition following two marine biologists murdered on a sand dune, unfolding backward through their romance.",
+    "countryOfOrigin": "United Kingdom",
+    "pageCount": 224,
+    "spineColor": "#3b0764"
+  },
+  {
+    "id": "the-march",
+    "title": "The March",
+    "authorId": "e-l-doctorow",
+    "authorName": "E. L. Doctorow",
+    "publicationYear": 2005,
+    "publisher": "Random House",
+    "isbn13": "9780812976151",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780812976151-L.jpg?default=false",
+    "genres": [
+      "Historical Fiction",
+      "War Epic",
+      "Literary Fiction"
+    ],
+    "synopsis": "General William Tecumseh Sherman's devastating Civil War March to the Sea, seen through an unforgettable choir of Union soldiers, freed slaves, Confederate refugees, and surgeons.",
+    "countryOfOrigin": "United States",
+    "pageCount": 384,
+    "spineColor": "#7f1d1d"
+  },
+  {
+    "id": "2666",
+    "title": "2666",
+    "authorId": "roberto-bolano",
+    "authorName": "Roberto Bolaño",
+    "publicationYear": 2004,
+    "publisher": "Anagrama / Farrar, Straus and Giroux",
+    "isbn13": "9780312429218",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780312429218-L.jpg?default=false",
+    "genres": [
+      "Literary Fiction",
+      "Magnum Opus",
+      "Detective Mystery"
+    ],
+    "synopsis": "A titanic five-part masterpiece centered on the unsolved serial murders of hundreds of women in Santa Teresa on the US-Mexico border, connecting European literary critics, a mad painter, and an elusive writer.",
+    "countryOfOrigin": "Chile",
+    "pageCount": 912,
+    "spineColor": "#172554"
+  },
+  {
+    "id": "binocular-vision",
+    "title": "Binocular Vision: New and Selected Stories",
+    "authorId": "edith-pearlman",
+    "authorName": "Edith Pearlman",
+    "publicationYear": 2011,
+    "publisher": "Lookout Books",
+    "isbn13": "9780982338292",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780982338292-L.jpg?default=false",
+    "genres": [
+      "Short Stories",
+      "Literary Fiction"
+    ],
+    "synopsis": "Thirty-four compassionate, astonishing stories set across New England, post-war Europe, and Latin America exploring Jewish diaspora life with immense wit and clarity.",
+    "countryOfOrigin": "United States",
+    "pageCount": 384,
+    "spineColor": "#0369a1"
+  },
+  {
+    "id": "billy-lynns-long-halftime-walk",
+    "title": "Billy Lynn's Long Halftime Walk",
+    "authorId": "ben-fountain",
+    "authorName": "Ben Fountain",
+    "publicationYear": 2012,
+    "publisher": "Ecco / HarperCollins",
+    "isbn13": "9780060885618",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780060885618-L.jpg?default=false",
+    "genres": [
+      "Satire",
+      "War Fiction",
+      "Literary Fiction"
+    ],
+    "synopsis": "During a Thanksgiving NFL game halftime show at Texas Stadium, nineteen-year-old Iraq War hero Billy Lynn experiences the surreal, hypocritical spectacle of American patriotism.",
+    "countryOfOrigin": "United States",
+    "pageCount": 320,
+    "spineColor": "#15803d"
+  },
+  {
+    "id": "americanah",
+    "title": "Americanah",
+    "authorId": "chimamanda-ngozi-adichie",
+    "authorName": "Chimamanda Ngozi Adichie",
+    "publicationYear": 2013,
+    "publisher": "Alfred A. Knopf",
+    "isbn13": "9780307455925",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780307455925-L.jpg?default=false",
+    "genres": [
+      "Literary Fiction",
+      "Social Satire",
+      "Romance"
+    ],
+    "synopsis": "A dazzling story of love and race following Ifemelu and Obinze as young lovers in military-ruled Nigeria whose lives diverge toward America and London before reuniting in Lagos.",
+    "countryOfOrigin": "Nigeria",
+    "pageCount": 496,
+    "spineColor": "#e11d48"
+  },
+  {
+    "id": "lila",
+    "title": "Lila",
+    "authorId": "marilynne-robinson",
+    "authorName": "Marilynne Robinson",
+    "publicationYear": 2014,
+    "publisher": "Farrar, Straus and Giroux",
+    "isbn13": "9780374187613",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780374187613-L.jpg?default=false",
+    "genres": [
+      "Literary Fiction",
+      "Gilead Cycle"
+    ],
+    "synopsis": "The moving prequel to Gilead and Home recounting the difficult, itinerant life of John Ames's wife Lila, from vagrant survival in the Midwest dustbowl to unexpected grace.",
+    "countryOfOrigin": "United States",
+    "pageCount": 272,
+    "spineColor": "#ca8a04"
+  },
+  {
+    "id": "larose",
+    "title": "LaRose",
+    "authorId": "louise-erdrich",
+    "authorName": "Louise Erdrich",
+    "publicationYear": 2016,
+    "publisher": "Harper",
+    "isbn13": "9780062277022",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780062277022-L.jpg?default=false",
+    "genres": [
+      "Literary Fiction",
+      "Indigenous Literature"
+    ],
+    "synopsis": "After accidentally shooting his neighbor's five-year-old son, Landreaux Iron follows an ancient Ojibwe tradition and gives his own son LaRose to the grieving parents to raise.",
+    "countryOfOrigin": "United States",
+    "pageCount": 384,
+    "spineColor": "#0f766e"
+  },
+  {
+    "id": "improvement",
+    "title": "Improvement",
+    "authorId": "joan-silber",
+    "authorName": "Joan Silber",
+    "publicationYear": 2017,
+    "publisher": "Counterpoint",
+    "isbn13": "9781619029606",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781619029606-L.jpg?default=false",
+    "genres": [
+      "Literary Fiction",
+      "Interconnected Stories"
+    ],
+    "synopsis": "A ripple-effect narrative starting in the East Village with an eccentric aunt who lived in 1970s Turkey, cascading through a cigarette-smuggling scheme, prison, and second chances.",
+    "countryOfOrigin": "United States",
+    "pageCount": 256,
+    "spineColor": "#9333ea"
+  },
+  {
+    "id": "everything-inside",
+    "title": "Everything Inside",
+    "authorId": "edwidge-danticat",
+    "authorName": "Edwidge Danticat",
+    "publicationYear": 2019,
+    "publisher": "Knopf",
+    "isbn13": "9780525521273",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780525521273-L.jpg?default=false",
+    "genres": [
+      "Short Stories",
+      "Literary Fiction"
+    ],
+    "synopsis": "Eight luminous, poignant stories set in Miami, Port-au-Prince, and a fictional Caribbean island examining love, migration, family grief, and unexpected community.",
+    "countryOfOrigin": "Haiti",
+    "pageCount": 240,
+    "spineColor": "#b91c1c"
+  },
+  {
+    "id": "the-love-songs-of-w-e-b-du-bois",
+    "title": "The Love Songs of W.E.B. Du Bois",
+    "authorId": "honoree-fanonne-jeffers",
+    "authorName": "Honorée Fanonne Jeffers",
+    "publicationYear": 2021,
+    "publisher": "Harper",
+    "isbn13": "9780062942937",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780062942937-L.jpg?default=false",
+    "genres": [
+      "Historical Fiction",
+      "Southern Epic",
+      "Literary Fiction"
+    ],
+    "synopsis": "A breathtaking epic tracing one African American family in Georgia through centuries of enslavement, Indigenous intermarriage, and post-Civil Rights coming-of-age.",
+    "countryOfOrigin": "United States",
+    "pageCount": 816,
+    "spineColor": "#431407"
+  },
+  {
+    "id": "bliss-montage",
+    "title": "Bliss Montage",
+    "authorId": "ling-ma",
+    "authorName": "Ling Ma",
+    "publicationYear": 2022,
+    "publisher": "Farrar, Straus and Giroux",
+    "isbn13": "9780374717131",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780374717131-L.jpg?default=false",
+    "genres": [
+      "Short Stories",
+      "Surrealist Fiction",
+      "Satire"
+    ],
+    "synopsis": "Eight wildly inventive tales blending realism with speculative whimsy, where women live in houses with all their ex-boyfriends or take invisibility drugs to avoid encounters.",
+    "countryOfOrigin": "United States",
+    "pageCount": 240,
+    "spineColor": "#f97316"
+  },
+  {
+    "id": "i-am-homeless-if-this-is-not-my-home",
+    "title": "I Am Homeless If This Is Not My Home",
+    "authorId": "lorrie-moore",
+    "authorName": "Lorrie Moore",
+    "publicationYear": 2023,
+    "publisher": "Knopf",
+    "isbn13": "9780307594143",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780307594143-L.jpg?default=false",
+    "genres": [
+      "Literary Fiction",
+      "Ghost Story",
+      "Tragicomedy"
+    ],
+    "synopsis": "A bittersweet road trip between a high school history teacher and his newly deceased ex-girlfriend journeying toward a body farm, interspersed with Civil War boardinghouse diaries.",
+    "countryOfOrigin": "United States",
+    "pageCount": 208,
+    "spineColor": "#1e293b"
+  },
+  {
+    "id": "we-do-not-part",
+    "title": "We Do Not Part",
+    "authorId": "han-kang",
+    "authorName": "Han Kang",
+    "publicationYear": 2025,
+    "publisher": "Hogarth / Random House",
+    "isbn13": "9780593801826",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780593801826-L.jpg?default=false",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Trauma"
+    ],
+    "synopsis": "A snow-swept, haunting confrontation with the 1948 Jeju uprising massacres in Korea, following a writer traveling through a blizzard to care for a friend's pet bird.",
+    "countryOfOrigin": "South Korea",
+    "pageCount": 256,
+    "spineColor": "#475569"
+  },
+  {
+    "id": "quo-vadis",
+    "title": "Quo Vadis",
+    "authorId": "henryk-sienkiewicz",
+    "authorName": "Henryk Sienkiewicz",
+    "publicationYear": 1896,
+    "publisher": "Gebethner i Wolff",
+    "isbn13": "9780781807609",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780781807609-L.jpg?default=false",
+    "genres": [
+      "Historical Fiction",
+      "Epic Fiction",
+      "Classics"
+    ],
+    "synopsis": "A grand epic of ancient Rome during the reign of Emperor Nero, recounting the perilous love between young patrician Marcus Vinicius and Christian hostage Ligia amid persecution and the great fire.",
+    "countryOfOrigin": "Poland",
+    "pageCount": 576,
+    "spineColor": "#7f1d1d"
+  },
+  {
+    "id": "kim",
+    "title": "Kim",
+    "authorId": "rudyard-kipling",
+    "authorName": "Rudyard Kipling",
+    "publicationYear": 1901,
+    "publisher": "Macmillan & Co",
+    "isbn13": "9780141439693",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780141439693-L.jpg?default=false",
+    "genres": [
+      "Adventure Fiction",
+      "Picaresque",
+      "Classics"
+    ],
+    "synopsis": "An orphaned Irish boy growing up on the streets of Lahore embarks on a spiritual pilgrimage across the Grand Trunk Road with a Tibetan lama while acting as an undercover courier in the Great Game.",
+    "countryOfOrigin": "United Kingdom",
+    "pageCount": 384,
+    "spineColor": "#b45309"
+  },
+  {
+    "id": "gosta-berlings-saga",
+    "title": "Gösta Berling's Saga",
+    "authorId": "selma-lagerlof",
+    "authorName": "Selma Lagerlöf",
+    "publicationYear": 1891,
+    "publisher": "Frithiof Hellberg",
+    "isbn13": "9780143105572",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780143105572-L.jpg?default=false",
+    "genres": [
+      "Nordic Epic",
+      "Romanticism",
+      "Classics"
+    ],
+    "synopsis": "A passionate, folk-tale infused epic of Värmland in the 1820s following defrocked minister Gösta Berling and the legendary twelve Cavaliers of Ekeby Manor.",
+    "countryOfOrigin": "Sweden",
+    "pageCount": 464,
+    "spineColor": "#1e3a8a"
+  },
+  {
+    "id": "growth-of-the-soil",
+    "title": "Growth of the Soil",
+    "authorId": "knut-hamsun",
+    "authorName": "Knut Hamsun",
+    "publicationYear": 1917,
+    "publisher": "Gyldendal",
+    "isbn13": "9780143105107",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780143105107-L.jpg?default=false",
+    "genres": [
+      "Agrarian Epic",
+      "Literary Fiction",
+      "Classics"
+    ],
+    "synopsis": "A monumental, elemental portrait of pioneer farmer Isak carving a life out of the untamed Norwegian wilderness with biblical simplicity and endurance.",
+    "countryOfOrigin": "Norway",
+    "pageCount": 448,
+    "spineColor": "#14532d"
+  },
+  {
+    "id": "the-gods-are-athirst",
+    "title": "The Gods Are Athirst",
+    "authorId": "anatole-france",
+    "authorName": "Anatole France",
+    "publicationYear": 1912,
+    "publisher": "Calmann-Lévy",
+    "isbn13": "9780140443547",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780140443547-L.jpg?default=false",
+    "genres": [
+      "Historical Fiction",
+      "Satire",
+      "French Classic"
+    ],
+    "synopsis": "During the Reign of Terror in revolutionary Paris, idealist painter Évariste Gamelin is appointed to a Revolutionary Tribunal, transforming from compassionate artist to merciless fanatic.",
+    "countryOfOrigin": "France",
+    "pageCount": 288,
+    "spineColor": "#831843"
+  },
+  {
+    "id": "the-peasants",
+    "title": "The Peasants",
+    "authorId": "wladyslaw-reymont",
+    "authorName": "Władysław Reymont",
+    "publicationYear": 1904,
+    "publisher": "Gebethner i Wolff",
+    "isbn13": "9780143136705",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780143136705-L.jpg?default=false",
+    "genres": [
+      "Epic Fiction",
+      "Realism",
+      "Polish Classic"
+    ],
+    "synopsis": "A titanic four-volume chronicle structured across the seasons (Autumn, Winter, Spring, Summer) portraying the passions, feuds, rituals, and earth-bound life of a Polish village.",
+    "countryOfOrigin": "Poland",
+    "pageCount": 960,
+    "spineColor": "#78350f"
+  },
+  {
+    "id": "kristin-lavransdatter",
+    "title": "Kristin Lavransdatter",
+    "authorId": "sigrid-undset",
+    "authorName": "Sigrid Undset",
+    "publicationYear": 1920,
+    "publisher": "Aschehoug",
+    "isbn13": "9780143039167",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780143039167-L.jpg?default=false",
+    "genres": [
+      "Historical Fiction",
+      "Nordic Epic",
+      "Masterwork"
+    ],
+    "synopsis": "A towering trilogy (The Wreath, The Wife, The Cross) depicting fourteenth-century Norway through the passionate, turbulent life, faith, and trials of Kristin Lavransdatter.",
+    "countryOfOrigin": "Norway",
+    "pageCount": 1152,
+    "spineColor": "#1e1b4b"
+  },
+  {
+    "id": "buddenbrooks",
+    "title": "Buddenbrooks",
+    "authorId": "thomas-mann",
+    "authorName": "Thomas Mann",
+    "publicationYear": 1901,
+    "publisher": "S. Fischer Verlag",
+    "isbn13": "9780679752608",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780679752608-L.jpg?default=false",
+    "genres": [
+      "Family Saga",
+      "Literary Fiction",
+      "German Classic"
+    ],
+    "synopsis": "Mann's debut masterpiece tracing the four-generation rise and gradual physical, psychological, and financial decline of a wealthy merchant family in Lübeck.",
+    "countryOfOrigin": "Germany",
+    "pageCount": 752,
+    "spineColor": "#312e81"
+  },
+  {
+    "id": "babbitt",
+    "title": "Babbitt",
+    "authorId": "sinclair-lewis",
+    "authorName": "Sinclair Lewis",
+    "publicationYear": 1922,
+    "publisher": "Harcourt, Brace and Company",
+    "isbn13": "9780451531704",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780451531704-L.jpg?default=false",
+    "genres": [
+      "Satire",
+      "American Classic",
+      "Social Realism"
+    ],
+    "synopsis": "A sharp, enduring satire of American middle-class conformity, boosterism, and consumerism following prosperous Zenith real estate broker George F. Babbitt.",
+    "countryOfOrigin": "United States",
+    "pageCount": 400,
+    "spineColor": "#065f46"
+  },
+  {
+    "id": "the-forsyte-saga",
+    "title": "The Forsyte Saga",
+    "authorId": "john-galsworthy",
+    "authorName": "John Galsworthy",
+    "publicationYear": 1922,
+    "publisher": "Heinemann",
+    "isbn13": "9780199536832",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780199536832-L.jpg?default=false",
+    "genres": [
+      "Family Saga",
+      "Victorian Literature",
+      "Classics"
+    ],
+    "synopsis": "A classic sequence of three novels and two interludes examining wealth, possession, and marital discord within an upper-middle-class English family led by Soames Forsyte.",
+    "countryOfOrigin": "United Kingdom",
+    "pageCount": 896,
+    "spineColor": "#1c1917"
+  },
+  {
+    "id": "the-gentleman-from-san-francisco",
+    "title": "The Gentleman from San Francisco",
+    "authorId": "ivan-bunin",
+    "authorName": "Ivan Bunin",
+    "publicationYear": 1915,
+    "publisher": "Shipovnik",
+    "isbn13": "9780140180121",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780140180121-L.jpg?default=false",
+    "genres": [
+      "Novella",
+      "Russian Literature",
+      "Classics"
+    ],
+    "synopsis": "A devastating philosophical novella depicting a nameless American millionaire who embarks on a luxury Mediterranean cruise with his family, only to collapse in Capri.",
+    "countryOfOrigin": "Russia",
+    "pageCount": 160,
+    "spineColor": "#0f172a"
+  },
+  {
+    "id": "six-characters-in-search-of-an-author",
+    "title": "Six Characters in Search of an Author",
+    "authorId": "luigi-pirandello",
+    "authorName": "Luigi Pirandello",
+    "publicationYear": 1921,
+    "publisher": "Bemporad",
+    "isbn13": "9780486404554",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780486404554-L.jpg?default=false",
+    "genres": [
+      "Drama",
+      "Meta-Theater",
+      "Modernist Classic"
+    ],
+    "synopsis": "A revolutionary modernist masterpiece in which six unfinished theatrical characters abruptly intrude on a rehearsal demanding that their unfinished story be performed.",
+    "countryOfOrigin": "Italy",
+    "pageCount": 112,
+    "spineColor": "#7f1d1d"
+  },
+  {
+    "id": "barabbas",
+    "title": "Barabbas",
+    "authorId": "par-lagerkvist",
+    "authorName": "Pär Lagerkvist",
+    "publicationYear": 1950,
+    "publisher": "Albert Bonniers Förlag",
+    "isbn13": "9780679725442",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780679725442-L.jpg?default=false",
+    "genres": [
+      "Existential Fiction",
+      "Philosophical",
+      "Classics"
+    ],
+    "synopsis": "An existential portrait of the pardoned biblical thief Barabbas, whose life is irrevocably shadowed by the mysterious man who was crucified in his place on Golgotha.",
+    "countryOfOrigin": "Sweden",
+    "pageCount": 160,
+    "spineColor": "#451a03"
+  },
+  {
+    "id": "therese-desqueyroux",
+    "title": "Thérèse Desqueyroux",
+    "authorId": "francois-mauriac",
+    "authorName": "François Mauriac",
+    "publicationYear": 1927,
+    "publisher": "Grasset",
+    "isbn13": "9780140187847",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780140187847-L.jpg?default=false",
+    "genres": [
+      "Psychological Fiction",
+      "French Classic"
+    ],
+    "synopsis": "A haunting psychological drama of a provincial Bordeaux woman acquitted of poisoning her conventional husband, traveling back to her suffocating estate in an agony of self-examination.",
+    "countryOfOrigin": "France",
+    "pageCount": 144,
+    "spineColor": "#14532d"
+  },
+  {
+    "id": "independent-people",
+    "title": "Independent People",
+    "authorId": "halldor-laxness",
+    "authorName": "Halldór Laxness",
+    "publicationYear": 1934,
+    "publisher": "Helgafell",
+    "isbn13": "9780679767923",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780679767923-L.jpg?default=false",
+    "genres": [
+      "Epic Fiction",
+      "Nordic Literature",
+      "Tragicomedy"
+    ],
+    "synopsis": "A monumental, stubborn epic of sheep farmer Bjartur of Summerhouses, who sacrifices everything including family to maintain his fierce, unbending independence on the harsh Icelandic moors.",
+    "countryOfOrigin": "Iceland",
+    "pageCount": 496,
+    "spineColor": "#0369a1"
+  },
+  {
+    "id": "doctor-zhivago",
+    "title": "Doctor Zhivago",
+    "authorId": "boris-pasternak",
+    "authorName": "Boris Pasternak",
+    "publicationYear": 1957,
+    "publisher": "Feltrinelli / Pantheon",
+    "isbn13": "9780307594518",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780307594518-L.jpg?default=false",
+    "genres": [
+      "Historical Epic",
+      "Romance",
+      "Russian Classic"
+    ],
+    "synopsis": "The sweeping, unforgettable saga of physician-poet Yuri Zhivago and his passionate love for Lara Antipova against the cataclysms of World War I, the Russian Revolution, and the Civil War.",
+    "countryOfOrigin": "Russia",
+    "pageCount": 592,
+    "spineColor": "#881337"
+  },
+  {
+    "id": "the-bridge-on-the-drina",
+    "title": "The Bridge on the Drina",
+    "authorId": "ivo-andric",
+    "authorName": "Ivo Andrić",
+    "publicationYear": 1945,
+    "publisher": "Prosveta",
+    "isbn13": "9780226020457",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780226020457-L.jpg?default=false",
+    "genres": [
+      "Historical Epic",
+      "Balkan Literature",
+      "Masterwork"
+    ],
+    "synopsis": "A breathtaking chronicle spanning four centuries of Bosnian history around the magnificent stone bridge at Višegrad, witnessing the clashes and coexistence of Ottoman and Habsburg empires.",
+    "countryOfOrigin": "Yugoslavia",
+    "pageCount": 320,
+    "spineColor": "#b45309"
+  },
+  {
+    "id": "and-quiet-flows-the-don",
+    "title": "And Quiet Flows the Don",
+    "authorId": "mikhail-sholokhov",
+    "authorName": "Mikhail Sholokhov",
+    "publicationYear": 1928,
+    "publisher": "Oktyabr",
+    "isbn13": "9780679725213",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780679725213-L.jpg?default=false",
+    "genres": [
+      "War Epic",
+      "Historical Fiction",
+      "Russian Classic"
+    ],
+    "synopsis": "A monumental epic of the Don Cossacks led by Gregor Melekhov, caught between the Tsarist empire, the horrors of World War I, and the fratricidal Russian Civil War.",
+    "countryOfOrigin": "Russia",
+    "pageCount": 576,
+    "spineColor": "#15803d"
+  },
+  {
+    "id": "the-bridal-canopy",
+    "title": "The Bridal Canopy",
+    "authorId": "shmuel-yosef-agnon",
+    "authorName": "Shmuel Yosef Agnon",
+    "publicationYear": 1931,
+    "publisher": "Schocken Books",
+    "isbn13": "9780815606628",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780815606628-L.jpg?default=false",
+    "genres": [
+      "Picaresque",
+      "Hebrew Literature",
+      "Jewish Folklore"
+    ],
+    "synopsis": "A warm, humorous picaresque epic following poor pious Hasid Reb Yudel travelling across 19th-century Galicia with his wagon driver to seek dowries for his three daughters.",
+    "countryOfOrigin": "Israel",
+    "pageCount": 384,
+    "spineColor": "#0e7490"
+  },
+  {
+    "id": "el-senor-presidente",
+    "title": "El Señor Presidente",
+    "authorId": "miguel-angel-asturias",
+    "authorName": "Miguel Ángel Asturias",
+    "publicationYear": 1946,
+    "publisher": "Costa-Amic",
+    "isbn13": "9781564781581",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781564781581-L.jpg?default=false",
+    "genres": [
+      "Dictator Novel",
+      "Magical Realism",
+      "Latin American Classic"
+    ],
+    "synopsis": "A terrifying, hallucinatory masterpiece exploring psychological terror, corruption, and paranoia under an unnamed Latin American dictator based on Manuel Estrada Cabrera.",
+    "countryOfOrigin": "Guatemala",
+    "pageCount": 304,
+    "spineColor": "#09090b"
+  },
+  {
+    "id": "snow-country",
+    "title": "Snow Country",
+    "authorId": "yasunari-kawabata",
+    "authorName": "Yasunari Kawabata",
+    "publicationYear": 1937,
+    "publisher": "Sogensha",
+    "isbn13": "9780679761044",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780679761044-L.jpg?default=false",
+    "genres": [
+      "Literary Fiction",
+      "Japanese Classic"
+    ],
+    "synopsis": "A lyrical, minimalist masterpiece capturing the elusive, doomed affair between a Tokyo connoisseur and a hot-spring geisha in a remote, snowbound mountain town.",
+    "countryOfOrigin": "Japan",
+    "pageCount": 176,
+    "spineColor": "#38bdf8"
+  },
+  {
+    "id": "waiting-for-godot",
+    "title": "Waiting for Godot",
+    "authorId": "samuel-beckett",
+    "authorName": "Samuel Beckett",
+    "publicationYear": 1952,
+    "publisher": "Éditions de Minuit / Grove Press",
+    "isbn13": "9780802144423",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780802144423-L.jpg?default=false",
+    "genres": [
+      "Absurdist Drama",
+      "Modernist Classic",
+      "Existentialism"
+    ],
+    "synopsis": "The landmark absurdist play in two acts where tramps Vladimir and Estragon wait endlessly beside a tree on a country road for the mysterious, never-arriving Godot.",
+    "countryOfOrigin": "Ireland",
+    "pageCount": 128,
+    "spineColor": "#475569"
+  },
+  {
+    "id": "one-day-in-the-life-of-ivan-denisovich",
+    "title": "One Day in the Life of Ivan Denisovich",
+    "authorId": "alexander-solzhenitsyn",
+    "authorName": "Alexander Solzhenitsyn",
+    "publicationYear": 1962,
+    "publisher": "Novy Mir",
+    "isbn13": "9780451531049",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780451531049-L.jpg?default=false",
+    "genres": [
+      "Soviet Dissident Literature",
+      "Historical Fiction",
+      "Classics"
+    ],
+    "synopsis": "An unflinching, miraculous account of survival detailing one single day from morning reveille to lights-out for an ordinary prisoner in a Siberian Gulag labor camp.",
+    "countryOfOrigin": "Russia",
+    "pageCount": 192,
+    "spineColor": "#1e293b"
+  },
+  {
+    "id": "the-lost-honour-of-katharina-blum",
+    "title": "The Lost Honour of Katharina Blum",
+    "authorId": "heinrich-boll",
+    "authorName": "Heinrich Böll",
+    "publicationYear": 1974,
+    "publisher": "Kiepenheuer & Witsch",
+    "isbn13": "9780140187281",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780140187281-L.jpg?default=false",
+    "genres": [
+      "Satire",
+      "Political Thriller",
+      "German Literature"
+    ],
+    "synopsis": "A gripping critique of sensationalist tabloid journalism and state surveillance following a quiet housekeeper whose life is systematically destroyed after dancing with a suspected bank robber.",
+    "countryOfOrigin": "Germany",
+    "pageCount": 160,
+    "spineColor": "#991b1b"
+  },
+  {
+    "id": "the-eye-of-the-storm",
+    "title": "The Eye of the Storm",
+    "authorId": "patrick-white",
+    "authorName": "Patrick White",
+    "publicationYear": 1973,
+    "publisher": "Jonathan Cape",
+    "isbn13": "9780140188448",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780140188448-L.jpg?default=false",
+    "genres": [
+      "Literary Fiction",
+      "Australian Literature",
+      "Masterwork"
+    ],
+    "synopsis": "A dazzling, savage portrait of dying Sydney matriarch Elizabeth Hunter and her estranged adult children scheming to inherit her vast wealth while confronting spiritual decay.",
+    "countryOfOrigin": "Australia",
+    "pageCount": 608,
+    "spineColor": "#075985"
+  },
+  {
+    "id": "the-magician-of-lublin",
+    "title": "The Magician of Lublin",
+    "authorId": "isaac-bashevis-singer",
+    "authorName": "Isaac Bashevis Singer",
+    "publicationYear": 1960,
+    "publisher": "Noonday Press",
+    "isbn13": "9780452011274",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780452011274-L.jpg?default=false",
+    "genres": [
+      "Jewish Literature",
+      "Yiddish Classic",
+      "Philosophical Fiction"
+    ],
+    "synopsis": "Yasha Mazur, an acrobatic Jewish magician and illusionist in late 19th-century Poland, juggles multiple lovers, freethinking skepticism, and temptation before seeking penitence.",
+    "countryOfOrigin": "Poland",
+    "pageCount": 256,
+    "spineColor": "#581c87"
+  },
+  {
+    "id": "auto-da-fe",
+    "title": "Auto-da-Fé",
+    "authorId": "elias-canetti",
+    "authorName": "Elias Canetti",
+    "publicationYear": 1935,
+    "publisher": "Herbert Reichner Verlag",
+    "isbn13": "9780374518790",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780374518790-L.jpg?default=false",
+    "genres": [
+      "Modernist Fiction",
+      "Satire",
+      "Psychological Thriller"
+    ],
+    "synopsis": "A grotesque, prophetic masterpiece chronicling the downfall of reclusive Vienna sinologist Peter Kien, whose encyclopedic private library becomes the stage for madness and ruin.",
+    "countryOfOrigin": "Bulgaria",
+    "pageCount": 464,
+    "spineColor": "#3f3f46"
+  },
+  {
+    "id": "the-flanders-road",
+    "title": "The Flanders Road",
+    "authorId": "claude-simon",
+    "authorName": "Claude Simon",
+    "publicationYear": 1960,
+    "publisher": "Éditions de Minuit",
+    "isbn13": "9780810160897",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780810160897-L.jpg?default=false",
+    "genres": [
+      "Nouveau Roman",
+      "War Fiction",
+      "French Literature"
+    ],
+    "synopsis": "A sensory, stream-of-consciousness reconstruction of the 1940 rout of a French cavalry unit, memory, erotic obsession, and the decaying corpse of a dead horse beside the road.",
+    "countryOfOrigin": "France",
+    "pageCount": 240,
+    "spineColor": "#155e75"
+  },
+  {
+    "id": "palace-walk",
+    "title": "Palace Walk",
+    "authorId": "naguib-mahfouz",
+    "authorName": "Naguib Mahfouz",
+    "publicationYear": 1956,
+    "publisher": "Maktabat Misr",
+    "isbn13": "9780385264662",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780385264662-L.jpg?default=false",
+    "genres": [
+      "Family Saga",
+      "Historical Fiction",
+      "Arabic Masterwork"
+    ],
+    "synopsis": "The opening volume of Mahfouz's legendary Cairo Trilogy, capturing the domestic tyranny and revolutionary currents surrounding merchant Ahmad Abd al-Jawad and his family during World War I.",
+    "countryOfOrigin": "Egypt",
+    "pageCount": 512,
+    "spineColor": "#9a3412"
+  },
+  {
+    "id": "the-hive",
+    "title": "The Hive",
+    "authorId": "camilo-jose-cela",
+    "authorName": "Camilo José Cela",
+    "publicationYear": 1951,
+    "publisher": "Emecé Editores",
+    "isbn13": "9781564786081",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781564786081-L.jpg?default=false",
+    "genres": [
+      "Social Realism",
+      "Polyphonic Novel",
+      "Spanish Classic"
+    ],
+    "synopsis": "A kaleidoscopic, biting panorama of Madrid in the bitter winter of 1943 following hundreds of interlocking lower-middle-class characters struggling to survive in Franco's Spain.",
+    "countryOfOrigin": "Spain",
+    "pageCount": 304,
+    "spineColor": "#ca8a04"
+  },
+  {
+    "id": "a-personal-matter",
+    "title": "A Personal Matter",
+    "authorId": "kenzaburo-oe",
+    "authorName": "Kenzaburō Ōe",
+    "publicationYear": 1964,
+    "publisher": "Shinchosha",
+    "isbn13": "9780802150608",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780802150608-L.jpg?default=false",
+    "genres": [
+      "Autofiction",
+      "Existential Fiction",
+      "Japanese Masterwork"
+    ],
+    "synopsis": "A raw, agonizing journey of self-confrontation following twenty-seven-year-old Bird after the birth of his brain-damaged son, torn between cowardice, abortion, and responsibility.",
+    "countryOfOrigin": "Japan",
+    "pageCount": 176,
+    "spineColor": "#dc2626"
+  },
+  {
+    "id": "the-tin-drum",
+    "title": "The Tin Drum",
+    "authorId": "gunter-grass",
+    "authorName": "Günter Grass",
+    "publicationYear": 1959,
+    "publisher": "Hermann Luchterhand Verlag",
+    "isbn13": "9780547339108",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780547339108-L.jpg?default=false",
+    "genres": [
+      "Magical Realism",
+      "Picaresque",
+      "Post-War Masterpiece"
+    ],
+    "synopsis": "Writing from a mental asylum, dwarf Oskar Matzerath beats out the tragicomic history of Danzig and Nazi Germany on his toy tin drum with a glass-shattering voice.",
+    "countryOfOrigin": "Germany",
+    "pageCount": 608,
+    "spineColor": "#1e3a8a"
+  },
+  {
+    "id": "soul-mountain",
+    "title": "Soul Mountain",
+    "authorId": "gao-xingjian",
+    "authorName": "Gao Xingjian",
+    "publicationYear": 1990,
+    "publisher": "Lianhe Wenxue",
+    "isbn13": "9780060936235",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780060936235-L.jpg?default=false",
+    "genres": [
+      "Picaresque",
+      "Philosophical Fiction",
+      "Chinese Literature"
+    ],
+    "synopsis": "Following a mistaken terminal lung cancer diagnosis, a narrator embarks on an extraordinary trek along the Yangtze River into minority tribal hinterlands in search of the mythical mountain Lingshan.",
+    "countryOfOrigin": "China",
+    "pageCount": 528,
+    "spineColor": "#047857"
+  },
+  {
+    "id": "fatelessness",
+    "title": "Fatelessness",
+    "authorId": "imre-kertesz",
+    "authorName": "Imre Kertész",
+    "publicationYear": 1975,
+    "publisher": "Szépirodalmi Könyvkiadó",
+    "isbn13": "9781400078639",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781400078639-L.jpg?default=false",
+    "genres": [
+      "Holocaust Literature",
+      "Autofiction",
+      "Hungarian Classic"
+    ],
+    "synopsis": "A chillingly detached, perceptive first-person narrative of fourteen-year-old Budapest Jewish boy György Köves surviving Auschwitz and Buchenwald as though adapting to ordinary reality.",
+    "countryOfOrigin": "Hungary",
+    "pageCount": 272,
+    "spineColor": "#18181b"
+  },
+  {
+    "id": "the-piano-teacher",
+    "title": "The Piano Teacher",
+    "authorId": "elfriede-jelinek",
+    "authorName": "Elfriede Jelinek",
+    "publicationYear": 1983,
+    "publisher": "Rowohlt Verlag",
+    "isbn13": "9781846553851",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781846553851-L.jpg?default=false",
+    "genres": [
+      "Psychological Fiction",
+      "Feminist Fiction",
+      "Austrian Classic"
+    ],
+    "synopsis": "A savage, unflinching study of Erika Kohut, an unmarried Vienna piano professor dominated by her mother, whose suppressed sexual pathologies collide violently with a young student.",
+    "countryOfOrigin": "Austria",
+    "pageCount": 288,
+    "spineColor": "#9f1239"
+  },
+  {
+    "id": "the-golden-notebook",
+    "title": "The Golden Notebook",
+    "authorId": "doris-lessing",
+    "authorName": "Doris Lessing",
+    "publicationYear": 1962,
+    "publisher": "Michael Joseph",
+    "isbn13": "9780061578472",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780061578472-L.jpg?default=false",
+    "genres": [
+      "Modernist Fiction",
+      "Feminist Classic",
+      "Masterwork"
+    ],
+    "synopsis": "Novelist Anna Wulf records her fragmented life across four different colored notebooks—black for Africa, red for communism, yellow for fiction, blue for diary—before synthesizing them in the Golden notebook.",
+    "countryOfOrigin": "United Kingdom",
+    "pageCount": 672,
+    "spineColor": "#eab308"
+  },
+  {
+    "id": "desert",
+    "title": "Desert",
+    "authorId": "j-m-g-le-clezio",
+    "authorName": "J. M. G. Le Clézio",
+    "publicationYear": 1980,
+    "publisher": "Gallimard",
+    "isbn13": "9781567924404",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781567924404-L.jpg?default=false",
+    "genres": [
+      "Literary Fiction",
+      "Post-Colonial",
+      "French Masterwork"
+    ],
+    "synopsis": "Two parallel narratives: the heroic, doomed 1910 flight of desert warriors across Morocco, and modern Tuareg descendant Lalla surviving on the margins of Marseille before returning to the dunes.",
+    "countryOfOrigin": "France",
+    "pageCount": 352,
+    "spineColor": "#d97706"
+  },
+  {
+    "id": "the-hunger-angel",
+    "title": "The Hunger Angel",
+    "authorId": "herta-muller",
+    "authorName": "Herta Müller",
+    "publicationYear": 2009,
+    "publisher": "Carl Hanser Verlag",
+    "isbn13": "9780312593377",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780312593377-L.jpg?default=false",
+    "genres": [
+      "Literary Fiction",
+      "Gulag Literature",
+      "Poetic Prose"
+    ],
+    "synopsis": "A lyrical, harrowing account of Leo Auberg, a seventeen-year-old Romanian German deported in 1945 to a Soviet forced labor camp in Ukraine, sustained by the haunting companionship of the Hunger Angel.",
+    "countryOfOrigin": "Romania",
+    "pageCount": 304,
+    "spineColor": "#52525b"
+  },
+  {
+    "id": "the-feast-of-the-goat",
+    "title": "The Feast of the Goat",
+    "authorId": "mario-vargas-llosa",
+    "authorName": "Mario Vargas Llosa",
+    "publicationYear": 2000,
+    "publisher": "Alfaguara",
+    "isbn13": "9780312420277",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780312420277-L.jpg?default=false",
+    "genres": [
+      "Historical Fiction",
+      "Political Thriller",
+      "Latin American Boom"
+    ],
+    "synopsis": "A gripping masterpiece depicting the final days and 1961 assassination of brutal Dominican dictator Rafael Trujillo, interwoven with the return of a traumatized daughter decades later.",
+    "countryOfOrigin": "Peru",
+    "pageCount": 416,
+    "spineColor": "#7c2d12"
+  },
+  {
+    "id": "red-sorghum",
+    "title": "Red Sorghum",
+    "authorId": "mo-yan",
+    "authorName": "Mo Yan",
+    "publicationYear": 1986,
+    "publisher": "PLA Literature and Art Publishing",
+    "isbn13": "9780140168372",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780140168372-L.jpg?default=false",
+    "genres": [
+      "Historical Epic",
+      "Hallucinatory Realism",
+      "Chinese Classic"
+    ],
+    "synopsis": "Spanning three generations of a rural Shandong family, a visceral, mythical saga of banditry, winemaking, and guerrilla resistance against the brutal Japanese invasion.",
+    "countryOfOrigin": "China",
+    "pageCount": 368,
+    "spineColor": "#b91c1c"
+  },
+  {
+    "id": "missing-person",
+    "title": "Missing Person",
+    "authorId": "patrick-modiano",
+    "authorName": "Patrick Modiano",
+    "publicationYear": 1978,
+    "publisher": "Gallimard",
+    "isbn13": "9781567922813",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781567922813-L.jpg?default=false",
+    "genres": [
+      "Noir Mystery",
+      "Literary Fiction",
+      "Memory"
+    ],
+    "synopsis": "Guy Roland, an amnesiac private detective in Paris, embarks on a haunting investigation to discover his own true identity before he lost his memory during the Occupation.",
+    "countryOfOrigin": "France",
+    "pageCount": 176,
+    "spineColor": "#334155"
+  },
+  {
+    "id": "the-goalies-anxiety-at-the-penalty-kick",
+    "title": "The Goalie's Anxiety at the Penalty Kick",
+    "authorId": "peter-handke",
+    "authorName": "Peter Handke",
+    "publicationYear": 1970,
+    "publisher": "Suhrkamp Verlag",
+    "isbn13": "9780374530754",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780374530754-L.jpg?default=false",
+    "genres": [
+      "Existential Fiction",
+      "Novella",
+      "Austrian Literature"
+    ],
+    "synopsis": "A former soccer goalkeeper wanders aimlessly through Vienna after losing his construction job, commits a casual murder, and waits impassively in a border town for arrest.",
+    "countryOfOrigin": "Austria",
+    "pageCount": 144,
+    "spineColor": "#164e63"
+  },
+  {
+    "id": "paradise",
+    "title": "Paradise",
+    "authorId": "abdulrazak-gurnah",
+    "authorName": "Abdulrazak Gurnah",
+    "publicationYear": 1994,
+    "publisher": "Hamish Hamilton",
+    "isbn13": "9781620977897",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781620977897-L.jpg?default=false",
+    "genres": [
+      "Coming-of-Age",
+      "Historical Fiction",
+      "Post-Colonial"
+    ],
+    "synopsis": "Twelve-year-old Yusuf is pawned by his father to an Arab merchant to pay a debt, journeying through Central Africa on a trading caravan just before European colonization.",
+    "countryOfOrigin": "Tanzania",
+    "pageCount": 256,
+    "spineColor": "#166534"
+  },
+  {
+    "id": "septology",
+    "title": "Septology",
+    "authorId": "jon-fosse",
+    "authorName": "Jon Fosse",
+    "publicationYear": 2021,
+    "publisher": "Det Norske Samlaget / Transit Books",
+    "isbn13": "9781945492686",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781945492686-L.jpg?default=false",
+    "genres": [
+      "Visionary Fiction",
+      "Philosophical",
+      "Masterwork"
+    ],
+    "synopsis": "A hypnotic, single-sentence seven-part prose masterpiece following aging painter Asle and his doppelgänger namesake in coastal Norway meditating on art, God, addiction, and mortality.",
+    "countryOfOrigin": "Norway",
+    "pageCount": 820,
+    "spineColor": "#1e293b"
+  },
+  {
+    "id": "atonement",
+    "title": "Atonement",
+    "authorId": "ian-mcewan",
+    "authorName": "Ian McEwan",
+    "publicationYear": 2001,
+    "publisher": "Jonathan Cape",
+    "isbn13": "9780385721790",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780385721790-L.jpg?default=false",
+    "genres": [
+      "Historical Fiction",
+      "Literary Fiction",
+      "Metafiction"
+    ],
+    "synopsis": "On a sweltering summer day in 1935, thirteen-year-old Briony Tallis witnesses an encounter between her sister Cecilia and Robbie Turner, and commits a catastrophic misinterpretation that ruins three lives.",
+    "countryOfOrigin": "United Kingdom",
+    "pageCount": 384,
+    "spineColor": "#1e3a8a"
   }
 ]
