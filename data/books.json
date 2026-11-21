@@ -5367,5 +5367,374 @@
     "spineColor": "#1e1b4b",
     "countryOfOrigin": "United States",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780679767831-L.jpg?default=false"
+  },
+  {
+    "id": "the-glorious-heresies",
+    "title": "The Glorious Heresies",
+    "authorId": "lisa-mcinerney",
+    "authorName": "Lisa McInerney",
+    "publicationYear": 2015,
+    "publisher": "John Murray",
+    "imprint": "Hachette",
+    "isbn13": "9781473612266",
+    "genres": [
+      "Dark Comedy",
+      "Irish Noir",
+      "Literary Fiction"
+    ],
+    "synopsis": "An accidental killing in a Cork council flat ripples across the lives of a drug boss, his religious mother, and an estranged teenager.",
+    "pageCount": 384,
+    "spineColor": "#15803d",
+    "countryOfOrigin": "Ireland",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781473612266-L.jpg?default=false"
+  },
+  {
+    "id": "how-to-be-both",
+    "title": "How to Be Both",
+    "authorId": "ali-smith",
+    "authorName": "Ali Smith",
+    "publicationYear": 2014,
+    "publisher": "Hamish Hamilton",
+    "imprint": "Penguin",
+    "isbn13": "9780241145210",
+    "genres": [
+      "Experimental",
+      "Dual Narrative",
+      "Queer"
+    ],
+    "synopsis": "A dazzling dual-perspective novel interweaving the life of a 15th-century fresco painter in Ferrara with a 21st-century Cambridge teenager mourning her mother.",
+    "pageCount": 384,
+    "spineColor": "#b45309",
+    "countryOfOrigin": "United Kingdom",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780241145210-L.jpg?default=false"
+  },
+  {
+    "id": "may-we-be-forgiven",
+    "title": "May We Be Forgiven",
+    "authorId": "a-m-homes",
+    "authorName": "A. M. Homes",
+    "publicationYear": 2012,
+    "publisher": "Viking",
+    "imprint": "Penguin",
+    "isbn13": "9780670025435",
+    "genres": [
+      "Satire",
+      "Dark Comedy",
+      "Americana"
+    ],
+    "synopsis": "A wildly subversive suburban tragedy following a Nixon historian who inherits his brother’s shattered family after an explosive accident.",
+    "pageCount": 496,
+    "spineColor": "#dc2626",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780670025435-L.jpg?default=false"
+  },
+  {
+    "id": "the-song-of-achilles",
+    "title": "The Song of Achilles",
+    "authorId": "madeline-miller",
+    "authorName": "Madeline Miller",
+    "publicationYear": 2011,
+    "publisher": "Bloomsbury Publishing",
+    "isbn13": "9781408821985",
+    "genres": [
+      "Historical Fantasy",
+      "LGBTQ+",
+      "Mythological"
+    ],
+    "synopsis": "A lyrical, heart-wrenching retelling of Homer’s Iliad from Patroclus’s view, tracing his lifelong devotion and doomed love for Achilles at Troy.",
+    "pageCount": 368,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781408821985-L.jpg?default=false"
+  },
+  {
+    "id": "the-tigers-wife",
+    "title": "The Tiger's Wife",
+    "authorId": "tea-obreht",
+    "authorName": "Téa Obreht",
+    "publicationYear": 2011,
+    "publisher": "Weidenfeld & Nicolson",
+    "imprint": "Orion",
+    "isbn13": "9780385343831",
+    "genres": [
+      "Magical Realism",
+      "War",
+      "Folklore"
+    ],
+    "synopsis": "In an unnamed Balkan country recovering from war, a young doctor unearths the folkloric secrets and tiger myths of her grandfather’s youth.",
+    "pageCount": 352,
+    "spineColor": "#ea580c",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780385343831-L.jpg?default=false"
+  },
+  {
+    "id": "the-lacuna",
+    "title": "The Lacuna",
+    "authorId": "barbara-kingsolver",
+    "authorName": "Barbara Kingsolver",
+    "publicationYear": 2009,
+    "publisher": "Faber & Faber",
+    "isbn13": "9780060852573",
+    "genres": [
+      "Historical Epic",
+      "Political",
+      "Art"
+    ],
+    "synopsis": "Harrison William Shepherd navigates mid-century upheavals from working for Frida Kahlo and Diego Rivera in Mexico to the red scare in 1950s America.",
+    "pageCount": 528,
+    "spineColor": "#059669",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780060852573-L.jpg?default=false"
+  },
+  {
+    "id": "home",
+    "title": "Home",
+    "authorId": "marilynne-robinson",
+    "authorName": "Marilynne Robinson",
+    "publicationYear": 2008,
+    "publisher": "Farrar, Straus and Giroux",
+    "isbn13": "9780374299101",
+    "genres": [
+      "Family",
+      "Theology",
+      "Literary Fiction"
+    ],
+    "synopsis": "Glory Boughton returns to Gilead, Iowa to care for her ailing father, confronting the painful return of her prodigal, tormented brother Jack.",
+    "pageCount": 336,
+    "spineColor": "#475569",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780374299101-L.jpg?default=false"
+  },
+  {
+    "id": "the-road-home",
+    "title": "The Road Home",
+    "authorId": "rose-tremain",
+    "authorName": "Rose Tremain",
+    "publicationYear": 2007,
+    "publisher": "Chatto & Windus",
+    "imprint": "Vintage",
+    "isbn13": "9780701181536",
+    "genres": [
+      "Immigrant Experience",
+      "Social Realism",
+      "Literary Fiction"
+    ],
+    "synopsis": "Lev, an Eastern European widower, arrives in London by coach seeking a livelihood to support his young daughter and aging mother back home.",
+    "pageCount": 384,
+    "spineColor": "#334155",
+    "countryOfOrigin": "United Kingdom",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780701181536-L.jpg?default=false"
+  },
+  {
+    "id": "on-beauty",
+    "title": "On Beauty",
+    "authorId": "zadie-smith",
+    "authorName": "Zadie Smith",
+    "publicationYear": 2005,
+    "publisher": "Hamish Hamilton",
+    "imprint": "Penguin",
+    "isbn13": "9780241142936",
+    "genres": [
+      "Campus Novel",
+      "Social Satire",
+      "Family"
+    ],
+    "synopsis": "In a New England university town, two rival academic families clash over culture, race, aesthetics, and romantic betrayals.",
+    "pageCount": 464,
+    "spineColor": "#7e22ce",
+    "countryOfOrigin": "United Kingdom",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780241142936-L.jpg?default=false"
+  },
+  {
+    "id": "we-need-to-talk-about-kevin",
+    "title": "We Need to Talk About Kevin",
+    "authorId": "lionel-shriver",
+    "authorName": "Lionel Shriver",
+    "publicationYear": 2003,
+    "publisher": "Serpent's Tail",
+    "isbn13": "9781846682704",
+    "genres": [
+      "Epistolary",
+      "Psychological Thriller",
+      "Maternal Drama"
+    ],
+    "synopsis": "In candid letters to her estranged husband, Eva grapples with maternal ambivalence, grief, and complicity after their son commits a school massacre.",
+    "pageCount": 400,
+    "spineColor": "#7f1d1d",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781846682704-L.jpg?default=false"
+  },
+  {
+    "id": "small-island",
+    "title": "Small Island",
+    "authorId": "andrea-levy",
+    "authorName": "Andrea Levy",
+    "publicationYear": 2004,
+    "publisher": "Headline Review",
+    "isbn13": "9780755307500",
+    "genres": [
+      "Historical Fiction",
+      "Windrush",
+      "Postcolonial"
+    ],
+    "synopsis": "Four Jamaican and British lives collide in 1948 London, examining the hopes, racism, and shared histories of the Windrush generation.",
+    "pageCount": 448,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "United Kingdom",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780755307500-L.jpg?default=false"
+  },
+  {
+    "id": "property",
+    "title": "Property",
+    "authorId": "valerie-martin",
+    "authorName": "Valerie Martin",
+    "publicationYear": 2003,
+    "publisher": "Doubleday",
+    "isbn13": "9780385504089",
+    "genres": [
+      "Historical Fiction",
+      "Slavery",
+      "Southern Gothic"
+    ],
+    "synopsis": "An unsparing examination of ownership and moral corruption in 1828 Louisiana through the cold perspective of an unhappy slaveholder’s wife.",
+    "pageCount": 224,
+    "spineColor": "#78350f",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780385504089-L.jpg?default=false"
+  },
+  {
+    "id": "bel-canto",
+    "title": "Bel Canto",
+    "authorId": "ann-patchett",
+    "authorName": "Ann Patchett",
+    "publicationYear": 2001,
+    "publisher": "HarperCollins",
+    "isbn13": "9780060188733",
+    "genres": [
+      "Hostage Drama",
+      "Music",
+      "Literary Fiction"
+    ],
+    "synopsis": "Guerrilla rebels storm an international gala in South America, forging deep, unexpected bonds with high-society hostages through the transcendent singing of an opera soprano.",
+    "pageCount": 336,
+    "spineColor": "#1e3a8a",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780060188733-L.jpg?default=false"
+  },
+  {
+    "id": "the-idea-of-perfection",
+    "title": "The Idea of Perfection",
+    "authorId": "kate-grenville",
+    "authorName": "Kate Grenville",
+    "publicationYear": 1999,
+    "publisher": "Picador",
+    "imprint": "Pan Macmillan",
+    "isbn13": "9780330362306",
+    "genres": [
+      "Romance",
+      "Small Town",
+      "Australian"
+    ],
+    "synopsis": "In an Outback town, an awkward quiltmaker and an anxious bridge engineer gingerly overcome painful self-consciousness to build connection.",
+    "pageCount": 416,
+    "spineColor": "#b45309",
+    "countryOfOrigin": "Australia",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780330362306-L.jpg?default=false"
+  },
+  {
+    "id": "when-i-lived-in-modern-times",
+    "title": "When I Lived in Modern Times",
+    "authorId": "linda-grant",
+    "authorName": "Linda Grant",
+    "publicationYear": 2000,
+    "publisher": "Granta Books",
+    "isbn13": "9781862074361",
+    "genres": [
+      "Historical Fiction",
+      "Jewish",
+      "Tel Aviv"
+    ],
+    "synopsis": "A London-born young woman arrives in 1946 British Mandate Palestine, discovering the intoxicating modernity and volatile passions of burgeoning Tel Aviv.",
+    "pageCount": 272,
+    "spineColor": "#0f766e",
+    "countryOfOrigin": "United Kingdom",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781862074361-L.jpg?default=false"
+  },
+  {
+    "id": "a-crime-in-the-neighborhood",
+    "title": "A Crime in the Neighborhood",
+    "authorId": "suzanne-berne",
+    "authorName": "Suzanne Berne",
+    "publicationYear": 1997,
+    "publisher": "Algonquin Books",
+    "isbn13": "9781565121652",
+    "genres": [
+      "Coming of Age",
+      "Mystery",
+      "Suburban"
+    ],
+    "synopsis": "During the Watergate summer of 1972, the murder of a child unleashes suspicion, paranoia, and broken faith across a suburban Washington cul-de-sac.",
+    "pageCount": 288,
+    "spineColor": "#3f3f46",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781565121652-L.jpg?default=false"
+  },
+  {
+    "id": "larrys-party",
+    "title": "Larry's Party",
+    "authorId": "carol-shields",
+    "authorName": "Carol Shields",
+    "publicationYear": 1997,
+    "publisher": "Random House of Canada",
+    "isbn13": "9780006550754",
+    "genres": [
+      "Life Story",
+      "Comedy of Manners",
+      "Literary Fiction"
+    ],
+    "synopsis": "Larry Weller stumbles into an obsession with creating garden labyrinths, navigating marriage, work, and identity across twenty years of modern life.",
+    "pageCount": 352,
+    "spineColor": "#15803d",
+    "countryOfOrigin": "Canada",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780006550754-L.jpg?default=false"
+  },
+  {
+    "id": "fugitive-pieces",
+    "title": "Fugitive Pieces",
+    "authorId": "anne-michaels",
+    "authorName": "Anne Michaels",
+    "publicationYear": 1996,
+    "publisher": "Bloomsbury Publishing",
+    "isbn13": "9780771058851",
+    "genres": [
+      "Historical Fiction",
+      "Holocaust",
+      "Poetic"
+    ],
+    "synopsis": "A seven-year-old Polish boy rescued from wartime devastation is raised on a Greek island by a geologist, finding healing through poetry in Toronto.",
+    "pageCount": 304,
+    "spineColor": "#1e293b",
+    "countryOfOrigin": "Canada",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780771058851-L.jpg?default=false"
+  },
+  {
+    "id": "a-spell-of-winter",
+    "title": "A Spell of Winter",
+    "authorId": "helen-dunmore",
+    "authorName": "Helen Dunmore",
+    "publicationYear": 1995,
+    "publisher": "Viking",
+    "imprint": "Penguin",
+    "isbn13": "9780670861613",
+    "genres": [
+      "Gothic",
+      "Historical",
+      "Family Secrets"
+    ],
+    "synopsis": "In an isolated country house on the eve of WWI, two abandoned siblings form an intensely insular, forbidden bond amid dark family secrets.",
+    "pageCount": 320,
+    "spineColor": "#312e81",
+    "countryOfOrigin": "United Kingdom",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780670861613-L.jpg?default=false"
   }
 ]

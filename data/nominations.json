@@ -3338,5 +3338,215 @@
     "category": "Best Novel",
     "citation": "Inaugural Winner: The first Hugo Award for Best Novel in history, a pyrotechnic noir of telepathy and guilt.",
     "sourceUrl": "https://www.thehugoawards.org/hugo-history/1953-hugo-awards/"
+  },
+  {
+    "id": "nom-the-things-we-never-say-womens-2026",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-things-we-never-say",
+    "year": 2026,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A breathtaking, emotionally resonant domestic masterclass on women, family secrets, and late-life selfhood.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-safekeep-womens-2025",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-safekeep",
+    "year": 2025,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: An astonishingly controlled debut exploring suppressed longing, complicity, and post-war guilt.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-glorious-heresies-womens-2016",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-glorious-heresies",
+    "year": 2016,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A profane, energetic, and darkly funny debut exploring redemption on Cork’s economic margins.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-how-to-be-both-womens-2015",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "how-to-be-both",
+    "year": 2015,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: An inventive, dazzlingly structured double-narrative on grief, art, and perception.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-may-we-be-forgiven-womens-2013",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "may-we-be-forgiven",
+    "year": 2013,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A ferocious, wildly original satire on contemporary American dysfunction and reinvention.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-song-of-achilles-womens-2012",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-song-of-achilles",
+    "year": 2012,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A deeply moving, gorgeously written reimagining of ancient myth and devotion.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-tigers-wife-womens-2011",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-tigers-wife",
+    "year": 2011,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A luminous fable of war, myth, and generational inheritance in the Balkans.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-lacuna-womens-2010",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-lacuna",
+    "year": 2010,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A breathtaking historical panorama exploring the fragility of truth and artistic courage.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-home-womens-2009",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "home",
+    "year": 2009,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A heartbreakingly beautiful, profound meditation on grace, prodigal sons, and family devotion.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-road-home-womens-2008",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-road-home",
+    "year": 2008,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A compassionate, deeply observant portrait of contemporary immigrant life and resilience.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-on-beauty-womens-2006",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "on-beauty",
+    "year": 2006,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A virtuosic social comedy examining race, aesthetics, and domestic betrayals.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-kevin-womens-2005",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "we-need-to-talk-about-kevin",
+    "year": 2005,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A fearless, chilling interrogation of maternal ambivalence and American violence.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-small-island-womens-2004",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "small-island",
+    "year": 2004,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A landmark epic of the Windrush generation, capturing post-war Britain with warmth, wit, and unflinching honesty.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-property-womens-2003",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "property",
+    "year": 2003,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A taut, devastating dissection of ownership, cruelty, and moral complicity in the antebellum South.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-bel-canto-womens-2002",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "bel-canto",
+    "year": 2002,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: An exquisite fairy tale of love, captivity, and the transformative power of beauty.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-idea-of-perfection-womens-2001",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-idea-of-perfection",
+    "year": 2001,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A delightfully warm, witty, and understated romance celebrating human imperfection.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-modern-times-womens-2000",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "when-i-lived-in-modern-times",
+    "year": 2000,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A sharp, atmospheric historical novel capturing the youthful idealism and contradictions of 1940s Tel Aviv.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-crime-in-neighborhood-womens-1999",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "a-crime-in-the-neighborhood",
+    "year": 1999,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A chilling, taut portrait of suburban paranoia, suspicion, and lost innocence.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-larrys-party-womens-1998",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "larrys-party",
+    "year": 1998,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: A witty, humane, and delightfully intricate exploration of modern manhood and labyrinthine choices.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-fugitive-pieces-womens-1997",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "fugitive-pieces",
+    "year": 1997,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Winner: An astonishingly poetic, luminous triumph on grief, archaeology, memory, and love.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-spell-of-winter-womens-1996",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "a-spell-of-winter",
+    "year": 1996,
+    "status": "winner",
+    "category": "Fiction",
+    "citation": "Inaugural Winner: The first winner of the Women’s Prize, a haunting, sensual gothic tale of sibling obsession and decay.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
   }
 ]

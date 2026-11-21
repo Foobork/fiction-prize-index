@@ -1990,5 +1990,105 @@
     "birthYear": 1913,
     "deathYear": 1987,
     "bio": "American author and television writer who won the inaugural Hugo Award for Best Novel in 1953."
+  },
+  {
+    "id": "lisa-mcinerney",
+    "name": "Lisa McInerney",
+    "nationality": "Irish",
+    "birthYear": 1981,
+    "bio": "Irish novelist and essayist, winner of the Women’s Prize for Fiction and the Desmond Elliott Prize."
+  },
+  {
+    "id": "ali-smith",
+    "name": "Ali Smith",
+    "nationality": "Scottish",
+    "birthYear": 1962,
+    "bio": "Celebrated Scottish novelist, four-time Booker Prize shortlist finalist, Goldsmiths Prize and Costa winner."
+  },
+  {
+    "id": "a-m-homes",
+    "name": "A. M. Homes",
+    "nationality": "American",
+    "birthYear": 1961,
+    "bio": "American novelist and short story writer, Guggenheim Fellow and winner of the Women’s Prize for Fiction."
+  },
+  {
+    "id": "madeline-miller",
+    "name": "Madeline Miller",
+    "nationality": "American",
+    "birthYear": 1978,
+    "bio": "American author and classics scholar whose retellings of Greek myths have sold millions of copies worldwide."
+  },
+  {
+    "id": "tea-obreht",
+    "name": "Téa Obreht",
+    "nationality": "Serbian-American",
+    "birthYear": 1985,
+    "bio": "Serbian-American novelist who became the youngest winner in Women’s Prize history at age 25."
+  },
+  {
+    "id": "rose-tremain",
+    "name": "Rose Tremain",
+    "nationality": "British",
+    "birthYear": 1943,
+    "bio": "Acclaimed British novelist, winner of the Whitbread Award, James Tait Black Memorial Prize, and Women’s Prize."
+  },
+  {
+    "id": "zadie-smith",
+    "name": "Zadie Smith",
+    "nationality": "British",
+    "birthYear": 1975,
+    "bio": "Acclaimed British novelist and essayist, Royal Society of Literature Fellow and author of White Teeth and On Beauty."
+  },
+  {
+    "id": "lionel-shriver",
+    "name": "Lionel Shriver",
+    "nationality": "American",
+    "birthYear": 1957,
+    "bio": "American novelist and journalist whose gripping psychological novel We Need to Talk About Kevin won the Women’s Prize."
+  },
+  {
+    "id": "andrea-levy",
+    "name": "Andrea Levy",
+    "nationality": "British",
+    "birthYear": 1956,
+    "deathYear": 2019,
+    "bio": "British author of Jamaican descent whose seminal novel Small Island chronicled the post-war Windrush generation."
+  },
+  {
+    "id": "valerie-martin",
+    "name": "Valerie Martin",
+    "nationality": "American",
+    "birthYear": 1948,
+    "bio": "American novelist and biographer, winner of the Women’s Prize for Fiction and Kafka Prize."
+  },
+  {
+    "id": "kate-grenville",
+    "name": "Kate Grenville",
+    "nationality": "Australian",
+    "birthYear": 1950,
+    "bio": "Distinguished Australian author, winner of the Women’s Prize for Fiction and the Commonwealth Writers’ Prize."
+  },
+  {
+    "id": "linda-grant",
+    "name": "Linda Grant",
+    "nationality": "British",
+    "birthYear": 1951,
+    "bio": "British novelist and journalist, winner of the Women’s Prize for Fiction and David Cohen Prize."
+  },
+  {
+    "id": "suzanne-berne",
+    "name": "Suzanne Berne",
+    "nationality": "American",
+    "birthYear": 1961,
+    "bio": "American novelist and Boston College creative writing professor, winner of the 1999 Women’s Prize for Fiction."
+  },
+  {
+    "id": "helen-dunmore",
+    "name": "Helen Dunmore",
+    "nationality": "British",
+    "birthYear": 1952,
+    "deathYear": 2017,
+    "bio": "British novelist and poet, inaugural winner of the Women’s Prize for Fiction in 1996 for A Spell of Winter."
   }
 ]
