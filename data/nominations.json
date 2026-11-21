@@ -7691,5 +7691,1555 @@
     "category": "Fiction",
     "citation": "Finalist: Four incisive, fearless novellas capturing the evolving landscapes of transgender identity, romance, and masculine codes.",
     "sourceUrl": "https://www.pulitzer.org/finalists/torrey-peters"
+  },
+  {
+    "id": "nom-the-book-of-colour-womens-1996",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-book-of-colour",
+    "year": 1996,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: An evocative, poetic family portrait exploring ancestral madness, colonial shame, and racial prejudice on a remote Indian Ocean island.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-spinsters-womens-1996",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "spinsters",
+    "year": 1996,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Two thirty-something spinster sisters in 1968 suburban Virginia embark on an impromptu cross-country road trip that transforms their lives.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-hundred-secret-senses-womens-1996",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-hundred-secret-senses",
+    "year": 1996,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Chinese American Olivia navigates the eccentric spiritual beliefs of her newly arrived older half-sister Kwan, who claims to communicate with the world of ghosts.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-ladder-of-years-womens-1996",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "ladder-of-years",
+    "year": 1996,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Forty-year-old Baltimore mother Delia Grinstead walks away from her family during a beach holiday, spontaneously starting a quiet new life in an unfamiliar town.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-eveless-eden-womens-1996",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "eveless-eden",
+    "year": 1996,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: An American foreign correspondent and an elusive photojournalist navigate international conflict and obsessive romance across Eastern Europe and the Middle East.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-alias-grace-womens-1997",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "alias-grace",
+    "year": 1997,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A gripping reimagining of the notorious 1843 murders of Thomas Kinnear and his housekeeper Nancy Montgomery, through the eyes of convicted maid Grace Marks.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-one-by-one-in-the-darkness-womens-1997",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "one-by-one-in-the-darkness",
+    "year": 1997,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Three adult sisters assemble in County Antrim during the 1994 IRA ceasefire, mourning their father who was murdered in a sectarian shooting.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-i-was-amelia-earhart-womens-1997",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "i-was-amelia-earhart",
+    "year": 1997,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A lyrical, poetic reimagining of aviation pioneer Amelia Earhart and navigator Fred Noonan marooned on an uncharted tropical island after their 1937 disappearance.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-accordion-crimes-womens-1997",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "accordion-crimes",
+    "year": 1997,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: The tumultuous century-long history of an accordion constructed in Sicily as it passes through the hands of successive immigrant communities across America.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-hens-teeth-womens-1997",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "hens-teeth",
+    "year": 1997,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Veterinary surgeon Kellen Stewart investigates the sudden death of her former lover on a remote Scottish hill farm, uncovering a web of corporate malfeasance.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-lives-of-the-monster-dogs-womens-1998",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "lives-of-the-monster-dogs",
+    "year": 1998,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Genetically engineered bipedal dogs in 19th-century Prussian dress arrive in modern Manhattan, blending aristocratic elegance with tragic biological decline.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-ventriloquists-tale-womens-1998",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-ventriloquists-tale",
+    "year": 1998,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A kaleidoscopic Guyanese epic intertwining indigenous Amerindian myth, forbidden sibling love, and English colonial intrusion in the Rupununi savannah.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-magicians-assistant-womens-1998",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-magicians-assistant",
+    "year": 1998,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Following the sudden death of her magician husband Parsifal, assistant Sabine uncovers the hidden Nebraska family he kept secret from her for over two decades.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-love-like-hate-adore-womens-1998",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "love-like-hate-adore",
+    "year": 1998,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A Dublin family is shattered when a teenage son is accused of sexual assault, testing mother-son devotion and community morality.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-weight-of-water-womens-1998",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-weight-of-water",
+    "year": 1998,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A photographer sailing off coastal New Hampshire researches the brutal 1873 Smuttynose Island axe murders, finding chilling parallels in her own unraveling marriage.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-lepers-companions-womens-1999",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-lepers-companions",
+    "year": 1999,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A grieving modern narrator is transported into a medieval coastal community, following a group of villagers on a harsh pilgrimage to Jerusalem.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-visible-worlds-womens-1999",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "visible-worlds",
+    "year": 1999,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Spanning mid-20th-century Canada, the Korean War, and Cold War Moscow, an epic exploring family, contagion, and intertwining human destinies.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-short-history-of-a-prince-womens-1999",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-short-history-of-a-prince",
+    "year": 1999,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A high school English teacher dying of AIDS returns to his family's lakeside cottage in Wisconsin, reflecting on youthful ballet ambitions and brotherhood.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-poisonwood-bible-womens-1999",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-poisonwood-bible",
+    "year": 1999,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: The fierce, polyphonic story of an evangelical Baptist missionary who drags his wife and four daughters into the Belgian Congo during its 1960 independence.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-paradise-morrison-womens-1999",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "paradise-morrison",
+    "year": 1999,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In an all-Black Oklahoma town founded by freedmen, patriarchal townsmen orchestrate a violent raid on a convent sheltering unconventional, independent women.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-if-i-told-you-once-womens-2000",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "if-i-told-you-once",
+    "year": 2000,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A multi-generational fable chronicling four generations of Jewish women from a bleak Eastern European forest to the harsh tenements of America.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-dancers-dancing-womens-2000",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-dancers-dancing",
+    "year": 2000,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Four teenage girls from Dublin and Derry attend a summer Irish language college in Donegal during the 1970s, awakening to friendship, sexuality, and cultural division.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-white-teeth-womens-2000",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "white-teeth",
+    "year": 2000,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: An exuberant, comedic epic exploring identity, race, family, and multicultural London through the lifelong friendship of Archie Jones and Samad Iqbal.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-amy-and-isabelle-womens-2000",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "amy-and-isabelle",
+    "year": 2000,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In a quiet 1970s New England mill town, the fraught relationship between a single mother and her teenage daughter unravels after a scandalous affair with a teacher.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-divine-secrets-of-the-ya-ya-sisterhood-womens-2000",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "divine-secrets-of-the-ya-ya-sisterhood",
+    "year": 2000,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: An eccentric group of lifelong Louisiana friends kidnaps a troubled New York playwright in an effort to reconcile her with her tempestuous mother.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-blind-assassin-womens-2001",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-blind-assassin",
+    "year": 2001,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: An octogenarian Canadian matriarch unravels the mysterious suicide of her sister Laura in 1945 through an intricately nested sci-fi pulp novel within a novel.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-fred-edie-womens-2001",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "fred-edie",
+    "year": 2001,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A tender, claustrophobic reimagining of the real-life 1922 murder case of Percy Thompson, told through the love letters of his executed wife Edith.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-homestead-womens-2001",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "homestead",
+    "year": 2001,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Twelve interconnected stories tracing generations of resilient Austrian alpine women in a remote Vorarlberg village from the 17th to the 20th century.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-horse-heaven-womens-2001",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "horse-heaven",
+    "year": 2001,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A panoramic, affectionate dissection of the thoroughbred horse-racing world, following owners, trainers, jockeys, gamblers, and equine stars across two seasons.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-hotel-world-womens-2001",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "hotel-world",
+    "year": 2001,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Five women whose lives intersect at a luxury hotel in Northern England, including the ghost of a teenage chambermaid who fell to her death in a dumbwaiter.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-no-bones-womens-2002",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "no-bones",
+    "year": 2002,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A brutally comedic, uncompromising coming-of-age chronicle following Amelia Lovett through the sectarian violence and absurdity of Belfast during the Troubles.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-siege-womens-2002",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-siege",
+    "year": 2002,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Leningrad, 1941: a young woman, her little brother, and her lover struggle to preserve human warmth and dignity during the brutal, freezing 900-day Nazi blockade.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-white-family-womens-2002",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-white-family",
+    "year": 2002,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A working-class North London park keeper and his family confront neighborhood racial tensions, marital failure, and generational alienation.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-a-childs-book-of-true-crime-womens-2002",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "a-childs-book-of-true-crime",
+    "year": 2002,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A Tasmanian primary school teacher engaged in an affair with a married father becomes obsessed with a local historic murder, blurring fantasy and menace.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-fingersmith-womens-2002",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "fingersmith",
+    "year": 2002,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In Victorian London, an orphan thief is recruited to pose as maid to a naive heiress in a plot to steal her fortune, sparking love and shocking betrayal.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-buddha-da-womens-2003",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "buddha-da",
+    "year": 2003,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A Glaswegian painter and decorator unexpectedly discovers Tibetan Buddhism, throwing his meat-eating, Celtic-supporting family into hilarious existential confusion.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-heligoland-womens-2003",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "heligoland",
+    "year": 2003,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A former children's author moves into a failing, eccentric spiritual community house in suburban South London, encountering peculiar residents and quiet redemption.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-unless-womens-2003",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "unless",
+    "year": 2003,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A successful novelist is thrown into despair and fury when her brilliant nineteen-year-old daughter drops out of college to sit mutely on a Toronto street corner.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-autograph-man-womens-2003",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-autograph-man",
+    "year": 2003,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Alex-Li Tandem, a Chinese-Jewish autograph dealer in suburban London, embarks on a neurotic quest to track down a reclusive 1950s Russian actress.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-little-friend-womens-2003",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-little-friend",
+    "year": 2003,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Twelve-year-old Harriet Cleve Dufresnes plots vengeance in 1970s Mississippi against the boy she suspects of murdering her nine-year-old brother twelve years earlier.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-purple-hibiscus-womens-2004",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "purple-hibiscus",
+    "year": 2004,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Fifteen-year-old Kambili lives in fear of her devoutly religious, abusive father in Nigeria, finding liberation when visiting her aunt's laughter-filled university home.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-oryx-and-crake-womens-2004",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "oryx-and-crake",
+    "year": 2004,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Snowman, possibly the last human survivor of a bio-engineered pandemic, recalls his brilliant friend Crake and the enigmatic woman Oryx whom they both loved.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-great-fire-womens-2004",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-great-fire",
+    "year": 2004,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In 1947 devastated Japan, thirty-two-year-old decorated British war hero Peter Aldred visits Hiroshima and falls in love with young Australian Helen Driscoll amidst geopolitical rebuilding.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-ice-road-womens-2004",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "ice-road",
+    "year": 2004,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: An aristocratic Soviet family and an orphaned boy navigate Stalinist purges and the harrowing 900-day siege of Leningrad.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-colour-womens-2004",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-colour",
+    "year": 2004,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A newlywed English couple migrates to New Zealand in the 1860s, where the husband becomes consumed by gold-fever in the rugged mountains of the South Island.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-billie-morgan-womens-2005",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "billie-morgan",
+    "year": 2005,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A tranquil secondhand bookshop manager in Yorkshire is confronted by the dark motorcycle gang murder she helped commit twenty years earlier.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-old-filth-womens-2005",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "old-filth",
+    "year": 2005,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Sir Edward Feathers, an eccentric retired British colonial judge living in Dorset, reflects on his childhood as a 'Raj orphan' and the secrets of his empire marriage.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-mammoth-cheese-womens-2005",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-mammoth-cheese",
+    "year": 2005,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In rural Virginia, a struggling goat cheese farmer creates a 1,235-pound cheese to celebrate a populist candidate's inauguration, mirroring Thomas Jefferson's historic gift.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-a-short-history-of-tractors-in-ukrainian-womens-2005",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "a-short-history-of-tractors-in-ukrainian",
+    "year": 2005,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Two feuding sisters unite in frantic panic when their eighty-four-year-old widowed father announces he is marrying a flamboyant, gold-digging Ukrainian divorcee.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-liars-and-saints-womens-2005",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "liars-and-saints",
+    "year": 2005,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Spanning fifty years in California, four generations of a devout Catholic family wrestle with secrets, marital deception, and unexpected tragedy.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-history-of-love-womens-2006",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-history-of-love",
+    "year": 2006,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: An aging Holocaust survivor in Chinatown and a spirited fourteen-year-old girl in Brooklyn are magically connected by a mysterious Spanish-translated book.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-beyond-black-womens-2006",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "beyond-black",
+    "year": 2006,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Coarse, traumatized professional psychic Alison Hart tours suburban London hotels accompanied by malignant, foul-mouthed spirits from her horrific past.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-accidental-womens-2006",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-accidental",
+    "year": 2006,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: An enigmatic stranger named Amber enters a dysfunctional family's rented Norfolk summer cottage, permanently altering each member's sense of reality.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-everymans-rules-for-scientific-living-womens-2006",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "everymans-rules-for-scientific-living",
+    "year": 2006,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A seamstress and a soil scientist fall in love aboard a 1930s Australian agricultural demonstration train, testing strict rationalism against drought and passion.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-night-watch-womens-2006",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-night-watch",
+    "year": 2006,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Moving backward through the 1940s, four connected Londoners navigate wartime blackout ambulance driving, illicit love, and postwar disillusionment.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-arlington-park-womens-2007",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "arlington-park",
+    "year": 2007,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Over the course of a rainy day in an affluent London commuter suburb, five young mothers confront boredom, privilege, and marital resentment.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-inheritance-of-loss-womens-2007",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-inheritance-of-loss",
+    "year": 2007,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Set in a decaying northeastern Himalayan mansion during a violent Gorkha insurgency, interweaving the bitter solitude of a retired judge with his cook's son struggling as an undocumented immigrant in New York.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-a-concise-chinese-english-dictionary-for-lovers-womens-2007",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "a-concise-chinese-english-dictionary-for-lovers",
+    "year": 2007,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A young Chinese woman sent to London to learn English chronicles her romance with an older British artist in broken, increasingly sophisticated grammar.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-observations-womens-2007",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-observations",
+    "year": 2007,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In 1863 Scotland, spirited Irish housemaid Bessy Buckley is secretly studied by her eccentric mistress, sparking obsession and dark intrigue.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-digging-to-america-womens-2007",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "digging-to-america",
+    "year": 2007,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Two families—one traditional American, the other Iranian American—meet at Baltimore airport to receive adopted Korean babies, forging a complex friendship.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-fault-lines-womens-2008",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "fault-lines",
+    "year": 2008,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Moving backwards through four generations of six-year-olds from modern California to Nazi Germany, unravelling a family's traumatic concealed origins.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-outcast-womens-2008",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-outcast",
+    "year": 2008,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In oppressive 1950s suburban Surrey, nineteen-year-old Lewis Aldridge returns home from prison, still tormented by witnessing his mother's drowning as a child.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-when-we-were-bad-womens-2008",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "when-we-were-bad",
+    "year": 2008,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A biting, affectionate comedy of North London Jewish family dysfunction erupting on the eve of a prestigious barmitzvah.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-lullabies-for-little-criminals-womens-2008",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "lullabies-for-little-criminals",
+    "year": 2008,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Twelve-year-old Baby navigates the gritty, luminous streets of Montreal, striving to preserve childhood wonder while caring for her heroin-addicted father.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-lottery-womens-2008",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "lottery",
+    "year": 2008,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Perry L. Crandall, an intellectually disabled thirty-one-year-old living in coastal Washington, wins $12 million in the lottery, exposing greedy relatives and loyal friends.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-scottsboro-womens-2009",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "scottsboro",
+    "year": 2009,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A dramatic historical recreation of the infamous 1931 Scottsboro Boys trials, viewed through the conflicting accounts of two impoverished white accusers.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-wilderness-womens-2009",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-wilderness",
+    "year": 2009,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Jake, an architect living in Southwest England, struggles to assemble his fractured memories and identity as Alzheimer's disease gradually clouds his world.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-invention-of-everything-else-womens-2009",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-invention-of-everything-else",
+    "year": 2009,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In 1943 Manhattan, visionary inventor Nikola Tesla spends his final days at the Hotel New Yorker, befriending a curious chambermaid fascinated by his past.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-molly-foxs-birthday-womens-2009",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "molly-foxs-birthday",
+    "year": 2009,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: On the longest day of the summer, a playwright stays in Dublin at the empty home of her friend, celebrated actress Molly Fox, contemplating female friendship and art.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-burnt-shadows-womens-2009",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "burnt-shadows",
+    "year": 2009,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: An epic spanning six decades from the atomic bombing of Nagasaki through Indian Partition and post-9/11 Pakistan, connecting two intertwined families.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-very-thought-of-you-womens-2010",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-very-thought-of-you",
+    "year": 2010,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: During WWII, a wealthy couple takes in evacuee children at their Yorkshire estate, sparking an intense extramarital love affair with a young teacher.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-black-water-rising-womens-2010",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "black-water-rising",
+    "year": 2010,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In 1981 Houston, a Black lawyer and former civil rights activist saves a drowning white woman from the bayou, entangling himself with ruthless oil magnates.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-wolf-hall-womens-2010",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "wolf-hall",
+    "year": 2010,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A masterclass in historical imagination tracing the rise of Thomas Cromwell in the perilous, mercurial court of King Henry VIII.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-a-gate-at-the-stairs-womens-2010",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "a-gate-at-the-stairs",
+    "year": 2010,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A naive college student in post-9/11 Wisconsin becomes babysitter for an interracial adoptive couple, confronting hidden racial and domestic secrets.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-white-woman-on-the-green-bicycle-womens-2010",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-white-woman-on-the-green-bicycle",
+    "year": 2010,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Fifty years of marriage in Trinidad: a British couple experiences the island's transition from colonial rule to independence, marked by unfaithfulness and politics.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-room-womens-2011",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "room",
+    "year": 2011,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Five-year-old Jack believes that the locked garden shed where he and his Ma are held captive is the entire universe, until they orchestrate a daring escape.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-memory-of-love-womens-2011",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-memory-of-love",
+    "year": 2011,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In post-civil-war Sierra Leone, a dying academic, a British psychologist, and a brilliant young surgeon confront trauma, guilt, and the persistent power of love.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-grace-williams-says-it-loud-womens-2011",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "grace-williams-says-it-loud",
+    "year": 2011,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In 1957 England, eleven-year-old Grace Williams, born with severe neurological disabilities, is committed to an asylum where she forms an enduring love with a fellow patient.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-great-house-womens-2011",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "great-house",
+    "year": 2011,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Four interconnected stories across London, New York, and Jerusalem linked by a massive writing desk that belonged to a poet murdered in Pinochet's Chile.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-annabel-womens-2011",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "annabel",
+    "year": 2011,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Born intersex in remote 1960s Labrador, Wayne is raised secretly as a boy by his father, embarking on a painful journey toward authentic selfhood.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-half-blood-blues-womens-2012",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "half-blood-blues",
+    "year": 2012,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In Nazi-occupied Paris and Berlin, a multinational jazz band scrambles to survive as their brilliant Black German trumpet prodigy is arrested by the Gestapo.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-forgotten-waltz-womens-2012",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-forgotten-waltz",
+    "year": 2012,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: During the intoxicating rise and crash of Ireland's Celtic Tiger, Gina Moynihan recounts her passionate, adulterous affair with a colleague in Dublin.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-painter-of-silence-womens-2012",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "painter-of-silence",
+    "year": 2012,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In 1950s communist Romania, a nurse recognizes a mute, profoundly gifted deaf artist admitted to her hospital as her childhood playmate from before the war.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-foreign-bodies-womens-2012",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "foreign-bodies",
+    "year": 2012,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A sharp reimagining of Henry James's The Ambassadors, following an unmarried high school teacher dispatched to Paris to rescue her nephew from an unsuitable marriage.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-state-of-wonder-womens-2012",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "state-of-wonder",
+    "year": 2012,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Pharmacologist Marina Singh journeys into the Amazonian rainforest to investigate the mysterious death of a colleague and the secretive fertility research of her former mentor.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-life-after-life-womens-2013",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "life-after-life",
+    "year": 2013,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Ursula Todd dies and is repeatedly reborn across the turbulent twentieth century, navigating the London Blitz, pandemics, and the rise of European fascism.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-flight-behaviour-womens-2013",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "flight-behaviour",
+    "year": 2013,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A discontented young Appalachian mother discovers a forested valley blanketed by millions of displaced monarch butterflies, igniting cultural and scientific clashes.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-bring-up-the-bodies-womens-2013",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "bring-up-the-bodies",
+    "year": 2013,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: The ferocious sequel to Wolf Hall following Thomas Cromwell as he orchestrates the downfall and trial of Queen Anne Boleyn to clear the way for Jane Seymour.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-whered-you-go-bernadette-womens-2013",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "whered-you-go-bernadette",
+    "year": 2013,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: When agoraphobic former architect Bernadette Fox mysteriously vanishes before a family trip to Antarctica, her fifteen-year-old daughter pieces together emails and documents to find her.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-nw-womens-2013",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "nw",
+    "year": 2013,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Four Londoners from the same Northwest London council estate navigate adulthood, class mobility, friendship, and self-reinvention in contemporary England.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-americanah-womens-2014",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "americanah",
+    "year": 2014,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A dazzling story of love and race following Ifemelu and Obinze as young lovers in military-ruled Nigeria whose lives diverge toward America and London before reuniting in Lagos.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-burial-rites-womens-2014",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "burial-rites",
+    "year": 2014,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In 1829 Iceland, condemned murderess Agnes Magnúsdóttir is sent to await execution on an isolated family farm, gradually revealing the tragic truth behind her crime.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-lowland-womens-2014",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-lowland",
+    "year": 2014,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Two brothers born in Calcutta take radically divergent paths in the 1960s—one joining the violent Naxalite rebellion, the other pursuing quiet oceanographic research in America.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-undertaking-womens-2014",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-undertaking",
+    "year": 2014,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In WWII Germany, an ordinary soldier on the freezing Russian front enters an arranged marriage of convenience with an opportunistic Berlin woman expecting easy wealth.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-goldfinch-womens-2014",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-goldfinch",
+    "year": 2014,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Surviving a terrorist bombing at the Metropolitan Museum that kills his mother, thirteen-year-old Theo Decker clings to a tiny Dutch Golden Age masterpiece that pulls him into the criminal underworld.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-outline-womens-2015",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "outline",
+    "year": 2015,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A British novelist teaching a summer creative writing course in sweltering Athens listens to the candid, autobiographical confessions of strangers she encounters.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-bees-womens-2015",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-bees",
+    "year": 2015,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Flora 717, a lowly sanitation bee in an authoritarian hive, develops forbidden maternal instincts and questions the rigid religious caste system of her colony.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-a-god-in-every-stone-womens-2015",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "a-god-in-every-stone",
+    "year": 2015,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: An English archaeologist searching for ancient Persian artifacts and a Pashtun soldier wounded in WWI cross paths in Peshawar amidst British colonial oppression.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-a-spool-of-blue-thread-womens-2015",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "a-spool-of-blue-thread",
+    "year": 2015,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Spanning four generations of the Whitshank family of Baltimore, chronicling the construction of their beloved home and the unraveling of shared family myths.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-paying-guests-womens-2015",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-paying-guests",
+    "year": 2015,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In 1922 South London, an impoverished genteel widow and her spinster daughter take in lodgers, sparking a passionate secret romance and a shocking crime.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-ruby-womens-2016",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "ruby",
+    "year": 2016,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In 1950s East Texas, a traumatized young Black woman returns to her hometown haunted by abuse, finding an unexpected chance at redemption with a returning native.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-green-road-womens-2016",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-green-road",
+    "year": 2016,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Four adult siblings dispersed across Dublin, New York, Mali, and London return to County Clare for Christmas, confronting their aging, imperious matriarch.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-portable-veblen-womens-2016",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-portable-veblen",
+    "year": 2016,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A quirky, squirrel-whispering young woman and her ambitious neurologist fiancé navigate consumer culture, pharmaceuticals, and pre-wedding eccentricities in Palo Alto.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-improbability-of-love-womens-2016",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-improbability-of-love",
+    "year": 2016,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: When a heartbroken London chef buys an inexpensive dusty painting in a junk shop, she unwittingly becomes target of international oligarchs and art thieves.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-a-little-life-womens-2016",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "a-little-life",
+    "year": 2016,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Four college friends navigate ambition and friendship in Manhattan, bound together by the profound childhood trauma and physical suffering of brilliant attorney Jude St. Francis.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-stay-with-me-womens-2017",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "stay-with-me",
+    "year": 2017,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In 1980s Nigeria, Yejide and Akin's modern marriage is severely strained by infertility, leading to family-arranged polygamy and devastating deception.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-dark-circle-womens-2017",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-dark-circle",
+    "year": 2017,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In post-WWII London, teenage East End twins diagnosed with tuberculosis are sent to a Kent sanatorium on the cusp of the revolutionary introduction of antibiotics.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-sport-of-kings-womens-2017",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-sport-of-kings",
+    "year": 2017,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A sweeping Kentucky epic about a wealthy thoroughbred racing dynasty, a brilliant Black ex-con groom, and the inescapable legacy of American racism.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-first-love-womens-2017",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "first-love",
+    "year": 2017,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A writer living with her emotionally abusive, older husband in a glass-walled Glasgow apartment dissects the corrosive dynamics of domestic tyranny.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-do-not-say-we-have-nothing-womens-2017",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "do-not-say-we-have-nothing",
+    "year": 2017,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A sweeping multi-generational saga chronicling two generations of classical musicians during Mao's Cultural Revolution and the 1989 Tiananmen Square protests.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-idiot-womens-2018",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-idiot",
+    "year": 2018,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A Turkish American freshman at Harvard in 1995 discovers email, linguistics, and the awkward mysteries of first love with an older Hungarian student.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-mermaid-and-mrs-hancock-womens-2018",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-mermaid-and-mrs-hancock",
+    "year": 2018,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In 1785 London, an ordinary merchant's life is overturned when a sea captain presents him with a mummified mermaid, drawing him to an elite courtesan.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-sight-womens-2018",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "sight",
+    "year": 2018,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: An expectant mother reflects on the birth of her second child while exploring scientific breakthroughs in vision, from Röntgen's X-rays to psychoanalysis.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-when-i-hit-you-or-a-portrait-of-the-writer-as-a-young-wife-womens-2018",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "when-i-hit-you-or-a-portrait-of-the-writer-as-a-young-wife",
+    "year": 2018,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A fierce, searing autofictional account of a young Indian university teacher enduring domestic abuse from her Marxist intellectual husband, using writing as resistance.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-sing-unburied-sing-womens-2018",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "sing-unburied-sing",
+    "year": 2018,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A haunting road trip through contemporary Mississippi as a fractured family travels to pick up a father released from Parchman Farm penitentiary, shadowed by ancestral ghosts.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-silence-of-the-girls-womens-2019",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-silence-of-the-girls",
+    "year": 2019,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: The Trojan War recounted through the eyes of Briseis, an enslaved queen awarded to Achilles as a war prize, exposing the brutal female cost of heroic warfare.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-my-sister-the-serial-killer-womens-2019",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "my-sister-the-serial-killer",
+    "year": 2019,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In modern Lagos, nurse Korede meticulously scrubs blood from crime scenes to protect her glamorous younger sister Ayoola, who has a habit of killing her boyfriends.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-milkman-womens-2019",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "milkman",
+    "year": 2019,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In an unnamed Northern Irish city during the Troubles, an 18-year-old girl is relentlessly pursued by a menacing paramilitary commander known as 'the milkman'.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-ordinary-people-womens-2019",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "ordinary-people",
+    "year": 2019,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In South London during Barack Obama's 2008 election, two Black middle-class couples navigate midlife parenthood, marital strain, and shifting dreams.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-circe-womens-2019",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "circe",
+    "year": 2019,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: The mythological sorceress Circe is banished to the deserted island of Aiaia, honing her occult craft and crossing paths with Daedalus, the Minotaur, and Odysseus.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-dominicana-womens-2020",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "dominicana",
+    "year": 2020,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In 1965, fifteen-year-old Ana Canción enters an arranged marriage to an older man in New York to help her family migrate from the Dominican Republic.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-girl-woman-other-womens-2020",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "girl-woman-other",
+    "year": 2020,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A vibrant polyphonic tapestry tracing the intertwined lives and struggles of twelve primarily Black British women across decades and social classes.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-a-thousand-ships-womens-2020",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "a-thousand-ships",
+    "year": 2020,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A chorus of Trojan and Greek women—from Creusa to Cassandra and Penelope—reclaim the epic Trojan War saga from male martial glory.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-mirror-the-light-womens-2020",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-mirror-the-light",
+    "year": 2020,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: The colossal conclusion to the Wolf Hall trilogy, tracing Thomas Cromwell's ascent following Anne Boleyn's execution through his inevitable fall in Tudor England.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-weather-womens-2020",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "weather",
+    "year": 2020,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A university librarian answers correspondence for an apocalyptic podcast host, confronting impending ecological dread and suburban domesticity.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-vanishing-half-womens-2021",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-vanishing-half",
+    "year": 2021,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Twin light-skinned Black sisters run away from their segregated Louisiana town in the 1950s, one choosing to live and pass as white while the other returns south.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-unsettled-ground-womens-2021",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "unsettled-ground",
+    "year": 2021,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Fifty-one-year-old twins Jeanie and Julius, living isolated in an English cottage, are suddenly cast into poverty and eviction when their mother dies.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-transcendent-kingdom-womens-2021",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "transcendent-kingdom",
+    "year": 2021,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A Stanford PhD neuroscience candidate studying reward addiction seeks scientific meaning while caring for her suicidal, deeply religious Ghanaian mother.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-how-the-one-armed-sister-sweeps-her-house-womens-2021",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "how-the-one-armed-sister-sweeps-her-house",
+    "year": 2021,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: On the idyllic paradise beaches of Barbados, a robbery gone wrong at a luxury resort sets off violent chain reactions for four connected women.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-no-one-is-talking-about-this-womens-2021",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "no-one-is-talking-about-this",
+    "year": 2021,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: An internet-famous social media creator confronts real-world grief and boundless love when an infant niece is diagnosed with a rare condition.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-bread-the-devil-knead-womens-2022",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-bread-the-devil-knead",
+    "year": 2022,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In Port of Spain, thirty-nine-year-old Aethelinda unpicks a lifetime of domestic abuse and childhood trauma, finding courage to seek selfhood.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-sentence-womens-2022",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-sentence",
+    "year": 2022,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: An Indigenous bookseller in Minneapolis is haunted by the ghost of an annoying deceased customer during the tumultuous pandemic and racial reckonings of 2020.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-sorrow-and-bliss-womens-2022",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "sorrow-and-bliss",
+    "year": 2022,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Martha navigates the hilarious, devastating wreckage of her marriage and career while contending with an unnameable psychiatric illness that has plagued her for decades.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-island-of-missing-trees-womens-2022",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-island-of-missing-trees",
+    "year": 2022,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In 1974 Cyprus, Greek and Turkish lovers meet secretly beneath a tavern's fig tree; decades later in London, their daughter uncovers her family's war-torn history.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-great-circle-womens-2022",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "great-circle",
+    "year": 2022,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Dual storylines track a daring female aviator who vanished crossing the poles in 1950 and the young actress portraying her decades later.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-fire-rush-womens-2023",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "fire-rush",
+    "year": 2023,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Set in late-1970s London amidst dub reggae sound systems and racial injustice, following Yamaye as she seeks liberation from generational trauma.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-trespasses-womens-2023",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "trespasses",
+    "year": 2023,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In 1975 Belfast, a Catholic primary school teacher embarks on a dangerous affair with an older Protestant barrister amidst the paranoia of the Troubles.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-black-butterflies-womens-2023",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "black-butterflies",
+    "year": 2023,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In 1992 Sarajevo, landscape artist and teacher Zora stays behind to paint as siege artillery and snipers encircle the multi-ethnic city.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-marriage-portrait-womens-2023",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-marriage-portrait",
+    "year": 2023,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In 16th-century Florence, sixteen-year-old Lucrezia de' Medici is thrust into marriage with the Duke of Ferrara, convinced her powerful husband plots to murder her.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-pod-womens-2023",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "pod",
+    "year": 2023,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: An ocean-bound epic exploring ecological ruin, captive cruelty, and survival through the perspective of Ea, a spinner dolphin born into a traumatized pod.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-wren-the-wren-womens-2024",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-wren-the-wren",
+    "year": 2024,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Three generations of Irish women navigate the enduring shadow and artistic legacy of their philandering patriarch, legendary poet Phil McDaragh.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-restless-dolly-maunder-womens-2024",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "restless-dolly-maunder",
+    "year": 2024,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Kate Grenville dramatizes the fierce, frustrated life of her own Australian grandmother, who fought poverty and patriarchal limits along the frontier.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-enter-ghost-womens-2024",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "enter-ghost",
+    "year": 2024,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: British-Palestinian actress Sonia joins an ambitious West Bank Arabic-language production of Hamlet, discovering profound communal resistance under occupation.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-soldier-sailor-womens-2024",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "soldier-sailor",
+    "year": 2024,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A mother delivers a fierce, claustrophobic internal monologue to her infant son, exploring sleep deprivation, psychological collapse, and ferocious maternal love.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-river-east-river-west-womens-2024",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "river-east-river-west",
+    "year": 2024,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In 2007 boomtown Shanghai, a mixed-race teenager and her American stepfather navigate racial hierarchy, wealth, and belonging during the Olympics boom.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-good-girl-womens-2025",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "good-girl",
+    "year": 2025,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: An Afghan refugee student in Berlin navigates sex work, language, and cultural displacement, attempting to construct an authentic selfhood.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-all-fours-womens-2025",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "all-fours",
+    "year": 2025,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A semi-famous artist driving cross-country stops at a suburban motel minutes from home to initiate an intimate reinvention.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-persians-womens-2025",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-persians",
+    "year": 2025,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: An unruly, wealthy Iranian family scattered across Beverly Hills and Tehran after the 1979 Revolution reunites to divide ancestral assets.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-tell-me-everything-womens-2025",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "tell-me-everything",
+    "year": 2025,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In Crosby, Maine, beloved town icons Lucy Barton, Bob Burgess, and Olive Kitteridge investigate a local murder while contemplating love and memory.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-fundamentally-womens-2025",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "fundamentally",
+    "year": 2025,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A British-Iraqi humanitarian researcher in post-ISIS Mosul is caught between humanitarian diplomacy, private guilt, and dangerous militia power.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-flashlight-womens-2026",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "flashlight",
+    "year": 2026,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A haunting psychological exploration of childhood secrets, truth, and familial bonds across generations.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-dominion-womens-2026",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "dominion",
+    "year": 2026,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: Across three generations in rural Mississippi, a Black family fights to preserve their ancestral land and dignity against predatory landowners.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-the-mercy-step-womens-2026",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "the-mercy-step",
+    "year": 2026,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: In 1960s Yorkshire, a Jamaican nurse and her family face racism, faith crises, and the emotional costs of the Windrush migration.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-kingfisher-womens-2026",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "kingfisher",
+    "year": 2026,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: A young marine biologist retreats to a remote Northumbrian coastal cottage, examining estuary birds, solitude, and the loss of her partner.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
+  },
+  {
+    "id": "nom-heart-the-lover-womens-2026",
+    "prizeId": "womens-prize-fiction",
+    "bookId": "heart-the-lover",
+    "year": 2026,
+    "status": "shortlist",
+    "category": "Fiction",
+    "citation": "Shortlist: An intellectual and sensual romance between an anthropologist and an art historian navigating marriage, academic jealousy, and grief.",
+    "sourceUrl": "https://womensprizeforfiction.co.uk"
   }
 ]

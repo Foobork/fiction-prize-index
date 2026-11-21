@@ -4098,5 +4098,616 @@
     "nationality": "American",
     "birthYear": 1981,
     "bio": "American novelist and short story writer celebrated for Detransition, Baby and innovative queer and trans narrative forms."
+  },
+  {
+    "id": "julia-blackburn",
+    "name": "Julia Blackburn",
+    "nationality": "British",
+    "birthYear": 1948,
+    "bio": "British author of memoirs, biographies, and novels twice shortlisted for the Women's Prize."
+  },
+  {
+    "id": "pagan-kennedy",
+    "name": "Pagan Kennedy",
+    "nationality": "American",
+    "birthYear": 1962,
+    "bio": "American author and pioneer of the 1990s zine movement, author of Spinsters."
+  },
+  {
+    "id": "amy-tan",
+    "name": "Amy Tan",
+    "nationality": "American",
+    "birthYear": 1952,
+    "bio": "Celebrated American novelist exploring Chinese American mother-daughter relationships."
+  },
+  {
+    "id": "deirdre-madden",
+    "name": "Deirdre Madden",
+    "nationality": "Irish",
+    "birthYear": 1960,
+    "bio": "Irish novelist and member of Aosdána whose works explore family history, art, and memory."
+  },
+  {
+    "id": "jane-mendelsohn",
+    "name": "Jane Mendelsohn",
+    "nationality": "American",
+    "birthYear": 1965,
+    "bio": "American novelist best known for her poetic debut I Was Amelia Earhart."
+  },
+  {
+    "id": "manda-scott",
+    "name": "Manda Scott",
+    "nationality": "British",
+    "birthYear": 1962,
+    "bio": "Scottish veterinary surgeon, novelist, and historical crime writer, author of Hen's Teeth."
+  },
+  {
+    "id": "kirsten-bakis",
+    "name": "Kirsten Bakis",
+    "nationality": "American",
+    "birthYear": 1967,
+    "bio": "American novelist acclaimed for her imaginative gothic debut Lives of the Monster Dogs."
+  },
+  {
+    "id": "pauline-melville",
+    "name": "Pauline Melville",
+    "nationality": "Guyanese-British",
+    "birthYear": 1948,
+    "bio": "Guyanese-British writer and former actress whose debut novel won the Whitbread First Novel Award."
+  },
+  {
+    "id": "deirdre-purcell",
+    "name": "Deirdre Purcell",
+    "nationality": "Irish",
+    "birthYear": 1945,
+    "deathYear": 2023,
+    "bio": "Popular Irish author and broadcaster known for emotionally compelling family dramas."
+  },
+  {
+    "id": "anita-shreve",
+    "name": "Anita Shreve",
+    "nationality": "American",
+    "birthYear": 1946,
+    "deathYear": 2018,
+    "bio": "American novelist whose bestselling historical fiction examined tragedy, fate, and intimacy."
+  },
+  {
+    "id": "marilyn-bowering",
+    "name": "Marilyn Bowering",
+    "nationality": "Canadian",
+    "birthYear": 1949,
+    "bio": "Canadian poet and novelist whose works explore myth, landscape, and wartime survival."
+  },
+  {
+    "id": "jane-hamilton",
+    "name": "Jane Hamilton",
+    "nationality": "American",
+    "birthYear": 1957,
+    "bio": "Acclaimed American novelist of domestic life and rural family grief, author of The Book of Ruth."
+  },
+  {
+    "id": "judy-budnitz",
+    "name": "Judy Budnitz",
+    "nationality": "American",
+    "birthYear": 1973,
+    "bio": "American writer of surreal, fable-like fiction and short stories."
+  },
+  {
+    "id": "eilis-ni-dhuibhne",
+    "name": "Éilís Ní Dhuibhne",
+    "nationality": "Irish",
+    "birthYear": 1954,
+    "bio": "Irish novelist, scholar, and short story writer writing in both English and Irish."
+  },
+  {
+    "id": "rebecca-wells",
+    "name": "Rebecca Wells",
+    "nationality": "American",
+    "birthYear": 1952,
+    "bio": "American novelist, actor, and playwright celebrated for the Ya-Ya Sisterhood series."
+  },
+  {
+    "id": "jill-dawson",
+    "name": "Jill Dawson",
+    "nationality": "British",
+    "birthYear": 1962,
+    "bio": "British novelist and poet whose works reimagine historical events, crimes, and literary figures."
+  },
+  {
+    "id": "rosina-lippi",
+    "name": "Rosina Lippi",
+    "nationality": "American",
+    "birthYear": 1956,
+    "bio": "American linguist and author of literary fiction and historical sagas."
+  },
+  {
+    "id": "maggie-gee",
+    "name": "Maggie Gee",
+    "nationality": "British",
+    "birthYear": 1948,
+    "bio": "British novelist, Vice-President of the Royal Society of Literature, exploring class and climate."
+  },
+  {
+    "id": "chloe-hooper",
+    "name": "Chloe Hooper",
+    "nationality": "Australian",
+    "birthYear": 1973,
+    "bio": "Australian author of provocative psychological fiction and investigative non-fiction."
+  },
+  {
+    "id": "sarah-waters",
+    "name": "Sarah Waters",
+    "nationality": "British",
+    "birthYear": 1966,
+    "bio": "Acclaimed Welsh novelist renowned for gripping Victorian and postwar historical fiction."
+  },
+  {
+    "id": "anne-donovan",
+    "name": "Anne Donovan",
+    "nationality": "Scottish",
+    "birthYear": 1956,
+    "bio": "Scottish author celebrated for writing in Glasgow Scots, author of Buddha Da."
+  },
+  {
+    "id": "shena-mackay",
+    "name": "Shena Mackay",
+    "nationality": "British",
+    "birthYear": 1944,
+    "bio": "Prolific Scottish novelist and short story writer famed for dark wit and suburban portraiture."
+  },
+  {
+    "id": "gillian-slovo",
+    "name": "Gillian Slovo",
+    "nationality": "South African-British",
+    "birthYear": 1952,
+    "bio": "South African-born British author, playwright, and former president of English PEN."
+  },
+  {
+    "id": "joolz-denby",
+    "name": "Joolz Denby",
+    "nationality": "British",
+    "birthYear": 1955,
+    "bio": "British poet, novelist, and tattoo artist known for gothic, subcultural crime fiction."
+  },
+  {
+    "id": "jane-gardam",
+    "name": "Jane Gardam",
+    "nationality": "British",
+    "birthYear": 1928,
+    "bio": "Beloved English novelist and two-time Whitbread Award winner, author of Old Filth."
+  },
+  {
+    "id": "sheri-holman",
+    "name": "Sheri Holman",
+    "nationality": "American",
+    "birthYear": 1966,
+    "bio": "American novelist and television screenwriter acclaimed for vivid historical fiction."
+  },
+  {
+    "id": "marina-lewycka",
+    "name": "Marina Lewycka",
+    "nationality": "British-Ukrainian",
+    "birthYear": 1946,
+    "bio": "British-Ukrainian novelist celebrated for comedic immigrant family sagas."
+  },
+  {
+    "id": "maile-meloy",
+    "name": "Maile Meloy",
+    "nationality": "American",
+    "birthYear": 1972,
+    "bio": "American short story writer and novelist acclaimed for moral clarity and Western realism."
+  },
+  {
+    "id": "nicole-krauss",
+    "name": "Nicole Krauss",
+    "nationality": "American",
+    "birthYear": 1974,
+    "bio": "Acclaimed American novelist of memory, Jewish identity, and loss, author of The History of Love."
+  },
+  {
+    "id": "carrie-tiffany",
+    "name": "Carrie Tiffany",
+    "nationality": "Australian",
+    "birthYear": 1965,
+    "bio": "English-born Australian novelist exploring rural science, ecology, and desire."
+  },
+  {
+    "id": "xiaolu-guo",
+    "name": "Xiaolu Guo",
+    "nationality": "Chinese-British",
+    "birthYear": 1973,
+    "bio": "Chinese-born British memoirist, filmmaker, and novelist exploring language and migration."
+  },
+  {
+    "id": "jane-harris",
+    "name": "Jane Harris",
+    "nationality": "British",
+    "birthYear": 1961,
+    "bio": "British author and screenwriter known for voice-driven, meticulously researched historical novels."
+  },
+  {
+    "id": "nancy-huston",
+    "name": "Nancy Huston",
+    "nationality": "Canadian-French",
+    "birthYear": 1953,
+    "bio": "Canadian-born author and essayist who writes and self-translates in both French and English."
+  },
+  {
+    "id": "sadie-jones",
+    "name": "Sadie Jones",
+    "nationality": "British",
+    "birthYear": 1967,
+    "bio": "English novelist and screenwriter acclaimed for emotionally charged historical dramas."
+  },
+  {
+    "id": "charlotte-mendelson",
+    "name": "Charlotte Mendelson",
+    "nationality": "British",
+    "birthYear": 1972,
+    "bio": "British novelist known for sharply observed, tragicomic family and romantic satires."
+  },
+  {
+    "id": "heather-oneill",
+    "name": "Heather O'Neill",
+    "nationality": "Canadian",
+    "birthYear": 1973,
+    "bio": "Canadian novelist and poet celebrated for gritty, magical portrayals of Montreal youth."
+  },
+  {
+    "id": "patricia-wood",
+    "name": "Patricia Wood",
+    "nationality": "American",
+    "birthYear": 1956,
+    "bio": "American novelist whose debut Lottery drew on her family experiences with neurodiversity."
+  },
+  {
+    "id": "ellen-feldman",
+    "name": "Ellen Feldman",
+    "nationality": "American",
+    "birthYear": 1942,
+    "bio": "American author whose historical fiction probes racial injustice and mid-century America."
+  },
+  {
+    "id": "samantha-hunt",
+    "name": "Samantha Hunt",
+    "nationality": "American",
+    "birthYear": 1971,
+    "bio": "American novelist and essayist renowned for fabulist and scientific historical fiction."
+  },
+  {
+    "id": "rosie-alison",
+    "name": "Rosie Alison",
+    "nationality": "British",
+    "birthYear": 1964,
+    "bio": "British television director, film producer, and author of The Very Thought of You."
+  },
+  {
+    "id": "attica-locke",
+    "name": "Attica Locke",
+    "nationality": "American",
+    "birthYear": 1974,
+    "bio": "American novelist and screenwriter renowned for atmospheric Texas crime thrillers."
+  },
+  {
+    "id": "monique-roffey",
+    "name": "Monique Roffey",
+    "nationality": "Trinidadian-British",
+    "birthYear": 1965,
+    "bio": "Trinidadian-born British writer whose fabulist Caribbean novels explore folklore and ecology."
+  },
+  {
+    "id": "emma-donoghue",
+    "name": "Emma Donoghue",
+    "nationality": "Irish-Canadian",
+    "birthYear": 1969,
+    "bio": "Celebrated Irish-Canadian playwright and novelist, author of the international bestseller Room."
+  },
+  {
+    "id": "aminatta-forna",
+    "name": "Aminatta Forna",
+    "nationality": "Sierra Leonean-British",
+    "birthYear": 1964,
+    "bio": "Scottish-Sierra Leonean novelist exploring civil conflict, trauma, and psychological recovery."
+  },
+  {
+    "id": "emma-henderson",
+    "name": "Emma Henderson",
+    "nationality": "British",
+    "birthYear": 1958,
+    "bio": "English novelist whose debut novel Grace Williams Says It Loud won widespread acclaim."
+  },
+  {
+    "id": "kathleen-winter",
+    "name": "Kathleen Winter",
+    "nationality": "Canadian",
+    "birthYear": 1960,
+    "bio": "English-born Canadian novelist and short story writer, author of the intersex bildungsroman Annabel."
+  },
+  {
+    "id": "georgina-harding",
+    "name": "Georgina Harding",
+    "nationality": "British",
+    "birthYear": 1955,
+    "bio": "British author of evocative, poetically restrained historical novels set across Europe."
+  },
+  {
+    "id": "cynthia-ozick",
+    "name": "Cynthia Ozick",
+    "nationality": "American",
+    "birthYear": 1928,
+    "bio": "Eminent American novelist, short story writer, and essayist of Jewish American intellectual life."
+  },
+  {
+    "id": "kate-atkinson",
+    "name": "Kate Atkinson",
+    "nationality": "British",
+    "birthYear": 1951,
+    "bio": "Acclaimed British novelist, creator of Jackson Brodie and author of Life After Life."
+  },
+  {
+    "id": "maria-semple",
+    "name": "Maria Semple",
+    "nationality": "American",
+    "birthYear": 1964,
+    "bio": "American television writer and satirical novelist, author of Where'd You Go, Bernadette."
+  },
+  {
+    "id": "hannah-kent",
+    "name": "Hannah Kent",
+    "nationality": "Australian",
+    "birthYear": 1985,
+    "bio": "Australian historical novelist whose bestselling debut Burial Rites was set in 19th-century Iceland."
+  },
+  {
+    "id": "audrey-magee",
+    "name": "Audrey Magee",
+    "nationality": "Irish",
+    "birthYear": 1966,
+    "bio": "Irish novelist and former journalist acclaimed for stark, resonant historical parables."
+  },
+  {
+    "id": "laline-paull",
+    "name": "Laline Paull",
+    "nationality": "British",
+    "birthYear": 1960,
+    "bio": "British novelist and playwright known for anthropomorphic eco-thrillers The Bees and Pod."
+  },
+  {
+    "id": "cynthia-bond",
+    "name": "Cynthia Bond",
+    "nationality": "American",
+    "birthYear": 1961,
+    "bio": "American writer and activist whose debut novel Ruby was an Oprah Book Club selection."
+  },
+  {
+    "id": "elizabeth-mckenzie",
+    "name": "Elizabeth McKenzie",
+    "nationality": "American",
+    "birthYear": 1958,
+    "bio": "American author, editor, and humorist known for eccentric, witty domestic fiction."
+  },
+  {
+    "id": "hannah-rothschild",
+    "name": "Hannah Rothschild",
+    "nationality": "British",
+    "birthYear": 1962,
+    "bio": "British documentary filmmaker, novelist, and former chair of the National Gallery."
+  },
+  {
+    "id": "hanya-yanagihara",
+    "name": "Hanya Yanagihara",
+    "nationality": "American",
+    "birthYear": 1974,
+    "bio": "American novelist and editor-in-chief of T: The New York Times Style Magazine, author of A Little Life."
+  },
+  {
+    "id": "ayobami-adebayo",
+    "name": "Ayọ̀bámi Adébáyọ̀",
+    "nationality": "Nigerian",
+    "birthYear": 1988,
+    "bio": "Acclaimed Nigerian novelist exploring marital pressure, sickle cell disease, and social class."
+  },
+  {
+    "id": "gwendoline-riley",
+    "name": "Gwendoline Riley",
+    "nationality": "British",
+    "birthYear": 1979,
+    "bio": "English novelist praised for razor-sharp, emotionally uncompromising examinations of family and marriage."
+  },
+  {
+    "id": "madeleine-thien",
+    "name": "Madeleine Thien",
+    "nationality": "Canadian",
+    "birthYear": 1974,
+    "bio": "Canadian novelist whose epic Do Not Say We Have Nothing examined China's cultural revolution."
+  },
+  {
+    "id": "imogen-hermes-gowar",
+    "name": "Imogen Hermes Gowar",
+    "nationality": "British",
+    "birthYear": 1988,
+    "bio": "British author and archaeologist acclaimed for Georgian historical fantasy The Mermaid and Mrs. Hancock."
+  },
+  {
+    "id": "jessie-greengrass",
+    "name": "Jessie Greengrass",
+    "nationality": "British",
+    "birthYear": 1982,
+    "bio": "British author whose philosophical fiction explores motherhood, science, and climate catastrophe."
+  },
+  {
+    "id": "meena-kandasamy",
+    "name": "Meena Kandasamy",
+    "nationality": "Indian",
+    "birthYear": 1984,
+    "bio": "Indian poet, fiction writer, and activist known for autofictional feminist reckonings with abuse."
+  },
+  {
+    "id": "oyinkan-braithwaite",
+    "name": "Oyinkan Braithwaite",
+    "nationality": "Nigerian-British",
+    "birthYear": 1988,
+    "bio": "Nigerian-British novelist known for the darkly comedic, satirical thriller My Sister, the Serial Killer."
+  },
+  {
+    "id": "diana-evans",
+    "name": "Diana Evans",
+    "nationality": "British",
+    "birthYear": 1972,
+    "bio": "British novelist and journalist of Nigerian and English parentage, fellow of the Royal Society of Literature."
+  },
+  {
+    "id": "angie-cruz",
+    "name": "Angie Cruz",
+    "nationality": "Dominican-American",
+    "birthYear": 1972,
+    "bio": "Dominican-American author and professor whose fiction documents immigrant women in Washington Heights."
+  },
+  {
+    "id": "jenny-offill",
+    "name": "Jenny Offill",
+    "nationality": "American",
+    "birthYear": 1968,
+    "bio": "American novelist celebrated for aphoristic, fragmented portraits of modern marriage and climate anxiety."
+  },
+  {
+    "id": "brit-bennett",
+    "name": "Brit Bennett",
+    "nationality": "American",
+    "birthYear": 1990,
+    "bio": "Acclaimed American novelist of racial passing, sisterhood, and identity in The Vanishing Half."
+  },
+  {
+    "id": "claire-fuller",
+    "name": "Claire Fuller",
+    "nationality": "British",
+    "birthYear": 1967,
+    "bio": "English novelist known for atmospheric, psychologically acute tales of rural precarity and isolation."
+  },
+  {
+    "id": "yaa-gyasi",
+    "name": "Yaa Gyasi",
+    "nationality": "Ghanaian-American",
+    "birthYear": 1989,
+    "bio": "Ghanaian-American novelist renowned for the generational epics Homegoing and Transcendent Kingdom."
+  },
+  {
+    "id": "cherie-jones",
+    "name": "Cherie Jones",
+    "nationality": "Barbadian",
+    "birthYear": 1974,
+    "bio": "Barbadian writer and attorney whose debut novel unpicked the dark reality behind luxury Caribbean tourism."
+  },
+  {
+    "id": "lisa-allen-agostini",
+    "name": "Lisa Allen-Agostini",
+    "nationality": "Trinidadian",
+    "birthYear": 1966,
+    "bio": "Trinidadian writer, poet, and editor exploring domestic trauma and Caribbean feminist resilience."
+  },
+  {
+    "id": "meg-mason",
+    "name": "Meg Mason",
+    "nationality": "New Zealand-Australian",
+    "birthYear": 1977,
+    "bio": "New Zealand-born author celebrated for her tragicomic masterpiece of mental illness, Sorrow and Bliss."
+  },
+  {
+    "id": "jacqueline-crooks",
+    "name": "Jacqueline Crooks",
+    "nationality": "Jamaican-British",
+    "birthYear": 1964,
+    "bio": "Jamaican-born British author whose debut novel Fire Rush captured London's 1970s dub reggae counterculture."
+  },
+  {
+    "id": "louise-kennedy",
+    "name": "Louise Kennedy",
+    "nationality": "Irish",
+    "birthYear": 1967,
+    "bio": "Irish writer and former chef whose debut Trespasses vividly captured love during the Northern Irish Troubles."
+  },
+  {
+    "id": "priscilla-morris",
+    "name": "Priscilla Morris",
+    "nationality": "British-Yugoslav",
+    "birthYear": 1973,
+    "bio": "British-Yugoslav author whose debut novel Black Butterflies illuminated the Siege of Sarajevo."
+  },
+  {
+    "id": "isabella-hammad",
+    "name": "Isabella Hammad",
+    "nationality": "British-Palestinian",
+    "birthYear": 1991,
+    "bio": "British-Palestinian author whose fiction explores Palestinian history, exile, and artistic resistance."
+  },
+  {
+    "id": "claire-kilroy",
+    "name": "Claire Kilroy",
+    "nationality": "Irish",
+    "birthYear": 1973,
+    "bio": "Irish novelist whose visceral work Soldier Sailor documented the psychological intensity of early motherhood."
+  },
+  {
+    "id": "aube-rey-lescure",
+    "name": "Aube Rey Lescure",
+    "nationality": "French-American",
+    "birthYear": 1994,
+    "bio": "French-Chinese-American writer whose debut River East, River West unpicked expatriate class in Shanghai."
+  },
+  {
+    "id": "aria-aber",
+    "name": "Aria Aber",
+    "nationality": "German-American",
+    "birthYear": 1991,
+    "bio": "Afghan-German poet and author whose debut novel Good Girl explores migration, sex work, and Berlin youth."
+  },
+  {
+    "id": "sanam-mahloudji",
+    "name": "Sanam Mahloudji",
+    "nationality": "Iranian-American",
+    "birthYear": 1980,
+    "bio": "Iranian-American writer whose debut The Persians traced an unruly, wealthy dynasty following the 1979 Revolution."
+  },
+  {
+    "id": "nussaibah-younis",
+    "name": "Nussaibah Younis",
+    "nationality": "British-Iraqi",
+    "birthYear": 1986,
+    "bio": "British-Iraqi foreign policy expert and novelist whose debut Fundamentally explored post-ISIS Iraq."
+  },
+  {
+    "id": "addie-e-citchens",
+    "name": "Addie E. Citchens",
+    "nationality": "American",
+    "birthYear": 1985,
+    "bio": "American author and scholar whose Southern historical fiction interrogates race, power, and family legacy."
+  },
+  {
+    "id": "marcia-hutchinson",
+    "name": "Marcia Hutchinson",
+    "nationality": "British",
+    "birthYear": 1963,
+    "bio": "British author and educator whose historical fiction chronicles the Windrush generation in Yorkshire."
+  },
+  {
+    "id": "rozie-kelly",
+    "name": "Rozie Kelly",
+    "nationality": "British",
+    "birthYear": 1989,
+    "bio": "British author whose debut novel Kingfisher explores marine ecology, queer romance, and coastal solitude."
+  },
+  {
+    "id": "lily-king",
+    "name": "Lily King",
+    "nationality": "American",
+    "birthYear": 1963,
+    "bio": "Acclaimed American novelist and short story writer, author of Euphoria and Writers & Lovers."
+  },
+  {
+    "id": "natalie-haynes",
+    "name": "Natalie Haynes",
+    "nationality": "British",
+    "birthYear": 1974,
+    "bio": "English writer, classicist, and broadcaster celebrated for retelling Greek myths from female perspectives."
   }
 ]

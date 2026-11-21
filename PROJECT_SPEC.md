@@ -230,7 +230,7 @@ interface Author {
 - [x] 100% full historical coverage for Hugo Award for Best Novel (1953–2026)
 - [x] 100% full historical coverage for Nebula Award for Best Novel (1965–2026)
 - [x] 100% full historical coverage for National Book Critics Circle Fiction (1975–2025)
-- [x] 100% full historical coverage for Women's Prize for Fiction (1996–2026)
+- [x] 100% full historical coverage for Women's Prize for Fiction (1996–2026 winners + shortlists)
 - [x] 100% full historical coverage for International Dublin Literary Award (1996–2026)
 - [x] 100% full historical coverage for International Booker Prize (2005–2026)
 - [x] 100% full historical coverage for The Goldsmiths Prize (2013–2026)

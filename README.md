@@ -26,7 +26,7 @@ The **Fiction Prize Index** centralizes major world fiction awards into a unifie
 
 ### 📊 Dataset Scorecard & Historical Coverage
 
-The index currently catalogs **11 prizes**, **518 authors**, **659 books**, and **765 nominations**:
+The index currently catalogs **11 prizes**, **605 authors**, **797 books**, and **920 nominations**:
 
 | Prize | Scope / Focus | Award Years | Winners | Historical Coverage |
 | :--- | :--- | :---: | :---: | :---: |
@@ -36,7 +36,7 @@ The index currently catalogs **11 prizes**, **518 authors**, **659 books**, and 
 | **Hugo Award for Best Novel** | World Science Fiction Convention | 1953–2026 | 78 | **100% Complete** |
 | **Nebula Award for Best Novel** | Science Fiction & Fantasy Writers (SFWA) | 1965–2026 | 67 | **100% Complete** |
 | **National Book Critics Circle (NBCC)** | American professional book critics | 1975–2025 | 53 | **100% Complete** |
-| **Women's Prize for Fiction** | Full-length novels by women worldwide | 1996–2026 | 31 | **100% Complete** |
+| **Women's Prize for Fiction** | Full-length novels by women worldwide | 1996–2026 | 31 | **100% Complete** (+ 155 shortlists 1996–2026) |
 | **International Dublin Literary Award** | Public library nominations worldwide | 1996–2026 | 31 | **100% Complete** |
 | **International Booker Prize** | Translated fiction into English | 2005–2026 | 17 | **100% Complete** (+ 16 shortlists) |
 | **The Goldsmiths Prize** | Mould-breaking fiction & novel form | 2013–2026 | 14 | **100% Complete** |
