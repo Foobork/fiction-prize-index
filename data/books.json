@@ -11020,5 +11020,1487 @@
     "countryOfOrigin": "United Kingdom",
     "pageCount": 384,
     "spineColor": "#1e3a8a"
+  },
+  {
+    "id": "birdy",
+    "title": "Birdy",
+    "authorId": "william-wharton",
+    "authorName": "William Wharton",
+    "publicationYear": 1978,
+    "publisher": "Knopf",
+    "isbn13": "9780394425696",
+    "genres": [
+      "Literary Fiction",
+      "Psychological Fiction",
+      "War"
+    ],
+    "synopsis": "A traumatized WWII veteran who believes he is a bird is visited in an asylum by his best friend Al, who attempts to ground him back into reality.",
+    "pageCount": 310,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780394425696-L.jpg?default=false"
+  },
+  {
+    "id": "the-ghost-writer",
+    "title": "The Ghost Writer",
+    "authorId": "philip-roth",
+    "authorName": "Philip Roth",
+    "publicationYear": 1979,
+    "publisher": "Farrar, Straus and Giroux",
+    "isbn13": "9780374161897",
+    "genres": [
+      "Literary Fiction",
+      "Metafiction",
+      "Jewish Literature"
+    ],
+    "synopsis": "Young aspiring writer Nathan Zuckerman spends an evening at the New England farmhouse of an aloof literary master and becomes infatuated with a mysterious refugee.",
+    "pageCount": 180,
+    "spineColor": "#991b1b",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780374161897-L.jpg?default=false"
+  },
+  {
+    "id": "godric",
+    "title": "Godric",
+    "authorId": "frederick-buechner",
+    "authorName": "Frederick Buechner",
+    "publicationYear": 1980,
+    "publisher": "Atheneum",
+    "isbn13": "9780060611620",
+    "genres": [
+      "Historical Fiction",
+      "Biographical Fiction",
+      "Religious"
+    ],
+    "synopsis": "A lyrical, earthy fictional memoir of the medieval hermit Saint Godric of Finchale, dictating his warts-and-all life story to a naive monk.",
+    "pageCount": 178,
+    "spineColor": "#854d0e",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780060611620-L.jpg?default=false"
+  },
+  {
+    "id": "so-long-see-you-tomorrow",
+    "title": "So Long, See You Tomorrow",
+    "authorId": "william-maxwell",
+    "authorName": "William Maxwell",
+    "publicationYear": 1980,
+    "publisher": "Knopf",
+    "isbn13": "9780394508351",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Coming-of-Age"
+    ],
+    "synopsis": "A haunting Midwestern tale of passion, murder, and childhood grief recounted fifty years later by a narrator tormented by a moment of failed sympathy.",
+    "pageCount": 135,
+    "spineColor": "#1e3a8a",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780394508351-L.jpg?default=false"
+  },
+  {
+    "id": "a-flag-for-sunrise",
+    "title": "A Flag for Sunrise",
+    "authorId": "robert-stone",
+    "authorName": "Robert Stone",
+    "publicationYear": 1981,
+    "publisher": "Knopf",
+    "isbn13": "9780394407579",
+    "genres": [
+      "Political Fiction",
+      "Thriller",
+      "Literary Fiction"
+    ],
+    "synopsis": "A cynical anthropologist, an idealistic nun, and a haunted coastguardsman converge in a fictional Central American country on the brink of violent revolution.",
+    "pageCount": 439,
+    "spineColor": "#166534",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780394407579-L.jpg?default=false"
+  },
+  {
+    "id": "housekeeping",
+    "title": "Housekeeping",
+    "authorId": "marilynne-robinson",
+    "authorName": "Marilynne Robinson",
+    "publicationYear": 1980,
+    "publisher": "Farrar, Straus and Giroux",
+    "isbn13": "9780374173135",
+    "genres": [
+      "Literary Fiction",
+      "Coming-of-Age",
+      "Southern Gothic"
+    ],
+    "synopsis": "Orphaned sisters Ruth and Lucille are raised in remote Idaho by their eccentric, transient aunt Sylvie in an evocative meditation on transience and domesticity.",
+    "pageCount": 219,
+    "spineColor": "#334155",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780374173135-L.jpg?default=false"
+  },
+  {
+    "id": "dinner-at-the-homesick-restaurant",
+    "title": "Dinner at the Homesick Restaurant",
+    "authorId": "anne-tyler",
+    "authorName": "Anne Tyler",
+    "publicationYear": 1982,
+    "publisher": "Knopf",
+    "isbn13": "9780394523613",
+    "genres": [
+      "Literary Fiction",
+      "Family Saga",
+      "Domestic Fiction"
+    ],
+    "synopsis": "The eccentric, fractured Tull family of Baltimore repeatedly attempts to assemble for a peaceful meal at Cody Tull's restaurant, only for buried resentments to boil over.",
+    "pageCount": 303,
+    "spineColor": "#c2410c",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780394523613-L.jpg?default=false"
+  },
+  {
+    "id": "rabbis-and-wives",
+    "title": "Rabbis and Wives",
+    "authorId": "chaim-grade",
+    "authorName": "Chaim Grade",
+    "publicationYear": 1982,
+    "publisher": "Knopf",
+    "isbn13": "9780394509792",
+    "genres": [
+      "Literary Fiction",
+      "Jewish Literature",
+      "Historical Fiction"
+    ],
+    "synopsis": "Three dramatic novellas depicting moral conflict, religious tradition, and marital friction in pre-Holocaust Lithuanian Jewish communities.",
+    "pageCount": 307,
+    "spineColor": "#475569",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780394509792-L.jpg?default=false"
+  },
+  {
+    "id": "cathedral",
+    "title": "Cathedral",
+    "authorId": "raymond-carver",
+    "authorName": "Raymond Carver",
+    "publicationYear": 1983,
+    "publisher": "Knopf",
+    "isbn13": "9780394528847",
+    "genres": [
+      "Short Stories",
+      "Literary Fiction",
+      "Realism"
+    ],
+    "synopsis": "Twelve masterfully understated short stories chronicling working-class lives, disconnection, and unexpected epiphanies in blue-collar America.",
+    "pageCount": 227,
+    "spineColor": "#374151",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780394528847-L.jpg?default=false"
+  },
+  {
+    "id": "the-feud",
+    "title": "The Feud",
+    "authorId": "thomas-berger",
+    "authorName": "Thomas Berger",
+    "publicationYear": 1983,
+    "publisher": "Delacorte Press",
+    "isbn13": "9780385292672",
+    "genres": [
+      "Satire",
+      "Comedy",
+      "Literary Fiction"
+    ],
+    "synopsis": "A tiny misunderstanding at a hardware store snowballs into an absurd, escalatory feud between two rival Midwestern families.",
+    "pageCount": 265,
+    "spineColor": "#b45309",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780385292672-L.jpg?default=false"
+  },
+  {
+    "id": "i-wish-this-war-were-over",
+    "title": "I Wish This War Were Over",
+    "authorId": "diana-ohehir",
+    "authorName": "Diana O'Hehir",
+    "publicationYear": 1984,
+    "publisher": "Atheneum",
+    "isbn13": "9780689114342",
+    "genres": [
+      "Historical Fiction",
+      "Coming-of-Age",
+      "War"
+    ],
+    "synopsis": "During WWII, a nineteen-year-old woman journeys cross-country on a troop train to rescue her alcoholic mother in Washington, D.C.",
+    "pageCount": 278,
+    "spineColor": "#047857",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780689114342-L.jpg?default=false"
+  },
+  {
+    "id": "leaving-the-land",
+    "title": "Leaving the Land",
+    "authorId": "douglas-unger",
+    "authorName": "Douglas Unger",
+    "publicationYear": 1984,
+    "publisher": "Harper & Row",
+    "isbn13": "9780060152437",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Rural Fiction"
+    ],
+    "synopsis": "A poignant chronicle of a western South Dakota farming community ruined by corporate agribusiness over three decades.",
+    "pageCount": 277,
+    "spineColor": "#78350f",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780060152437-L.jpg?default=false"
+  },
+  {
+    "id": "continental-drift",
+    "title": "Continental Drift",
+    "authorId": "russell-banks",
+    "authorName": "Russell Banks",
+    "publicationYear": 1985,
+    "publisher": "Harper & Row",
+    "isbn13": "9780060153830",
+    "genres": [
+      "Literary Fiction",
+      "Tragedy",
+      "Social Realism"
+    ],
+    "synopsis": "The dual fates of a New Hampshire repairman fleeing south to Florida and a young Haitian mother seeking asylum intersect in catastrophic tragedy.",
+    "pageCount": 366,
+    "spineColor": "#1d4ed8",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780060153830-L.jpg?default=false"
+  },
+  {
+    "id": "paradise-barthelme",
+    "title": "Paradise",
+    "authorId": "donald-barthelme",
+    "authorName": "Donald Barthelme",
+    "publicationYear": 1986,
+    "publisher": "Putnam",
+    "isbn13": "9780399131974",
+    "genres": [
+      "Literary Fiction",
+      "Satire",
+      "Postmodern Fiction"
+    ],
+    "synopsis": "A recently separated fifty-three-year-old architect takes in three runaway fashion models in his Manhattan apartment in this witty, melancholic comedy.",
+    "pageCount": 169,
+    "spineColor": "#0e7490",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780399131974-L.jpg?default=false"
+  },
+  {
+    "id": "whites",
+    "title": "Whites",
+    "authorId": "norman-rush",
+    "authorName": "Norman Rush",
+    "publicationYear": 1986,
+    "publisher": "Knopf",
+    "isbn13": "9780394551111",
+    "genres": [
+      "Short Stories",
+      "Literary Fiction",
+      "Post-Colonial"
+    ],
+    "synopsis": "Six incisive stories depicting the moral compromises, self-delusions, and complexities of white expatriates living in Botswana.",
+    "pageCount": 235,
+    "spineColor": "#d97706",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780394551111-L.jpg?default=false"
+  },
+  {
+    "id": "persian-nights",
+    "title": "Persian Nights",
+    "authorId": "diane-johnson",
+    "authorName": "Diane Johnson",
+    "publicationYear": 1987,
+    "publisher": "Knopf",
+    "isbn13": "9780394558233",
+    "genres": [
+      "Literary Fiction",
+      "Political Fiction",
+      "Suspense"
+    ],
+    "synopsis": "An American doctor's wife travels to Shiraz on the eve of the Iranian Revolution and becomes entangled in the political intrigue and social upheaval.",
+    "pageCount": 352,
+    "spineColor": "#0f766e",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780394558233-L.jpg?default=false"
+  },
+  {
+    "id": "that-night",
+    "title": "That Night",
+    "authorId": "alice-mcdermott",
+    "authorName": "Alice McDermott",
+    "publicationYear": 1987,
+    "publisher": "Farrar, Straus and Giroux",
+    "isbn13": "9780374273613",
+    "genres": [
+      "Literary Fiction",
+      "Coming-of-Age",
+      "Suburban Gothic"
+    ],
+    "synopsis": "A lyrical suburban Long Island drama sparked by a teenage love affair and the fateful night a boy arrives with friends to reclaim his pregnant girlfriend.",
+    "pageCount": 184,
+    "spineColor": "#4338ca",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780374273613-L.jpg?default=false"
+  },
+  {
+    "id": "where-im-calling-from",
+    "title": "Where I'm Calling From",
+    "authorId": "raymond-carver",
+    "authorName": "Raymond Carver",
+    "publicationYear": 1988,
+    "publisher": "Atlantic Monthly Press",
+    "isbn13": "9780871132185",
+    "genres": [
+      "Short Stories",
+      "Literary Fiction",
+      "Realism"
+    ],
+    "synopsis": "Carver's definitive anthology of thirty-seven stories, distilling the emotional power and stark realism of working-class domestic American life.",
+    "pageCount": 526,
+    "spineColor": "#1e293b",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780871132185-L.jpg?default=false"
+  },
+  {
+    "id": "mean-spirit",
+    "title": "Mean Spirit",
+    "authorId": "linda-hogan",
+    "authorName": "Linda Hogan",
+    "publicationYear": 1990,
+    "publisher": "Atheneum",
+    "isbn13": "9780689121012",
+    "genres": [
+      "Historical Fiction",
+      "Literary Fiction",
+      "Indigenous Literature"
+    ],
+    "synopsis": "A haunting historical chronicle of the Osage Indian murders in 1920s Oklahoma after massive oil reserves are discovered beneath their land.",
+    "pageCount": 377,
+    "spineColor": "#831843",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780689121012-L.jpg?default=false"
+  },
+  {
+    "id": "the-things-they-carried",
+    "title": "The Things They Carried",
+    "authorId": "tim-obrien",
+    "authorName": "Tim O'Brien",
+    "publicationYear": 1990,
+    "publisher": "Houghton Mifflin",
+    "isbn13": "9780395515983",
+    "genres": [
+      "War Fiction",
+      "Literary Fiction",
+      "Metafiction",
+      "Short Stories"
+    ],
+    "synopsis": "A groundbreaking, semi-autobiographical collection of linked short stories about a platoon of American soldiers fighting and surviving the Vietnam War.",
+    "pageCount": 233,
+    "spineColor": "#365314",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780395515983-L.jpg?default=false"
+  },
+  {
+    "id": "jernigan",
+    "title": "Jernigan",
+    "authorId": "david-gates",
+    "authorName": "David Gates",
+    "publicationYear": 1991,
+    "publisher": "Knopf",
+    "isbn13": "9780394589831",
+    "genres": [
+      "Literary Fiction",
+      "Black Comedy",
+      "Domestic Fiction"
+    ],
+    "synopsis": "A bitingly funny and harrowing first-person account of Peter Jernigan, a grieving suburban commuter descending into alcoholism and self-destruction.",
+    "pageCount": 238,
+    "spineColor": "#701a75",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780394589831-L.jpg?default=false"
+  },
+  {
+    "id": "lila-an-inquiry-into-morals",
+    "title": "Lila: An Inquiry into Morals",
+    "authorId": "robert-m-pirsig",
+    "authorName": "Robert M. Pirsig",
+    "publicationYear": 1991,
+    "publisher": "Bantam Books",
+    "isbn13": "9780553077735",
+    "genres": [
+      "Philosophical Fiction",
+      "Literary Fiction"
+    ],
+    "synopsis": "Sailing down the Hudson River with a troubled woman named Lila, the narrator develops the \"Metaphysics of Quality\" to examine human morality and values.",
+    "pageCount": 409,
+    "spineColor": "#155e75",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780553077735-L.jpg?default=false"
+  },
+  {
+    "id": "mao-ii",
+    "title": "Mao II",
+    "authorId": "don-delillo",
+    "authorName": "Don DeLillo",
+    "publicationYear": 1991,
+    "publisher": "Viking",
+    "isbn13": "9780670839049",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern Fiction",
+      "Political Fiction"
+    ],
+    "synopsis": "Reclusive novelist Bill Gray emerges from hiding and journeys to London and Beirut in an era where terrorism has supplanted the novelist's cultural authority.",
+    "pageCount": 241,
+    "spineColor": "#581c87",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780670839049-L.jpg?default=false"
+  },
+  {
+    "id": "at-weddings-and-wakes",
+    "title": "At Weddings and Wakes",
+    "authorId": "alice-mcdermott",
+    "authorName": "Alice McDermott",
+    "publicationYear": 1992,
+    "publisher": "Farrar, Straus and Giroux",
+    "isbn13": "9780374106744",
+    "genres": [
+      "Literary Fiction",
+      "Family Saga",
+      "Historical Fiction"
+    ],
+    "synopsis": "Three children journey from Long Island to Brooklyn with their mother to visit three eccentric unmarried aunts, observing family grief, love, and Catholic rituals.",
+    "pageCount": 213,
+    "spineColor": "#0369a1",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780374106744-L.jpg?default=false"
+  },
+  {
+    "id": "black-water",
+    "title": "Black Water",
+    "authorId": "joyce-carol-oates",
+    "authorName": "Joyce Carol Oates",
+    "publicationYear": 1992,
+    "publisher": "Dutton",
+    "isbn13": "9780525934554",
+    "genres": [
+      "Literary Fiction",
+      "Psychological Fiction",
+      "Political Fiction"
+    ],
+    "synopsis": "A chilling, stream-of-consciousness reimagining of the 1969 Chappaquiddick incident told from the perspective of Kelly Kelleher trapped inside a sinking car.",
+    "pageCount": 154,
+    "spineColor": "#18181b",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780525934554-L.jpg?default=false"
+  },
+  {
+    "id": "operation-shylock",
+    "title": "Operation Shylock: A Confession",
+    "authorId": "philip-roth",
+    "authorName": "Philip Roth",
+    "publicationYear": 1993,
+    "publisher": "Simon & Schuster",
+    "isbn13": "9780671703769",
+    "genres": [
+      "Literary Fiction",
+      "Metafiction",
+      "Jewish Literature"
+    ],
+    "synopsis": "Philip Roth travels to Jerusalem to confront an imposter using his name to preach \"Diasporism,\" plunging into a dizzying hall of mirrors and Middle East politics.",
+    "pageCount": 398,
+    "spineColor": "#9f1239",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780671703769-L.jpg?default=false"
+  },
+  {
+    "id": "the-collected-stories-price",
+    "title": "The Collected Stories",
+    "authorId": "reynolds-price",
+    "authorName": "Reynolds Price",
+    "publicationYear": 1993,
+    "publisher": "Atheneum",
+    "isbn13": "9780689121470",
+    "genres": [
+      "Short Stories",
+      "Southern Literature",
+      "Literary Fiction"
+    ],
+    "synopsis": "Nearly fifty stories spanning three decades depicting southern lives, familial intimacies, spiritual reckonings, and the mysteries of human devotion.",
+    "pageCount": 574,
+    "spineColor": "#3f6212",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780689121470-L.jpg?default=false"
+  },
+  {
+    "id": "the-collected-stories-paley",
+    "title": "The Collected Stories",
+    "authorId": "grace-paley",
+    "authorName": "Grace Paley",
+    "publicationYear": 1994,
+    "publisher": "Farrar, Straus and Giroux",
+    "isbn13": "9780374126360",
+    "genres": [
+      "Short Stories",
+      "Literary Fiction",
+      "Feminist Fiction"
+    ],
+    "synopsis": "The complete short fiction of Grace Paley, capturing the voices, humor, politics, and street-level heart of Greenwich Village and urban New York women.",
+    "pageCount": 386,
+    "spineColor": "#059669",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780374126360-L.jpg?default=false"
+  },
+  {
+    "id": "what-i-lived-for",
+    "title": "What I Lived For",
+    "authorId": "joyce-carol-oates",
+    "authorName": "Joyce Carol Oates",
+    "publicationYear": 1994,
+    "publisher": "Dutton",
+    "isbn13": "9780525938361",
+    "genres": [
+      "Literary Fiction",
+      "Psychological Fiction",
+      "American Dream"
+    ],
+    "synopsis": "Over Memorial Day weekend, wealthy upstate New York developer Jerome \"Corky\" Corcoran confronts personal dissolution, racial tensions, and financial collapse.",
+    "pageCount": 608,
+    "spineColor": "#4c1d95",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780525938361-L.jpg?default=false"
+  },
+  {
+    "id": "mr-ives-christmas",
+    "title": "Mr. Ives' Christmas",
+    "authorId": "oscar-hijuelos",
+    "authorName": "Oscar Hijuelos",
+    "publicationYear": 1995,
+    "publisher": "HarperCollins",
+    "isbn13": "9780060171315",
+    "genres": [
+      "Literary Fiction",
+      "Religious Fiction",
+      "Historical Fiction"
+    ],
+    "synopsis": "An advertising executive in Manhattan struggles to regain faith, love, and the spirit of Christmas after his beloved son is murdered in the street.",
+    "pageCount": 248,
+    "spineColor": "#b91c1c",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780060171315-L.jpg?default=false"
+  },
+  {
+    "id": "the-manikin",
+    "title": "The Manikin",
+    "authorId": "joanna-scott",
+    "authorName": "Joanna Scott",
+    "publicationYear": 1996,
+    "publisher": "Henry Holt",
+    "isbn13": "9780805031409",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Gothic Fiction"
+    ],
+    "synopsis": "Set on a remote rural estate in the 1920s housing a taxidermist's vast stuffed animal collection, exploring human obsession, artifice, and eccentric isolation.",
+    "pageCount": 288,
+    "spineColor": "#1c1917",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780805031409-L.jpg?default=false"
+  },
+  {
+    "id": "unlocking-the-air",
+    "title": "Unlocking the Air and Other Stories",
+    "authorId": "ursula-k-le-guin",
+    "authorName": "Ursula K. Le Guin",
+    "publicationYear": 1996,
+    "publisher": "HarperCollins",
+    "isbn13": "9780060172602",
+    "genres": [
+      "Short Stories",
+      "Speculative Fiction",
+      "Literary Fiction"
+    ],
+    "synopsis": "Eighteen visionary stories blending magical realism, political parable, and contemporary domestic life with Le Guin's signature moral depth.",
+    "pageCount": 207,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780060172602-L.jpg?default=false"
+  },
+  {
+    "id": "bear-and-his-daughter",
+    "title": "Bear and His Daughter: Stories",
+    "authorId": "robert-stone",
+    "authorName": "Robert Stone",
+    "publicationYear": 1997,
+    "publisher": "Houghton Mifflin",
+    "isbn13": "9780395636527",
+    "genres": [
+      "Short Stories",
+      "Literary Fiction",
+      "Psychological Fiction"
+    ],
+    "synopsis": "Six taut, gripping stories exploring desperate seekers, moral failures, addiction, and spiritual longing across America and beyond.",
+    "pageCount": 222,
+    "spineColor": "#27272a",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780395636527-L.jpg?default=false"
+  },
+  {
+    "id": "underworld",
+    "title": "Underworld",
+    "authorId": "don-delillo",
+    "authorName": "Don DeLillo",
+    "publicationYear": 1997,
+    "publisher": "Scribner",
+    "isbn13": "9780684842691",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern Fiction",
+      "Historical Fiction"
+    ],
+    "synopsis": "A sprawling masterpiece connecting the 1951 \"Shot Heard 'Round the World\" home run baseball to nuclear weapons, waste management, and American Cold War consciousness.",
+    "pageCount": 827,
+    "spineColor": "#0f172a",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780684842691-L.jpg?default=false"
+  },
+  {
+    "id": "cloudsplitter",
+    "title": "Cloudsplitter",
+    "authorId": "russell-banks",
+    "authorName": "Russell Banks",
+    "publicationYear": 1998,
+    "publisher": "HarperFlamingo",
+    "isbn13": "9780060191412",
+    "genres": [
+      "Historical Fiction",
+      "Biographical Fiction",
+      "Literary Fiction"
+    ],
+    "synopsis": "A grand epic narrated by Owen Brown, son of abolitionist martyr John Brown, recounting their fanatical crusade against slavery culminating at Harpers Ferry.",
+    "pageCount": 758,
+    "spineColor": "#44403c",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780060191412-L.jpg?default=false"
+  },
+  {
+    "id": "the-poisonwood-bible",
+    "title": "The Poisonwood Bible",
+    "authorId": "barbara-kingsolver",
+    "authorName": "Barbara Kingsolver",
+    "publicationYear": 1998,
+    "publisher": "HarperFlamingo",
+    "isbn13": "9780060175405",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Post-Colonial"
+    ],
+    "synopsis": "The fierce, polyphonic story of an evangelical Baptist missionary who drags his wife and four daughters into the Belgian Congo during its 1960 independence.",
+    "pageCount": 546,
+    "spineColor": "#047857",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780060175405-L.jpg?default=false"
+  },
+  {
+    "id": "close-range",
+    "title": "Close Range: Wyoming Stories",
+    "authorId": "annie-proulx",
+    "authorName": "Annie Proulx",
+    "publicationYear": 1999,
+    "publisher": "Scribner",
+    "isbn13": "9780684852225",
+    "genres": [
+      "Short Stories",
+      "Western",
+      "Literary Fiction"
+    ],
+    "synopsis": "Eleven searing short stories capturing the harsh majesty and violent loneliness of the Wyoming high country, including \"Brokeback Mountain\".",
+    "pageCount": 285,
+    "spineColor": "#a16207",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780684852225-L.jpg?default=false"
+  },
+  {
+    "id": "blonde",
+    "title": "Blonde",
+    "authorId": "joyce-carol-oates",
+    "authorName": "Joyce Carol Oates",
+    "publicationYear": 2000,
+    "publisher": "Ecco",
+    "isbn13": "9780060196073",
+    "genres": [
+      "Historical Fiction",
+      "Biographical Fiction",
+      "Literary Fiction"
+    ],
+    "synopsis": "A monumental, kaleidoscopic fictional biography examining the inner life, trauma, and cultural destruction of Norma Jeane Baker, Marilyn Monroe.",
+    "pageCount": 738,
+    "spineColor": "#e11d48",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780060196073-L.jpg?default=false"
+  },
+  {
+    "id": "the-quick-and-the-dead",
+    "title": "The Quick and the Dead",
+    "authorId": "joy-williams",
+    "authorName": "Joy Williams",
+    "publicationYear": 2000,
+    "publisher": "Knopf",
+    "isbn13": "9780679402183",
+    "genres": [
+      "Literary Fiction",
+      "Dark Comedy",
+      "Environmental Fiction"
+    ],
+    "synopsis": "Three motherless teenage girls navigate friendship, environmental decay, and eccentric mortality in the sun-bleached Arizona desert.",
+    "pageCount": 309,
+    "spineColor": "#ca8a04",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780679402183-L.jpg?default=false"
+  },
+  {
+    "id": "john-henry-days",
+    "title": "John Henry Days",
+    "authorId": "colson-whitehead",
+    "authorName": "Colson Whitehead",
+    "publicationYear": 2001,
+    "publisher": "Doubleday",
+    "isbn13": "9780385498197",
+    "genres": [
+      "Literary Fiction",
+      "Satire",
+      "Historical Fiction"
+    ],
+    "synopsis": "A cynical freelance journalist covers the dedication of a postage stamp commemorating folk legend John Henry in Talcott, West Virginia.",
+    "pageCount": 389,
+    "spineColor": "#1e1b4b",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780385498197-L.jpg?default=false"
+  },
+  {
+    "id": "servants-of-the-map",
+    "title": "Servants of the Map: Stories",
+    "authorId": "andrea-barrett",
+    "authorName": "Andrea Barrett",
+    "publicationYear": 2002,
+    "publisher": "W. W. Norton",
+    "isbn13": "9780393043563",
+    "genres": [
+      "Short Stories",
+      "Historical Fiction",
+      "Literary Fiction"
+    ],
+    "synopsis": "Six intricately linked stories and novellas exploring 19th-century scientific explorers, surveyors, and tuberculosis patients seeking knowledge and connection.",
+    "pageCount": 270,
+    "spineColor": "#065f46",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780393043563-L.jpg?default=false"
+  },
+  {
+    "id": "you-are-not-a-stranger-here",
+    "title": "You Are Not a Stranger Here",
+    "authorId": "adam-haslett",
+    "authorName": "Adam Haslett",
+    "publicationYear": 2002,
+    "publisher": "Nan A. Talese / Doubleday",
+    "isbn13": "9780385501767",
+    "genres": [
+      "Short Stories",
+      "Literary Fiction",
+      "Psychological Fiction"
+    ],
+    "synopsis": "Nine compassionate, emotionally charged stories chronicling men and women grappling with mental illness, grief, sexuality, and loneliness.",
+    "pageCount": 228,
+    "spineColor": "#1d4ed8",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780385501767-L.jpg?default=false"
+  },
+  {
+    "id": "american-woman",
+    "title": "American Woman",
+    "authorId": "susan-choi",
+    "authorName": "Susan Choi",
+    "publicationYear": 2003,
+    "publisher": "HarperCollins",
+    "isbn13": "9780060542214",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Political Fiction"
+    ],
+    "synopsis": "A fictionalized drama inspired by the Patty Hearst kidnapping, following a young Japanese American radical hired to care for a fugitive heiress in hiding.",
+    "pageCount": 369,
+    "spineColor": "#be123c",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780060542214-L.jpg?default=false"
+  },
+  {
+    "id": "evidence-of-things-unseen",
+    "title": "Evidence of Things Unseen",
+    "authorId": "marianne-wiggins",
+    "authorName": "Marianne Wiggins",
+    "publicationYear": 2003,
+    "publisher": "Simon & Schuster",
+    "isbn13": "9780684869698",
+    "genres": [
+      "Historical Fiction",
+      "Literary Fiction",
+      "Romance"
+    ],
+    "synopsis": "A luminous romance tracing a couple enchanted by chemistry and phosphorescence through WWI, TVA dam construction, and the dawn of the atomic age.",
+    "pageCount": 383,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780684869698-L.jpg?default=false"
+  },
+  {
+    "id": "an-unfinished-season",
+    "title": "An Unfinished Season",
+    "authorId": "ward-just",
+    "authorName": "Ward Just",
+    "publicationYear": 2004,
+    "publisher": "Houghton Mifflin",
+    "isbn13": "9780618036691",
+    "genres": [
+      "Literary Fiction",
+      "Coming-of-Age",
+      "Historical Fiction"
+    ],
+    "synopsis": "During the summer of 1951 in suburban Chicago, nineteen-year-old Wilson Ravan navigates country club debutante balls and political labor unrest.",
+    "pageCount": 247,
+    "spineColor": "#334155",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780618036691-L.jpg?default=false"
+  },
+  {
+    "id": "war-trash",
+    "title": "War Trash",
+    "authorId": "ha-jin",
+    "authorName": "Ha Jin",
+    "publicationYear": 2004,
+    "publisher": "Pantheon Books",
+    "isbn13": "9780375422768",
+    "genres": [
+      "Historical Fiction",
+      "War Fiction",
+      "Literary Fiction"
+    ],
+    "synopsis": "A Chinese soldier captured by UN forces during the Korean War struggles to survive and preserve his integrity in brutal POW camp factions.",
+    "pageCount": 352,
+    "spineColor": "#854d0e",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780375422768-L.jpg?default=false"
+  },
+  {
+    "id": "the-bright-forever",
+    "title": "The Bright Forever",
+    "authorId": "lee-martin",
+    "authorName": "Lee Martin",
+    "publicationYear": 2005,
+    "publisher": "Shaye Areheart Books",
+    "isbn13": "9781400097913",
+    "genres": [
+      "Literary Fiction",
+      "Mystery",
+      "Psychological Fiction"
+    ],
+    "synopsis": "The disappearance of a nine-year-old girl in rural 1970s Indiana fractures a tight-knit community, exposing hidden guilt and moral frailty.",
+    "pageCount": 288,
+    "spineColor": "#047857",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781400097913-L.jpg?default=false"
+  },
+  {
+    "id": "after-this",
+    "title": "After This",
+    "authorId": "alice-mcdermott",
+    "authorName": "Alice McDermott",
+    "publicationYear": 2006,
+    "publisher": "Farrar, Straus and Giroux",
+    "isbn13": "9780374168094",
+    "genres": [
+      "Literary Fiction",
+      "Family Saga",
+      "Historical Fiction"
+    ],
+    "synopsis": "A quiet, poignant portrait of a working-class Catholic family in suburban Long Island navigating the social upheavals from WWII through Vietnam.",
+    "pageCount": 279,
+    "spineColor": "#1e3a8a",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780374168094-L.jpg?default=false"
+  },
+  {
+    "id": "shakespeares-kitchen",
+    "title": "Shakespeare's Kitchen",
+    "authorId": "lore-segal",
+    "authorName": "Lore Segal",
+    "publicationYear": 2007,
+    "publisher": "The New Press",
+    "isbn13": "9781595581563",
+    "genres": [
+      "Short Stories",
+      "Literary Fiction",
+      "Satire"
+    ],
+    "synopsis": "Thirteen wry, interconnected stories following professor Ilka Weissnix and fellow academics seeking friendship and belonging at a Connecticut think tank.",
+    "pageCount": 224,
+    "spineColor": "#b45309",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781595581563-L.jpg?default=false"
+  },
+  {
+    "id": "all-souls",
+    "title": "All Souls",
+    "authorId": "christine-schutt",
+    "authorName": "Christine Schutt",
+    "publicationYear": 2008,
+    "publisher": "Harcourt",
+    "isbn13": "9780151014767",
+    "genres": [
+      "Literary Fiction",
+      "Coming-of-Age",
+      "School Story"
+    ],
+    "synopsis": "At a prestigious Manhattan private girls' school, seniors confront illness, privilege, and mortality through dense, poetic, impressionistic prose.",
+    "pageCount": 176,
+    "spineColor": "#4338ca",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780151014767-L.jpg?default=false"
+  },
+  {
+    "id": "the-plague-of-doves",
+    "title": "The Plague of Doves",
+    "authorId": "louise-erdrich",
+    "authorName": "Louise Erdrich",
+    "publicationYear": 2008,
+    "publisher": "Harper",
+    "isbn13": "9780060515126",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Indigenous Literature"
+    ],
+    "synopsis": "An unsolved 1911 farm murder and lynching haunts multiple generations of Ojibwe families in the fictional town of Pluto, North Dakota.",
+    "pageCount": 314,
+    "spineColor": "#7c2d12",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780060515126-L.jpg?default=false"
+  },
+  {
+    "id": "in-other-rooms-other-wonders",
+    "title": "In Other Rooms, Other Wonders",
+    "authorId": "daniyal-mueenuddin",
+    "authorName": "Daniyal Mueenuddin",
+    "publicationYear": 2009,
+    "publisher": "W. W. Norton",
+    "isbn13": "9780393068009",
+    "genres": [
+      "Short Stories",
+      "Literary Fiction",
+      "Post-Colonial"
+    ],
+    "synopsis": "Eight interconnected stories exploring social class, corruption, power, and desire surrounding a wealthy Pakistani landowner and his retinue.",
+    "pageCount": 247,
+    "spineColor": "#047857",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780393068009-L.jpg?default=false"
+  },
+  {
+    "id": "love-in-infant-monkeys",
+    "title": "Love in Infant Monkeys",
+    "authorId": "lydia-millet",
+    "authorName": "Lydia Millet",
+    "publicationYear": 2009,
+    "publisher": "Soft Skull Press",
+    "isbn13": "9781593762490",
+    "genres": [
+      "Short Stories",
+      "Literary Fiction",
+      "Dark Comedy"
+    ],
+    "synopsis": "Ten satirical, melancholic stories imagining famous figures—from Madonna to Tesla to George W. Bush—interacting with animals.",
+    "pageCount": 169,
+    "spineColor": "#9333ea",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781593762490-L.jpg?default=false"
+  },
+  {
+    "id": "the-privileges",
+    "title": "The Privileges",
+    "authorId": "jonathan-dee",
+    "authorName": "Jonathan Dee",
+    "publicationYear": 2010,
+    "publisher": "Random House",
+    "isbn13": "9781400068470",
+    "genres": [
+      "Literary Fiction",
+      "Satire",
+      "American Dream"
+    ],
+    "synopsis": "A glamorous, wealthy Manhattan couple seems entirely insulated from consequence as insider trading and wealth warp their family dynamics.",
+    "pageCount": 272,
+    "spineColor": "#0f766e",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781400068470-L.jpg?default=false"
+  },
+  {
+    "id": "the-surrendered",
+    "title": "The Surrendered",
+    "authorId": "chang-rae-lee",
+    "authorName": "Chang-rae Lee",
+    "publicationYear": 2010,
+    "publisher": "Riverhead Books",
+    "isbn13": "9781594489761",
+    "genres": [
+      "Historical Fiction",
+      "War Fiction",
+      "Literary Fiction"
+    ],
+    "synopsis": "A Korean War orphan, an American soldier, and a missionary's wife carry deep psychological scars across decades from Korea to post-war Europe.",
+    "pageCount": 469,
+    "spineColor": "#374151",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781594489761-L.jpg?default=false"
+  },
+  {
+    "id": "swamplandia",
+    "title": "Swamplandia!",
+    "authorId": "karen-russell",
+    "authorName": "Karen Russell",
+    "publicationYear": 2011,
+    "publisher": "Knopf",
+    "isbn13": "9780307263995",
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism",
+      "Coming-of-Age"
+    ],
+    "synopsis": "Thirteen-year-old Ava Bigtree embarks on an odyssey through the Everglades to save her family's failing alligator-wrestling theme park.",
+    "pageCount": 318,
+    "spineColor": "#15803d",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780307263995-L.jpg?default=false"
+  },
+  {
+    "id": "the-pale-king",
+    "title": "The Pale King",
+    "authorId": "david-foster-wallace",
+    "authorName": "David Foster Wallace",
+    "publicationYear": 2011,
+    "publisher": "Little, Brown and Company",
+    "isbn13": "9780316074230",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern Fiction",
+      "Philosophical Fiction"
+    ],
+    "synopsis": "Wallace's posthumous unfinished novel set in a Peoria IRS examination center, exploring boredom, bureaucracy, and modern American consciousness.",
+    "pageCount": 548,
+    "spineColor": "#eab308",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780316074230-L.jpg?default=false"
+  },
+  {
+    "id": "train-dreams",
+    "title": "Train Dreams",
+    "authorId": "denis-johnson",
+    "authorName": "Denis Johnson",
+    "publicationYear": 2011,
+    "publisher": "Farrar, Straus and Giroux",
+    "isbn13": "9780374281144",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Western"
+    ],
+    "synopsis": "A compact epic following day laborer Robert Grainier across the transforming Pacific Northwest during the early twentieth century.",
+    "pageCount": 116,
+    "spineColor": "#1c1917",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780374281144-L.jpg?default=false"
+  },
+  {
+    "id": "the-snow-child",
+    "title": "The Snow Child",
+    "authorId": "eowyn-ivey",
+    "authorName": "Eowyn Ivey",
+    "publicationYear": 2012,
+    "publisher": "Little, Brown and Company",
+    "isbn13": "9780316175678",
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism",
+      "Historical Fiction"
+    ],
+    "synopsis": "In 1920s Alaska, a grieving homesteader couple builds a child out of snow, only to encounter a living, feral young girl running through the woods.",
+    "pageCount": 386,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780316175678-L.jpg?default=false"
+  },
+  {
+    "id": "what-we-talk-about-when-we-talk-about-anne-frank",
+    "title": "What We Talk About When We Talk about Anne Frank",
+    "authorId": "nathan-englander",
+    "authorName": "Nathan Englander",
+    "publicationYear": 2012,
+    "publisher": "Knopf",
+    "isbn13": "9780307958709",
+    "genres": [
+      "Short Stories",
+      "Jewish Literature",
+      "Literary Fiction"
+    ],
+    "synopsis": "Eight vibrant stories exploring modern Jewish identity, historical trauma, secularism, and orthodoxy with mordant humor.",
+    "pageCount": 207,
+    "spineColor": "#be185d",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780307958709-L.jpg?default=false"
+  },
+  {
+    "id": "the-son",
+    "title": "The Son",
+    "authorId": "philipp-meyer",
+    "authorName": "Philipp Meyer",
+    "publicationYear": 2013,
+    "publisher": "Ecco",
+    "isbn13": "9780062120397",
+    "genres": [
+      "Historical Fiction",
+      "Western",
+      "Family Saga"
+    ],
+    "synopsis": "A multi-generational Texas saga tracing the rise of the McCullough ranching and oil dynasty through violence and conquest across 150 years.",
+    "pageCount": 561,
+    "spineColor": "#854d0e",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780062120397-L.jpg?default=false"
+  },
+  {
+    "id": "the-woman-who-lost-her-soul",
+    "title": "The Woman Who Lost Her Soul",
+    "authorId": "bob-shacochis",
+    "authorName": "Bob Shacochis",
+    "publicationYear": 2013,
+    "publisher": "Grove Press",
+    "isbn13": "9780802121547",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Espionage"
+    ],
+    "synopsis": "A geopolitical magnum opus investigating the murder of an American humanitarian in Haiti, spanning fifty years of covert Cold War entanglements.",
+    "pageCount": 708,
+    "spineColor": "#1e293b",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780802121547-L.jpg?default=false"
+  },
+  {
+    "id": "let-me-be-frank-with-you",
+    "title": "Let Me Be Frank with You",
+    "authorId": "richard-ford",
+    "authorName": "Richard Ford",
+    "publicationYear": 2014,
+    "publisher": "Ecco",
+    "isbn13": "9780062383280",
+    "genres": [
+      "Literary Fiction",
+      "Domestic Fiction"
+    ],
+    "synopsis": "Four interconnected novellas following retired real estate agent Frank Bascombe assessing damage, mortality, and grace after Hurricane Sandy.",
+    "pageCount": 238,
+    "spineColor": "#1d4ed8",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780062383280-L.jpg?default=false"
+  },
+  {
+    "id": "lovely-dark-deep",
+    "title": "Lovely, Dark, Deep",
+    "authorId": "joyce-carol-oates",
+    "authorName": "Joyce Carol Oates",
+    "publicationYear": 2014,
+    "publisher": "Ecco",
+    "isbn13": "9780062316448",
+    "genres": [
+      "Short Stories",
+      "Psychological Fiction",
+      "Literary Fiction"
+    ],
+    "synopsis": "Thirteen psychologically acute stories exploring vulnerability, dread, and sudden violence beneath the surface of American domestic life.",
+    "pageCount": 412,
+    "spineColor": "#047857",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780062316448-L.jpg?default=false"
+  },
+  {
+    "id": "the-moors-account",
+    "title": "The Moor's Account",
+    "authorId": "laila-lalami",
+    "authorName": "Laila Lalami",
+    "publicationYear": 2014,
+    "publisher": "Pantheon Books",
+    "isbn13": "9780307911537",
+    "genres": [
+      "Historical Fiction",
+      "Literary Fiction",
+      "Post-Colonial"
+    ],
+    "synopsis": "The imagined first-person memoir of Estebanico, a Moroccan slave who was one of only four survivors of the ill-fated 1527 Narváez expedition to Florida.",
+    "pageCount": 323,
+    "spineColor": "#b45309",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780307911537-L.jpg?default=false"
+  },
+  {
+    "id": "get-in-trouble",
+    "title": "Get in Trouble: Stories",
+    "authorId": "kelly-link",
+    "authorName": "Kelly Link",
+    "publicationYear": 2015,
+    "publisher": "Random House",
+    "isbn13": "9780804179706",
+    "genres": [
+      "Short Stories",
+      "Speculative Fiction",
+      "Fabulism",
+      "Literary Fiction"
+    ],
+    "synopsis": "Nine wonderfully bizarre stories featuring superheroes, demon lovers, life-sized animatronic dolls, and ghost houses in everyday settings.",
+    "pageCount": 336,
+    "spineColor": "#7c3aed",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780804179706-L.jpg?default=false"
+  },
+  {
+    "id": "mauds-line",
+    "title": "Maud's Line",
+    "authorId": "margaret-verble",
+    "authorName": "Margaret Verble",
+    "publicationYear": 2015,
+    "publisher": "Houghton Mifflin Harcourt",
+    "isbn13": "9780544521186",
+    "genres": [
+      "Historical Fiction",
+      "Literary Fiction",
+      "Indigenous Literature"
+    ],
+    "synopsis": "In 1928 Oklahoma, eighteen-year-old Cherokee woman Maud Nail dreams of a wider world beyond her family allotment until tragedy strikes.",
+    "pageCount": 290,
+    "spineColor": "#0f766e",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780544521186-L.jpg?default=false"
+  },
+  {
+    "id": "imagine-me-gone",
+    "title": "Imagine Me Gone",
+    "authorId": "adam-haslett",
+    "authorName": "Adam Haslett",
+    "publicationYear": 2016,
+    "publisher": "Little, Brown and Company",
+    "isbn13": "9780316261357",
+    "genres": [
+      "Literary Fiction",
+      "Family Saga",
+      "Psychological Fiction"
+    ],
+    "synopsis": "A heartbreaking chronicle of a family bound by love and overshadowed by the chronic depression and anxiety that afflicts a father and his eldest son.",
+    "pageCount": 368,
+    "spineColor": "#1e3a8a",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780316261357-L.jpg?default=false"
+  },
+  {
+    "id": "the-sport-of-kings",
+    "title": "The Sport of Kings",
+    "authorId": "c-e-morgan",
+    "authorName": "C. E. Morgan",
+    "publicationYear": 2016,
+    "publisher": "Farrar, Straus and Giroux",
+    "isbn13": "9780374281083",
+    "genres": [
+      "Historical Fiction",
+      "Southern Gothic",
+      "Literary Fiction"
+    ],
+    "synopsis": "A sweeping Kentucky epic about a wealthy thoroughbred racing dynasty, a brilliant Black ex-con groom, and the inescapable legacy of American racism.",
+    "pageCount": 545,
+    "spineColor": "#991b1b",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780374281083-L.jpg?default=false"
+  },
+  {
+    "id": "in-the-distance",
+    "title": "In the Distance",
+    "authorId": "hernan-diaz",
+    "authorName": "Hernan Diaz",
+    "publicationYear": 2017,
+    "publisher": "Coffee House Press",
+    "isbn13": "9781566894883",
+    "genres": [
+      "Literary Fiction",
+      "Western",
+      "Historical Fiction"
+    ],
+    "synopsis": "A young Swedish immigrant travels east across 19th-century America in search of his lost brother, becoming a legendary folk figure along the frontier.",
+    "pageCount": 256,
+    "spineColor": "#d97706",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781566894883-L.jpg?default=false"
+  },
+  {
+    "id": "the-idiot",
+    "title": "The Idiot",
+    "authorId": "elif-batuman",
+    "authorName": "Elif Batuman",
+    "publicationYear": 2017,
+    "publisher": "Penguin Press",
+    "isbn13": "9781594205613",
+    "genres": [
+      "Literary Fiction",
+      "Coming-of-Age",
+      "Campus Novel"
+    ],
+    "synopsis": "A Turkish American freshman at Harvard in 1995 discovers email, linguistics, and the awkward mysteries of first love with an older Hungarian student.",
+    "pageCount": 423,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781594205613-L.jpg?default=false"
+  },
+  {
+    "id": "a-registry-of-my-passage-upon-the-earth",
+    "title": "A Registry of My Passage upon the Earth",
+    "authorId": "daniel-mason",
+    "authorName": "Daniel Mason",
+    "publicationYear": 2020,
+    "publisher": "Little, Brown and Company",
+    "isbn13": "9780316477727",
+    "genres": [
+      "Short Stories",
+      "Historical Fiction",
+      "Literary Fiction"
+    ],
+    "synopsis": "Nine wondrous stories following 19th-century telegraphers, balloonists, naturalists, and physicians at the border between science and mystery.",
+    "pageCount": 240,
+    "spineColor": "#0f766e",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780316477727-L.jpg?default=false"
+  },
+  {
+    "id": "telephone",
+    "title": "Telephone",
+    "authorId": "percival-everett",
+    "authorName": "Percival Everett",
+    "publicationYear": 2020,
+    "publisher": "Graywolf Press",
+    "isbn13": "9781644450222",
+    "genres": [
+      "Literary Fiction",
+      "Mystery",
+      "Experimental Fiction"
+    ],
+    "synopsis": "A paleobiology professor whose daughter is dying from Batten disease receives cryptic notes hidden in retail clothing leading him to New Mexico.",
+    "pageCount": 240,
+    "spineColor": "#dc2626",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781644450222-L.jpg?default=false"
+  },
+  {
+    "id": "monkey-boy",
+    "title": "Monkey Boy",
+    "authorId": "francisco-goldman",
+    "authorName": "Francisco Goldman",
+    "publicationYear": 2021,
+    "publisher": "Grove Press",
+    "isbn13": "9780802157775",
+    "genres": [
+      "Autofiction",
+      "Literary Fiction",
+      "Family Saga"
+    ],
+    "synopsis": "Francisco Goldberg, a half-Guatemalan, half-Jewish writer, returns to Boston to visit his aged mother, unpacking childhood racism, love, and identity.",
+    "pageCount": 336,
+    "spineColor": "#d97706",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780802157775-L.jpg?default=false"
+  },
+  {
+    "id": "headshot",
+    "title": "Headshot: A Novel",
+    "authorId": "rita-bullwinkel",
+    "authorName": "Rita Bullwinkel",
+    "publicationYear": 2024,
+    "publisher": "Viking",
+    "isbn13": "9780593654101",
+    "genres": [
+      "Literary Fiction",
+      "Sports Fiction",
+      "Coming-of-Age"
+    ],
+    "synopsis": "Eight teenage girl boxers from across America battle in Reno, Nevada for the Daughters of America tournament, their pasts and futures laid bare in the ring.",
+    "pageCount": 224,
+    "spineColor": "#e11d48",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780593654101-L.jpg?default=false"
+  },
+  {
+    "id": "mice-1961",
+    "title": "Mice 1961",
+    "authorId": "stacey-levine",
+    "authorName": "Stacey Levine",
+    "publicationYear": 2024,
+    "publisher": "Verse Chorus Press",
+    "isbn13": "9781891241925",
+    "genres": [
+      "Literary Fiction",
+      "Surrealism",
+      "Historical Fiction"
+    ],
+    "synopsis": "An uncanny, dreamlike tale of two sisters trapped in a sun-baked provincial Florida town marked by paranoia, estrangement, and bureaucratic absurdity.",
+    "pageCount": 252,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781891241925-L.jpg?default=false"
+  },
+  {
+    "id": "the-unicorn-woman",
+    "title": "The Unicorn Woman",
+    "authorId": "gayl-jones",
+    "authorName": "Gayl Jones",
+    "publicationYear": 2024,
+    "publisher": "Akashic Books",
+    "isbn13": "9781636141381",
+    "genres": [
+      "Historical Fiction",
+      "Literary Fiction",
+      "African American"
+    ],
+    "synopsis": "An African American WWII veteran returns to 1950s Lexington, Kentucky, wrestling with trauma, community folklore, and longing for an elusive woman.",
+    "pageCount": 256,
+    "spineColor": "#7e22ce",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781636141381-L.jpg?default=false"
+  },
+  {
+    "id": "stag-dance",
+    "title": "Stag Dance: A Quartet",
+    "authorId": "torrey-peters",
+    "authorName": "Torrey Peters",
+    "publicationYear": 2025,
+    "publisher": "Random House",
+    "isbn13": "9780593448809",
+    "genres": [
+      "Literary Fiction",
+      "LGBTQ+",
+      "Novellas"
+    ],
+    "synopsis": "Four provocative, emotionally fierce novellas interrogating modern transgender womanhood, masculine subcultures, and relational compromises.",
+    "pageCount": 288,
+    "spineColor": "#f97316",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780593448809-L.jpg?default=false"
   }
 ]

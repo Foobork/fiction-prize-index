@@ -3783,5 +3783,320 @@
     "nationality": "Norway",
     "gender": "male",
     "bio": "Norwegian dramatist and novelist awarded the 2023 Nobel Prize in Literature for his innovative plays and prose which give voice to the unsayable, author of the visionary seven-part epic Septology."
+  },
+  {
+    "id": "william-wharton",
+    "name": "William Wharton",
+    "nationality": "American",
+    "birthYear": 1925,
+    "deathYear": 2008,
+    "bio": "American author and painter who wrote under a pseudonym, best known for his award-winning debut novel Birdy."
+  },
+  {
+    "id": "frederick-buechner",
+    "name": "Frederick Buechner",
+    "nationality": "American",
+    "birthYear": 1926,
+    "deathYear": 2022,
+    "bio": "American writer, Presbyterian minister, and theologian celebrated for his deeply lyrical fiction and spiritual memoirs."
+  },
+  {
+    "id": "william-maxwell",
+    "name": "William Maxwell",
+    "nationality": "American",
+    "birthYear": 1908,
+    "deathYear": 2000,
+    "bio": "American novelist and legendary fiction editor at The New Yorker for four decades, author of So Long, See You Tomorrow."
+  },
+  {
+    "id": "chaim-grade",
+    "name": "Chaim Grade",
+    "nationality": "American",
+    "birthYear": 1910,
+    "deathYear": 1982,
+    "bio": "Renowned Yiddish-language novelist and poet who chronicled the intellectual and moral lives of pre-WWII Lithuanian Jews."
+  },
+  {
+    "id": "raymond-carver",
+    "name": "Raymond Carver",
+    "nationality": "American",
+    "birthYear": 1938,
+    "deathYear": 1988,
+    "bio": "Master of the American short story and poet whose spare, minimalist prose revitalized American realistic fiction."
+  },
+  {
+    "id": "thomas-berger",
+    "name": "Thomas Berger",
+    "nationality": "American",
+    "birthYear": 1924,
+    "deathYear": 2014,
+    "bio": "Prolific American novelist noted for his biting wit, genre parodies, and satirical explorations of American mythology."
+  },
+  {
+    "id": "diana-ohehir",
+    "name": "Diana O'Hehir",
+    "nationality": "American",
+    "birthYear": 1922,
+    "deathYear": 2013,
+    "bio": "American poet and novelist whose debut novel I Wish This War Were Over was a 1985 Pulitzer Prize finalist."
+  },
+  {
+    "id": "douglas-unger",
+    "name": "Douglas Unger",
+    "nationality": "American",
+    "birthYear": 1948,
+    "bio": "American novelist, short story writer, and creative writing professor whose work explores agrarian life and corporate change."
+  },
+  {
+    "id": "russell-banks",
+    "name": "Russell Banks",
+    "nationality": "American",
+    "birthYear": 1940,
+    "deathYear": 2023,
+    "bio": "Acclaimed American novelist and short fiction writer whose unflinching works explored working-class struggles, race, and history."
+  },
+  {
+    "id": "donald-barthelme",
+    "name": "Donald Barthelme",
+    "nationality": "American",
+    "birthYear": 1931,
+    "deathYear": 1989,
+    "bio": "Pioneering American postmodernist fiction writer known for his playful, collage-like prose and absurd philosophical wit."
+  },
+  {
+    "id": "diane-johnson",
+    "name": "Diane Johnson",
+    "nationality": "American",
+    "birthYear": 1934,
+    "bio": "American novelist, essayist, and screenwriter known for sophisticated comedies of manners and cross-cultural dramas."
+  },
+  {
+    "id": "linda-hogan",
+    "name": "Linda Hogan",
+    "nationality": "American",
+    "birthYear": 1947,
+    "bio": "Chickasaw poet, novelist, and environmentalist celebrated for historical novels examining Indigenous dispossession."
+  },
+  {
+    "id": "david-gates",
+    "name": "David Gates",
+    "nationality": "American",
+    "birthYear": 1947,
+    "bio": "American journalist, critic, and fiction writer whose debut novel Jernigan received widespread critical acclaim."
+  },
+  {
+    "id": "robert-m-pirsig",
+    "name": "Robert M. Pirsig",
+    "nationality": "American",
+    "birthYear": 1928,
+    "deathYear": 2017,
+    "bio": "American philosopher and writer best known for Zen and the Art of Motorcycle Maintenance and its sequel Lila."
+  },
+  {
+    "id": "grace-paley",
+    "name": "Grace Paley",
+    "nationality": "American",
+    "birthYear": 1922,
+    "deathYear": 2004,
+    "bio": "Celebrated American short story writer, poet, and peace activist famed for capturing the vivid street speech of New York women."
+  },
+  {
+    "id": "joanna-scott",
+    "name": "Joanna Scott",
+    "nationality": "American",
+    "birthYear": 1960,
+    "bio": "American novelist and MacArthur Fellow known for intellectually daring, stylistically virtuosic historical fiction."
+  },
+  {
+    "id": "joy-williams",
+    "name": "Joy Williams",
+    "nationality": "American",
+    "birthYear": 1944,
+    "bio": "Eminent American novelist, short story writer, and essayist known for dark satire, ecological dread, and uncompromising moral vision."
+  },
+  {
+    "id": "adam-haslett",
+    "name": "Adam Haslett",
+    "nationality": "American",
+    "birthYear": 1970,
+    "bio": "American fiction writer whose works examining family, mental health, and loss have been finalists for the Pulitzer and National Book Award."
+  },
+  {
+    "id": "marianne-wiggins",
+    "name": "Marianne Wiggins",
+    "nationality": "American",
+    "birthYear": 1947,
+    "bio": "American novelist and essayist whose evocative historical epics explore science, art, landscape, and American myth."
+  },
+  {
+    "id": "ward-just",
+    "name": "Ward Just",
+    "nationality": "American",
+    "birthYear": 1935,
+    "deathYear": 2019,
+    "bio": "American war correspondent and novelist renowned for his nuanced, insider portrayals of Washington power and diplomacy."
+  },
+  {
+    "id": "lee-martin",
+    "name": "Lee Martin",
+    "nationality": "American",
+    "birthYear": 1955,
+    "bio": "American author and memoirist whose Midwest-set novels explore small-town secrets and profound moral turning points."
+  },
+  {
+    "id": "lore-segal",
+    "name": "Lore Segal",
+    "nationality": "American",
+    "birthYear": 1928,
+    "deathYear": 2024,
+    "bio": "Austrian-born American novelist, translator, and short story writer whose works examined displacement, wit, and community."
+  },
+  {
+    "id": "christine-schutt",
+    "name": "Christine Schutt",
+    "nationality": "American",
+    "birthYear": 1948,
+    "bio": "American novelist and short story writer celebrated for her dense, poetic, and uncompromisingly observant prose."
+  },
+  {
+    "id": "daniyal-mueenuddin",
+    "name": "Daniyal Mueenuddin",
+    "nationality": "Pakistani-American",
+    "birthYear": 1963,
+    "bio": "Pakistani-American author whose story collection In Other Rooms, Other Wonders won international acclaim."
+  },
+  {
+    "id": "lydia-millet",
+    "name": "Lydia Millet",
+    "nationality": "American",
+    "birthYear": 1968,
+    "bio": "Prolific American novelist and wildlife advocate known for dark humor, surrealism, and existential ecological themes."
+  },
+  {
+    "id": "jonathan-dee",
+    "name": "Jonathan Dee",
+    "nationality": "American",
+    "birthYear": 1962,
+    "bio": "American novelist and critic whose novels dissect contemporary American social class, wealth, and moral compromise."
+  },
+  {
+    "id": "chang-rae-lee",
+    "name": "Chang-rae Lee",
+    "nationality": "Korean-American",
+    "birthYear": 1965,
+    "bio": "Celebrated Korean-American novelist and Stanford professor whose works examine immigration, assimilation, and historical trauma."
+  },
+  {
+    "id": "karen-russell",
+    "name": "Karen Russell",
+    "nationality": "American",
+    "birthYear": 1981,
+    "bio": "American novelist, short story writer, and MacArthur Fellow celebrated for exuberant magical realism set in Florida landscapes."
+  },
+  {
+    "id": "david-foster-wallace",
+    "name": "David Foster Wallace",
+    "nationality": "American",
+    "birthYear": 1962,
+    "deathYear": 2008,
+    "bio": "Monumental American novelist, essayist, and short story writer regarded as one of the most influential stylists of his generation."
+  },
+  {
+    "id": "eowyn-ivey",
+    "name": "Eowyn Ivey",
+    "nationality": "American",
+    "birthYear": 1973,
+    "bio": "Alaskan novelist whose debut novel The Snow Child blended frontier homestead realism with magical fairy tale traditions."
+  },
+  {
+    "id": "nathan-englander",
+    "name": "Nathan Englander",
+    "nationality": "American",
+    "birthYear": 1970,
+    "bio": "Acclaimed American short story writer, novelist, and playwright known for mordant humor examining modern Jewish culture."
+  },
+  {
+    "id": "philipp-meyer",
+    "name": "Philipp Meyer",
+    "nationality": "American",
+    "birthYear": 1974,
+    "bio": "American novelist and television screenwriter acclaimed for gritty, ambitious historical epics of the American frontier."
+  },
+  {
+    "id": "bob-shacochis",
+    "name": "Bob Shacochis",
+    "nationality": "American",
+    "birthYear": 1951,
+    "bio": "American novelist, journalist, and educator celebrated for globe-trotting literary thrillers and Caribbean reportage."
+  },
+  {
+    "id": "laila-lalami",
+    "name": "Laila Lalami",
+    "nationality": "Moroccan-American",
+    "birthYear": 1968,
+    "bio": "Moroccan-born American novelist, essayist, and critic whose historical and contemporary fiction explores borders and belonging."
+  },
+  {
+    "id": "kelly-link",
+    "name": "Kelly Link",
+    "nationality": "American",
+    "birthYear": 1969,
+    "bio": "MacArthur Fellow and master of modern fabulist fiction whose stories seamlessly blend the strange, supernatural, and everyday."
+  },
+  {
+    "id": "margaret-verble",
+    "name": "Margaret Verble",
+    "nationality": "American",
+    "birthYear": 1951,
+    "bio": "Enrolled citizen of the Cherokee Nation and novelist whose historical fiction vividly captures Cherokee life and culture."
+  },
+  {
+    "id": "c-e-morgan",
+    "name": "C. E. Morgan",
+    "nationality": "American",
+    "birthYear": 1976,
+    "bio": "American novelist whose epic Southern Gothic fiction explores race, class, and thoroughbred culture in Kentucky."
+  },
+  {
+    "id": "elif-batuman",
+    "name": "Elif Batuman",
+    "nationality": "American",
+    "birthYear": 1977,
+    "bio": "American author and New Yorker staff writer known for witty, autofictional campus novels exploring language and coming of age."
+  },
+  {
+    "id": "daniel-mason",
+    "name": "Daniel Mason",
+    "nationality": "American",
+    "birthYear": 1976,
+    "bio": "American physician and novelist celebrated for exquisitely researched historical fiction bridging art, medicine, and the natural world."
+  },
+  {
+    "id": "francisco-goldman",
+    "name": "Francisco Goldman",
+    "nationality": "Guatemalan-American",
+    "birthYear": 1954,
+    "bio": "Guatemalan-American novelist and journalist whose autobiographical and historical novels bridge the Americas."
+  },
+  {
+    "id": "rita-bullwinkel",
+    "name": "Rita Bullwinkel",
+    "nationality": "American",
+    "birthYear": 1988,
+    "bio": "American author, editor, and educator whose debut novel Headshot follows teenage girl boxers in a Reno tournament."
+  },
+  {
+    "id": "stacey-levine",
+    "name": "Stacey Levine",
+    "nationality": "American",
+    "birthYear": 1958,
+    "bio": "American fiction writer and journalist known for surreal, avant-garde fiction exploring psychological alienation."
+  },
+  {
+    "id": "torrey-peters",
+    "name": "Torrey Peters",
+    "nationality": "American",
+    "birthYear": 1981,
+    "bio": "American novelist and short story writer celebrated for Detransition, Baby and innovative queer and trans narrative forms."
   }
 ]

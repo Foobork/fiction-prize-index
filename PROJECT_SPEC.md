@@ -225,7 +225,7 @@ interface Author {
 - [x] Cover art integration with Open Library fallback
 - [x] Adaptive mobile/iPhone bottom drawer modal with deep links & popstate support
 - [x] 100% full historical coverage for The Booker Prize (1969–2026)
-- [x] 100% full historical coverage for The Pulitzer Prize for Fiction (1918–2026)
+- [x] 100% full historical coverage for The Pulitzer Prize for Fiction (1918–2026 winners + 1980–2026 finalists)
 - [x] 100% full historical coverage for National Book Award for Fiction (1950–2026)
 - [x] 100% full historical coverage for Hugo Award for Best Novel (1953–2026)
 - [x] 100% full historical coverage for Nebula Award for Best Novel (1965–2026)

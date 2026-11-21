@@ -26,12 +26,12 @@ The **Fiction Prize Index** centralizes major world fiction awards into a unifie
 
 ### 📊 Dataset Scorecard & Historical Coverage
 
-The index currently catalogs **11 prizes**, **475 authors**, **581 books**, and **678 nominations**:
+The index currently catalogs **11 prizes**, **518 authors**, **659 books**, and **765 nominations**:
 
 | Prize | Scope / Focus | Award Years | Winners | Historical Coverage |
 | :--- | :--- | :---: | :---: | :---: |
 | **The Booker Prize** | UK, Commonwealth & Global English | 1969–2026 | 62 | **100% Complete** (+ 46 shortlists) |
-| **The Pulitzer Prize for Fiction** | American literary distinction | 1918–2026 | 100 | **100% Complete** |
+| **The Pulitzer Prize for Fiction** | American literary distinction | 1918–2026 | 100 | **100% Complete** (+ 95 finalists 1980–2026) |
 | **National Book Award for Fiction** | US national literary achievement | 1950–2026 | 76 | **100% Complete** |
 | **Hugo Award for Best Novel** | World Science Fiction Convention | 1953–2026 | 78 | **100% Complete** |
 | **Nebula Award for Best Novel** | Science Fiction & Fantasy Writers (SFWA) | 1965–2026 | 67 | **100% Complete** |

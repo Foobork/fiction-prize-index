@@ -6821,5 +6821,875 @@
     "category": "Fiction",
     "citation": "Shortlisted for the 2001 Booker Prize.",
     "sourceUrl": "https://thebookerprizes.com/the-booker-library/books/atonement"
+  },
+  {
+    "id": "nom-birdy-pulitzer-1980",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "birdy",
+    "year": 1980,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A deeply moving psychological portrait of trauma, friendship, and avian delusion in postwar America.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/william-wharton"
+  },
+  {
+    "id": "nom-the-ghost-writer-pulitzer-1980",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-ghost-writer",
+    "year": 1980,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A brilliant, ironic metafictional chamber piece on literary vocation, fame, and Jewish heritage.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/philip-roth"
+  },
+  {
+    "id": "nom-godric-pulitzer-1981",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "godric",
+    "year": 1981,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An earthly, lyrical reimagining of the life and spiritual contradictions of 12th-century hermit Saint Godric.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/frederick-buechner"
+  },
+  {
+    "id": "nom-so-long-see-you-tomorrow-pulitzer-1981",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "so-long-see-you-tomorrow",
+    "year": 1981,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An exquisite, heartbreaking Midwestern elegy on youthful guilt, prairie tragedy, and passing time.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/william-maxwell"
+  },
+  {
+    "id": "nom-a-flag-for-sunrise-pulitzer-1982",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "a-flag-for-sunrise",
+    "year": 1982,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A gripping, morally ferocious chronicle of American imperial disillusionment and Central American upheaval.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/robert-stone"
+  },
+  {
+    "id": "nom-housekeeping-pulitzer-1982",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "housekeeping",
+    "year": 1982,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A luminous, poetic meditation on family loss, domesticity, and the wild pull of transience.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/marilynne-robinson"
+  },
+  {
+    "id": "nom-dinner-at-the-homesick-restaurant-pulitzer-1983",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "dinner-at-the-homesick-restaurant",
+    "year": 1983,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A richly comedic and compassionate portrait of an eccentric Baltimore family yearning for communion.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/anne-tyler"
+  },
+  {
+    "id": "nom-rabbis-and-wives-pulitzer-1983",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "rabbis-and-wives",
+    "year": 1983,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: Three penetrating novellas probing piety, worldly temptation, and domestic grief in Lithuanian shtetls.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/chaim-grade"
+  },
+  {
+    "id": "nom-cathedral-pulitzer-1984",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "cathedral",
+    "year": 1984,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A landmark short story collection rendering working-class loneliness and sudden grace with immaculate restraint.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/raymond-carver"
+  },
+  {
+    "id": "nom-the-feud-pulitzer-1984",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-feud",
+    "year": 1984,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A sharp, hilarious small-town satire tracing an unhinged feud ignited by a minor hardware store dispute.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/thomas-berger"
+  },
+  {
+    "id": "nom-i-wish-this-war-were-over-pulitzer-1985",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "i-wish-this-war-were-over",
+    "year": 1985,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An intimate, atmospheric coming-of-age journey through wartime America on a cross-country troop train.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/diana-ohehir"
+  },
+  {
+    "id": "nom-leaving-the-land-pulitzer-1985",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "leaving-the-land",
+    "year": 1985,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A powerful, elegiac saga documenting the economic devastation of a South Dakota family farming community.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/douglas-unger"
+  },
+  {
+    "id": "nom-continental-drift-pulitzer-1986",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "continental-drift",
+    "year": 1986,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An urgent, devastating American tragedy intertwining the pursuit of the American dream with Haitian refugee peril.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/russell-banks"
+  },
+  {
+    "id": "nom-the-accidental-tourist-pulitzer-1986",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-accidental-tourist",
+    "year": 1986,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A warm, wonderfully eccentric story of grief, dog training, and unexpected emotional rebirth in Baltimore.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/anne-tyler"
+  },
+  {
+    "id": "nom-paradise-barthelme-pulitzer-1987",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "paradise-barthelme",
+    "year": 1987,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A bittersweet, stylish Manhattan comedy contemplating midlife desire, art, and modern absurdity.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/donald-barthelme"
+  },
+  {
+    "id": "nom-whites-pulitzer-1987",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "whites",
+    "year": 1987,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: Incisive, razor-sharp stories examining the moral ambiguities and cross-cultural entanglements of Western expatriates in Africa.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/norman-rush"
+  },
+  {
+    "id": "nom-persian-nights-pulitzer-1988",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "persian-nights",
+    "year": 1988,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An enthralling, sophisticated comedy of danger and manners unfolding during the twilight of the Shah's Iran.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/diane-johnson"
+  },
+  {
+    "id": "nom-that-night-pulitzer-1988",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "that-night",
+    "year": 1988,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A hauntingly lyrical recreation of a turbulent 1960s suburban Long Island community shaken by adolescent passion.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/alice-mcdermott"
+  },
+  {
+    "id": "nom-where-im-calling-from-pulitzer-1989",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "where-im-calling-from",
+    "year": 1989,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A masterwork anthology showcasing Carver's unmatched ability to find transcendent human dignity in spare, working-class realities.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/raymond-carver"
+  },
+  {
+    "id": "nom-billy-bathgate-pulitzer-1990",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "billy-bathgate",
+    "year": 1990,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A dazzling picaresque tale following an ambitious Bronx street youth apprenticed to gangster Dutch Schultz.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/e-l-doctorow"
+  },
+  {
+    "id": "nom-mean-spirit-pulitzer-1991",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "mean-spirit",
+    "year": 1991,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A devastating, lyrical historical novel unearthing the murderous 1920s conspiracy against the oil-rich Osage Nation.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/linda-hogan"
+  },
+  {
+    "id": "nom-the-things-they-carried-pulitzer-1991",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-things-they-carried",
+    "year": 1991,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A profound, genre-defying meditation on war, memory, fear, and storytelling by an American platoon in Vietnam.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/tim-obrien"
+  },
+  {
+    "id": "nom-jernigan-pulitzer-1992",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "jernigan",
+    "year": 1992,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A savagely funny and heartbreaking monologue capturing a grieving suburbanite's self-destructive downward spiral.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/david-gates"
+  },
+  {
+    "id": "nom-lila-an-inquiry-into-morals-pulitzer-1992",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "lila-an-inquiry-into-morals",
+    "year": 1992,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An ambitious philosophical voyage exploring the nature of biological, social, and intellectual value on an American river.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/robert-m-pirsig"
+  },
+  {
+    "id": "nom-mao-ii-pulitzer-1992",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "mao-ii",
+    "year": 1992,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A prescient, chilling examination of mass culture, reclusive art, and the eclipse of literature by political terror.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/don-delillo"
+  },
+  {
+    "id": "nom-at-weddings-and-wakes-pulitzer-1993",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "at-weddings-and-wakes",
+    "year": 1993,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An emotionally nuanced portrait of three generations of an Irish American family navigating faith, grief, and Brooklyn summers.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/alice-mcdermott"
+  },
+  {
+    "id": "nom-black-water-pulitzer-1993",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "black-water",
+    "year": 1993,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A harrowing, stream-of-consciousness tour de force reimagining Chappaquiddick through the eyes of a trapped young woman.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/joyce-carol-oates"
+  },
+  {
+    "id": "nom-operation-shylock-pulitzer-1994",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "operation-shylock",
+    "year": 1994,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An audacious, hallucinatory confession exploring Jewish identity, doppelgängers, and Israeli politics.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/philip-roth"
+  },
+  {
+    "id": "nom-the-collected-stories-price-pulitzer-1994",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-collected-stories-price",
+    "year": 1994,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A rich, expansive anthology celebrating thirty years of masterfully wrought Southern stories and human resilience.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/reynolds-price"
+  },
+  {
+    "id": "nom-the-collected-stories-paley-pulitzer-1995",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-collected-stories-paley",
+    "year": 1995,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: The definitive collection of Paley's irrepressible, politically vibrant, and voice-driven New York short fiction.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/grace-paley"
+  },
+  {
+    "id": "nom-what-i-lived-for-pulitzer-1995",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "what-i-lived-for",
+    "year": 1995,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A sprawling, torrential immersion into the public ambitions and private despair of an upstate New York power broker.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/joyce-carol-oates"
+  },
+  {
+    "id": "nom-mr-ives-christmas-pulitzer-1996",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "mr-ives-christmas",
+    "year": 1996,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A tender, deeply spiritual novel confronting profound paternal grief, spiritual redemption, and forgiveness.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/oscar-hijuelos"
+  },
+  {
+    "id": "nom-sabbaths-theater-pulitzer-1996",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "sabbaths-theater",
+    "year": 1996,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An incendiary, comic, and ferocious tour de force tracing the aging puppeteer Mickey Sabbath's scandalous rebellion against mortality.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/philip-roth"
+  },
+  {
+    "id": "nom-the-manikin-pulitzer-1997",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-manikin",
+    "year": 1997,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An intricate, gothic fable set on a 1920s country estate filled with taxidermy, exploring artifice and human desire.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/joanna-scott"
+  },
+  {
+    "id": "nom-unlocking-the-air-pulitzer-1997",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "unlocking-the-air",
+    "year": 1997,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A luminous, wide-ranging story collection probing freedom, community, and moral choice across magical and everyday realities.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/ursula-k-le-guin"
+  },
+  {
+    "id": "nom-bear-and-his-daughter-pulitzer-1998",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "bear-and-his-daughter",
+    "year": 1998,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A powerful, hard-bitten collection of stories illuminating seekers, drifters, and moral collapse on the American margins.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/robert-stone"
+  },
+  {
+    "id": "nom-underworld-pulitzer-1998",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "underworld",
+    "year": 1998,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A panoramic Cold War epic connecting American waste, memory, baseball, and nuclear anxiety across five decades.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/don-delillo"
+  },
+  {
+    "id": "nom-cloudsplitter-pulitzer-1999",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "cloudsplitter",
+    "year": 1999,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A monumental, tragic historical epic chronicling abolitionist John Brown's holy war on slavery through his son Owen's eyes.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/russell-banks"
+  },
+  {
+    "id": "nom-the-poisonwood-bible-pulitzer-1999",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-poisonwood-bible",
+    "year": 1999,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A passionate, polyphonic saga of post-colonial awakening and theological tragedy in the Belgian Congo.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/barbara-kingsolver"
+  },
+  {
+    "id": "nom-close-range-pulitzer-2000",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "close-range",
+    "year": 2000,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: Unsparing, breathtakingly crafted stories illuminating the harsh, windswept lives of Wyoming cowboys and ranchers.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/annie-proulx"
+  },
+  {
+    "id": "nom-waiting-pulitzer-2000",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "waiting",
+    "year": 2000,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A delicate, masterfully understated portrayal of romantic paralysis and bureaucratic delay in revolutionary China.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/ha-jin"
+  },
+  {
+    "id": "nom-blonde-pulitzer-2001",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "blonde",
+    "year": 2001,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An epic, hallucinatory reimagining of Marilyn Monroe's life, dissecting the devouring mythologies of American fame.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/joyce-carol-oates"
+  },
+  {
+    "id": "nom-the-quick-and-the-dead-pulitzer-2001",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-quick-and-the-dead",
+    "year": 2001,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A dark, brilliantly eccentric fable following three motherless girls through the ecological ruins of the desert Southwest.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/joy-williams"
+  },
+  {
+    "id": "nom-john-henry-days-pulitzer-2002",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "john-henry-days",
+    "year": 2002,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A richly satirical, multi-layered inquiry into industrial folklore, race, and corporate publicity in modern America.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/colson-whitehead"
+  },
+  {
+    "id": "nom-the-corrections-pulitzer-2002",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-corrections",
+    "year": 2002,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A sprawling, comic, and deeply moving portrait of the Lambert family reckoning with change at the end of the 20th century.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/jonathan-franzen"
+  },
+  {
+    "id": "nom-servants-of-the-map-pulitzer-2003",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "servants-of-the-map",
+    "year": 2003,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: Elegant, interconnected stories exploring 19th-century cartographers, botanists, and travelers in pursuit of scientific truth.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/andrea-barrett"
+  },
+  {
+    "id": "nom-you-are-not-a-stranger-here-pulitzer-2003",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "you-are-not-a-stranger-here",
+    "year": 2003,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A remarkable debut collection rendering grief, psychiatric vulnerability, and familial loyalty with uncommon tenderness.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/adam-haslett"
+  },
+  {
+    "id": "nom-american-woman-pulitzer-2004",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "american-woman",
+    "year": 2004,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A tense, psychological exploration of radicalism, loyalty, and identity inspired by the 1970s Patty Hearst saga.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/susan-choi"
+  },
+  {
+    "id": "nom-evidence-of-things-unseen-pulitzer-2004",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "evidence-of-things-unseen",
+    "year": 2004,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A radiant, romantic American epic linking phosphorescence, chemistry, and early atomic research with marital devotion.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/marianne-wiggins"
+  },
+  {
+    "id": "nom-an-unfinished-season-pulitzer-2005",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "an-unfinished-season",
+    "year": 2005,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A quiet, masterful coming-of-age portrait set amidst the social privilege and labor anxieties of 1950s Chicago.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/ward-just"
+  },
+  {
+    "id": "nom-war-trash-pulitzer-2005",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "war-trash",
+    "year": 2005,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A harrowing, deeply researched account of a Chinese prisoner of war navigating divided allegiances in a Korean camp.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/ha-jin"
+  },
+  {
+    "id": "nom-the-bright-forever-pulitzer-2006",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-bright-forever",
+    "year": 2006,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A suspenseful, compassionate Midwest tragedy illuminating the devastating ripples of a young girl's disappearance.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/lee-martin"
+  },
+  {
+    "id": "nom-the-march-pulitzer-2006",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-march",
+    "year": 2006,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A sweeping, panoramic Civil War epic tracing General Sherman's destructive march across Georgia and the Carolinas.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/e-l-doctorow"
+  },
+  {
+    "id": "nom-after-this-pulitzer-2007",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "after-this",
+    "year": 2007,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A graceful, deeply observed portrait of a working-class Catholic family enduring loss and turbulence across postwar America.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/alice-mcdermott"
+  },
+  {
+    "id": "nom-the-echo-maker-pulitzer-2007",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-echo-maker",
+    "year": 2007,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A mesmerizing novel intertwining neurological trauma, sibling devotion, and sandhill crane migration on the Platte River.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/richard-powers"
+  },
+  {
+    "id": "nom-shakespeares-kitchen-pulitzer-2008",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "shakespeares-kitchen",
+    "year": 2008,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: Thirteen witty, interconnected stories exploring the comedic agonies of social inclusion, marriage, and academic exile.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/lore-segal"
+  },
+  {
+    "id": "nom-tree-of-smoke-pulitzer-2008",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "tree-of-smoke",
+    "year": 2008,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A vast, hallucinatory epic exploring CIA intrigue, psychological decay, and spiritual longing during the Vietnam War.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/denis-johnson"
+  },
+  {
+    "id": "nom-all-souls-pulitzer-2009",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "all-souls",
+    "year": 2009,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A jewel-like, poetically compressed novel capturing female youth, illness, and mourning inside a Manhattan private school.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/christine-schutt"
+  },
+  {
+    "id": "nom-the-plague-of-doves-pulitzer-2009",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-plague-of-doves",
+    "year": 2009,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A multi-generational North Dakota saga investigating an ancestral injustice and its reverberations through Ojibwe lives.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/louise-erdrich"
+  },
+  {
+    "id": "nom-in-other-rooms-other-wonders-pulitzer-2010",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "in-other-rooms-other-wonders",
+    "year": 2010,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A vivid, interconnected suite of stories rendering the feudal inequalities, desires, and corruptions of Pakistani society.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/daniyal-mueenuddin"
+  },
+  {
+    "id": "nom-love-in-infant-monkeys-pulitzer-2010",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "love-in-infant-monkeys",
+    "year": 2010,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A daring, darkly comedic collection exploring the moral boundaries between human vanity and the animal kingdom.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/lydia-millet"
+  },
+  {
+    "id": "nom-the-privileges-pulitzer-2011",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-privileges",
+    "year": 2011,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A stylish, biting critique of hyper-wealth, entitlement, and family insularity in contemporary New York.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/jonathan-dee"
+  },
+  {
+    "id": "nom-the-surrendered-pulitzer-2011",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-surrendered",
+    "year": 2011,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A harrowing, emotional epic spanning decades and continents, exploring trauma and mercy in the wake of the Korean War.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/chang-rae-lee"
+  },
+  {
+    "id": "nom-swamplandia-pulitzer-2012",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "swamplandia",
+    "year": 2012,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An exuberant, gothic Florida adventure chronicling an eccentric family's struggle to preserve their alligator theme park.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/karen-russell"
+  },
+  {
+    "id": "nom-the-pale-king-pulitzer-2012",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-pale-king",
+    "year": 2012,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: Wallace's brilliant, posthumous exploration of institutional boredom, civic duty, and consciousness inside an IRS center.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/david-foster-wallace"
+  },
+  {
+    "id": "nom-train-dreams-pulitzer-2012",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "train-dreams",
+    "year": 2012,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A spare, mythic novella documenting the vanishing American wilderness and one humble logger's haunted life.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/denis-johnson"
+  },
+  {
+    "id": "nom-the-snow-child-pulitzer-2013",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-snow-child",
+    "year": 2013,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An enchanting, atmospheric fairy tale reimagined against the unforgiving frontier beauty of 1920s Alaska.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/eowyn-ivey"
+  },
+  {
+    "id": "nom-what-we-talk-about-anne-frank-pulitzer-2013",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "what-we-talk-about-when-we-talk-about-anne-frank",
+    "year": 2013,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: Eight razor-sharp stories examining the comedic friction, moral tests, and historical legacies of modern Jewish life.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/nathan-englander"
+  },
+  {
+    "id": "nom-the-son-pulitzer-2014",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-son",
+    "year": 2014,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A bloody, panoramic Texas frontier epic chronicling the violent birth of an oil and cattle empire across three generations.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/philipp-meyer"
+  },
+  {
+    "id": "nom-the-woman-who-lost-her-soul-pulitzer-2014",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-woman-who-lost-her-soul",
+    "year": 2014,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An ambitious, sprawling geopolitical thriller unravelling covert American operations and moral decay from Haiti to Istanbul.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/bob-shacochis"
+  },
+  {
+    "id": "nom-let-me-be-frank-with-you-pulitzer-2015",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "let-me-be-frank-with-you",
+    "year": 2015,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: Four trenchant, witty novellas revisiting Frank Bascombe navigating suburban wreckage and aging in the wake of Hurricane Sandy.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/richard-ford"
+  },
+  {
+    "id": "nom-lovely-dark-deep-pulitzer-2015",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "lovely-dark-deep",
+    "year": 2015,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A dark, psychologically penetrating suite of stories probing the hidden terrors and fractures of American domestic existence.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/joyce-carol-oates"
+  },
+  {
+    "id": "nom-the-moors-account-pulitzer-2015",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-moors-account",
+    "year": 2015,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An eloquent historical reimagining restoring the perspective of an enslaved Moroccan survivor of the 1527 Narváez expedition.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/laila-lalami"
+  },
+  {
+    "id": "nom-get-in-trouble-pulitzer-2016",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "get-in-trouble",
+    "year": 2016,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A marvel of uncanny imagination, blending superheroes, ghosts, and suburban longing with boundless stylistic dexterity.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/kelly-link"
+  },
+  {
+    "id": "nom-mauds-line-pulitzer-2016",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "mauds-line",
+    "year": 2016,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A lyrical and authentic historical portrait of a young Cherokee woman in 1920s Oklahoma navigating poverty and desire.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/margaret-verble"
+  },
+  {
+    "id": "nom-imagine-me-gone-pulitzer-2017",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "imagine-me-gone",
+    "year": 2017,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A profoundly empathetic family portrait exploring the lifelong weight of chronic depression and the fierce strength of sibling love.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/adam-haslett"
+  },
+  {
+    "id": "nom-the-sport-of-kings-pulitzer-2017",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-sport-of-kings",
+    "year": 2017,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A thunderous, operatic epic examining racial destiny, class fury, and equestrian obsession on a Kentucky thoroughbred farm.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/c-e-morgan"
+  },
+  {
+    "id": "nom-in-the-distance-pulitzer-2018",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "in-the-distance",
+    "year": 2018,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A visionary subversion of the Western following a Swedish immigrant's lonely, solitary trek against the grain of the American frontier.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/hernan-diaz"
+  },
+  {
+    "id": "nom-the-idiot-pulitzer-2018",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-idiot",
+    "year": 2018,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A witty, disarmingly charming campus novel tracking a college freshman's encounters with linguistics, early email, and unrequited love.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/elif-batuman"
+  },
+  {
+    "id": "nom-a-registry-of-my-passage-pulitzer-2021",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "a-registry-of-my-passage-upon-the-earth",
+    "year": 2021,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: Nine exquisitely crafted historical tales exploring the boundaries between rational science, obsession, and human wonder.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/daniel-mason"
+  },
+  {
+    "id": "nom-telephone-pulitzer-2021",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "telephone",
+    "year": 2021,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An ingenious, polyphonic novel examining grief, authority, and rescue published in three subtly distinct textual variations.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/percival-everett"
+  },
+  {
+    "id": "nom-monkey-boy-pulitzer-2022",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "monkey-boy",
+    "year": 2022,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An autobiographical, tenderly rendered reckoning with bicultural heritage, childhood abuse, and familial forgiveness.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/francisco-goldman"
+  },
+  {
+    "id": "nom-headshot-pulitzer-2025",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "headshot",
+    "year": 2025,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An electric, rhythmic portrait of eight young women boxers confronting their ambition and mortality in a Reno boxing ring.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/rita-bullwinkel"
+  },
+  {
+    "id": "nom-mice-1961-pulitzer-2025",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "mice-1961",
+    "year": 2025,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: A wonderfully surreal, avant-garde tale of two sisters unraveling in a sun-baked and bureaucratic Florida town.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/stacey-levine"
+  },
+  {
+    "id": "nom-the-unicorn-woman-pulitzer-2025",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "the-unicorn-woman",
+    "year": 2025,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An intimate, folklore-infused postwar novel of an African American veteran searching for peace and belonging in Kentucky.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/gayl-jones"
+  },
+  {
+    "id": "nom-audition-pulitzer-2026",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "audition",
+    "year": 2026,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: An exquisite, tension-filled psychological drama of artistic obsession, performance, and shifting boundaries of complicity.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/katie-kitamura"
+  },
+  {
+    "id": "nom-stag-dance-pulitzer-2026",
+    "prizeId": "pulitzer-fiction",
+    "bookId": "stag-dance",
+    "year": 2026,
+    "status": "finalist",
+    "category": "Fiction",
+    "citation": "Finalist: Four incisive, fearless novellas capturing the evolving landscapes of transgender identity, romance, and masculine codes.",
+    "sourceUrl": "https://www.pulitzer.org/finalists/torrey-peters"
   }
 ]
