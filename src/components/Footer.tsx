@@ -9,7 +9,7 @@ export const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="md:col-span-2 space-y-4">
             <div className="flex items-center space-x-2">
-              <div className="w-8 h-8 rounded-lg bg-amber-100 dark:bg-amber-950/70 border border-amber-300/80 dark:border-amber-700/60 flex items-center justify-center shadow-xs">
+              <div className="w-8 h-8 rounded-lg bg-amber-100/90 dark:bg-amber-950/80 border border-amber-300/80 dark:border-amber-700/60 flex items-center justify-center shadow-xs text-stone-900 dark:text-amber-300">
                 <MooseIcon className="w-6 h-6" />
               </div>
               <span className="font-serif font-bold text-lg text-parchment-900 dark:text-parchment-50">

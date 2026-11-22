@@ -33,8 +33,12 @@ export const metadata: Metadata = {
     type: 'website',
   },
   icons: {
-    icon: [{ url: 'moose.svg', type: 'image/svg+xml' }],
-    apple: [{ url: 'moose.svg' }],
+    icon: [
+      { url: 'favicon-32.png', sizes: '32x32', type: 'image/png' },
+      { url: 'moose-192.png', sizes: '192x192', type: 'image/png' },
+      { url: 'moose.svg', type: 'image/svg+xml' },
+    ],
+    apple: [{ url: 'moose-192.png' }],
   },
 };
 

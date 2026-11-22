@@ -37,8 +37,8 @@ export const Navbar: React.FC<NavbarProps> = ({
             onClick={() => setActiveTab('index')}
             className="flex items-center space-x-3 cursor-pointer group"
           >
-            <div className="w-10 h-10 rounded-lg bg-amber-100 dark:bg-amber-950/70 border border-amber-300/80 dark:border-amber-700/60 flex items-center justify-center shadow-xs transition-transform group-hover:scale-110">
-              <MooseIcon className="w-7 h-7" />
+            <div className="w-10 h-10 rounded-lg bg-amber-100/90 dark:bg-amber-950/80 border border-amber-300/80 dark:border-amber-700/60 flex items-center justify-center shadow-xs transition-transform group-hover:scale-110 text-stone-900 dark:text-amber-300">
+              <MooseIcon className="w-8 h-8" />
             </div>
             <div>
               <span className="font-serif text-lg font-bold tracking-tight text-parchment-900 dark:text-parchment-50 block leading-tight">
