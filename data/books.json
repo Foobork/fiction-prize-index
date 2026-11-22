@@ -16981,7 +16981,7 @@
     "authorId": "amy-arnold",
     "authorName": "Amy Arnold",
     "publicationYear": 2023,
-    "publisher": "CB Editions",
+    "publisher": "Prototype Publishing",
     "genres": [
       "Domestic Fiction",
       "Stream of Consciousness"
@@ -16989,7 +16989,9 @@
     "synopsis": "When Lori's husband Joe dies unexpectedly during his morning walk across the Cumbrian fells, her interior monologue unravels thirty years of quiet marital compromise.",
     "pageCount": 192,
     "spineColor": "#374151",
-    "countryOfOrigin": "United Kingdom"
+    "countryOfOrigin": "United Kingdom",
+    "isbn13": "9781913513375",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1913513378.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-long-form",
