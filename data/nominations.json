@@ -26573,5 +26573,1132 @@
     "category": "Best Novel",
     "citation": "Finalist for the 2025 Nebula Award for Best Novel.",
     "sourceUrl": "https://nebulas.sfwa.org/award-year/2025/"
+  },
+  {
+    "id": "nom-jouvert-james-tait-black-drama-2020",
+    "prizeId": "james-tait-black-drama",
+    "bookId": "jouvert",
+    "year": 2020,
+    "status": "winner",
+    "category": "Drama",
+    "sourceUrl": "https://www.ed.ac.uk/news/2020/vibrant-carnival-production-wins-drama-prize"
+  },
+  {
+    "id": "nom-dance-nation-james-tait-black-drama-2019",
+    "prizeId": "james-tait-black-drama",
+    "bookId": "dance-nation",
+    "year": 2019,
+    "status": "winner",
+    "category": "Drama",
+    "sourceUrl": "https://cahss.ed.ac.uk/news-events/news/current-news/james-tait-black-drama-winner-2019"
+  },
+  {
+    "id": "nom-lions-and-tigers-james-tait-black-drama-2018",
+    "prizeId": "james-tait-black-drama",
+    "bookId": "lions-and-tigers",
+    "year": 2018,
+    "status": "winner",
+    "category": "Drama",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/drama"
+  },
+  {
+    "id": "nom-cyprus-avenue-james-tait-black-drama-2017",
+    "prizeId": "james-tait-black-drama",
+    "bookId": "cyprus-avenue",
+    "year": 2017,
+    "status": "winner",
+    "category": "Drama",
+    "sourceUrl": "https://cahss.ed.ac.uk/news-events/news/current-news/tragicomedy-wins-top-drama-prize"
+  },
+  {
+    "id": "nom-iphigenia-in-splott-james-tait-black-drama-2016",
+    "prizeId": "james-tait-black-drama",
+    "bookId": "iphigenia-in-splott",
+    "year": 2016,
+    "status": "winner",
+    "category": "Drama",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/drama"
+  },
+  {
+    "id": "nom-cannibals-james-tait-black-drama-2014",
+    "prizeId": "james-tait-black-drama",
+    "bookId": "cannibals",
+    "year": 2014,
+    "status": "winner",
+    "category": "Drama",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/drama"
+  },
+  {
+    "id": "nom-radicalisation-bradley-manning-james-tait-black-drama-2013",
+    "prizeId": "james-tait-black-drama",
+    "bookId": "the-radicalisation-of-bradley-manning",
+    "year": 2013,
+    "status": "winner",
+    "category": "Drama",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/drama"
+  },
+  {
+    "id": "nom-praiseworthy-james-tait-black-fiction-2024",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "praiseworthy",
+    "year": 2024,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-demon-copperhead-james-tait-black-fiction-2023",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "demon-copperhead",
+    "year": 2023,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-a-shock-james-tait-black-fiction-2022",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "a-shock",
+    "year": 2022,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-lote-james-tait-black-fiction-2021",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "lote",
+    "year": 2021,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-ducks-newburyport-james-tait-black-fiction-2020",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "ducks-newburyport",
+    "year": 2020,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-crudo-james-tait-black-fiction-2019",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "crudo",
+    "year": 2019,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-attrib-and-other-stories-james-tait-black-fiction-2018",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "attrib-and-other-stories",
+    "year": 2018,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-the-lesser-bohemians-james-tait-black-fiction-2017",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "the-lesser-bohemians",
+    "year": 2017,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-you-don-t-have-to-live-like-this-james-tait-black-fiction-2016",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "you-don-t-have-to-live-like-this",
+    "year": 2016,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-in-the-light-of-what-we-know-james-tait-black-fiction-2015",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "in-the-light-of-what-we-know",
+    "year": 2015,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-harvest-james-tait-black-fiction-2014",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "harvest",
+    "year": 2014,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-the-deadman-s-pedal-james-tait-black-fiction-2013",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "the-deadman-s-pedal",
+    "year": 2013,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-the-children-s-book-james-tait-black-fiction-2010",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "the-children-s-book",
+    "year": 2010,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-our-horses-in-egypt-james-tait-black-fiction-2008",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "our-horses-in-egypt",
+    "year": 2008,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-the-road-james-tait-black-fiction-2007",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "the-road",
+    "year": 2007,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-saturday-james-tait-black-fiction-2006",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "saturday",
+    "year": 2006,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-gb84-james-tait-black-fiction-2005",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "gb84",
+    "year": 2005,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-personality-james-tait-black-fiction-2004",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "personality",
+    "year": 2004,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-the-corrections-james-tait-black-fiction-2003",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "the-corrections",
+    "year": 2003,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-something-like-a-house-james-tait-black-fiction-2002",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "something-like-a-house",
+    "year": 2002,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-white-teeth-james-tait-black-fiction-2001",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "white-teeth",
+    "year": 2001,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-renegade-or-halo2-james-tait-black-fiction-2000",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "renegade-or-halo2",
+    "year": 2000,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-master-georgie-james-tait-black-fiction-1999",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "master-georgie",
+    "year": 1999,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-ingenious-pain-james-tait-black-fiction-1998",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "ingenious-pain",
+    "year": 1998,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-last-orders-james-tait-black-fiction-1997",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "last-orders",
+    "year": 1997,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-justine-james-tait-black-fiction-1997",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "justine",
+    "year": 1997,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-the-prestige-james-tait-black-fiction-1996",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "the-prestige",
+    "year": 1996,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-the-folding-star-james-tait-black-fiction-1995",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "the-folding-star",
+    "year": 1995,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-crossing-the-river-james-tait-black-fiction-1994",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "crossing-the-river",
+    "year": 1994,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-sacred-country-james-tait-black-fiction-1993",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "sacred-country",
+    "year": 1993,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-downriver-james-tait-black-fiction-1992",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "downriver",
+    "year": 1992,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-brazzaville-beach-james-tait-black-fiction-1991",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "brazzaville-beach",
+    "year": 1991,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-a-disaffection-james-tait-black-fiction-1990",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "a-disaffection",
+    "year": 1990,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-a-season-in-the-west-james-tait-black-fiction-1989",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "a-season-in-the-west",
+    "year": 1989,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-persephone-james-tait-black-fiction-1987",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "persephone",
+    "year": 1987,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-winter-garden-james-tait-black-fiction-1986",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "winter-garden",
+    "year": 1986,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-empire-of-the-sun-james-tait-black-fiction-1985",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "empire-of-the-sun",
+    "year": 1985,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-nights-at-the-circus-james-tait-black-fiction-1985",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "nights-at-the-circus",
+    "year": 1985,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-on-the-black-hill-james-tait-black-fiction-1983",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "on-the-black-hill",
+    "year": 1983,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-midnights-children-james-tait-black-fiction-1982",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "midnights-children",
+    "year": 1982,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-the-mosquito-coast-james-tait-black-fiction-1982",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "the-mosquito-coast",
+    "year": 1982,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-waiting-for-the-barbarians-james-tait-black-fiction-1981",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "waiting-for-the-barbarians",
+    "year": 1981,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-darkness-visible-james-tait-black-fiction-1980",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "darkness-visible",
+    "year": 1980,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-plumb-james-tait-black-fiction-1979",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "plumb",
+    "year": 1979,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-the-honourable-schoolboy-james-tait-black-fiction-1978",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "the-honourable-schoolboy",
+    "year": 1978,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-doctor-copernicus-james-tait-black-fiction-1977",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "doctor-copernicus",
+    "year": 1977,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-the-great-victorian-collection-james-tait-black-fiction-1976",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "the-great-victorian-collection",
+    "year": 1976,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-monsieur-or-the-prince-of-darkness-james-tait-black-fiction-1975",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "monsieur-or-the-prince-of-darkness",
+    "year": 1975,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-the-black-prince-james-tait-black-fiction-1974",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "the-black-prince",
+    "year": 1974,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-a-guest-of-honour-james-tait-black-fiction-1972",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "a-guest-of-honour",
+    "year": 1972,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-eva-trout-james-tait-black-fiction-1970",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "eva-trout",
+    "year": 1970,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-jerusalem-the-golden-james-tait-black-fiction-1968",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "jerusalem-the-golden",
+    "year": 1968,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-langrishe-go-down-james-tait-black-fiction-1967",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "langrishe-go-down",
+    "year": 1967,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-the-mandelbaum-gate-james-tait-black-fiction-1966",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "the-mandelbaum-gate",
+    "year": 1966,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-the-ice-saints-james-tait-black-fiction-1965",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "the-ice-saints",
+    "year": 1965,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-the-ha-ha-james-tait-black-fiction-1962",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "the-ha-ha",
+    "year": 1962,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-the-middle-age-of-mrs-eliot-james-tait-black-fiction-1959",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "the-middle-age-of-mrs-eliot",
+    "year": 1959,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-at-lady-molly-s-james-tait-black-fiction-1958",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "at-lady-molly-s",
+    "year": 1958,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-mother-and-son-james-tait-black-fiction-1956",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "mother-and-son",
+    "year": 1956,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-the-new-men-james-tait-black-fiction-1955",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "the-new-men",
+    "year": 1955,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-the-masters-james-tait-black-fiction-1955",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "the-masters",
+    "year": 1955,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-troy-chimneys-james-tait-black-fiction-1954",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "troy-chimneys",
+    "year": 1954,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-men-at-arms-james-tait-black-fiction-1953",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "men-at-arms",
+    "year": 1953,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-the-far-cry-james-tait-black-fiction-1950",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "the-far-cry",
+    "year": 1950,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-the-heart-of-the-matter-james-tait-black-fiction-1949",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "the-heart-of-the-matter",
+    "year": 1949,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-eustace-and-hilda-james-tait-black-fiction-1948",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "eustace-and-hilda",
+    "year": 1948,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-tales-from-bective-bridge-james-tait-black-fiction-1944",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "tales-from-bective-bridge",
+    "year": 1944,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-a-house-of-children-james-tait-black-fiction-1942",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "a-house-of-children",
+    "year": 1942,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-after-many-a-summer-dies-the-swan-james-tait-black-fiction-1940",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "after-many-a-summer-dies-the-swan",
+    "year": 1940,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-a-ship-of-the-line-james-tait-black-fiction-1939",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "a-ship-of-the-line",
+    "year": 1939,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-flying-colours-james-tait-black-fiction-1939",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "flying-colours",
+    "year": 1939,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-south-riding-james-tait-black-fiction-1937",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "south-riding",
+    "year": 1937,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-i-claudius-james-tait-black-fiction-1935",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "i-claudius",
+    "year": 1935,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-england-their-england-james-tait-black-fiction-1934",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "england-their-england",
+    "year": 1934,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-without-my-cloak-james-tait-black-fiction-1932",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "without-my-cloak",
+    "year": 1932,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-miss-mole-james-tait-black-fiction-1931",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "miss-mole",
+    "year": 1931,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-the-good-companions-james-tait-black-fiction-1930",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "the-good-companions",
+    "year": 1930,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-portrait-of-clare-james-tait-black-fiction-1928",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "portrait-of-clare",
+    "year": 1928,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-adam-s-breed-james-tait-black-fiction-1927",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "adam-s-breed",
+    "year": 1927,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-a-passage-to-india-james-tait-black-fiction-1925",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "a-passage-to-india",
+    "year": 1925,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-riceyman-steps-james-tait-black-fiction-1924",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "riceyman-steps",
+    "year": 1924,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-lady-into-fox-james-tait-black-fiction-1923",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "lady-into-fox",
+    "year": 1923,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-the-lost-girl-james-tait-black-fiction-1921",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "the-lost-girl",
+    "year": 1921,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-the-secret-city-james-tait-black-fiction-1920",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "the-secret-city",
+    "year": 1920,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-the-secret-scripture-james-tait-black-fiction-2009",
+    "prizeId": "james-tait-black-fiction",
+    "bookId": "the-secret-scripture",
+    "year": 2009,
+    "status": "winner",
+    "category": "Fiction",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/fiction"
+  },
+  {
+    "id": "nom-my-great-arab-melancholy-james-tait-black-biography-2025",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "my-great-arab-melancholy",
+    "year": 2025,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography",
+    "translator": "Emma Ramadan"
+  },
+  {
+    "id": "nom-traces-of-enayat-james-tait-black-biography-2024",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "traces-of-enayat",
+    "year": 2024,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography",
+    "translator": "Robin Moger"
+  },
+  {
+    "id": "nom-fassbinder-thousands-of-mirrors-james-tait-black-biography-2024",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "fassbinder-thousands-of-mirrors",
+    "year": 2024,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-come-back-in-september-a-literary-education-on-west-sixty-seventh-street-manhattan-james-tait-black-biography-2023",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "come-back-in-september-a-literary-education-on-west-sixty-seventh-street-manhattan",
+    "year": 2023,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-finding-the-raga-an-improvisation-on-indian-music-james-tait-black-biography-2022",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "finding-the-raga-an-improvisation-on-indian-music",
+    "year": 2022,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-a-ghost-in-the-throat-james-tait-black-biography-2021",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "a-ghost-in-the-throat",
+    "year": 2021,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-in-extremis-the-life-of-war-correspondent-marie-colvin-james-tait-black-biography-2019",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "in-extremis-the-life-of-war-correspondent-marie-colvin",
+    "year": 2019,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-ma-am-darling-99-glimpses-of-princess-margaret-james-tait-black-biography-2018",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "ma-am-darling-99-glimpses-of-princess-margaret",
+    "year": 2018,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-penelope-fitzgerald-a-life-james-tait-black-biography-2014",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "penelope-fitzgerald-a-life",
+    "year": 2014,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-the-last-pre-raphaelite-edward-burne-jones-and-the-victorian-imagination-james-tait-black-biography-2012",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "the-last-pre-raphaelite-edward-burne-jones-and-the-victorian-imagination",
+    "year": 2012,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-god-s-architect-pugin-and-the-building-of-romantic-britain-james-tait-black-biography-2008",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "god-s-architect-pugin-and-the-building-of-romantic-britain",
+    "year": 2008,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-edvard-munch-behind-the-scream-james-tait-black-biography-2006",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "edvard-munch-behind-the-scream",
+    "year": 2006,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-john-clare-a-biography-james-tait-black-biography-2005",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "john-clare-a-biography",
+    "year": 2005,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-experience-james-tait-black-biography-2001",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "experience",
+    "year": 2001,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-george-eliot-the-last-victorian-james-tait-black-biography-2000",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "george-eliot-the-last-victorian",
+    "year": 2000,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-the-life-of-thomas-more-james-tait-black-biography-1999",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "the-life-of-thomas-more",
+    "year": 1999,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-thomas-cranmer-a-life-james-tait-black-biography-1997",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "thomas-cranmer-a-life",
+    "year": 1997,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-under-my-skin-james-tait-black-biography-1995",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "under-my-skin",
+    "year": 1995,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-darwin-james-tait-black-biography-1992",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "darwin",
+    "year": 1992,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-the-invisible-woman-the-story-of-nelly-ternan-and-charles-dickens-james-tait-black-biography-1991",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "the-invisible-woman-the-story-of-nelly-ternan-and-charles-dickens",
+    "year": 1991,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-jonathan-swift-a-hypocrite-reversed-james-tait-black-biography-1986",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "jonathan-swift-a-hypocrite-reversed",
+    "year": 1986,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-james-joyce-james-tait-black-biography-1983",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "james-joyce",
+    "year": 1983,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-samuel-johnson-james-tait-black-biography-1975",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "samuel-johnson",
+    "year": 1975,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-alexander-the-great-james-tait-black-biography-1974",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "alexander-the-great",
+    "year": 1974,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-mary-queen-of-scots-james-tait-black-biography-1970",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "mary-queen-of-scots",
+    "year": 1970,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-george-eliot-james-tait-black-biography-1969",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "george-eliot",
+    "year": 1969,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-the-history-of-fanny-burney-james-tait-black-biography-1959",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "the-history-of-fanny-burney",
+    "year": 1959,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-florence-nightingale-james-tait-black-biography-1951",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "florence-nightingale",
+    "year": 1951,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-spanish-tudor-james-tait-black-biography-1941",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "spanish-tudor",
+    "year": 1941,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-samuel-taylor-coleridge-james-tait-black-biography-1939",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "samuel-taylor-coleridge",
+    "year": 1939,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-john-knox-james-tait-black-biography-1938",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "john-knox",
+    "year": 1938,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-montrose-james-tait-black-biography-1929",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "montrose",
+    "year": 1929,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
+  },
+  {
+    "id": "nom-queen-victoria-james-tait-black-biography-1922",
+    "prizeId": "james-tait-black-biography",
+    "bookId": "queen-victoria",
+    "year": 1922,
+    "status": "winner",
+    "category": "Biography",
+    "sourceUrl": "https://james-tait-black.ed.ac.uk/winners/biography"
   }
 ]
