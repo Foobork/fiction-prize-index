@@ -18,7 +18,6 @@ export const BookCover: React.FC<BookCoverProps> = ({
   className = '',
 }) => {
   const [imageError, setImageError] = useState(false);
-  const [imageLoaded, setImageLoaded] = useState(false);
 
   // Dimension presets (standard 2:3 book ratio)
   const sizeStyles = {
@@ -51,23 +50,16 @@ export const BookCover: React.FC<BookCoverProps> = ({
             src={coverUrl}
             alt={`Cover of ${book.title}`}
             loading="lazy"
-            onLoad={() => setImageLoaded(true)}
             onError={() => setImageError(true)}
-            className={`w-full h-full object-cover transition-opacity duration-300 ${
-              imageLoaded ? 'opacity-100' : 'opacity-0'
-            }`}
+            className="w-full h-full object-cover"
           />
           {/* Subtle sheen highlight over real image */}
           <div className="pointer-events-none absolute inset-0 bg-gradient-to-tr from-black/10 via-transparent to-white/10" />
         </>
-      ) : null}
-
-      {/* Typographic Dust Jacket Fallback (Rendered when loading or if image is unavailable) */}
-      {(!coverUrl || imageError || !imageLoaded) && (
+      ) : (
+        /* Typographic Dust Jacket Fallback (Rendered when image is unavailable or fails to load) */
         <div
-          className={`absolute inset-0 p-2 sm:p-2.5 flex flex-col justify-between text-white border border-white/20 ${
-            coverUrl && !imageError && !imageLoaded ? 'z-0' : 'z-5'
-          }`}
+          className="absolute inset-0 p-2 sm:p-2.5 flex flex-col justify-between text-white border border-white/20"
           style={{ backgroundColor: book.spineColor || '#78350f' }}
         >
           {/* Decorative Framing */}
