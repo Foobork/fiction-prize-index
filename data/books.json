@@ -2614,7 +2614,7 @@
     "spineColor": "#0284c7",
     "countryOfOrigin": "United States",
     "isbn13": "9780449206522",
-    "coverImage": null
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0449206521.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-caine-mutiny",
@@ -3273,7 +3273,9 @@
     "synopsis": "Told almost exclusively through dialogue with no attribution: An eleven-year-old Long Island schoolboy builds a multi-million-dollar paper business empire from a school payphone.",
     "pageCount": 736,
     "spineColor": "#047857",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781564786975",
+    "coverImage": "https://covers.openlibrary.org/b/id/97726-L.jpg?default=false"
   },
   {
     "id": "going-after-cacciato",
@@ -4439,7 +4441,9 @@
     "synopsis": "From rural India to global tech conglomerate, a Dalit visionary reshapes world society under algorithmic governance.",
     "pageCount": 384,
     "spineColor": "#059669",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780393541762",
+    "coverImage": "https://covers.openlibrary.org/b/id/13196074-L.jpg?default=false"
   },
   {
     "id": "palmares",
@@ -5047,7 +5051,9 @@
     "synopsis": "Oxford time-travel historians journey to the London Blitz in 1940 and become stranded as timeline disruptions threaten both their survival and the war itself.",
     "pageCount": 1168,
     "spineColor": "#1e293b",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780345519832",
+    "coverImage": "https://covers.openlibrary.org/b/id/6584391-L.jpg?default=false"
   },
   {
     "id": "the-windup-girl",
@@ -6077,7 +6083,9 @@
     "originalLanguage": "Hebrew",
     "originalTitle": "סוס אחד נכנס לבר (Sus Ehad Nikhnas Lebar)",
     "pageCount": 208,
-    "spineColor": "#831843"
+    "spineColor": "#831843",
+    "isbn13": "9781784705350",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1784705357.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-collected-stories-of-lydia-davis",
@@ -6181,7 +6189,7 @@
     "originalTitle": "No es un río",
     "pageCount": 110,
     "spineColor": "#047857",
-    "coverImage": null
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1913867455.01.LZZZZZZZ.jpg"
   },
   {
     "id": "crooked-plow",
@@ -6202,7 +6210,8 @@
     "originalLanguage": "Portuguese",
     "originalTitle": "Torto Arado",
     "pageCount": 288,
-    "spineColor": "#78350f"
+    "spineColor": "#78350f",
+    "coverImage": "https://covers.openlibrary.org/b/id/12369648-L.jpg?default=false"
   },
   {
     "id": "boulder",
@@ -6269,7 +6278,8 @@
     "originalLanguage": "Polish",
     "originalTitle": "Księgi Jakubowe",
     "pageCount": 912,
-    "spineColor": "#701a75"
+    "spineColor": "#701a75",
+    "coverImage": "https://covers.openlibrary.org/b/id/8979140-L.jpg?default=false"
   },
   {
     "id": "cursed-bunny",
@@ -6291,7 +6301,8 @@
     "originalLanguage": "Korean",
     "originalTitle": "저주토끼 (Jeojutokki)",
     "pageCount": 251,
-    "spineColor": "#991b1b"
+    "spineColor": "#991b1b",
+    "coverImage": "https://covers.openlibrary.org/b/id/11150775-L.jpg?default=false"
   },
   {
     "id": "elena-knows",
@@ -6334,7 +6345,9 @@
     "originalLanguage": "Spanish",
     "originalTitle": "Los peligros de fumar en la cama",
     "pageCount": 208,
-    "spineColor": "#581c87"
+    "spineColor": "#581c87",
+    "isbn13": "9780593134078",
+    "coverImage": "https://covers.openlibrary.org/b/id/7911198-L.jpg?default=false"
   },
   {
     "id": "when-we-cease-to-understand-the-world",
@@ -6355,7 +6368,8 @@
     "originalLanguage": "Spanish",
     "originalTitle": "Un verdor terrible",
     "pageCount": 192,
-    "spineColor": "#1e3a8a"
+    "spineColor": "#1e3a8a",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1782276130.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-employees",
@@ -6375,7 +6389,9 @@
     "originalLanguage": "Danish",
     "originalTitle": "De ansatte",
     "pageCount": 136,
-    "spineColor": "#0284c7"
+    "spineColor": "#0284c7",
+    "isbn13": "9781999992880",
+    "coverImage": "https://covers.openlibrary.org/b/id/12294759-L.jpg?default=false"
   },
   {
     "id": "the-memory-police",
@@ -6419,7 +6435,8 @@
     "originalLanguage": "Spanish",
     "originalTitle": "Temporada de huracanes",
     "pageCount": 224,
-    "spineColor": "#c2410c"
+    "spineColor": "#c2410c",
+    "coverImage": "https://covers.openlibrary.org/b/id/10354466-L.jpg?default=false"
   },
   {
     "id": "the-years",
@@ -6440,7 +6457,8 @@
     "originalLanguage": "French",
     "originalTitle": "Les Années",
     "pageCount": 240,
-    "spineColor": "#4338ca"
+    "spineColor": "#4338ca",
+    "coverImage": "https://covers.openlibrary.org/b/id/968944-L.jpg?default=false"
   },
   {
     "id": "drive-your-plow-over-the-bones-of-the-dead",
@@ -6461,7 +6479,9 @@
     "originalLanguage": "Polish",
     "originalTitle": "Prowadź swój pług przez kości umarłych",
     "pageCount": 272,
-    "spineColor": "#166534"
+    "spineColor": "#166534",
+    "isbn13": "9781910695715",
+    "coverImage": "https://covers.openlibrary.org/b/id/9768059-L.jpg?default=false"
   },
   {
     "id": "fever-dream",
@@ -6482,7 +6502,8 @@
     "originalLanguage": "Spanish",
     "originalTitle": "Distancia de rescate",
     "pageCount": 192,
-    "spineColor": "#3f6212"
+    "spineColor": "#3f6212",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0399184597.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-story-of-the-lost-child",
@@ -6642,7 +6663,9 @@
     "synopsis": "A searing portrait of the decay and suffocating puritanical traditions of a Boston Brahmin dynasty, as an outsider married into the family contemplates breaking free with an alluring politician.",
     "countryOfOrigin": "United States",
     "pageCount": 307,
-    "spineColor": "#78350f"
+    "spineColor": "#78350f",
+    "isbn13": "9781648371745",
+    "coverImage": "https://covers.openlibrary.org/b/id/13077166-L.jpg?default=false"
   },
   {
     "id": "scarlet-sister-mary",
@@ -6959,7 +6982,8 @@
     "synopsis": "A majestic, authentic chronicle of an 1845 wagon train journeying from Missouri across the wilderness to Oregon, depicting the courage, fractures, and human triumphs of the westward migration.",
     "countryOfOrigin": "United States",
     "pageCount": 340,
-    "spineColor": "#b45309"
+    "spineColor": "#b45309",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0618154620.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-town",
@@ -7118,7 +7142,8 @@
     "countryOfOrigin": "United States",
     "pageCount": 495,
     "spineColor": "#0f766e",
-    "openLibraryKey": "/works/OL1446691W"
+    "openLibraryKey": "/works/OL1446691W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0156188767.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-collected-stories-of-jean-stafford",
@@ -7274,7 +7299,9 @@
     "synopsis": "Middle-aged book collector Phillip Carver is summoned back to Tennessee from New York by his unmarried sisters to stop their eighty-one-year-old autocratic father from remarrying a younger woman.",
     "countryOfOrigin": "United States",
     "pageCount": 209,
-    "spineColor": "#312e81"
+    "spineColor": "#312e81",
+    "isbn13": "9780394410623",
+    "coverImage": "https://covers.openlibrary.org/b/id/5012748-L.jpg?default=false"
   },
   {
     "id": "breathing-lessons",
@@ -7412,7 +7439,8 @@
     "synopsis": "In Gilded Age New York, an ambitious cigar-shop clerk rises to become a visionary hotel builder, whose increasingly fantastical and self-contained architectural dreams eventually surpass human scale.",
     "countryOfOrigin": "United States",
     "pageCount": 293,
-    "spineColor": "#4c1d95"
+    "spineColor": "#4c1d95",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0679781277.01.LZZZZZZZ.jpg"
   },
   {
     "id": "march",
@@ -7474,7 +7502,8 @@
     "pageCount": 304,
     "spineColor": "#1e3a8a",
     "isbn13": "9788420423814",
-    "openLibraryKey": "/works/OL32483410W"
+    "openLibraryKey": "/works/OL32483410W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/8420423815.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-land-of-green-plums",
@@ -7495,7 +7524,8 @@
     "originalLanguage": "German",
     "originalTitle": "Herztier",
     "pageCount": 256,
-    "spineColor": "#831843"
+    "spineColor": "#831843",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0312429940.01.LZZZZZZZ.jpg"
   },
   {
     "id": "ingenious-pain",
@@ -7576,7 +7606,8 @@
     "originalLanguage": "French",
     "originalTitle": "Les Particules élémentaires",
     "pageCount": 384,
-    "spineColor": "#475569"
+    "spineColor": "#475569",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0099283360.01.LZZZZZZZ.jpg"
   },
   {
     "id": "my-name-is-red",
@@ -7597,7 +7628,8 @@
     "originalLanguage": "Turkish",
     "originalTitle": "Benim Adım Kırmızı",
     "pageCount": 417,
-    "spineColor": "#991b1b"
+    "spineColor": "#991b1b",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0375706852.01.LZZZZZZZ.jpg"
   },
   {
     "id": "this-blinding-absence-of-light",
@@ -7617,7 +7649,9 @@
     "originalLanguage": "French",
     "originalTitle": "Cette aveuglante absence de lumière",
     "pageCount": 195,
-    "spineColor": "#1e293b"
+    "spineColor": "#1e293b",
+    "isbn13": "9781565847231",
+    "coverImage": "https://covers.openlibrary.org/b/id/2135015-L.jpg?default=false"
   },
   {
     "id": "out-stealing-horses",
@@ -8450,7 +8484,8 @@
     "synopsis": "Thirty-one peerless, shocking stories exploring religious grace, moral violence, and human stubbornness in the rural South, including 'A Good Man Is Hard to Find' and 'Good Country People'.",
     "countryOfOrigin": "United States",
     "pageCount": 576,
-    "spineColor": "#991b1b"
+    "spineColor": "#991b1b",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0374515360.01.LZZZZZZZ.jpg"
   },
   {
     "id": "chimera",
@@ -8587,7 +8622,9 @@
     "synopsis": "Fourteen vibrant stories featuring headstrong, eccentric Southern women navigating love, divorce, and rebellion in New Orleans and the Mississippi Delta.",
     "countryOfOrigin": "United States",
     "pageCount": 288,
-    "spineColor": "#b45309"
+    "spineColor": "#b45309",
+    "isbn13": "9780316313070",
+    "coverImage": "https://covers.openlibrary.org/b/id/188861-L.jpg?default=false"
   },
   {
     "id": "worlds-fair",
@@ -8765,7 +8802,8 @@
     "synopsis": "Eight luminous stories intertwining historical science, naturalists, and human love, anchored by the title novella set in the 1847 Irish typhus quarantine station at Grosse Île.",
     "countryOfOrigin": "United States",
     "pageCount": 256,
-    "spineColor": "#0284c7"
+    "spineColor": "#0284c7",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0393316009.01.LZZZZZZZ.jpg"
   },
   {
     "id": "cold-mountain",
@@ -9908,7 +9946,8 @@
     "synopsis": "Lore Van de Oest, heiress to a powerful bio-engineered sewage treatment conglomerate, is kidnapped in Rotterdam and abandoned on the streets, surviving through data fraud and wastewater engineering.",
     "countryOfOrigin": "United States",
     "pageCount": 352,
-    "spineColor": "#047857"
+    "spineColor": "#047857",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0345395379.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-moon-and-the-sun",
@@ -10823,7 +10862,7 @@
     "publicationYear": 2025,
     "publisher": "Hogarth / Random House",
     "isbn13": "9780593595466",
-    "coverImage": null,
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0593595467.01.LZZZZZZZ.jpg",
     "genres": [
       "Literary Fiction",
       "Historical Fiction",
@@ -10923,7 +10962,7 @@
     "publicationYear": 1912,
     "publisher": "Calmann-Lévy",
     "isbn13": "9780140443547",
-    "coverImage": null,
+    "coverImage": "https://covers.openlibrary.org/b/id/1994527-L.jpg?default=false",
     "genres": [
       "Historical Fiction",
       "Satire",
@@ -11421,7 +11460,8 @@
     "pageCount": 304,
     "spineColor": "#ca8a04",
     "coverImage": "https://covers.openlibrary.org/b/id/9316272-L.jpg?default=false",
-    "openLibraryKey": "/works/OL19694306W"
+    "openLibraryKey": "/works/OL19694306W",
+    "isbn13": "9780575048102"
   },
   {
     "id": "a-personal-matter",
@@ -11577,7 +11617,9 @@
     "synopsis": "A lyrical, harrowing account of Leo Auberg, a seventeen-year-old Romanian German deported in 1945 to a Soviet forced labor camp in Ukraine, sustained by the haunting companionship of the Hunger Angel.",
     "countryOfOrigin": "Romania",
     "pageCount": 304,
-    "spineColor": "#52525b"
+    "spineColor": "#52525b",
+    "isbn13": "9780805095463",
+    "coverImage": "https://covers.openlibrary.org/b/id/6254291-L.jpg?default=false"
   },
   {
     "id": "the-feast-of-the-goat",
@@ -11655,7 +11697,8 @@
     "pageCount": 144,
     "spineColor": "#164e63",
     "isbn13": "9786073189071",
-    "openLibraryKey": "/works/OL38026858W"
+    "openLibraryKey": "/works/OL38026858W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/6073189079.01.LZZZZZZZ.jpg"
   },
   {
     "id": "paradise",
@@ -11694,7 +11737,8 @@
     "pageCount": 820,
     "spineColor": "#1e293b",
     "isbn13": "9781945492754",
-    "openLibraryKey": "/works/OL27871634W"
+    "openLibraryKey": "/works/OL27871634W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1945492759.01.LZZZZZZZ.jpg"
   },
   {
     "id": "atonement",
@@ -12153,7 +12197,7 @@
     "pageCount": 409,
     "spineColor": "#155e75",
     "countryOfOrigin": "United States",
-    "coverImage": null
+    "coverImage": "https://covers.openlibrary.org/b/id/13011756-L.jpg?default=false"
   },
   {
     "id": "mao-ii",
@@ -12525,7 +12569,9 @@
     "synopsis": "Six intricately linked stories and novellas exploring 19th-century scientific explorers, surveyors, and tuberculosis patients seeking knowledge and connection.",
     "pageCount": 270,
     "spineColor": "#065f46",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780393043488",
+    "coverImage": "https://covers.openlibrary.org/b/id/247197-L.jpg?default=false"
   },
   {
     "id": "you-are-not-a-stranger-here",
@@ -12942,7 +12988,9 @@
     "synopsis": "A geopolitical magnum opus investigating the murder of an American humanitarian in Haiti, spanning fifty years of covert Cold War entanglements.",
     "pageCount": 708,
     "spineColor": "#1e293b",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781611855555",
+    "coverImage": "https://covers.openlibrary.org/b/id/8474070-L.jpg?default=false"
   },
   {
     "id": "let-me-be-frank-with-you",
@@ -13019,7 +13067,9 @@
     "synopsis": "Nine wonderfully bizarre stories featuring superheroes, demon lovers, life-sized animatronic dolls, and ghost houses in everyday settings.",
     "pageCount": 336,
     "spineColor": "#7c3aed",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781922182630",
+    "coverImage": "https://covers.openlibrary.org/b/id/10305009-L.jpg?default=false"
   },
   {
     "id": "mauds-line",
@@ -13136,7 +13186,9 @@
     "synopsis": "Nine wondrous stories following 19th-century telegraphers, balloonists, naturalists, and physicians at the border between science and mystery.",
     "pageCount": 240,
     "spineColor": "#0f766e",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780316477628",
+    "coverImage": "https://covers.openlibrary.org/b/id/10122967-L.jpg?default=false"
   },
   {
     "id": "telephone",
@@ -13214,7 +13266,7 @@
     "pageCount": 252,
     "spineColor": "#0284c7",
     "countryOfOrigin": "United States",
-    "coverImage": null,
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1959163019.01.LZZZZZZZ.jpg",
     "openLibraryKey": "/works/OL37569858W"
   },
   {
@@ -13232,7 +13284,9 @@
     "synopsis": "An African American WWII veteran returns to 1950s Lexington, Kentucky, wrestling with trauma, community folklore, and longing for an elusive woman.",
     "pageCount": 256,
     "spineColor": "#7e22ce",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780349016917",
+    "coverImage": "https://covers.openlibrary.org/b/id/14803968-L.jpg?default=false"
   },
   {
     "id": "stag-dance",
@@ -13249,7 +13303,9 @@
     "synopsis": "Four provocative, emotionally fierce novellas interrogating modern transgender womanhood, masculine subcultures, and relational compromises.",
     "pageCount": 288,
     "spineColor": "#f97316",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780593595640",
+    "coverImage": "https://covers.openlibrary.org/b/id/15090735-L.jpg?default=false"
   },
   {
     "id": "the-book-of-colour",
@@ -13266,7 +13322,9 @@
     "synopsis": "An evocative, poetic family portrait exploring ancestral madness, colonial shame, and racial prejudice on a remote Indian Ocean island.",
     "pageCount": 160,
     "spineColor": "#1e3a8a",
-    "countryOfOrigin": "United Kingdom"
+    "countryOfOrigin": "United Kingdom",
+    "isbn13": "9780224041171",
+    "coverImage": "https://covers.openlibrary.org/b/id/77568-L.jpg?default=false"
   },
   {
     "id": "spinsters",
@@ -14871,7 +14929,9 @@
     "synopsis": "A discontented young Appalachian mother discovers a forested valley blanketed by millions of displaced monarch butterflies, igniting cultural and scientific clashes.",
     "pageCount": 436,
     "spineColor": "#d97706",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781443412995",
+    "coverImage": "https://covers.openlibrary.org/b/id/8753596-L.jpg?default=false"
   },
   {
     "id": "whered-you-go-bernadette",
@@ -15208,7 +15268,9 @@
     "synopsis": "In post-WWII London, teenage East End twins diagnosed with tuberculosis are sent to a Kent sanatorium on the cusp of the revolutionary introduction of antibiotics.",
     "pageCount": 304,
     "spineColor": "#475569",
-    "countryOfOrigin": "United Kingdom"
+    "countryOfOrigin": "United Kingdom",
+    "isbn13": "9780349006765",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0349006768.01.LZZZZZZZ.jpg"
   },
   {
     "id": "first-love",
@@ -15566,7 +15628,7 @@
     "pageCount": 304,
     "spineColor": "#78350f",
     "countryOfOrigin": "Trinidad and Tobago",
-    "coverImage": null,
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1912408996.01.LZZZZZZZ.jpg",
     "openLibraryKey": "/works/OL25770614W"
   },
   {
@@ -15825,7 +15887,7 @@
     "pageCount": 336,
     "spineColor": "#0f766e",
     "countryOfOrigin": "United States",
-    "coverImage": null,
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1526665794.01.LZZZZZZZ.jpg",
     "openLibraryKey": "/works/OL37628649W"
   },
   {
@@ -15845,7 +15907,8 @@
     "spineColor": "#e11d48",
     "countryOfOrigin": "Germany",
     "isbn13": "9781526679031",
-    "openLibraryKey": "/works/OL42406973W"
+    "openLibraryKey": "/works/OL42406973W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1526679035.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-persians",
@@ -15943,7 +16006,7 @@
     "pageCount": 320,
     "spineColor": "#065f46",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": null,
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1918228035.01.LZZZZZZZ.jpg",
     "openLibraryKey": "/works/OL45361513W"
   },
   {
@@ -16002,7 +16065,7 @@
     "pageCount": 180,
     "spineColor": "#1e3a8a",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": null,
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/187440058X.01.LZZZZZZZ.jpg",
     "openLibraryKey": "/works/OL25680314W"
   },
   {
@@ -16080,7 +16143,8 @@
     "spineColor": "#334155",
     "countryOfOrigin": "United Kingdom",
     "isbn13": "9781909585003",
-    "openLibraryKey": "/works/OL23165256W"
+    "openLibraryKey": "/works/OL23165256W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1909585009.01.LZZZZZZZ.jpg"
   },
   {
     "id": "j",
@@ -16494,7 +16558,9 @@
     "synopsis": "A refined translator living in Southwest London and rural France is haunted by sudden violent memories and marital dread in rhythmic, musical prose.",
     "pageCount": 112,
     "spineColor": "#18181b",
-    "countryOfOrigin": "United Kingdom"
+    "countryOfOrigin": "United Kingdom",
+    "isbn13": "9781784105464",
+    "coverImage": "https://covers.openlibrary.org/b/id/9200230-L.jpg?default=false"
   },
   {
     "id": "crudo",
@@ -16571,7 +16637,8 @@
     "spineColor": "#047857",
     "countryOfOrigin": "United Kingdom",
     "isbn13": "9781911508526",
-    "openLibraryKey": "/works/OL21193444W"
+    "openLibraryKey": "/works/OL21193444W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1911508520.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-porpoise",
@@ -16827,7 +16894,8 @@
     "spineColor": "#0d9488",
     "countryOfOrigin": "United Kingdom",
     "isbn13": "9781913505165",
-    "openLibraryKey": "/works/OL25315368W"
+    "openLibraryKey": "/works/OL25315368W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1913505162.01.LZZZZZZZ.jpg"
   },
   {
     "id": "seven-steeples",
@@ -16958,7 +17026,8 @@
     "spineColor": "#7c3aed",
     "countryOfOrigin": "United Kingdom",
     "isbn13": "9781739784966",
-    "openLibraryKey": "/works/OL35723579W"
+    "openLibraryKey": "/works/OL35723579W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1739784960.01.LZZZZZZZ.jpg"
   },
   {
     "id": "man-eating-typewriter",
@@ -16996,7 +17065,7 @@
     "pageCount": 336,
     "spineColor": "#0284c7",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": null
+    "coverImage": "https://covers.openlibrary.org/b/id/15132411-L.jpg?default=false"
   },
   {
     "id": "all-my-precious-madness",
@@ -17033,7 +17102,8 @@
     "spineColor": "#334155",
     "countryOfOrigin": "United Kingdom",
     "isbn13": "9780811237918",
-    "openLibraryKey": "/works/OL37578974W"
+    "openLibraryKey": "/works/OL37578974W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0811237915.01.LZZZZZZZ.jpg"
   },
   {
     "id": "choice",
@@ -17072,7 +17142,8 @@
     "spineColor": "#18181b",
     "countryOfOrigin": "United Kingdom",
     "isbn13": "9781739421229",
-    "openLibraryKey": "/works/OL37576527W"
+    "openLibraryKey": "/works/OL37576527W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1739421221.01.LZZZZZZZ.jpg"
   },
   {
     "id": "portraits-at-the-palace-of-creativity-and-wrecking",
@@ -17090,7 +17161,7 @@
     "pageCount": 272,
     "spineColor": "#0e7490",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": null,
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1399814257.01.LZZZZZZZ.jpg",
     "openLibraryKey": "/works/OL37571986W"
   },
   {
@@ -17298,7 +17369,9 @@
     "synopsis": "Shortlisted for the 2016 International Booker Prize.",
     "countryOfOrigin": "Turkey",
     "translator": "Ekin Oklap",
-    "originalLanguage": "Turkish"
+    "originalLanguage": "Turkish",
+    "isbn13": "9780571276004",
+    "coverImage": "https://covers.openlibrary.org/b/id/8113416-L.jpg?default=false"
   },
   {
     "id": "a-whole-life",
@@ -17374,7 +17447,9 @@
     "synopsis": "Shortlisted for the 2017 International Booker Prize.",
     "countryOfOrigin": "Norway",
     "translator": "Don Bartlett & Don Shaw",
-    "originalLanguage": "Norwegian"
+    "originalLanguage": "Norwegian",
+    "isbn13": "9780857053411",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0857053418.01.LZZZZZZZ.jpg"
   },
   {
     "id": "mirror-shoulder-signal",
@@ -17390,7 +17465,9 @@
     "synopsis": "Shortlisted for the 2017 International Booker Prize.",
     "countryOfOrigin": "Denmark",
     "translator": "Misha Hoekstra",
-    "originalLanguage": "Danish"
+    "originalLanguage": "Danish",
+    "isbn13": "9781555979980",
+    "coverImage": "https://covers.openlibrary.org/b/id/8241384-L.jpg?default=false"
   },
   {
     "id": "judas",
@@ -17406,7 +17483,9 @@
     "synopsis": "Shortlisted for the 2017 International Booker Prize.",
     "countryOfOrigin": "Israel",
     "translator": "Nicholas de Lange",
-    "originalLanguage": "Hebrew"
+    "originalLanguage": "Hebrew",
+    "isbn13": "9781328915442",
+    "coverImage": "https://covers.openlibrary.org/b/id/8861795-L.jpg?default=false"
   },
   {
     "id": "vernon-subutex-1",
@@ -17442,7 +17521,9 @@
     "synopsis": "Shortlisted for the 2018 International Booker Prize.",
     "countryOfOrigin": "South Korea",
     "translator": "Deborah Smith",
-    "originalLanguage": "Korean"
+    "originalLanguage": "Korean",
+    "isbn13": "9781846276293",
+    "coverImage": "https://covers.openlibrary.org/b/id/10227226-L.jpg?default=false"
   },
   {
     "id": "the-world-goes-on",
@@ -17458,7 +17539,9 @@
     "synopsis": "Shortlisted for the 2018 International Booker Prize.",
     "countryOfOrigin": "Hungary",
     "translator": "John Batki, Ottilie Mulzet & George Szirtes",
-    "originalLanguage": "Hungarian"
+    "originalLanguage": "Hungarian",
+    "isbn13": "9780811237512",
+    "coverImage": "https://covers.openlibrary.org/b/id/10279115-L.jpg?default=false"
   },
   {
     "id": "like-a-fading-shadow",
@@ -17474,7 +17557,9 @@
     "synopsis": "Shortlisted for the 2018 International Booker Prize.",
     "countryOfOrigin": "Spain",
     "translator": "Camilo A. Ramirez",
-    "originalLanguage": "Spanish"
+    "originalLanguage": "Spanish",
+    "isbn13": "9781665222686",
+    "coverImage": "https://covers.openlibrary.org/b/id/7316267-L.jpg?default=false"
   },
   {
     "id": "frankenstein-in-baghdad",
@@ -17510,7 +17595,9 @@
     "synopsis": "Shortlisted for the 2019 International Booker Prize.",
     "countryOfOrigin": "Germany",
     "translator": "Jen Calleja",
-    "originalLanguage": "German"
+    "originalLanguage": "German",
+    "isbn13": "9781552454015",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1552454010.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-shape-of-the-ruins",
@@ -17546,7 +17633,9 @@
     "synopsis": "Shortlisted for the 2019 International Booker Prize.",
     "countryOfOrigin": "Chile",
     "translator": "Sophie Hughes",
-    "originalLanguage": "Spanish"
+    "originalLanguage": "Spanish",
+    "isbn13": "9781566895507",
+    "coverImage": "https://covers.openlibrary.org/b/id/10357206-L.jpg?default=false"
   },
   {
     "id": "the-enlightenment-of-the-greengage-tree",
@@ -17625,7 +17714,8 @@
     "originalLanguage": "Russian",
     "isbn13": "9780811228831",
     "pageCount": 400,
-    "openLibraryKey": "/works/OL22037400W"
+    "openLibraryKey": "/works/OL22037400W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0811228835.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-war-of-the-poor",
@@ -17641,7 +17731,9 @@
     "synopsis": "Shortlisted for the 2021 International Booker Prize.",
     "countryOfOrigin": "France",
     "translator": "Mark Polizzotti",
-    "originalLanguage": "French"
+    "originalLanguage": "French",
+    "isbn13": "9781529038538",
+    "coverImage": "https://covers.openlibrary.org/b/id/10306776-L.jpg?default=false"
   },
   {
     "id": "a-new-name-septology-vi-vii",
@@ -17731,7 +17823,9 @@
     "synopsis": "Shortlisted for the 2023 International Booker Prize.",
     "countryOfOrigin": "Mexico",
     "translator": "Rosalind Harvey",
-    "originalLanguage": "Spanish"
+    "originalLanguage": "Spanish",
+    "isbn13": "9781913097660",
+    "coverImage": "https://covers.openlibrary.org/b/id/10488499-L.jpg?default=false"
   },
   {
     "id": "the-details",
@@ -17747,7 +17841,9 @@
     "synopsis": "Shortlisted for the 2024 International Booker Prize.",
     "countryOfOrigin": "Sweden",
     "translator": "Kira Josefsson",
-    "originalLanguage": "Swedish"
+    "originalLanguage": "Swedish",
+    "isbn13": "9781035400584",
+    "coverImage": "https://covers.openlibrary.org/b/id/13181004-L.jpg?default=false"
   },
   {
     "id": "mater-2-10",
@@ -17838,7 +17934,8 @@
     "originalLanguage": "Japanese",
     "isbn13": "9781803512365",
     "pageCount": 288,
-    "openLibraryKey": "/works/OL44547945W"
+    "openLibraryKey": "/works/OL44547945W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1803512369.01.LZZZZZZZ.jpg"
   },
   {
     "id": "small-boat",
@@ -17873,7 +17970,9 @@
     "synopsis": "Shortlisted for the 2025 International Booker Prize.",
     "countryOfOrigin": "Denmark",
     "translator": "Barbara J Haveland",
-    "originalLanguage": "Danish"
+    "originalLanguage": "Danish",
+    "isbn13": "9780571383399",
+    "coverImage": "https://covers.openlibrary.org/b/id/15147897-L.jpg?default=false"
   },
   {
     "id": "the-witch",
@@ -17928,7 +18027,9 @@
     "synopsis": "Shortlisted for the 2026 International Booker Prize.",
     "countryOfOrigin": "Germany",
     "translator": "Ross Benjamin",
-    "originalLanguage": "German"
+    "originalLanguage": "German",
+    "isbn13": "9781668087817",
+    "coverImage": "https://covers.openlibrary.org/b/id/15243734-L.jpg?default=false"
   },
   {
     "id": "she-who-remains",
@@ -17944,7 +18045,9 @@
     "synopsis": "Shortlisted for the 2026 International Booker Prize.",
     "countryOfOrigin": "Bulgaria",
     "translator": "Izidora Angel",
-    "originalLanguage": "Bulgarian"
+    "originalLanguage": "Bulgarian",
+    "isbn13": "9789533515748",
+    "coverImage": "https://covers.openlibrary.org/b/id/15225442-L.jpg?default=false"
   },
   {
     "id": "the-nights-are-quiet-in-tehran",
@@ -17960,7 +18063,9 @@
     "synopsis": "Shortlisted for the 2026 International Booker Prize.",
     "countryOfOrigin": "Germany",
     "translator": "Ruth Martin",
-    "originalLanguage": "German"
+    "originalLanguage": "German",
+    "isbn13": "9781964992105",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1964992109.01.LZZZZZZZ.jpg"
   },
   {
     "id": "figures-in-a-landscape",
@@ -18024,7 +18129,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Shortlisted for the 1969 Booker Prize.",
-    "countryOfOrigin": "United Kingdom"
+    "countryOfOrigin": "United Kingdom",
+    "isbn13": "9781846974335",
+    "coverImage": "https://covers.openlibrary.org/b/id/93325-L.jpg?default=false"
   },
   {
     "id": "from-scenes-like-these",
@@ -18263,27 +18370,31 @@
     "id": "goshawk-squadron",
     "title": "Goshawk Squadron",
     "authorId": "sortname-derek-robinson-derek-robinson-novelist",
-    "authorName": "{{sortname|Derek|Robinson|Derek Robinson (novelist)}}",
+    "authorName": "Derek Robinson",
     "publicationYear": 1971,
     "publisher": "Heinemann",
     "genres": [
       "Literary Fiction"
     ],
     "synopsis": "Shortlisted for the 1971 Booker Prize.",
-    "countryOfOrigin": "United Kingdom"
+    "countryOfOrigin": "United Kingdom",
+    "isbn13": "9781529417876",
+    "coverImage": "https://covers.openlibrary.org/b/id/543667-L.jpg?default=false"
   },
   {
     "id": "mrs-palfrey-at-the-claremont",
     "title": "Mrs. Palfrey at the Claremont",
     "authorId": "sortname-elizabeth-taylor-elizabeth-taylor-novelist",
-    "authorName": "{{sortname|Elizabeth|Taylor|Elizabeth Taylor (novelist)}}",
+    "authorName": "Elizabeth Taylor",
     "publicationYear": 1971,
     "publisher": "Chatto & Windus",
     "genres": [
       "Literary Fiction"
     ],
     "synopsis": "Shortlisted for the 1971 Booker Prize.",
-    "countryOfOrigin": "United Kingdom"
+    "countryOfOrigin": "United Kingdom",
+    "isbn13": "9780670494972",
+    "coverImage": "https://covers.openlibrary.org/b/id/12486351-L.jpg?default=false"
   },
   {
     "id": "the-bird-of-night",
@@ -18486,20 +18597,23 @@
     "countryOfOrigin": "United Kingdom",
     "isbn13": "9780571243310",
     "pageCount": 363,
-    "openLibraryKey": "/works/OL11275014W"
+    "openLibraryKey": "/works/OL11275014W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0571243312.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-doctor-s-wife",
     "title": "The Doctor's Wife",
     "authorId": "sortname-brian-moore-brian-moore-novelist",
-    "authorName": "{{sortname|Brian|Moore|Brian Moore (novelist)}}",
+    "authorName": "Brian Moore",
     "publicationYear": 1976,
     "publisher": "Jonathan Cape",
     "genres": [
       "Literary Fiction"
     ],
     "synopsis": "Shortlisted for the 1976 Booker Prize.",
-    "countryOfOrigin": "United Kingdom"
+    "countryOfOrigin": "United Kingdom",
+    "isbn13": "9780586087398",
+    "coverImage": "https://covers.openlibrary.org/b/id/382342-L.jpg?default=false"
   },
   {
     "id": "king-fisher-lives",
@@ -18539,14 +18653,15 @@
     "id": "peter-smart-s-confessions",
     "title": "Peter Smart's Confessions",
     "authorId": "sortname-paul-bailey-paul-bailey-british-writer",
-    "authorName": "{{sortname|Paul|Bailey|Paul Bailey (British writer)}}",
+    "authorName": "Paul Bailey",
     "publicationYear": 1977,
     "publisher": "Jonathan Cape",
     "genres": [
       "Literary Fiction"
     ],
     "synopsis": "Shortlisted for the 1977 Booker Prize.",
-    "countryOfOrigin": "United Kingdom"
+    "countryOfOrigin": "United Kingdom",
+    "isbn13": "9780224013581"
   },
   {
     "id": "great-granny-webster",
@@ -18569,14 +18684,16 @@
     "id": "shadows-on-our-skin",
     "title": "Shadows on Our Skin",
     "authorId": "sortname-jennifer-johnston-jennifer-johnston-novelist",
-    "authorName": "{{sortname|Jennifer|Johnston|Jennifer Johnston (novelist)}}",
+    "authorName": "Jennifer Johnston",
     "publicationYear": 1977,
     "publisher": "Hamish Hamilton",
     "genres": [
       "Literary Fiction"
     ],
     "synopsis": "Shortlisted for the 1977 Booker Prize.",
-    "countryOfOrigin": "United Kingdom"
+    "countryOfOrigin": "United Kingdom",
+    "isbn13": "9780140139792",
+    "coverImage": "https://covers.openlibrary.org/b/id/4935042-L.jpg?default=false"
   },
   {
     "id": "the-road-to-lichfield",
@@ -18823,7 +18940,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Shortlisted for the 1980 Booker Prize.",
-    "countryOfOrigin": "United Kingdom"
+    "countryOfOrigin": "United Kingdom",
+    "isbn13": "9780736605106",
+    "coverImage": "https://covers.openlibrary.org/b/id/420124-L.jpg?default=false"
   },
   {
     "id": "no-country-for-young-men",
@@ -21218,7 +21337,8 @@
     "countryOfOrigin": "United Kingdom",
     "isbn13": "9780857893031",
     "pageCount": 300,
-    "openLibraryKey": "/works/OL21470796W"
+    "openLibraryKey": "/works/OL21470796W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0857893033.01.LZZZZZZZ.jpg"
   },
   {
     "id": "swimming-home",
@@ -21669,7 +21789,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 1952 National Book Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780140016253",
+    "coverImage": "https://covers.openlibrary.org/b/id/9614904-L.jpg?default=false"
   },
   {
     "id": "melville-goodwin-usa",
@@ -22097,7 +22219,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 1956 National Book Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780156364652",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0156364654.01.LZZZZZZZ.jpg"
   },
   {
     "id": "faithful-are-the-wounds",
@@ -22280,7 +22404,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 1957 National Book Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780132393492",
+    "coverImage": "https://covers.openlibrary.org/b/id/7305895-L.jpg?default=false"
   },
   {
     "id": "the-last-hurrah",
@@ -22398,7 +22524,8 @@
     "countryOfOrigin": "United States",
     "coverImage": "https://covers.openlibrary.org/b/id/8238093-L.jpg?default=false",
     "pageCount": 373,
-    "openLibraryKey": "/works/OL4133241W"
+    "openLibraryKey": "/works/OL4133241W",
+    "isbn13": "9780918769039"
   },
   {
     "id": "the-assistant",
@@ -22744,7 +22871,8 @@
     "countryOfOrigin": "United States",
     "isbn13": "9780812978476",
     "pageCount": 183,
-    "openLibraryKey": "/works/OL12568715W"
+    "openLibraryKey": "/works/OL12568715W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0812978471.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-haunting-of-hill-house",
@@ -23162,7 +23290,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 1962 National Book Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780140186994",
+    "coverImage": "https://covers.openlibrary.org/b/id/223052-L.jpg?default=false"
   },
   {
     "id": "the-pawnbroker",
@@ -23335,7 +23465,7 @@
   },
   {
     "id": "sort-2-rector-of-justin-1-the",
-    "title": "{{Sort|2=Rector of Justin|1=The}}",
+    "title": "The Rector of Justin",
     "authorId": "louis-auchincloss",
     "authorName": "Louis Auchincloss",
     "publicationYear": 1964,
@@ -23344,7 +23474,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 1965 National Book Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780679641025",
+    "coverImage": "https://covers.openlibrary.org/b/id/419625-L.jpg?default=false"
   },
   {
     "id": "second-skin",
@@ -23408,7 +23540,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 1965 National Book Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780140296679",
+    "coverImage": "https://covers.openlibrary.org/b/id/1014327-L.jpg?default=false"
   },
   {
     "id": "short-friday-and-other-stories",
@@ -23649,7 +23783,7 @@
   },
   {
     "id": "sortname-the-confessions-of-nat-turner",
-    "title": "{{Sortname|The|Confessions of Nat Turner}}",
+    "title": "The Confessions of Nat Turner",
     "authorId": "william-styron",
     "authorName": "William Styron",
     "publicationYear": 1967,
@@ -23658,7 +23792,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 1968 National Book Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780553269161",
+    "coverImage": "https://covers.openlibrary.org/b/id/12369340-L.jpg?default=false"
   },
   {
     "id": "lost-in-the-funhouse",
@@ -23809,7 +23945,8 @@
     "countryOfOrigin": "United States",
     "isbn13": "9780394416380",
     "pageCount": 206,
-    "openLibraryKey": "/works/OL463598W"
+    "openLibraryKey": "/works/OL463598W",
+    "coverImage": "https://covers.openlibrary.org/b/id/290001-L.jpg?default=false"
   },
   {
     "id": "losing-battles",
@@ -24679,16 +24816,18 @@
   },
   {
     "id": "finalist",
-    "title": "Finalist",
-    "authorId": "just-above-my-head",
-    "authorName": "Just Above My Head",
+    "title": "Just Above My Head",
+    "authorId": "james-baldwin",
+    "authorName": "James Baldwin",
     "publicationYear": 1979,
     "publisher": "Unknown Publisher",
     "genres": [
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 1980 National Book Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780440344599",
+    "coverImage": "https://covers.openlibrary.org/b/id/97822-L.jpg?default=false"
   },
   {
     "id": "the-anatomy-lesson",
@@ -24828,7 +24967,7 @@
   },
   {
     "id": "sortname-2-mambo-kings-play-songs-of-love-1-the",
-    "title": "{{Sortname|2=Mambo Kings Play Songs of Love|1=The}}",
+    "title": "The Mambo Kings Play Songs of Love",
     "authorId": "oscar-hijuelos",
     "authorName": "Oscar Hijuelos",
     "publicationYear": 1988,
@@ -24837,7 +24976,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 1989 National Book Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781538740620",
+    "coverImage": "https://covers.openlibrary.org/b/id/37931-L.jpg?default=false"
   },
   {
     "id": "the-joy-luck-club",
@@ -25054,7 +25195,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 1993 National Book Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780736641180",
+    "coverImage": "https://covers.openlibrary.org/b/id/4009972-L.jpg?default=false"
   },
   {
     "id": "the-pugilist-at-rest",
@@ -25713,7 +25856,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 2004 National Book Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780393326871",
+    "coverImage": "https://covers.openlibrary.org/b/id/247956-L.jpg?default=false"
   },
   {
     "id": "our-kind",
@@ -26184,11 +26329,13 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 2013 National Book Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781408837351",
+    "coverImage": "https://covers.openlibrary.org/b/id/8346437-L.jpg?default=false"
   },
   {
     "id": "sortname-2-unnecessary-woman-1-an",
-    "title": "{{Sortname|2=Unnecessary Woman|1=An}}",
+    "title": "An Unnecessary Woman",
     "authorId": "rabih-alameddine",
     "authorName": "Rabih Alameddine",
     "publicationYear": 2013,
@@ -26197,7 +26344,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 2014 National Book Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781491508336",
+    "coverImage": "https://covers.openlibrary.org/b/id/8354628-L.jpg?default=false"
   },
   {
     "id": "station-eleven",
@@ -26349,7 +26498,8 @@
     "countryOfOrigin": "United States",
     "isbn13": "9781101947371",
     "pageCount": 264,
-    "openLibraryKey": "/works/OL20045927W"
+    "openLibraryKey": "/works/OL20045927W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1101947373.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-leavers",
@@ -26447,7 +26597,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 2019 National Book Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780525511304",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/052551130X.01.LZZZZZZZ.jpg"
   },
   {
     "id": "black-leopard-red-wolf",
@@ -26630,7 +26782,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 2022 National Book Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780807029947",
+    "coverImage": "https://covers.openlibrary.org/b/id/12523912-L.jpg?default=false"
   },
   {
     "id": "the-haunting-of-hajji-hotak-and-other-stories",
@@ -26646,7 +26800,8 @@
     "countryOfOrigin": "United States",
     "isbn13": "9780593297193",
     "pageCount": 288,
-    "openLibraryKey": "/works/OL45845360W"
+    "openLibraryKey": "/works/OL45845360W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0593297199.01.LZZZZZZZ.jpg"
   },
   {
     "id": "all-this-could-be-different",
@@ -26676,7 +26831,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 2022 National Book Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781662601033",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1662601034.01.LZZZZZZZ.jpg"
   },
   {
     "id": "temple-folk",
@@ -26753,7 +26910,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 2025 National Book Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781646053582",
+    "coverImage": "https://covers.openlibrary.org/b/id/15202895-L.jpg?default=false"
   },
   {
     "id": "palaver",
@@ -27021,7 +27180,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 1979 National Book Critics Circle Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781623846046",
+    "coverImage": "https://covers.openlibrary.org/b/id/860105-L.jpg?default=false"
   },
   {
     "id": "sleepless-nights",
@@ -27051,7 +27212,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 1979 National Book Critics Circle Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780099230601",
+    "coverImage": "https://covers.openlibrary.org/b/id/6975866-L.jpg?default=false"
   },
   {
     "id": "loon-lake",
@@ -27353,7 +27516,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 1986 National Book Critics Circle Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781979662857",
+    "coverImage": "https://covers.openlibrary.org/b/id/314604-L.jpg?default=false"
   },
   {
     "id": "crossing-to-safety",
@@ -27417,7 +27582,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 1988 National Book Critics Circle Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780679722311",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0679722319.01.LZZZZZZZ.jpg"
   },
   {
     "id": "ordinary-love-good-will",
@@ -27753,7 +27920,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 1996 National Book Critics Circle Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780452155336",
+    "coverImage": "https://covers.openlibrary.org/b/id/3103690-L.jpg?default=false"
   },
   {
     "id": "dreams-of-my-russian-summers",
@@ -27768,7 +27937,8 @@
     "synopsis": "Finalist for the 1997 National Book Critics Circle Award for Fiction.",
     "countryOfOrigin": "United States",
     "isbn13": "9781611450545",
-    "openLibraryKey": "/works/OL16213996W"
+    "openLibraryKey": "/works/OL16213996W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1611450543.01.LZZZZZZZ.jpg"
   },
   {
     "id": "birds-of-america",
@@ -27917,7 +28087,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 2000 National Book Critics Circle Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781491536209",
+    "coverImage": "https://covers.openlibrary.org/b/id/12745205-L.jpg?default=false"
   },
   {
     "id": "the-gravedigger-s-daughter",
@@ -28032,7 +28204,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 2010 National Book Critics Circle Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780307476401",
+    "coverImage": "https://covers.openlibrary.org/b/id/6593862-L.jpg?default=false"
   },
   {
     "id": "comedy-in-a-minor-key",
@@ -28062,7 +28236,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 2010 National Book Critics Circle Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780007419715",
+    "coverImage": "https://covers.openlibrary.org/b/id/6593716-L.jpg?default=false"
   },
   {
     "id": "skippy-dies",
@@ -28215,7 +28391,9 @@
     ],
     "synopsis": "Finalist for the 2013 National Book Critics Circle Award for Fiction.",
     "countryOfOrigin": "United States",
-    "translator": "Margaret Jull Costa"
+    "translator": "Margaret Jull Costa",
+    "isbn13": "9780241958506",
+    "coverImage": "https://covers.openlibrary.org/b/id/6718286-L.jpg?default=false"
   },
   {
     "id": "on-such-a-full-sea",
@@ -28298,7 +28476,9 @@
     "synopsis": "Finalist for the 2015 National Book Critics Circle Award for Fiction.",
     "countryOfOrigin": "United States",
     "translator": "Christina MacSweeney",
-    "originalLanguage": "Spanish"
+    "originalLanguage": "Spanish",
+    "isbn13": "9781566894104",
+    "coverImage": "https://covers.openlibrary.org/b/id/7283942-L.jpg?default=false"
   },
   {
     "id": "commonwealth",
@@ -28328,7 +28508,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 2016 National Book Critics Circle Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780008189860",
+    "coverImage": "https://covers.openlibrary.org/b/id/12745235-L.jpg?default=false"
   },
   {
     "id": "swing-time",
@@ -28600,7 +28782,9 @@
     ],
     "synopsis": "Finalist for the 2022 National Book Critics Circle Award for Fiction.",
     "countryOfOrigin": "United States",
-    "translator": "Sam Bett and David Boyd"
+    "translator": "Sam Bett and David Boyd",
+    "isbn13": "9781609457631",
+    "coverImage": "https://covers.openlibrary.org/b/id/11566246-L.jpg?default=false"
   },
   {
     "id": "the-furrows",
@@ -28613,7 +28797,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 2022 National Book Critics Circle Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781473597464",
+    "coverImage": "https://covers.openlibrary.org/b/id/12941349-L.jpg?default=false"
   },
   {
     "id": "tremor",
@@ -28662,7 +28848,9 @@
     ],
     "synopsis": "Finalist for the 2023 National Book Critics Circle Award for Fiction.",
     "countryOfOrigin": "United States",
-    "translator": "Jordan Stump"
+    "translator": "Jordan Stump",
+    "isbn13": "9780593467381",
+    "coverImage": "https://covers.openlibrary.org/b/id/10540450-L.jpg?default=false"
   },
   {
     "id": "beautyland",
@@ -28727,7 +28915,9 @@
     ],
     "synopsis": "Finalist for the 2025 National Book Critics Circle Award for Fiction.",
     "countryOfOrigin": "United States",
-    "translator": "Sophia Hersi Smith and Jennifer Russell"
+    "translator": "Sophia Hersi Smith and Jennifer Russell",
+    "isbn13": "9780571383436",
+    "coverImage": "https://covers.openlibrary.org/b/id/15213040-L.jpg?default=false"
   },
   {
     "id": "ghosts",
@@ -28819,7 +29009,8 @@
     "translator": "Giovanni Pontiero",
     "originalLanguage": "Portuguese",
     "isbn13": "9788420460611",
-    "openLibraryKey": "/works/OL27492460W"
+    "openLibraryKey": "/works/OL27492460W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/8420460613.01.LZZZZZZZ.jpg"
   },
   {
     "id": "away",
@@ -28869,7 +29060,9 @@
     "synopsis": "Shortlisted for the 1997 International Dublin Literary Award.",
     "countryOfOrigin": "International",
     "translator": "Tom Geddes",
-    "originalLanguage": "Swedish"
+    "originalLanguage": "Swedish",
+    "isbn13": "9780002712804",
+    "coverImage": "https://covers.openlibrary.org/b/id/598161-L.jpg?default=false"
   },
   {
     "id": "novel-without-a-name",
@@ -28885,7 +29078,9 @@
     "synopsis": "Shortlisted for the 1997 International Dublin Literary Award.",
     "countryOfOrigin": "International",
     "translator": "Huy Duong Phan &",
-    "originalLanguage": "Vietnamese"
+    "originalLanguage": "Vietnamese",
+    "isbn13": "9780330344074",
+    "coverImage": "https://covers.openlibrary.org/b/id/12725453-L.jpg?default=false"
   },
   {
     "id": "pereira-maintains",
@@ -28901,7 +29096,9 @@
     "synopsis": "Shortlisted for the 1997 International Dublin Literary Award.",
     "countryOfOrigin": "International",
     "translator": "Patrick Creagh",
-    "originalLanguage": "Italian"
+    "originalLanguage": "Italian",
+    "isbn13": "9780811213196",
+    "coverImage": "https://covers.openlibrary.org/b/id/5496834-L.jpg?default=false"
   },
   {
     "id": "the-good-negress",
@@ -28968,7 +29165,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Shortlisted for the 1998 International Dublin Literary Award.",
-    "countryOfOrigin": "International"
+    "countryOfOrigin": "International",
+    "isbn13": "9781845230159",
+    "coverImage": "https://covers.openlibrary.org/b/id/1146972-L.jpg?default=false"
   },
   {
     "id": "the-glade-within-the-grove",
@@ -29086,7 +29285,9 @@
     "synopsis": "Shortlisted for the 1999 International Dublin Literary Award.",
     "countryOfOrigin": "International",
     "translator": "Jay Rubin",
-    "originalLanguage": "Japanese"
+    "originalLanguage": "Japanese",
+    "isbn13": "9780679775430",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0679775439.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-reader",
@@ -29102,7 +29303,9 @@
     "synopsis": "Shortlisted for the 1999 International Dublin Literary Award.",
     "countryOfOrigin": "International",
     "translator": "Carol Janeway",
-    "originalLanguage": "German"
+    "originalLanguage": "German",
+    "isbn13": "9780679781301",
+    "coverImage": "https://covers.openlibrary.org/b/id/998445-L.jpg?default=false"
   },
   {
     "id": "trumpet",
@@ -29408,7 +29611,9 @@
     "synopsis": "Shortlisted for the 2004 International Dublin Literary Award.",
     "countryOfOrigin": "International",
     "translator": "Barbara Bray",
-    "originalLanguage": "French"
+    "originalLanguage": "French",
+    "isbn13": "9781559707022",
+    "coverImage": "https://covers.openlibrary.org/b/id/977688-L.jpg?default=false"
   },
   {
     "id": "earth-and-ashes",
@@ -29447,7 +29652,8 @@
     "originalLanguage": "Polish",
     "isbn13": "9798217168965",
     "pageCount": 384,
-    "openLibraryKey": "/works/OL44582126W"
+    "openLibraryKey": "/works/OL44582126W",
+    "coverImage": "https://covers.openlibrary.org/b/id/918693-L.jpg?default=false"
   },
   {
     "id": "gardening-at-night",
@@ -29519,7 +29725,8 @@
     "translator": "Sam Garrett",
     "originalLanguage": "Dutch",
     "isbn13": "9780099431800",
-    "openLibraryKey": "/works/OL25649468W"
+    "openLibraryKey": "/works/OL25649468W",
+    "coverImage": "https://covers.openlibrary.org/b/id/860133-L.jpg?default=false"
   },
   {
     "id": "willenbrock",
@@ -29853,7 +30060,9 @@
     "synopsis": "Shortlisted for the 2008 International Dublin Literary Award.",
     "countryOfOrigin": "International",
     "translator": "Anne McLean",
-    "originalLanguage": "Spanish"
+    "originalLanguage": "Spanish",
+    "isbn13": "9781596912144",
+    "coverImage": "https://covers.openlibrary.org/b/id/1048294-L.jpg?default=false"
   },
   {
     "id": "the-sweet-simple-kind",
@@ -30020,7 +30229,8 @@
     "originalLanguage": "Norwegian",
     "isbn13": "9780719521126",
     "pageCount": 200,
-    "openLibraryKey": "/works/OL991592W"
+    "openLibraryKey": "/works/OL991592W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0719521122.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-indian-clerk",
@@ -30384,7 +30594,9 @@
     "synopsis": "Shortlisted for the 2012 International Dublin Literary Award.",
     "countryOfOrigin": "International",
     "translator": "Alison Entrekin",
-    "originalLanguage": "Portuguese"
+    "originalLanguage": "Portuguese",
+    "isbn13": "9781921372988",
+    "coverImage": "https://covers.openlibrary.org/b/id/5526623-L.jpg?default=false"
   },
   {
     "id": "lean-on-pete",
@@ -30454,7 +30666,9 @@
     "synopsis": "Shortlisted for the 2013 International Dublin Literary Award.",
     "countryOfOrigin": "International",
     "translator": "Jay Rubin &",
-    "originalLanguage": "Japanese"
+    "originalLanguage": "Japanese",
+    "isbn13": "9780307593313",
+    "coverImage": "https://covers.openlibrary.org/b/id/11153243-L.jpg?default=false"
   },
   {
     "id": "the-tragedy-of-arthur",
@@ -30507,7 +30721,9 @@
     "synopsis": "Shortlisted for the 2013 International Dublin Literary Award.",
     "countryOfOrigin": "International",
     "translator": "Kerri Pierce",
-    "originalLanguage": "Norwegian"
+    "originalLanguage": "Norwegian",
+    "isbn13": "9781564787026",
+    "coverImage": "https://covers.openlibrary.org/b/id/10368673-L.jpg?default=false"
   },
   {
     "id": "caesarion",
@@ -30597,7 +30813,9 @@
     "synopsis": "Shortlisted for the 2014 International Dublin Literary Award.",
     "countryOfOrigin": "International",
     "translator": "Don Bartlett",
-    "originalLanguage": "Norwegian"
+    "originalLanguage": "Norwegian",
+    "isbn13": "9781448155842",
+    "coverImage": "https://covers.openlibrary.org/b/id/7738032-L.jpg?default=false"
   },
   {
     "id": "three-strong-women",
@@ -30613,7 +30831,9 @@
     "synopsis": "Shortlisted for the 2014 International Dublin Literary Award.",
     "countryOfOrigin": "International",
     "translator": "John Fletcher",
-    "originalLanguage": "French"
+    "originalLanguage": "French",
+    "isbn13": "9780857050571",
+    "coverImage": "https://covers.openlibrary.org/b/id/6678854-L.jpg?default=false"
   },
   {
     "id": "traveller-of-the-century",
@@ -30777,7 +30997,9 @@
     "synopsis": "Shortlisted for the 2016 International Dublin Literary Award.",
     "countryOfOrigin": "International",
     "translator": "Anne McLean",
-    "originalLanguage": "Spanish"
+    "originalLanguage": "Spanish",
+    "isbn13": "9781408850459",
+    "coverImage": "https://covers.openlibrary.org/b/id/7259190-L.jpg?default=false"
   },
   {
     "id": "academy-street",
@@ -30827,7 +31049,9 @@
     "synopsis": "Shortlisted for the 2016 International Dublin Literary Award.",
     "countryOfOrigin": "International",
     "translator": "Susan Bernofsky",
-    "originalLanguage": "German"
+    "originalLanguage": "German",
+    "isbn13": "9781846275159",
+    "coverImage": "https://covers.openlibrary.org/b/id/10311359-L.jpg?default=false"
   },
   {
     "id": "diary-of-the-fall",
@@ -30957,7 +31181,9 @@
     "synopsis": "Shortlisted for the 2018 International Dublin Literary Award.",
     "countryOfOrigin": "International",
     "translator": "Tim Mohr",
-    "originalLanguage": "German"
+    "originalLanguage": "German",
+    "isbn13": "9781609453336",
+    "coverImage": "https://covers.openlibrary.org/b/id/7911155-L.jpg?default=false"
   },
   {
     "id": "the-transmigration-of-bodies",
@@ -30993,7 +31219,9 @@
     "synopsis": "Shortlisted for the 2018 International Dublin Literary Award.",
     "countryOfOrigin": "International",
     "translator": "Deborah Smith",
-    "originalLanguage": "Korean"
+    "originalLanguage": "Korean",
+    "isbn13": "9781846275968",
+    "coverImage": "https://covers.openlibrary.org/b/id/8047485-L.jpg?default=false"
   },
   {
     "id": "distant-light",
@@ -31273,7 +31501,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Shortlisted for the 2022 International Dublin Literary Award.",
-    "countryOfOrigin": "International"
+    "countryOfOrigin": "International",
+    "isbn13": "9781517911263",
+    "coverImage": "https://covers.openlibrary.org/b/id/10660477-L.jpg?default=false"
   },
   {
     "id": "paradais",
@@ -31311,7 +31541,8 @@
     "translator": "Mima Simić",
     "originalLanguage": "Croatian",
     "isbn13": "9781771965989",
-    "openLibraryKey": "/works/OL37617506W"
+    "openLibraryKey": "/works/OL37617506W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1771965983.01.LZZZZZZZ.jpg"
   },
   {
     "id": "em",
@@ -31466,7 +31697,8 @@
     "translator": "Pablo Strauss",
     "originalLanguage": "French",
     "isbn13": "9781552454855",
-    "openLibraryKey": "/works/OL37884326W"
+    "openLibraryKey": "/works/OL37884326W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1552454851.01.LZZZZZZZ.jpg"
   },
   {
     "id": "live-fast",
@@ -31516,7 +31748,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 1956 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781886778337",
+    "coverImage": "https://covers.openlibrary.org/b/id/934057-L.jpg?default=false"
   },
   {
     "id": "the-end-of-eternity",
@@ -31617,8 +31851,9 @@
     ],
     "synopsis": "Nominated for the 1959 Hugo Award for Best Novel.",
     "countryOfOrigin": "United States",
-    "isbn13": "9780450038549",
-    "openLibraryKey": "/works/OL39145951W"
+    "isbn13": "9781476779485",
+    "openLibraryKey": "/works/OL39145951W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1476779481.01.LZZZZZZZ.jpg"
   },
   {
     "id": "time-killer",
@@ -31836,7 +32071,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 1962 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780816320905",
+    "coverImage": "https://covers.openlibrary.org/b/id/14620253-L.jpg?default=false"
   },
   {
     "id": "the-sword-of-aldones",
@@ -31894,9 +32131,9 @@
   },
   {
     "id": "rowspan-2-sylva",
-    "title": "rowspan=\"2\"| Sylva",
+    "title": "Sylva",
     "authorId": "jean-bruller-efn-name-sylva-sylva-was-the-first-translated-work-to-appear-on-the-hugo-ballot-the-translator-was-not-officially-recognized-until-2019",
-    "authorName": "Jean Bruller {{efn|name=Sylva|Sylva was the first translated work to appear on the Hugo ballot. The translator was not officially recognized until 2019.}}",
+    "authorName": "Jean Bruller",
     "publicationYear": 1962,
     "publisher": "rowspan=\"2\"| Putnam Publishing Group",
     "genres": [
@@ -31944,7 +32181,7 @@
   },
   {
     "id": "dune-world-efn-dune-world-was-the-title-of-the-1964-serialized-novel-when-dune-world-and-its-sequel-the-prophet-of-dune-were-incorporated-into-the-1965-edition-of-dune-the-book-edition-was-allowed-to-be-nominated-in-1966",
-    "title": "Dune World{{efn|Dune World was the title of the 1964 serialized novel; when \"Dune World\" and its sequel, \"The Prophet of Dune\", were incorporated into the 1965 edition of Dune, the book edition was allowed to be nominated in 1966.}}",
+    "title": "Dune World",
     "authorId": "frank-herbert",
     "authorName": "Frank Herbert",
     "publicationYear": 1963,
@@ -31954,7 +32191,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 1964 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780425018477",
+    "coverImage": "https://covers.openlibrary.org/b/id/980253-L.jpg?default=false"
   },
   {
     "id": "cat-s-cradle",
@@ -32048,7 +32287,7 @@
   },
   {
     "id": "the-moon-is-a-harsh-mistress-efn-name-tmiahm-the-moon-is-a-harsh-mistress-was-serialized-in-1965-66-and-was-allowed-to-be-nominated-for-both-years",
-    "title": "The Moon Is a Harsh Mistress{{efn|name=\"TMIAHM\"|The Moon Is a Harsh Mistress was serialized in 1965–66, and was allowed to be nominated for both years.}}",
+    "title": "The Moon Is a Harsh Mistress",
     "authorId": "robert-a-heinlein",
     "authorName": "Robert A. Heinlein",
     "publicationYear": 1965,
@@ -32058,7 +32297,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 1966 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780739409060",
+    "coverImage": "https://covers.openlibrary.org/b/id/14631258-L.jpg?default=false"
   },
   {
     "id": "skylark-duquesne",
@@ -32620,7 +32861,7 @@
   },
   {
     "id": "rowspan-2-the-mote-in-god-s-eye",
-    "title": "rowspan=\"2\"| The Mote in God's Eye",
+    "title": "The Mote in God's Eye",
     "authorId": "larry-niven",
     "authorName": "Larry Niven",
     "publicationYear": 1974,
@@ -32630,7 +32871,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 1975 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780671456184",
+    "coverImage": "https://covers.openlibrary.org/b/id/408133-L.jpg?default=false"
   },
   {
     "id": "inverted-world",
@@ -32670,7 +32913,7 @@
   },
   {
     "id": "rowspan-2-inferno",
-    "title": "rowspan=\"2\"| Inferno",
+    "title": "Inferno",
     "authorId": "larry-niven",
     "authorName": "Larry Niven",
     "publicationYear": 1975,
@@ -32680,7 +32923,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 1976 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781607514909",
+    "coverImage": "https://covers.openlibrary.org/b/id/4648750-L.jpg?default=false"
   },
   {
     "id": "the-computer-connection",
@@ -32792,7 +33037,7 @@
   },
   {
     "id": "rowspan-2-lucifer-s-hammer",
-    "title": "rowspan=\"2\"| Lucifer's Hammer",
+    "title": "Lucifer's Hammer",
     "authorId": "larry-niven",
     "authorName": "Larry Niven",
     "publicationYear": 1977,
@@ -32802,7 +33047,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 1978 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780345421395",
+    "coverImage": "https://covers.openlibrary.org/b/id/4414184-L.jpg?default=false"
   },
   {
     "id": "time-storm",
@@ -33229,7 +33476,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 1984 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780552990509",
+    "coverImage": "https://covers.openlibrary.org/b/id/206957-L.jpg?default=false"
   },
   {
     "id": "the-robots-of-dawn",
@@ -33359,7 +33608,7 @@
   },
   {
     "id": "rowspan-2-footfall",
-    "title": "rowspan=\"2\"| Footfall",
+    "title": "Footfall",
     "authorId": "larry-niven",
     "authorName": "Larry Niven",
     "publicationYear": 1985,
@@ -33369,7 +33618,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 1986 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780345418425",
+    "coverImage": "https://covers.openlibrary.org/b/id/209010-L.jpg?default=false"
   },
   {
     "id": "blood-music",
@@ -33923,7 +34174,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 1995 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780451454843",
+    "coverImage": "https://covers.openlibrary.org/b/id/182455-L.jpg?default=false"
   },
   {
     "id": "brittle-innings",
@@ -33955,7 +34208,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 1995 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780156002103",
+    "coverImage": "https://covers.openlibrary.org/b/id/3942313-L.jpg?default=false"
   },
   {
     "id": "the-time-ships",
@@ -34077,7 +34332,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 1997 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780553575491",
+    "coverImage": "https://covers.openlibrary.org/b/id/3202735-L.jpg?default=false"
   },
   {
     "id": "city-on-fire",
@@ -34451,7 +34708,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 2003 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781841491523",
+    "coverImage": "https://covers.openlibrary.org/b/id/524001-L.jpg?default=false"
   },
   {
     "id": "bones-of-the-earth",
@@ -34969,7 +35228,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 2010 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780143056300",
+    "coverImage": "https://covers.openlibrary.org/b/id/5728675-L.jpg?default=false"
   },
   {
     "id": "palimpsest",
@@ -35001,7 +35262,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 2010 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780765359230",
+    "coverImage": "https://covers.openlibrary.org/b/id/6297650-L.jpg?default=false"
   },
   {
     "id": "cryoburn",
@@ -35051,7 +35314,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 2011 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781101981054",
+    "coverImage": "https://covers.openlibrary.org/b/id/15090671-L.jpg?default=false"
   },
   {
     "id": "the-hundred-thousand-kingdoms",
@@ -35101,7 +35366,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 2012 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780316080804",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0316080802.01.LZZZZZZZ.jpg"
   },
   {
     "id": "embassytown",
@@ -35151,7 +35418,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 2013 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780316080811",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0316080810.01.LZZZZZZZ.jpg"
   },
   {
     "id": "captain-vorpatril-s-alliance",
@@ -35219,7 +35488,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 2014 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780316218955",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0316218952.01.LZZZZZZZ.jpg"
   },
   {
     "id": "warbound",
@@ -35241,7 +35512,7 @@
   },
   {
     "id": "rowspan-2-the-wheel-of-time-efn-the-entire-the-wheel-of-time-series-of-novels-was-nominated-as-a-whole-under-an-interpretation-of-the-rules-confirmed-by-the-world-science-fiction-society-which-permit-multi-part-works-to-be-nominated-as-long-as-no-individual-part-or-book-had-ever-been-on-the-shortlist",
-    "title": "rowspan=\"2\"| The Wheel of Time{{efn|The entire The Wheel of Time series of novels was nominated as a whole under an interpretation of the rules, confirmed by the World Science Fiction Society, which permit multi-part works to be nominated as long as no individual part (or book) had ever been on the shortlist.}}",
+    "title": "The Wheel of Time",
     "authorId": "robert-jordan",
     "authorName": "Robert Jordan",
     "publicationYear": 2013,
@@ -35251,7 +35522,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 2014 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781857239096",
+    "coverImage": "https://covers.openlibrary.org/b/id/980232-L.jpg?default=false"
   },
   {
     "id": "the-goblin-emperor",
@@ -35265,7 +35538,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 2015 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780765340078",
+    "coverImage": "https://covers.openlibrary.org/b/id/9319294-L.jpg?default=false"
   },
   {
     "id": "the-dark-between-the-stars",
@@ -35369,7 +35644,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 2016 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780451466815",
+    "coverImage": "https://covers.openlibrary.org/b/id/10665014-L.jpg?default=false"
   },
   {
     "id": "a-closed-and-common-orbit",
@@ -35391,9 +35668,9 @@
   },
   {
     "id": "rowspan-2-death-s-end",
-    "title": "rowspan=\"2\"| Death's End",
+    "title": "Death's End",
     "authorId": "cixin-liu-efn-name-translator",
-    "authorName": "Cixin Liu {{efn|name=translator}}",
+    "authorName": "Cixin Liu",
     "publicationYear": 2016,
     "publisher": "rowspan=\"2\"| Chongqing Press (original)",
     "genres": [
@@ -35401,7 +35678,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 2017 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780765397485",
+    "coverImage": "https://covers.openlibrary.org/b/id/14632491-L.jpg?default=false"
   },
   {
     "id": "ninefox-gambit",
@@ -35919,7 +36198,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 2023 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780593355336",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0593355334.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-spare-man",
@@ -35933,7 +36214,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 2023 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781250236999",
+    "coverImage": "https://covers.openlibrary.org/b/id/13257893-L.jpg?default=false"
   },
   {
     "id": "the-adventures-of-amina-al-sirafi",
@@ -36054,7 +36337,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 2025 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781250244079",
+    "coverImage": "https://covers.openlibrary.org/b/id/14649359-L.jpg?default=false"
   },
   {
     "id": "a-drop-of-corruption",
@@ -36179,7 +36464,8 @@
     "countryOfOrigin": "United States",
     "isbn13": "9780709103219",
     "pageCount": 189,
-    "openLibraryKey": "/works/OL9981914W"
+    "openLibraryKey": "/works/OL9981914W",
+    "coverImage": "https://covers.openlibrary.org/b/id/869518-L.jpg?default=false"
   },
   {
     "id": "dr-bloodmoney-or-how-we-got-along-after-the-bomb",
@@ -36193,7 +36479,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 1965 Nebula Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780441156702",
+    "coverImage": "https://covers.openlibrary.org/b/id/9251753-L.jpg?default=false"
   },
   {
     "id": "the-escape-orbit",
@@ -36506,7 +36794,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 1970 Nebula Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780575118027",
+    "coverImage": "https://covers.openlibrary.org/b/id/8579248-L.jpg?default=false"
   },
   {
     "id": "the-byworlder",
@@ -36593,7 +36883,8 @@
     "synopsis": "Nominated for the 1972 Nebula Award for Best Novel.",
     "countryOfOrigin": "United States",
     "isbn13": "9780380002009",
-    "openLibraryKey": "/works/OL15462390W"
+    "openLibraryKey": "/works/OL15462390W",
+    "coverImage": "https://covers.openlibrary.org/b/id/13816992-L.jpg?default=false"
   },
   {
     "id": "the-sheep-look-up",
@@ -36843,7 +37134,8 @@
     "synopsis": "Nominated for the 1975 Nebula Award for Best Novel.",
     "countryOfOrigin": "United States",
     "isbn13": "9780436203916",
-    "openLibraryKey": "/works/OL39113026W"
+    "openLibraryKey": "/works/OL39113026W",
+    "coverImage": "https://covers.openlibrary.org/b/id/963147-L.jpg?default=false"
   },
   {
     "id": "a-midsummer-tempest",
@@ -37429,7 +37721,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 1986 Nebula Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780099630708",
+    "coverImage": "https://covers.openlibrary.org/b/id/115176-L.jpg?default=false"
   },
   {
     "id": "soldier-of-the-mist",
@@ -37551,7 +37845,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 1989 Nebula Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781591025467",
+    "coverImage": "https://covers.openlibrary.org/b/id/1972852-L.jpg?default=false"
   },
   {
     "id": "sister-light-sister-dark",
@@ -37601,7 +37897,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 1990 Nebula Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780688052843",
+    "coverImage": "https://covers.openlibrary.org/b/id/4086206-L.jpg?default=false"
   },
   {
     "id": "redshift-rendezvous",
@@ -37906,7 +38204,8 @@
     "countryOfOrigin": "United States",
     "isbn13": "9780061054419",
     "pageCount": 359,
-    "openLibraryKey": "/works/OL20034143W"
+    "openLibraryKey": "/works/OL20034143W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0061054410.01.LZZZZZZZ.jpg"
   },
   {
     "id": "calde-of-the-long-sun",
@@ -38641,7 +38940,8 @@
     "synopsis": "Nominated for the 2006 Nebula Award for Best Novel.",
     "countryOfOrigin": "United States",
     "isbn13": "9780061800801",
-    "openLibraryKey": "/works/OL26778017W"
+    "openLibraryKey": "/works/OL26778017W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0061800805.01.LZZZZZZZ.jpg"
   },
   {
     "id": "farthing",
@@ -38997,7 +39297,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 2011 Nebula Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781607012535",
+    "coverImage": "https://covers.openlibrary.org/b/id/10338580-L.jpg?default=false"
   },
   {
     "id": "the-kingdom-of-gods",
@@ -39155,7 +39457,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 2013 Nebula Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781481446570",
+    "coverImage": "https://covers.openlibrary.org/b/id/10209095-L.jpg?default=false"
   },
   {
     "id": "a-stranger-in-olondria",
@@ -39241,7 +39545,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 2015 Nebula Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780765377029",
+    "coverImage": "https://covers.openlibrary.org/b/id/10042954-L.jpg?default=false"
   },
   {
     "id": "the-grace-of-kings",
@@ -39651,7 +39957,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 2023 Nebula Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781666635096",
+    "coverImage": "https://covers.openlibrary.org/b/id/13240190-L.jpg?default=false"
   },
   {
     "id": "the-terraformers",
@@ -39667,7 +39975,8 @@
     "synopsis": "Nominated for the 2023 Nebula Award for Best Novel.",
     "countryOfOrigin": "United States",
     "isbn13": "9781250907547",
-    "openLibraryKey": "/works/OL31112951W"
+    "openLibraryKey": "/works/OL31112951W",
+    "coverImage": "https://covers.openlibrary.org/b/id/13239812-L.jpg?default=false"
   },
   {
     "id": "shigidi-and-the-brass-head-of-obalufon",
@@ -39716,7 +40025,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 2024 Nebula Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781804548455",
+    "coverImage": "https://covers.openlibrary.org/b/id/14577503-L.jpg?default=false"
   },
   {
     "id": "rakesfall",
@@ -39751,7 +40062,8 @@
     "countryOfOrigin": "United States",
     "isbn13": "9781647101367",
     "pageCount": 350,
-    "openLibraryKey": "/works/OL38397158W"
+    "openLibraryKey": "/works/OL38397158W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1647101360.01.LZZZZZZZ.jpg"
   },
   {
     "id": "when-we-were-real",
