@@ -41937,14 +41937,19 @@
     "authorId": "shady-lewis",
     "authorName": "Shady Lewis",
     "publicationYear": 2025,
-    "publisher": "Faber & Faber",
+    "publisher": "Peirene Press",
     "genres": [
       "Literary Fiction",
-      "Classic"
+      "Political",
+      "Satire"
     ],
-    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 2026.",
-    "spineColor": "#831843",
-    "translator": "Katharine Halls"
+    "synopsis": "In an East London housing office, a frustrated local government employee navigates the absurdities of British bureaucracy, austerity, and racism while trying to arrange the funeral of a young Syrian refugee—a funny, humane, and poignant exploration of modern Britain.",
+    "spineColor": "#1e3a5f",
+    "translator": "Katharine Halls",
+    "isbn13": "9781908670960",
+    "coverImage": "https://www.peirenepress.com/wp-content/uploads/2024/11/Greenwich-Web-Cover-2.jpg",
+    "pageCount": 176,
+    "countryOfOrigin": "United Kingdom"
   },
   {
     "id": "samuel-butler-author-of-erewhon-1835-1902-a-memoir",
