@@ -227,27 +227,6 @@
     "openLibraryKey": "/works/OL20072032W"
   },
   {
-    "id": "demon-copperhead",
-    "title": "Demon Copperhead",
-    "authorId": "barbara-kingsolver",
-    "authorName": "Barbara Kingsolver",
-    "publicationYear": 2022,
-    "publisher": "Harper",
-    "imprint": "HarperCollins",
-    "isbn13": "9780063251922",
-    "genres": [
-      "Coming of Age",
-      "Literary",
-      "Social Realism"
-    ],
-    "synopsis": "A contemporary Appalachian reimagining of David Copperfield, charting an orphaned boy's survival through poverty, foster care, addiction, and athletic glory.",
-    "pageCount": 560,
-    "spineColor": "#b45309",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/id/13141227-L.jpg?default=false",
-    "openLibraryKey": "/works/OL27052926W"
-  },
-  {
     "id": "trust",
     "title": "Trust",
     "authorId": "hernan-diaz",
@@ -673,26 +652,6 @@
     "openLibraryKey": "/works/OL17363125W"
   },
   {
-    "id": "ducks-newburyport",
-    "title": "Ducks, Newburyport",
-    "authorId": "lucy-ellmann",
-    "authorName": "Lucy Ellmann",
-    "publicationYear": 2019,
-    "publisher": "Galley Beggar Press",
-    "isbn13": "9781910296967",
-    "genres": [
-      "Stream of Consciousness",
-      "Experimental",
-      "Feminist"
-    ],
-    "synopsis": "Composed almost entirely of a single, breath-taking thousand-page sentence, an Ohio mother and baker ruminates on pie crusts, family, mass shootings, and environmental dread.",
-    "pageCount": 1040,
-    "spineColor": "#e11d48",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/id/9161879-L.jpg?default=false",
-    "openLibraryKey": "/works/OL20509686W"
-  },
-  {
     "id": "solenoid",
     "title": "Solenoid",
     "authorId": "mircea-cartarescu",
@@ -1003,26 +962,6 @@
     "openLibraryKey": "/works/OL59048W"
   },
   {
-    "id": "midnights-children",
-    "title": "Midnight's Children",
-    "authorId": "salman-rushdie",
-    "authorName": "Salman Rushdie",
-    "publicationYear": 1981,
-    "publisher": "Jonathan Cape",
-    "isbn13": "9780224018234",
-    "genres": [
-      "Magical Realism",
-      "Historical Epic",
-      "Postcolonial"
-    ],
-    "synopsis": "Born at the stroke of midnight as India achieves independence, Saleem Sinai discovers that all 1,001 children born during that hour possess telepathic powers mirroring the nation's tumultuous fate.",
-    "pageCount": 536,
-    "spineColor": "#b91c1c",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/id/8346713-L.jpg?default=false",
-    "openLibraryKey": "/works/OL457179W"
-  },
-  {
     "id": "less",
     "title": "Less",
     "authorId": "andrew-sean-greer",
@@ -1165,27 +1104,6 @@
     "countryOfOrigin": "United States",
     "coverImage": "https://covers.openlibrary.org/b/id/12451659-L.jpg?default=false",
     "openLibraryKey": "/works/OL7990014W"
-  },
-  {
-    "id": "the-road",
-    "title": "The Road",
-    "authorId": "cormac-mccarthy",
-    "authorName": "Cormac McCarthy",
-    "publicationYear": 2006,
-    "publisher": "Knopf",
-    "imprint": "Random House",
-    "isbn13": "9780307265432",
-    "genres": [
-      "Post-Apocalyptic",
-      "Literary",
-      "Survival"
-    ],
-    "synopsis": "A nameless father and his young son walk alone through burned, ash-covered post-apocalyptic America toward the southern coast, sustaining love and humanity amid cannibalism and extinction.",
-    "pageCount": 288,
-    "spineColor": "#18181b",
-    "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/id/198120-L.jpg?default=false",
-    "openLibraryKey": "/works/OL40873W"
   },
   {
     "id": "gilead",
@@ -1787,27 +1705,6 @@
     "countryOfOrigin": "United Kingdom",
     "coverImage": "https://covers.openlibrary.org/b/id/241742-L.jpg?default=false",
     "openLibraryKey": "/works/OL1855943W"
-  },
-  {
-    "id": "last-orders",
-    "title": "Last Orders",
-    "authorId": "graham-swift",
-    "authorName": "Graham Swift",
-    "publicationYear": 1996,
-    "publisher": "Picador",
-    "imprint": "Pan Macmillan",
-    "isbn13": "9780330345590",
-    "genres": [
-      "Working Class",
-      "Polyphonic",
-      "Elegiac"
-    ],
-    "synopsis": "Four working-class London men gather at a Bermondsey pub to fulfill their friend Jack's dying wish: carrying his ashes in a cardboard urn to scatter off the pier at Margate.",
-    "pageCount": 304,
-    "spineColor": "#065f46",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/id/421413-L.jpg?default=false",
-    "openLibraryKey": "/works/OL3260505W"
   },
   {
     "id": "the-ghost-road",
@@ -3356,26 +3253,6 @@
     "isbn13": "9780375706417",
     "coverImage": "https://covers.openlibrary.org/b/id/12728282-L.jpg?default=false",
     "openLibraryKey": "/works/OL14557W"
-  },
-  {
-    "id": "the-corrections",
-    "title": "The Corrections",
-    "authorId": "jonathan-franzen",
-    "authorName": "Jonathan Franzen",
-    "publicationYear": 2001,
-    "publisher": "Farrar, Straus and Giroux",
-    "genres": [
-      "Family Saga",
-      "Social Realism",
-      "Satire"
-    ],
-    "synopsis": "The Lambert family—an aging Midwestern couple and their three troubled adult children—try to assemble for one last Christmas at home as their father descends into Parkinson's.",
-    "pageCount": 576,
-    "spineColor": "#0284c7",
-    "countryOfOrigin": "United States",
-    "isbn13": "9780312421274",
-    "coverImage": "https://covers.openlibrary.org/b/id/9273701-L.jpg?default=false",
-    "openLibraryKey": "/works/OL4082696W"
   },
   {
     "id": "the-echo-maker",
@@ -7528,26 +7405,6 @@
     "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0312429940.01.LZZZZZZZ.jpg"
   },
   {
-    "id": "ingenious-pain",
-    "title": "Ingenious Pain",
-    "authorId": "andrew-miller",
-    "authorName": "Andrew Miller",
-    "publicationYear": 1997,
-    "publisher": "Sceptre / Harcourt",
-    "isbn13": "9780156006422",
-    "genres": [
-      "Literary Fiction",
-      "Historical Fiction",
-      "Medical Fiction"
-    ],
-    "synopsis": "James Dyer, an eighteenth-century English boy born completely immune to physical pain, becomes a celebrated, ruthless surgeon before love and psychological awakening break through his defenses.",
-    "countryOfOrigin": "United Kingdom",
-    "pageCount": 352,
-    "spineColor": "#374151",
-    "coverImage": "https://covers.openlibrary.org/b/id/2397649-L.jpg?default=false",
-    "openLibraryKey": "/works/OL7990192W"
-  },
-  {
     "id": "wide-open",
     "title": "Wide Open",
     "authorId": "nicola-barker",
@@ -7801,26 +7658,6 @@
     "coverImage": "https://covers.openlibrary.org/b/id/9526917-L.jpg?default=false",
     "isbn13": "9781594487484",
     "openLibraryKey": "/works/OL19665499W"
-  },
-  {
-    "id": "harvest",
-    "title": "Harvest",
-    "authorId": "jim-crace",
-    "authorName": "Jim Crace",
-    "publicationYear": 2013,
-    "publisher": "Picador / Nan A. Talese",
-    "isbn13": "9781447211945",
-    "coverImage": "https://covers.openlibrary.org/b/id/10099855-L.jpg?default=false",
-    "genres": [
-      "Literary Fiction",
-      "Historical Fiction",
-      "Pastoral Tragedy"
-    ],
-    "synopsis": "Over seven days in an unnamed English village, traditional feudal peasant commons are brutally extinguished by enclosure, modern mapping, and sheep farming.",
-    "countryOfOrigin": "United Kingdom",
-    "pageCount": 208,
-    "spineColor": "#854d0e",
-    "openLibraryKey": "/works/OL20802369W"
   },
   {
     "id": "family-life",
@@ -13724,26 +13561,6 @@
     "openLibraryKey": "/works/OL918887W"
   },
   {
-    "id": "white-teeth",
-    "title": "White Teeth",
-    "authorId": "zadie-smith",
-    "authorName": "Zadie Smith",
-    "publicationYear": 2000,
-    "publisher": "Hamish Hamilton",
-    "isbn13": "9780241141076",
-    "genres": [
-      "Literary Fiction",
-      "Satire",
-      "Multicultural Fiction"
-    ],
-    "synopsis": "An exuberant, comedic epic exploring identity, race, family, and multicultural London through the lifelong friendship of Archie Jones and Samad Iqbal.",
-    "pageCount": 462,
-    "spineColor": "#d97706",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/id/5276331-L.jpg?default=false",
-    "openLibraryKey": "/works/OL481143W"
-  },
-  {
     "id": "amy-and-isabelle",
     "title": "Amy and Isabelle",
     "authorId": "elizabeth-strout",
@@ -16186,26 +16003,6 @@
     "openLibraryKey": "/works/OL20010478W"
   },
   {
-    "id": "in-the-light-of-what-we-know",
-    "title": "In the Light of What We Know",
-    "authorId": "zia-haider-rahman",
-    "authorName": "Zia Haider Rahman",
-    "publicationYear": 2014,
-    "publisher": "Farrar, Straus and Giroux",
-    "isbn13": "9780374176433",
-    "genres": [
-      "Philosophical Fiction",
-      "Post-Colonial",
-      "Political Fiction"
-    ],
-    "synopsis": "A disheveled mathematical genius arrives unexpectedly on his Oxford friend's doorstep, recounting an epic odyssey from Wall Street to Afghanistan.",
-    "pageCount": 512,
-    "spineColor": "#854d0e",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/id/8463059-L.jpg?default=false",
-    "openLibraryKey": "/works/OL19350614W"
-  },
-  {
     "id": "acts-of-the-assassins",
     "title": "Acts of the Assassins",
     "authorId": "richard-beard",
@@ -16364,26 +16161,6 @@
     "countryOfOrigin": "Canada",
     "coverImage": "https://covers.openlibrary.org/b/id/10380198-L.jpg?default=false",
     "openLibraryKey": "/works/OL20021324W"
-  },
-  {
-    "id": "the-lesser-bohemians",
-    "title": "The Lesser Bohemians",
-    "authorId": "eimear-mcbride",
-    "authorName": "Eimear McBride",
-    "publicationYear": 2016,
-    "publisher": "Faber & Faber",
-    "isbn13": "9780571327850",
-    "genres": [
-      "Coming-of-Age",
-      "Romance",
-      "Literary Fiction"
-    ],
-    "synopsis": "In 1990s London, an eighteen-year-old Irish drama student embarks on an intense, healing romance with an older, haunted English actor.",
-    "pageCount": 320,
-    "spineColor": "#4c1d95",
-    "countryOfOrigin": "Ireland",
-    "coverImage": "https://covers.openlibrary.org/b/id/8850897-L.jpg?default=false",
-    "openLibraryKey": "/works/OL20035187W"
   },
   {
     "id": "transit",
@@ -16561,26 +16338,6 @@
     "countryOfOrigin": "United Kingdom",
     "isbn13": "9781784105464",
     "coverImage": "https://covers.openlibrary.org/b/id/9200230-L.jpg?default=false"
-  },
-  {
-    "id": "crudo",
-    "title": "Crudo",
-    "authorId": "olivia-laing",
-    "authorName": "Olivia Laing",
-    "publicationYear": 2018,
-    "publisher": "Hamish Hamilton",
-    "isbn13": "9780241347577",
-    "genres": [
-      "Autofiction",
-      "Satire",
-      "Political Fiction"
-    ],
-    "synopsis": "Channeling punk icon Kathy Acker, a writer navigates marriage, global panic, and Twitter newsfeeds during the chaotic, anxious summer of 2017.",
-    "pageCount": 144,
-    "spineColor": "#d97706",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": null,
-    "openLibraryKey": "/works/OL21161820W"
   },
   {
     "id": "we-are-made-of-diamond-stuff",
@@ -16818,25 +16575,6 @@
     "coverImage": "https://covers.openlibrary.org/b/id/11581978-L.jpg?default=false",
     "isbn13": "9780241992678",
     "openLibraryKey": "/works/OL24811392W"
-  },
-  {
-    "id": "a-shock",
-    "title": "A Shock",
-    "authorId": "keith-ridgway",
-    "authorName": "Keith Ridgway",
-    "publicationYear": 2021,
-    "publisher": "Picador",
-    "genres": [
-      "Interconnected Stories",
-      "Urban Fiction"
-    ],
-    "synopsis": "Nine loosely connected Londoners collide across South London pubs, squatters' houses, and parks, capturing urban isolation and uncanny encounters.",
-    "pageCount": 272,
-    "spineColor": "#1e293b",
-    "countryOfOrigin": "Ireland",
-    "coverImage": "https://covers.openlibrary.org/b/id/11440199-L.jpg?default=false",
-    "isbn13": "9780811230865",
-    "openLibraryKey": "/works/OL24714934W"
   },
   {
     "id": "this-one-sky-day",
@@ -18170,23 +17908,6 @@
     "openLibraryKey": "/works/OL931768W"
   },
   {
-    "id": "eva-trout",
-    "title": "Eva Trout",
-    "authorId": "elizabeth-bowen",
-    "authorName": "Elizabeth Bowen",
-    "publicationYear": 1970,
-    "publisher": "Jonathan Cape",
-    "genres": [
-      "Literary Fiction"
-    ],
-    "synopsis": "Shortlisted for the 1970 Booker Prize.",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/id/97259-L.jpg?default=false",
-    "isbn13": "9780140056488",
-    "pageCount": 272,
-    "openLibraryKey": "/works/OL724110W"
-  },
-  {
     "id": "bruno-s-dream",
     "title": "Bruno's Dream",
     "authorId": "iris-murdoch",
@@ -18482,23 +18203,6 @@
     "isbn13": "9781946022691",
     "pageCount": 191,
     "openLibraryKey": "/works/OL6531710W"
-  },
-  {
-    "id": "the-black-prince",
-    "title": "The Black Prince",
-    "authorId": "iris-murdoch",
-    "authorName": "Iris Murdoch",
-    "publicationYear": 1973,
-    "publisher": "Chatto & Windus",
-    "genres": [
-      "Literary Fiction"
-    ],
-    "synopsis": "Shortlisted for the 1973 Booker Prize.",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/id/2197830-L.jpg?default=false",
-    "isbn13": "9781411492592",
-    "pageCount": 416,
-    "openLibraryKey": "/works/OL1326328W"
   },
   {
     "id": "ending-up",
@@ -19253,23 +18957,6 @@
     "openLibraryKey": "/works/OL3260491W"
   },
   {
-    "id": "empire-of-the-sun",
-    "title": "Empire of the Sun",
-    "authorId": "j-g-ballard",
-    "authorName": "J. G. Ballard",
-    "publicationYear": 1984,
-    "publisher": "Gollancz",
-    "genres": [
-      "Literary Fiction"
-    ],
-    "synopsis": "Shortlisted for the 1984 Booker Prize.",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/id/6547-L.jpg?default=false",
-    "isbn13": "9780745157672",
-    "pageCount": 352,
-    "openLibraryKey": "/works/OL261889W"
-  },
-  {
     "id": "flaubert-s-parrot",
     "title": "Flaubert's Parrot",
     "authorId": "julian-barnes",
@@ -19729,23 +19416,6 @@
     "openLibraryKey": "/works/OL4212424W"
   },
   {
-    "id": "a-disaffection",
-    "title": "A Disaffection",
-    "authorId": "james-kelman",
-    "authorName": "James Kelman",
-    "publicationYear": 1989,
-    "publisher": "Secker & Warburg",
-    "genres": [
-      "Literary Fiction"
-    ],
-    "synopsis": "Shortlisted for the 1989 Booker Prize.",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/id/4070216-L.jpg?default=false",
-    "isbn13": "9780330307369",
-    "pageCount": 337,
-    "openLibraryKey": "/works/OL60983W"
-  },
-  {
     "id": "restoration",
     "title": "Restoration",
     "authorId": "rose-tremain",
@@ -20035,23 +19705,6 @@
     "openLibraryKey": "/works/OL1962457W"
   },
   {
-    "id": "crossing-the-river",
-    "title": "Crossing the River",
-    "authorId": "caryl-phillips",
-    "authorName": "Caryl Phillips",
-    "publicationYear": 1993,
-    "publisher": "Bloomsbury",
-    "genres": [
-      "Literary Fiction"
-    ],
-    "synopsis": "Shortlisted for the 1993 Booker Prize.",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/id/6799405-L.jpg?default=false",
-    "isbn13": "9780394280356",
-    "pageCount": 237,
-    "openLibraryKey": "/works/OL15835579W"
-  },
-  {
     "id": "reef",
     "title": "Reef",
     "authorId": "romesh-gunesekera",
@@ -20067,23 +19720,6 @@
     "isbn13": "9780140142174",
     "pageCount": 192,
     "openLibraryKey": "/works/OL31133W"
-  },
-  {
-    "id": "the-folding-star",
-    "title": "The Folding Star",
-    "authorId": "alan-hollinghurst",
-    "authorName": "Alan Hollinghurst",
-    "publicationYear": 1994,
-    "publisher": "Chatto & Windus",
-    "genres": [
-      "Literary Fiction"
-    ],
-    "synopsis": "Shortlisted for the 1994 Booker Prize.",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/id/7284615-L.jpg?default=false",
-    "isbn13": "9780679762317",
-    "pageCount": 422,
-    "openLibraryKey": "/works/OL1993501W"
   },
   {
     "id": "beside-the-ocean-of-time",
@@ -20339,23 +19975,6 @@
     "isbn13": "9780786706792",
     "pageCount": 240,
     "openLibraryKey": "/works/OL920867W"
-  },
-  {
-    "id": "master-georgie",
-    "title": "Master Georgie",
-    "authorId": "beryl-bainbridge",
-    "authorName": "Beryl Bainbridge",
-    "publicationYear": 1998,
-    "publisher": "Duckworth",
-    "genres": [
-      "Literary Fiction"
-    ],
-    "synopsis": "Shortlisted for the 1998 Booker Prize.",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/id/5410329-L.jpg?default=false",
-    "isbn13": "9780786705634",
-    "pageCount": 190,
-    "openLibraryKey": "/works/OL1970208W"
   },
   {
     "id": "england-england",
@@ -21038,23 +20657,6 @@
     "openLibraryKey": "/works/OL5728380W"
   },
   {
-    "id": "the-secret-scripture",
-    "title": "The Secret Scripture",
-    "authorId": "sebastian-barry",
-    "authorName": "Sebastian Barry",
-    "publicationYear": 2008,
-    "publisher": "Faber & Faber",
-    "genres": [
-      "Literary Fiction"
-    ],
-    "synopsis": "Shortlisted for the 2008 Booker Prize.",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/id/6968893-L.jpg?default=false",
-    "isbn13": "9780571215287",
-    "pageCount": 300,
-    "openLibraryKey": "/works/OL735338W"
-  },
-  {
     "id": "sea-of-poppies",
     "title": "Sea of Poppies",
     "authorId": "amitav-ghosh",
@@ -21121,23 +20723,6 @@
     "isbn13": "9780385521727",
     "pageCount": 530,
     "openLibraryKey": "/works/OL12439089W"
-  },
-  {
-    "id": "the-children-s-book",
-    "title": "The Children's Book",
-    "authorId": "a-s-byatt",
-    "authorName": "A. S. Byatt",
-    "publicationYear": 2009,
-    "publisher": "Chatto and Windus",
-    "genres": [
-      "Literary Fiction"
-    ],
-    "synopsis": "Shortlisted for the 2009 Booker Prize.",
-    "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/id/6970488-L.jpg?default=false",
-    "isbn13": "9781409077244",
-    "pageCount": 624,
-    "openLibraryKey": "/works/OL447886W"
   },
   {
     "id": "summertime",
@@ -31617,21 +31202,6 @@
     "openLibraryKey": "/works/OL27489329W"
   },
   {
-    "id": "praiseworthy",
-    "title": "Praiseworthy",
-    "authorId": "alexis-wright",
-    "authorName": "Alexis Wright",
-    "publicationYear": 2022,
-    "publisher": "Unknown Publisher",
-    "genres": [
-      "Literary Fiction"
-    ],
-    "synopsis": "Shortlisted for the 2024 International Dublin Literary Award.",
-    "countryOfOrigin": "International",
-    "isbn13": "9780811238021",
-    "openLibraryKey": "/works/OL37582070W"
-  },
-  {
     "id": "we-are-light",
     "title": "We Are Light",
     "authorId": "gerda-blees",
@@ -40137,5 +39707,1755 @@
     "isbn13": "9780756419547",
     "pageCount": 384,
     "openLibraryKey": "/works/OL42553297W"
+  },
+  {
+    "id": "jouvert",
+    "title": "J'Ouvert",
+    "authorId": "yasmin-joseph",
+    "authorName": "Yasmin Joseph",
+    "publicationYear": 2019,
+    "publisher": "Oberon Books, Limited",
+    "isbn13": "9781786827838",
+    "genres": [
+      "Drama"
+    ],
+    "synopsis": "Two friends experience Notting Hill Carnival as they navigate Black British identity and friendship.",
+    "openLibraryKey": "/works/OL21217487W"
+  },
+  {
+    "id": "dance-nation",
+    "title": "Dance Nation",
+    "authorId": "clare-barron",
+    "authorName": "Clare Barron",
+    "publicationYear": 2018,
+    "publisher": "Oberon Books, Limited",
+    "isbn13": "9781786824837",
+    "genres": [
+      "Drama"
+    ],
+    "synopsis": "Teenage dancers strive for a national final under a bullying teacher.",
+    "openLibraryKey": "/works/OL21192507W"
+  },
+  {
+    "id": "lions-and-tigers",
+    "title": "Lions and Tigers",
+    "authorId": "tanika-gupta",
+    "authorName": "Tanika Gupta",
+    "publicationYear": 2017,
+    "publisher": "Oberon Books, Limited",
+    "isbn13": "9781786821843",
+    "genres": [
+      "Drama"
+    ],
+    "synopsis": "Dinesh Gupta experiences a political awakening and resists British rule.",
+    "openLibraryKey": "/works/OL22535537W"
+  },
+  {
+    "id": "cyprus-avenue",
+    "title": "Cyprus Avenue",
+    "authorId": "david-ireland",
+    "authorName": "David Ireland",
+    "publicationYear": 2016,
+    "publisher": "Methuen Drama",
+    "isbn13": "9781474298216",
+    "genres": [
+      "Drama",
+      "Tragicomedy"
+    ],
+    "synopsis": "A Belfast loyalist believes his infant granddaughter is Gerry Adams.",
+    "openLibraryKey": "/works/OL20477749W"
+  },
+  {
+    "id": "iphigenia-in-splott",
+    "title": "Iphigenia in Splott",
+    "authorId": "gary-owen",
+    "authorName": "Gary Owen",
+    "publicationYear": 2015,
+    "publisher": "Oberon Books, Limited",
+    "isbn13": "9781783198917",
+    "genres": [
+      "Drama"
+    ],
+    "synopsis": "Effie's life in Cardiff changes after she meets an ex-soldier.",
+    "openLibraryKey": "/works/OL21113108W"
+  },
+  {
+    "id": "cannibals",
+    "title": "Cannibals",
+    "authorId": "rory-mullarkey",
+    "authorName": "Rory Mullarkey",
+    "publicationYear": 2013,
+    "publisher": "Bloomsbury Publishing Plc",
+    "isbn13": "9781472529466",
+    "genres": [
+      "Drama"
+    ],
+    "synopsis": "Lizaveta flees war and journeys across continents.",
+    "openLibraryKey": "/works/OL17467651W"
+  },
+  {
+    "id": "the-radicalisation-of-bradley-manning",
+    "title": "The Radicalisation of Bradley Manning",
+    "authorId": "tim-price",
+    "authorName": "Tim Price",
+    "publicationYear": 2012,
+    "publisher": "Bloomsbury Publishing (UK)",
+    "isbn13": "9781408172872",
+    "genres": [
+      "Drama"
+    ],
+    "synopsis": "The play connects Manning's Welsh upbringing with the WikiLeaks disclosures.",
+    "openLibraryKey": "/works/OL17443423W"
+  },
+  {
+    "id": "praiseworthy",
+    "title": "Praiseworthy",
+    "authorId": "alexis-wright",
+    "authorName": "Alexis Wright",
+    "publicationYear": 2023,
+    "publisher": "And Other Stories",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A northern Australian town confronts the climate crisis.",
+    "countryOfOrigin": "International",
+    "isbn13": "9780811238021",
+    "openLibraryKey": "/works/OL37582070W"
+  },
+  {
+    "id": "demon-copperhead",
+    "title": "Demon Copperhead",
+    "authorId": "barbara-kingsolver",
+    "authorName": "Barbara Kingsolver",
+    "publicationYear": 2022,
+    "publisher": "Faber",
+    "imprint": "HarperCollins",
+    "isbn13": "9780063251922",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A boy survives poverty and foster care in Appalachia.",
+    "pageCount": 560,
+    "spineColor": "#b45309",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/id/13141227-L.jpg?default=false",
+    "openLibraryKey": "/works/OL27052926W"
+  },
+  {
+    "id": "a-shock",
+    "title": "A Shock",
+    "authorId": "keith-ridgway",
+    "authorName": "Keith Ridgway",
+    "publicationYear": 2021,
+    "publisher": "Picador",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Interlocking stories follow people on London's margins.",
+    "pageCount": 272,
+    "spineColor": "#1e293b",
+    "countryOfOrigin": "Ireland",
+    "coverImage": "https://covers.openlibrary.org/b/id/11440199-L.jpg?default=false",
+    "isbn13": "9780811230865",
+    "openLibraryKey": "/works/OL24714934W"
+  },
+  {
+    "id": "ducks-newburyport",
+    "title": "Ducks, Newburyport",
+    "authorId": "lucy-ellmann",
+    "authorName": "Lucy Ellmann",
+    "publicationYear": 2019,
+    "publisher": "Galley Beggar Press",
+    "isbn13": "9781910296967",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "An Ohio mother's thoughts range across family and public crises.",
+    "pageCount": 1040,
+    "spineColor": "#e11d48",
+    "countryOfOrigin": "United Kingdom",
+    "coverImage": "https://covers.openlibrary.org/b/id/9161879-L.jpg?default=false",
+    "openLibraryKey": "/works/OL20509686W"
+  },
+  {
+    "id": "crudo",
+    "title": "Crudo",
+    "authorId": "olivia-laing",
+    "authorName": "Olivia Laing",
+    "publicationYear": 2018,
+    "publisher": "Picador",
+    "isbn13": "9780241347577",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A writer faces marriage amid political upheaval.",
+    "pageCount": 144,
+    "spineColor": "#d97706",
+    "countryOfOrigin": "United Kingdom",
+    "coverImage": null,
+    "openLibraryKey": "/works/OL21161820W"
+  },
+  {
+    "id": "the-lesser-bohemians",
+    "title": "The Lesser Bohemians",
+    "authorId": "eimear-mcbride",
+    "authorName": "Eimear McBride",
+    "publicationYear": 2016,
+    "publisher": "Faber and Faber",
+    "isbn13": "9780571327850",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A young Irish drama student begins an affair in London.",
+    "pageCount": 320,
+    "spineColor": "#4c1d95",
+    "countryOfOrigin": "Ireland",
+    "coverImage": "https://covers.openlibrary.org/b/id/8850897-L.jpg?default=false",
+    "openLibraryKey": "/works/OL20035187W"
+  },
+  {
+    "id": "in-the-light-of-what-we-know",
+    "title": "In the Light of What We Know",
+    "authorId": "zia-haider-rahman",
+    "authorName": "Zia Haider Rahman",
+    "publicationYear": 2014,
+    "publisher": "Picador",
+    "isbn13": "9780374176433",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A former student friend unexpectedly visits a struggling banker and makes a confession.",
+    "pageCount": 512,
+    "spineColor": "#854d0e",
+    "countryOfOrigin": "United Kingdom",
+    "coverImage": "https://covers.openlibrary.org/b/id/8463059-L.jpg?default=false",
+    "openLibraryKey": "/works/OL19350614W"
+  },
+  {
+    "id": "harvest",
+    "title": "Harvest",
+    "authorId": "jim-crace",
+    "authorName": "Jim Crace",
+    "publicationYear": 2013,
+    "publisher": "Picador",
+    "isbn13": "9781447211945",
+    "coverImage": "https://covers.openlibrary.org/b/id/10099855-L.jpg?default=false",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Smoke and the arrival of outsiders unsettle an English village after harvest.",
+    "countryOfOrigin": "United Kingdom",
+    "pageCount": 208,
+    "spineColor": "#854d0e",
+    "openLibraryKey": "/works/OL20802369W"
+  },
+  {
+    "id": "the-children-s-book",
+    "title": "The Children's Book",
+    "authorId": "a-s-byatt",
+    "authorName": "A S Byatt",
+    "publicationYear": 2009,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A children's writer's family faces secrets from the Victorian era to World War I.",
+    "countryOfOrigin": "United Kingdom",
+    "coverImage": "https://covers.openlibrary.org/b/id/6970488-L.jpg?default=false",
+    "isbn13": "9781409077244",
+    "pageCount": 624,
+    "openLibraryKey": "/works/OL447886W"
+  },
+  {
+    "id": "the-road",
+    "title": "The Road",
+    "authorId": "cormac-mccarthy",
+    "authorName": "Cormac McCarthy",
+    "publicationYear": 2006,
+    "publisher": "Picador",
+    "imprint": "Random House",
+    "isbn13": "9780307265432",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A father and son traverse a devastated America.",
+    "pageCount": 288,
+    "spineColor": "#18181b",
+    "countryOfOrigin": "United States",
+    "coverImage": "https://covers.openlibrary.org/b/id/198120-L.jpg?default=false",
+    "openLibraryKey": "/works/OL40873W"
+  },
+  {
+    "id": "the-corrections",
+    "title": "The Corrections",
+    "authorId": "jonathan-franzen",
+    "authorName": "Jonathan Franzen",
+    "publicationYear": 2002,
+    "publisher": "Fourth Estate",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Two generations of the Lambert family confront illness and conflict.",
+    "pageCount": 576,
+    "spineColor": "#0284c7",
+    "countryOfOrigin": "United States",
+    "isbn13": "9780312421274",
+    "coverImage": "https://covers.openlibrary.org/b/id/9273701-L.jpg?default=false",
+    "openLibraryKey": "/works/OL4082696W"
+  },
+  {
+    "id": "white-teeth",
+    "title": "White Teeth",
+    "authorId": "zadie-smith",
+    "authorName": "Zadie Smith",
+    "publicationYear": 2000,
+    "publisher": "Penguin UK",
+    "isbn13": "9780241141076",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Friendships and families span cultures and generations.",
+    "pageCount": 462,
+    "spineColor": "#d97706",
+    "countryOfOrigin": "United Kingdom",
+    "coverImage": "https://covers.openlibrary.org/b/id/5276331-L.jpg?default=false",
+    "openLibraryKey": "/works/OL481143W"
+  },
+  {
+    "id": "master-georgie",
+    "title": "Master Georgie",
+    "authorId": "beryl-bainbridge",
+    "authorName": "Beryl Bainbridge",
+    "publicationYear": 1998,
+    "publisher": "Duckworth",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A misadventure links a surgeon and the people around him.",
+    "countryOfOrigin": "United Kingdom",
+    "coverImage": "https://covers.openlibrary.org/b/id/5410329-L.jpg?default=false",
+    "isbn13": "9780786705634",
+    "pageCount": 190,
+    "openLibraryKey": "/works/OL1970208W"
+  },
+  {
+    "id": "ingenious-pain",
+    "title": "Ingenious Pain",
+    "authorId": "andrew-miller",
+    "authorName": "Andrew Miller",
+    "publicationYear": 1997,
+    "publisher": "Sceptre",
+    "isbn13": "9780156006422",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A man unable to feel pain becomes a brilliant Georgian-era surgeon.",
+    "countryOfOrigin": "United Kingdom",
+    "pageCount": 352,
+    "spineColor": "#374151",
+    "coverImage": "https://covers.openlibrary.org/b/id/2397649-L.jpg?default=false",
+    "openLibraryKey": "/works/OL7990192W"
+  },
+  {
+    "id": "last-orders",
+    "title": "Last Orders",
+    "authorId": "graham-swift",
+    "authorName": "Graham Swift",
+    "publicationYear": 1996,
+    "publisher": "Picador Macmillan",
+    "imprint": "Pan Macmillan",
+    "isbn13": "9780330345590",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A group of friends confronts the death of one of their number.",
+    "pageCount": 304,
+    "spineColor": "#065f46",
+    "countryOfOrigin": "United Kingdom",
+    "coverImage": "https://covers.openlibrary.org/b/id/421413-L.jpg?default=false",
+    "openLibraryKey": "/works/OL3260505W"
+  },
+  {
+    "id": "the-folding-star",
+    "title": "The Folding Star",
+    "authorId": "alan-hollinghurst",
+    "authorName": "Alan Hollinghurst",
+    "publicationYear": 1994,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A language tutor in a Flemish city becomes obsessed with a student.",
+    "countryOfOrigin": "United Kingdom",
+    "coverImage": "https://covers.openlibrary.org/b/id/7284615-L.jpg?default=false",
+    "isbn13": "9780679762317",
+    "pageCount": 422,
+    "openLibraryKey": "/works/OL1993501W"
+  },
+  {
+    "id": "crossing-the-river",
+    "title": "Crossing The River",
+    "authorId": "caryl-phillips",
+    "authorName": "Caryl Phillips",
+    "publicationYear": 1993,
+    "publisher": "Bloomsbury",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A father sells his children into slavery.",
+    "countryOfOrigin": "United Kingdom",
+    "coverImage": "https://covers.openlibrary.org/b/id/6799405-L.jpg?default=false",
+    "isbn13": "9780394280356",
+    "pageCount": 237,
+    "openLibraryKey": "/works/OL15835579W"
+  },
+  {
+    "id": "a-disaffection",
+    "title": "A Disaffection",
+    "authorId": "james-kelman",
+    "authorName": "James Kelman",
+    "publicationYear": 1989,
+    "publisher": "Secker & Warburg",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A despairing Glasgow teacher retreats into a musical sanctuary.",
+    "countryOfOrigin": "United Kingdom",
+    "coverImage": "https://covers.openlibrary.org/b/id/4070216-L.jpg?default=false",
+    "isbn13": "9780330307369",
+    "pageCount": 337,
+    "openLibraryKey": "/works/OL60983W"
+  },
+  {
+    "id": "empire-of-the-sun",
+    "title": "Empire Of The Sun",
+    "authorId": "j-g-ballard",
+    "authorName": "J. G. Ballard",
+    "publicationYear": 1984,
+    "publisher": "Gollancz",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A boy experiences wartime internment near Shanghai.",
+    "countryOfOrigin": "United Kingdom",
+    "coverImage": "https://covers.openlibrary.org/b/id/6547-L.jpg?default=false",
+    "isbn13": "9780745157672",
+    "pageCount": 352,
+    "openLibraryKey": "/works/OL261889W"
+  },
+  {
+    "id": "midnights-children",
+    "title": "Midnight's Children",
+    "authorId": "salman-rushdie",
+    "authorName": "Salman Rushdie",
+    "publicationYear": 1981,
+    "publisher": "Cape",
+    "isbn13": "9780224018234",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Saleem narrates India's transition to independence.",
+    "pageCount": 536,
+    "spineColor": "#b91c1c",
+    "countryOfOrigin": "United Kingdom",
+    "coverImage": "https://covers.openlibrary.org/b/id/8346713-L.jpg?default=false",
+    "openLibraryKey": "/works/OL457179W"
+  },
+  {
+    "id": "the-black-prince",
+    "title": "The Black Prince",
+    "authorId": "iris-murdoch",
+    "authorName": "Iris Murdoch",
+    "publicationYear": 1973,
+    "publisher": "Viking Press",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A retired tax inspector's plans are disrupted by friends and relations.",
+    "countryOfOrigin": "United Kingdom",
+    "coverImage": "https://covers.openlibrary.org/b/id/2197830-L.jpg?default=false",
+    "isbn13": "9781411492592",
+    "pageCount": 416,
+    "openLibraryKey": "/works/OL1326328W"
+  },
+  {
+    "id": "eva-trout",
+    "title": "Eva Trout",
+    "authorId": "elizabeth-bowen",
+    "authorName": "Elizabeth Bowen",
+    "publicationYear": 1969,
+    "publisher": "Cape",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "An orphan travels in search of love and serenity.",
+    "countryOfOrigin": "United Kingdom",
+    "coverImage": "https://covers.openlibrary.org/b/id/97259-L.jpg?default=false",
+    "isbn13": "9780140056488",
+    "pageCount": 272,
+    "openLibraryKey": "/works/OL724110W"
+  },
+  {
+    "id": "the-secret-scripture",
+    "title": "The Secret Scripture",
+    "authorId": "sebastian-barry",
+    "authorName": "Sebastian Barry",
+    "publicationYear": 2008,
+    "publisher": "Faber and Faber",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "An elderly hospital patient and her psychiatrist record their histories.",
+    "countryOfOrigin": "United Kingdom",
+    "coverImage": "https://covers.openlibrary.org/b/id/6968893-L.jpg?default=false",
+    "isbn13": "9780571215287",
+    "pageCount": 300,
+    "openLibraryKey": "/works/OL735338W"
+  },
+  {
+    "id": "lote",
+    "title": "Lote",
+    "authorId": "shola-von-reinhold",
+    "authorName": "Shola von Reinhold",
+    "publicationYear": 2020,
+    "publisher": "Jacaranda",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Mathilda investigates a forgotten Black modernist poet.",
+    "openLibraryKey": "/works/OL22062191W"
+  },
+  {
+    "id": "attrib-and-other-stories",
+    "title": "Attrib. and Other Stories",
+    "authorId": "eley-williams",
+    "authorName": "Eley Williams",
+    "publicationYear": 2017,
+    "publisher": "Influx Press",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Stories explore the difficulties of communication.",
+    "openLibraryKey": "/works/OL21137450W"
+  },
+  {
+    "id": "you-don-t-have-to-live-like-this",
+    "title": "You Don’t Have to Live Like This",
+    "authorId": "benjamin-markovits",
+    "authorName": "Benjamin Markovits",
+    "publicationYear": 2015,
+    "publisher": "Faber and Faber",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Greg Marnier joins a racially charged Detroit redevelopment experiment.",
+    "openLibraryKey": "/works/OL21085925W"
+  },
+  {
+    "id": "the-deadman-s-pedal",
+    "title": "The Deadman’s Pedal",
+    "authorId": "alan-warner",
+    "authorName": "Alan Warner",
+    "publicationYear": 2012,
+    "publisher": "Jonathan Cape",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A Highland teenager joins the railway.",
+    "openLibraryKey": "/works/OL86027W"
+  },
+  {
+    "id": "our-horses-in-egypt",
+    "title": "Our Horses in Egypt",
+    "authorId": "rosalind-belben",
+    "authorName": "Rosalind Belben",
+    "publicationYear": 2007,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A war widow travels to Egypt to rescue her horse, left behind after World War I.",
+    "openLibraryKey": "/works/OL5982772W"
+  },
+  {
+    "id": "saturday",
+    "title": "Saturday",
+    "authorId": "ian-mcewan",
+    "authorName": "Ian McEwan",
+    "publicationYear": 2005,
+    "publisher": "Jonathan Cape",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A novel unfolds within a single day.",
+    "openLibraryKey": "/works/OL1855945W"
+  },
+  {
+    "id": "gb84",
+    "title": "GB84",
+    "authorId": "david-peace",
+    "authorName": "David Peace",
+    "publicationYear": 2004,
+    "publisher": "Faber",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A fictional portrait of Britain's miners' strike.",
+    "openLibraryKey": "/works/OL2042550W"
+  },
+  {
+    "id": "personality",
+    "title": "Personality",
+    "authorId": "andrew-o-hagan",
+    "authorName": "Andrew O'Hagan",
+    "publicationYear": 2003,
+    "publisher": "Faber",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A young Scottish singer becomes a star while privately struggling with fame and her body.",
+    "openLibraryKey": "/works/OL19550W"
+  },
+  {
+    "id": "something-like-a-house",
+    "title": "Something Like a House",
+    "authorId": "sid-smith",
+    "authorName": "Sid Smith",
+    "publicationYear": 2001,
+    "publisher": "Picador",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "An army deserter lives in an isolated Chinese village during the Cultural Revolution.",
+    "openLibraryKey": "/works/OL5191659W"
+  },
+  {
+    "id": "renegade-or-halo2",
+    "title": "Renegade or Halo2",
+    "authorId": "timothy-mo",
+    "authorName": "Timothy Mo",
+    "publicationYear": 1999,
+    "publisher": "Paddleless Press",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Rey Castro, a Black Amerasian born in the Philippines, is scapegoated and forced overseas.",
+    "openLibraryKey": "/works/OL4239006W"
+  },
+  {
+    "id": "justine",
+    "title": "Justine",
+    "authorId": "alice-thompson",
+    "authorName": "Alice Thompson",
+    "publicationYear": 1996,
+    "publisher": "Canongate",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "An art collector becomes obsessed with a portrait.",
+    "openLibraryKey": "/works/OL1952815W"
+  },
+  {
+    "id": "the-prestige",
+    "title": "The Prestige",
+    "authorId": "christopher-priest",
+    "authorName": "Christopher Priest",
+    "publicationYear": 1995,
+    "publisher": "Touchstone",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Rival Victorian illusionists pursue a deadly feud.",
+    "openLibraryKey": "/works/OL166497W"
+  },
+  {
+    "id": "sacred-country",
+    "title": "Sacred Country",
+    "authorId": "rose-tremain",
+    "authorName": "Rose Tremain",
+    "publicationYear": 1992,
+    "publisher": "Sinclair Stevenson",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Mary Ward searches for his identity over three decades.",
+    "openLibraryKey": "/works/OL477530W"
+  },
+  {
+    "id": "downriver",
+    "title": "Downriver",
+    "authorId": "iain-sinclair",
+    "authorName": "Iain Sinclair",
+    "publicationYear": 1991,
+    "publisher": "Michael Joseph",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A film crew documents London's Thames waterfront and property speculation.",
+    "openLibraryKey": "/works/OL8404276W"
+  },
+  {
+    "id": "brazzaville-beach",
+    "title": "Brazzaville Beach",
+    "authorId": "william-boyd",
+    "authorName": "William Boyd",
+    "publicationYear": 1990,
+    "publisher": "Sinclair Stevenson",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "An ecologist studying chimpanzees recalls leaving England and her husband.",
+    "openLibraryKey": "/works/OL74625W"
+  },
+  {
+    "id": "a-season-in-the-west",
+    "title": "A Season In The West",
+    "authorId": "piers-paul-read",
+    "authorName": "Piers Paul Read",
+    "publicationYear": 1988,
+    "publisher": "Secker & Warburg",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A Czechoslovak writer and dissident defects to England.",
+    "openLibraryKey": "/works/OL2563204W"
+  },
+  {
+    "id": "persephone",
+    "title": "Persephone",
+    "authorId": "jenny-joseph",
+    "authorName": "Jenny Joseph",
+    "publicationYear": 1986,
+    "publisher": "Bloodaxe Books",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A multi-form novel retells the Persephone myth.",
+    "openLibraryKey": "/works/OL1694002W"
+  },
+  {
+    "id": "winter-garden",
+    "title": "Winter Garden",
+    "authorId": "robert-edric",
+    "authorName": "Robert Edric",
+    "publicationYear": 1985,
+    "publisher": "André Deutsch",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Performers at a winter seaside resort confront life's disappointments.",
+    "openLibraryKey": "/works/OL2941292W"
+  },
+  {
+    "id": "nights-at-the-circus",
+    "title": "Nights At The Circus",
+    "authorId": "angela-carter",
+    "authorName": "Angela Carter",
+    "publicationYear": 1984,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A journalist travels with an extraordinary circus.",
+    "openLibraryKey": "/works/OL697429W"
+  },
+  {
+    "id": "on-the-black-hill",
+    "title": "On The Black Hill",
+    "authorId": "bruce-chatwin",
+    "authorName": "Bruce Chatwin",
+    "publicationYear": 1982,
+    "publisher": "Cape",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Twin brothers spend their lives on a rural Welsh farm.",
+    "openLibraryKey": "/works/OL612495W"
+  },
+  {
+    "id": "the-mosquito-coast",
+    "title": "The Mosquito Coast",
+    "authorId": "paul-theroux",
+    "authorName": "Paul Theroux",
+    "publicationYear": 1981,
+    "publisher": "Hamish Hamilton",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Allie Fox takes his family to live in the Honduran jungle.",
+    "openLibraryKey": "/works/OL37636W"
+  },
+  {
+    "id": "waiting-for-the-barbarians",
+    "title": "Waiting For The Barbarians",
+    "authorId": "j-m-coetzee",
+    "authorName": "J. M. Coetzee",
+    "publicationYear": 1980,
+    "publisher": "Secker & Warburg",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A frontier magistrate rebels after witnessing interrogation.",
+    "openLibraryKey": "/works/OL500388W"
+  },
+  {
+    "id": "darkness-visible",
+    "title": "Darkness Visible",
+    "authorId": "william-golding",
+    "authorName": "William Golding",
+    "publicationYear": 1979,
+    "publisher": "Faber",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A child scarred in the Blitz becomes a wanderer whose fate intertwines with two sisters.",
+    "openLibraryKey": "/works/OL2430136W"
+  },
+  {
+    "id": "plumb",
+    "title": "Plumb",
+    "authorId": "maurice-gee",
+    "authorName": "Maurice Gee",
+    "publicationYear": 1978,
+    "publisher": "Faber",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Clergyman George Plumb pursues his conscience despite the cost to those he loves.",
+    "openLibraryKey": "/works/OL728547W"
+  },
+  {
+    "id": "the-honourable-schoolboy",
+    "title": "The Honourable Schoolboy",
+    "authorId": "john-le-carre",
+    "authorName": "John Le Carré",
+    "publicationYear": 1977,
+    "publisher": "Hodder & Stoughton",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "George Smiley rebuilds the Circus while pursuing Karla.",
+    "openLibraryKey": "/works/OL181823W"
+  },
+  {
+    "id": "doctor-copernicus",
+    "title": "Doctor Copernicus",
+    "authorId": "john-banville",
+    "authorName": "John Banville",
+    "publicationYear": 1976,
+    "publisher": "Secker & Warburg",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A fictional retelling of Copernicus's life.",
+    "openLibraryKey": "/works/OL2687260W"
+  },
+  {
+    "id": "the-great-victorian-collection",
+    "title": "The Great Victorian Collection",
+    "authorId": "brian-moore",
+    "authorName": "Brian Moore",
+    "publicationYear": 1975,
+    "publisher": "Cape",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A historian dreams up a collection of Victorian artefacts.",
+    "openLibraryKey": "/works/OL2233628W"
+  },
+  {
+    "id": "monsieur-or-the-prince-of-darkness",
+    "title": "Monsieur, Or The Prince Of Darkness",
+    "authorId": "lawrence-durrell",
+    "authorName": "Lawrence Durrell",
+    "publicationYear": 1974,
+    "publisher": "Faber and Faber",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Characters withdrawing from the world become entangled in a Gnostic suicide club.",
+    "openLibraryKey": "/works/OL48257W"
+  },
+  {
+    "id": "a-guest-of-honour",
+    "title": "A Guest Of Honour",
+    "authorId": "nadine-gordimer",
+    "authorName": "Nadine Gordimer",
+    "publicationYear": 1971,
+    "publisher": "Cape",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A former colonial administrator returns to an African nation for independence celebrations and confronts factional violence.",
+    "openLibraryKey": "/works/OL118276W"
+  },
+  {
+    "id": "jerusalem-the-golden",
+    "title": "Jerusalem The Golden",
+    "authorId": "margaret-drabble",
+    "authorName": "Margaret Drabble",
+    "publicationYear": 1967,
+    "publisher": "Weidenfeld & Nicolson",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Clara leaves home and encounters London bohemians.",
+    "openLibraryKey": "/works/OL1888815W"
+  },
+  {
+    "id": "langrishe-go-down",
+    "title": "Langrishe, Go Down",
+    "authorId": "aidan-higgins",
+    "authorName": "Aidan Higgins",
+    "publicationYear": 1966,
+    "publisher": "Grove Press",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "An Irish family's decline is traced through its daughters.",
+    "openLibraryKey": "/works/OL2880052W"
+  },
+  {
+    "id": "the-mandelbaum-gate",
+    "title": "The Mandelbaum Gate",
+    "authorId": "muriel-spark",
+    "authorName": "Muriel Spark",
+    "publicationYear": 1965,
+    "publisher": "Alfred A. Knopf",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "An Englishwoman crosses from Israel into Jordan.",
+    "openLibraryKey": "/works/OL26434W"
+  },
+  {
+    "id": "the-ice-saints",
+    "title": "The Ice Saints",
+    "authorId": "frank-tuohy",
+    "authorName": "Frank Tuohy",
+    "publicationYear": 1964,
+    "publisher": "Penguin",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "An Englishwoman visits her sister in Communist Poland.",
+    "openLibraryKey": "/works/OL11895003W"
+  },
+  {
+    "id": "the-ha-ha",
+    "title": "The Ha-Ha",
+    "authorId": "jennifer-dawson",
+    "authorName": "Jennifer Dawson",
+    "publicationYear": 1961,
+    "publisher": "Little, Brown",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A young woman experiences a university breakdown and recovery.",
+    "openLibraryKey": "/works/OL4499354W"
+  },
+  {
+    "id": "the-middle-age-of-mrs-eliot",
+    "title": "The Middle Age Of Mrs Eliot",
+    "authorId": "angus-wilson",
+    "authorName": "Angus Wilson",
+    "publicationYear": 1958,
+    "publisher": "Secker & Warburg",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Meg Eliot forges a life beyond prescribed roles.",
+    "openLibraryKey": "/works/OL2634866W"
+  },
+  {
+    "id": "at-lady-molly-s",
+    "title": "At Lady Molly's",
+    "authorId": "anthony-powell",
+    "authorName": "Anthony Powell",
+    "publicationYear": 1957,
+    "publisher": "Heinemann",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A satire of 1930s London society.",
+    "openLibraryKey": "/works/OL2074155W"
+  },
+  {
+    "id": "mother-and-son",
+    "title": "Mother And Son",
+    "authorId": "ivy-compton-burnett",
+    "authorName": "Ivy Compton-Burnett",
+    "publicationYear": 1955,
+    "publisher": "J. Messner",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Miranda's search for a companion brings her family into contact with another household.",
+    "openLibraryKey": "/works/OL1206490W"
+  },
+  {
+    "id": "the-new-men",
+    "title": "The New Men",
+    "authorId": "c-p-snow",
+    "authorName": "C. P. Snow",
+    "publicationYear": 1954,
+    "publisher": "Penguin",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Nuclear scientists and officials work together during wartime.",
+    "openLibraryKey": "/works/OL3412161W"
+  },
+  {
+    "id": "the-masters",
+    "title": "The Masters",
+    "authorId": "c-p-snow",
+    "authorName": "C. P. Snow",
+    "publicationYear": 1954,
+    "publisher": "Penguin",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A Cambridge college manoeuvres to elect a new master.",
+    "openLibraryKey": "/works/OL3412163W"
+  },
+  {
+    "id": "troy-chimneys",
+    "title": "Troy Chimneys",
+    "authorId": "margaret-kennedy",
+    "authorName": "Margaret Kennedy",
+    "publicationYear": 1953,
+    "publisher": "Macmillan",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Family papers reveal a Regency politician divided between two personas.",
+    "openLibraryKey": "/works/OL5185977W"
+  },
+  {
+    "id": "men-at-arms",
+    "title": "Men At Arms",
+    "authorId": "evelyn-waugh",
+    "authorName": "Evelyn Waugh",
+    "publicationYear": 1952,
+    "publisher": "Chapman and Hall",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "The first volume of a trilogy about war, religion and politics.",
+    "openLibraryKey": "/works/OL5721440W"
+  },
+  {
+    "id": "the-far-cry",
+    "title": "The Far Cry",
+    "authorId": "emma-smith",
+    "authorName": "Emma Smith",
+    "publicationYear": 1949,
+    "publisher": "MacGibbon & Kee",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Teresa's father takes her to India.",
+    "openLibraryKey": "/works/OL5548305W"
+  },
+  {
+    "id": "the-heart-of-the-matter",
+    "title": "The Heart Of The Matter",
+    "authorId": "graham-greene",
+    "authorName": "Graham Greene",
+    "publicationYear": 1948,
+    "publisher": "Heinemann",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A colonial police officer begins an affair in West Africa.",
+    "openLibraryKey": "/works/OL106077W"
+  },
+  {
+    "id": "eustace-and-hilda",
+    "title": "Eustace And Hilda",
+    "authorId": "l-p-hartley",
+    "authorName": "L. P. Hartley",
+    "publicationYear": 1947,
+    "publisher": "Putnam",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A brother and sister's lives are shaped by a visit to a wealthy family's country house.",
+    "openLibraryKey": "/works/OL10298208W"
+  },
+  {
+    "id": "tales-from-bective-bridge",
+    "title": "Tales From Bective Bridge",
+    "authorId": "mary-lavin",
+    "authorName": "Mary Lavin",
+    "publicationYear": 1943,
+    "publisher": "Joseph",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Ten stories depict people in Ireland's rural midlands.",
+    "openLibraryKey": "/works/OL12083724W"
+  },
+  {
+    "id": "a-house-of-children",
+    "title": "A House Of Children",
+    "authorId": "joyce-cary",
+    "authorName": "Joyce Cary",
+    "publicationYear": 1941,
+    "publisher": "M. Joseph",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A Donegal holiday house becomes an enchanted place for a young boy and his relatives.",
+    "openLibraryKey": "/works/OL14861292W"
+  },
+  {
+    "id": "after-many-a-summer-dies-the-swan",
+    "title": "After Many A Summer Dies The Swan",
+    "authorId": "aldous-huxley",
+    "authorName": "Aldous Huxley",
+    "publicationYear": 1939,
+    "publisher": "Harper & Brothers",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A millionaire funds research into immortality, entangling those around him.",
+    "openLibraryKey": "/works/OL34619728W"
+  },
+  {
+    "id": "a-ship-of-the-line",
+    "title": "A Ship Of The Line",
+    "authorId": "c-s-forester",
+    "authorName": "C. S. Forester",
+    "publicationYear": 1938,
+    "publisher": "Little, Brown",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Hornblower's ship is damaged and he is captured.",
+    "openLibraryKey": "/works/OL1937788W"
+  },
+  {
+    "id": "flying-colours",
+    "title": "Flying Colours",
+    "authorId": "c-s-forester",
+    "authorName": "C. S. Forester",
+    "publicationYear": 1938,
+    "publisher": "P.F. Collier & Son Corporation NY",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Captured by the French, Hornblower faces execution unless he escapes.",
+    "openLibraryKey": "/works/OL32039176W"
+  },
+  {
+    "id": "south-riding",
+    "title": "South Riding",
+    "authorId": "winifred-holtby",
+    "authorName": "Winifred Holtby",
+    "publicationYear": 1936,
+    "publisher": "The Macmillan Company",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A Yorkshire community faces interwar challenges.",
+    "openLibraryKey": "/works/OL5303720W"
+  },
+  {
+    "id": "i-claudius",
+    "title": "I, Claudius",
+    "authorId": "robert-graves",
+    "authorName": "Robert Graves",
+    "publicationYear": 1934,
+    "publisher": "Grosset & Dunlap",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Claudius recounts his survival and rise to emperor.",
+    "openLibraryKey": "/works/OL5036952W"
+  },
+  {
+    "id": "england-their-england",
+    "title": "England, Their England",
+    "authorId": "a-g-macdonell",
+    "authorName": "A. G. Macdonell",
+    "publicationYear": 1933,
+    "publisher": "Macmillan",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A young Scot navigates English society while preparing a book about Englishness.",
+    "openLibraryKey": "/works/OL1775004W"
+  },
+  {
+    "id": "without-my-cloak",
+    "title": "Without My Cloak",
+    "authorId": "kate-o-brien",
+    "authorName": "Kate O'Brien",
+    "publicationYear": 1931,
+    "publisher": "Doubleday, Doran",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "The Considine family's fortunes develop across generations in Mellick.",
+    "openLibraryKey": "/works/OL1667052W"
+  },
+  {
+    "id": "miss-mole",
+    "title": "Miss Mole",
+    "authorId": "e-h-young",
+    "authorName": "E. H. Young",
+    "publicationYear": 1930,
+    "publisher": "Jonathan Cape",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A governess takes charge of a clergyman's daughters.",
+    "openLibraryKey": "/works/OL3979512W"
+  },
+  {
+    "id": "the-good-companions",
+    "title": "The Good Companions",
+    "authorId": "j-b-priestley",
+    "authorName": "J. B. Priestley",
+    "publicationYear": 1929,
+    "publisher": "William Heinemann",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A travelling troupe has adventures in England.",
+    "openLibraryKey": "/works/OL240564W"
+  },
+  {
+    "id": "portrait-of-clare",
+    "title": "Portrait Of Clare",
+    "authorId": "francis-brett-young",
+    "authorName": "Francis Brett Young",
+    "publicationYear": 1927,
+    "publisher": "William Heinemann",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Clare grows up amid family disapproval and searches for happiness.",
+    "openLibraryKey": "/works/OL1162812W"
+  },
+  {
+    "id": "adam-s-breed",
+    "title": "Adam's Breed",
+    "authorId": "radclyffe-hall",
+    "authorName": "Radclyffe Hall",
+    "publicationYear": 1926,
+    "publisher": "Cassell and Company",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Gian-Luca becomes a successful waiter but leaves society seeking a more fulfilling life.",
+    "openLibraryKey": "/works/OL3297450W"
+  },
+  {
+    "id": "a-passage-to-india",
+    "title": "A Passage To India",
+    "authorId": "e-m-forster",
+    "authorName": "E. M. Forster",
+    "publicationYear": 1924,
+    "publisher": "Harcourt, Brace and Company",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "English visitors seek to experience India beyond their community.",
+    "openLibraryKey": "/works/OL88809W"
+  },
+  {
+    "id": "riceyman-steps",
+    "title": "Riceyman Steps",
+    "authorId": "arnold-bennett",
+    "authorName": "Arnold Bennett",
+    "publicationYear": 1923,
+    "publisher": "Cassell & Company; Doran",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A bookseller runs a gloomy London shop.",
+    "openLibraryKey": "/works/OL109222W"
+  },
+  {
+    "id": "lady-into-fox",
+    "title": "Lady Into Fox",
+    "authorId": "david-garnett",
+    "authorName": "David Garnett",
+    "publicationYear": 1922,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "A woman turns into a fox.",
+    "openLibraryKey": "/works/OL3042137W"
+  },
+  {
+    "id": "the-lost-girl",
+    "title": "The Lost Girl",
+    "authorId": "d-h-lawrence",
+    "authorName": "D. H. Lawrence",
+    "publicationYear": 1920,
+    "publisher": "M. Secker",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Alvina seeks escape from provincial life.",
+    "openLibraryKey": "/works/OL81287W"
+  },
+  {
+    "id": "the-secret-city",
+    "title": "The Secret City",
+    "authorId": "hugh-walpole",
+    "authorName": "Hugh Walpole",
+    "publicationYear": 1919,
+    "publisher": "Macmillan",
+    "genres": [
+      "Fiction"
+    ],
+    "synopsis": "Relationships unfold in early twentieth-century Russia.",
+    "openLibraryKey": "/works/OL1149266W"
+  },
+  {
+    "id": "my-great-arab-melancholy",
+    "title": "My Great Arab Melancholy",
+    "authorId": "lamia-ziade",
+    "authorName": "Lamia Ziadé",
+    "publicationYear": 2024,
+    "publisher": "Pluto Press",
+    "genres": [
+      "Memoir",
+      "History",
+      "Travelogue"
+    ],
+    "synopsis": "An illustrated personal and political history of the modern Arab world.",
+    "openLibraryKey": "/works/OL37584926W",
+    "translator": "Emma Ramadan"
+  },
+  {
+    "id": "traces-of-enayat",
+    "title": "Traces of Enayat",
+    "authorId": "iman-mersal",
+    "authorName": "Iman Mersal",
+    "publicationYear": 2023,
+    "publisher": "And Other Stories",
+    "genres": [
+      "Biography",
+      "Memoir"
+    ],
+    "synopsis": "Mersal retraces the life of Egyptian writer Enayat al-Zayyat.",
+    "openLibraryKey": "/works/OL37620382W",
+    "translator": "Robin Moger"
+  },
+  {
+    "id": "fassbinder-thousands-of-mirrors",
+    "title": "Fassbinder: Thousands of Mirrors",
+    "authorId": "ian-penman",
+    "authorName": "Ian Penman",
+    "publicationYear": 2023,
+    "publisher": "Fitzcarraldo Editions",
+    "genres": [
+      "Life Writing"
+    ],
+    "synopsis": "A portrait of filmmaker Rainer Werner Fassbinder and his cultural milieu.",
+    "openLibraryKey": "/works/OL28844713W"
+  },
+  {
+    "id": "come-back-in-september-a-literary-education-on-west-sixty-seventh-street-manhattan",
+    "title": "Come Back in September: A Literary Education on West Sixty-Seventh Street, Manhattan",
+    "authorId": "darryl-pinckney",
+    "authorName": "Darryl Pinckney",
+    "publicationYear": 2022,
+    "publisher": "Riverrun",
+    "genres": [
+      "Memoir"
+    ],
+    "synopsis": "Pinckney recalls his apprenticeship with Elizabeth Hardwick and Barbara Epstein and his introduction to New York literary life.",
+    "openLibraryKey": "/works/OL27172788W"
+  },
+  {
+    "id": "finding-the-raga-an-improvisation-on-indian-music",
+    "title": "Finding the Raga: An Improvisation on Indian Music",
+    "authorId": "amit-chaudhuri",
+    "authorName": "Amit Chaudhuri",
+    "publicationYear": 2021,
+    "publisher": "Faber",
+    "genres": [
+      "Biography"
+    ],
+    "synopsis": "Chaudhuri reflects on his relationship with North Indian classical music.",
+    "openLibraryKey": "/works/OL25316192W"
+  },
+  {
+    "id": "a-ghost-in-the-throat",
+    "title": "A Ghost in the Throat",
+    "authorId": "doireann-ni-ghriofa",
+    "authorName": "Doireann Ní Ghríofa",
+    "publicationYear": 2020,
+    "publisher": "Tramp Press",
+    "genres": [
+      "Memoir",
+      "Biography"
+    ],
+    "synopsis": "Memoir intertwines with an exploration of the life of poet Eibhlín Dubh Ní Chonaill.",
+    "openLibraryKey": "/works/OL23588329W"
+  },
+  {
+    "id": "in-extremis-the-life-of-war-correspondent-marie-colvin",
+    "title": "In Extremis The Life of War Correspondent Marie Colvin",
+    "authorId": "lindsey-hilsum",
+    "authorName": "Lindsey Hilsum",
+    "publicationYear": 2018,
+    "publisher": "Chatto and Windus",
+    "genres": [
+      "Biography"
+    ],
+    "synopsis": "A biography of war correspondent Marie Colvin.",
+    "openLibraryKey": "/works/OL19761939W"
+  },
+  {
+    "id": "ma-am-darling-99-glimpses-of-princess-margaret",
+    "title": "Ma'am Darling: 99 Glimpses of Princess Margaret",
+    "authorId": "craig-brown",
+    "authorName": "Craig Brown",
+    "publicationYear": 2017,
+    "publisher": "4th Estate",
+    "genres": [
+      "Biography"
+    ],
+    "synopsis": "Interviews, diaries, parodies and essays portray Princess Margaret and her place in society.",
+    "openLibraryKey": "/works/OL18818831W"
+  },
+  {
+    "id": "penelope-fitzgerald-a-life",
+    "title": "Penelope Fitzgerald: A life",
+    "authorId": "hermione-lee",
+    "authorName": "Hermione Lee",
+    "publicationYear": 2013,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography"
+    ],
+    "synopsis": "A biography of the English writer Penelope Fitzgerald and her late literary success.",
+    "openLibraryKey": "/works/OL17094206W"
+  },
+  {
+    "id": "the-last-pre-raphaelite-edward-burne-jones-and-the-victorian-imagination",
+    "title": "The Last Pre-Raphaelite Edward Burne-Jones and the Victorian Imagination",
+    "authorId": "fiona-maccarthy",
+    "authorName": "Fiona MacCarthy",
+    "publicationYear": 2011,
+    "publisher": "Faber & Faber",
+    "genres": [
+      "Biography"
+    ],
+    "synopsis": "The life and art of Edward Burne-Jones and his place in Victorian society.",
+    "openLibraryKey": "/works/OL16345800W"
+  },
+  {
+    "id": "god-s-architect-pugin-and-the-building-of-romantic-britain",
+    "title": "God's Architect: Pugin and the Building of Romantic Britain",
+    "authorId": "rosemary-hill",
+    "authorName": "Rosemary Hill",
+    "publicationYear": 2007,
+    "publisher": "Allen Lane",
+    "genres": [
+      "Biography"
+    ],
+    "synopsis": "Pugin's life and work as architect and artist, drawing on letters and drawings.",
+    "openLibraryKey": "/works/OL9323812W"
+  },
+  {
+    "id": "edvard-munch-behind-the-scream",
+    "title": "Edvard Munch: Behind The Scream",
+    "authorId": "sue-prideaux",
+    "authorName": "Sue Prideaux",
+    "publicationYear": 2005,
+    "publisher": "Yale University Press",
+    "genres": [
+      "Biography",
+      "Art"
+    ],
+    "synopsis": "Munch's turbulent life and efforts to paint his inner experience.",
+    "openLibraryKey": "/works/OL21214855W"
+  },
+  {
+    "id": "john-clare-a-biography",
+    "title": "John Clare: A Biography",
+    "authorId": "jonathan-bate",
+    "authorName": "Jonathan Bate",
+    "publicationYear": 2004,
+    "publisher": "Picador",
+    "genres": [
+      "Biography"
+    ],
+    "synopsis": "A biography of the poet John Clare and his writing about nature and rural life.",
+    "openLibraryKey": "/works/OL482644W"
+  },
+  {
+    "id": "experience",
+    "title": "Experience",
+    "authorId": "martin-amis",
+    "authorName": "Martin Amis",
+    "publicationYear": 2000,
+    "publisher": "Jonathan Cape",
+    "genres": [
+      "Memoir"
+    ],
+    "synopsis": "Amis reflects on his life and literary family.",
+    "openLibraryKey": "/works/OL16843W"
+  },
+  {
+    "id": "george-eliot-the-last-victorian",
+    "title": "George Eliot: The Last Victorian",
+    "authorId": "kathryn-hughes",
+    "authorName": "Kathryn Hughes",
+    "publicationYear": 1999,
+    "publisher": "Fourth Estate",
+    "genres": [
+      "Biography"
+    ],
+    "synopsis": "A biography of George Eliot exploring her life and literary career.",
+    "openLibraryKey": "/works/OL1974021W"
+  },
+  {
+    "id": "the-life-of-thomas-more",
+    "title": "The Life of Thomas More",
+    "authorId": "peter-ackroyd",
+    "authorName": "Peter Ackroyd",
+    "publicationYear": 1998,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography"
+    ],
+    "synopsis": "Thomas More's intellectual and political life, faith and execution.",
+    "openLibraryKey": "/works/OL43263067W"
+  },
+  {
+    "id": "thomas-cranmer-a-life",
+    "title": "Thomas Cranmer: A Life",
+    "authorId": "diarmaid-macculloch",
+    "authorName": "Diarmaid MacCulloch",
+    "publicationYear": 1996,
+    "publisher": "Yale",
+    "genres": [
+      "Biography"
+    ],
+    "synopsis": "Cranmer's career and role in the English Reformation.",
+    "openLibraryKey": "/works/OL2282733W"
+  },
+  {
+    "id": "under-my-skin",
+    "title": "Under My Skin",
+    "authorId": "doris-lessing",
+    "authorName": "Doris Lessing",
+    "publicationYear": 1994,
+    "publisher": "Harper Collins",
+    "genres": [
+      "Autobiography"
+    ],
+    "synopsis": "Lessing recounts her childhood in Africa and her arrival in London in 1949.",
+    "openLibraryKey": "/works/OL31242W"
+  },
+  {
+    "id": "darwin",
+    "title": "Darwin",
+    "authorId": "adrian-desmond-and-james-moore",
+    "authorName": "Adrian Desmond and James Moore",
+    "publicationYear": 1991,
+    "publisher": "Paladin",
+    "genres": [
+      "Biography"
+    ],
+    "synopsis": "Darwin's Cambridge years, Beagle voyage and struggle to develop his theory of evolution.",
+    "openLibraryKey": "/works/OL2682087W"
+  },
+  {
+    "id": "the-invisible-woman-the-story-of-nelly-ternan-and-charles-dickens",
+    "title": "The Invisible Woman: The Story Of Nelly Ternan And Charles Dickens",
+    "authorId": "claire-tomalin",
+    "authorName": "Claire Tomalin",
+    "publicationYear": 1990,
+    "publisher": "Viking",
+    "genres": [
+      "Biography"
+    ],
+    "synopsis": "Actress Ellen Ternan and her secret relationship with Charles Dickens.",
+    "openLibraryKey": "/works/OL17485197W"
+  },
+  {
+    "id": "jonathan-swift-a-hypocrite-reversed",
+    "title": "Jonathan Swift: A Hypocrite Reversed",
+    "authorId": "david-nokes",
+    "authorName": "David Nokes",
+    "publicationYear": 1985,
+    "publisher": "OUP",
+    "genres": [
+      "Biography"
+    ],
+    "synopsis": "Swift's public and private life as satirist, politician, churchman and friend.",
+    "openLibraryKey": "/works/OL1865455W"
+  },
+  {
+    "id": "james-joyce",
+    "title": "James Joyce",
+    "authorId": "richard-ellmann",
+    "authorName": "Richard Ellmann",
+    "publicationYear": 1982,
+    "publisher": "OUP",
+    "genres": [
+      "Biography"
+    ],
+    "synopsis": "A detailed account of the life of James Joyce.",
+    "openLibraryKey": "/works/OL4650295W"
+  },
+  {
+    "id": "samuel-johnson",
+    "title": "Samuel Johnson",
+    "authorId": "john-wain",
+    "authorName": "John Wain",
+    "publicationYear": 1974,
+    "publisher": "Macmillan",
+    "genres": [
+      "Biography"
+    ],
+    "synopsis": "Johnson's Midlands beginnings, Grub Street career and dictionary years.",
+    "openLibraryKey": "/works/OL3067799W"
+  },
+  {
+    "id": "alexander-the-great",
+    "title": "Alexander The Great",
+    "authorId": "robin-lane-fox",
+    "authorName": "Robin Lane Fox",
+    "publicationYear": 1973,
+    "publisher": "Allen Lane",
+    "genres": [
+      "Biography"
+    ],
+    "synopsis": "The life and conquests of Alexander the Great.",
+    "openLibraryKey": "/works/OL3673838W"
+  },
+  {
+    "id": "mary-queen-of-scots",
+    "title": "Mary, Queen Of Scots",
+    "authorId": "antonia-fraser",
+    "authorName": "Antonia Fraser",
+    "publicationYear": 1969,
+    "publisher": "Delacorte Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Mary's French childhood, Scottish reign, captivity and execution.",
+    "openLibraryKey": "/works/OL1730836W"
+  },
+  {
+    "id": "george-eliot",
+    "title": "George Eliot",
+    "authorId": "gordon-s-haight",
+    "authorName": "Gordon S. Haight",
+    "publicationYear": 1968,
+    "publisher": "Clarendon Press",
+    "genres": [
+      "Biography"
+    ],
+    "synopsis": "Eliot's personal life and literary career, including her major novels.",
+    "openLibraryKey": "/works/OL3401776W"
+  },
+  {
+    "id": "the-history-of-fanny-burney",
+    "title": "The History Of Fanny Burney",
+    "authorId": "joyce-hemlow",
+    "authorName": "Joyce Hemlow",
+    "publicationYear": 1958,
+    "publisher": "Clarendon Press",
+    "genres": [
+      "Biography"
+    ],
+    "synopsis": "A study of the novelist Fanny Burney.",
+    "openLibraryKey": "/works/OL188166W"
+  },
+  {
+    "id": "florence-nightingale",
+    "title": "Florence Nightingale",
+    "authorId": "mrs-cecil-woodham-smith",
+    "authorName": "Mrs Cecil Woodham-Smith",
+    "publicationYear": 1950,
+    "publisher": "Constable",
+    "genres": [
+      "Biography"
+    ],
+    "synopsis": "Nightingale's nursing work, Crimean service and campaign for health reform.",
+    "openLibraryKey": "/works/OL273138W"
+  },
+  {
+    "id": "spanish-tudor",
+    "title": "Spanish Tudor",
+    "authorId": "hilda-f-m-prescott",
+    "authorName": "Hilda F. M. Prescott",
+    "publicationYear": 1940,
+    "publisher": "Constable",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "The life and reign of Mary I of England.",
+    "openLibraryKey": "/works/OL6048680W"
+  },
+  {
+    "id": "samuel-taylor-coleridge",
+    "title": "Samuel Taylor Coleridge",
+    "authorId": "sir-edmund-chambers",
+    "authorName": "Sir Edmund Chambers",
+    "publicationYear": 1938,
+    "publisher": "Clarendon Press",
+    "genres": [
+      "Biography"
+    ],
+    "synopsis": "Coleridge's life from school and Cambridge through journalism, travel and his Highgate years.",
+    "openLibraryKey": "/works/OL1182159W"
+  },
+  {
+    "id": "john-knox",
+    "title": "John Knox",
+    "authorId": "lord-eustace-percy",
+    "authorName": "Lord Eustace Percy",
+    "publicationYear": 1937,
+    "publisher": "Hodder and Stoughton",
+    "genres": [
+      "Biography"
+    ],
+    "synopsis": "Knox's life across Scotland, England and the European Reformation.",
+    "openLibraryKey": "/works/OL7501920W"
+  },
+  {
+    "id": "montrose",
+    "title": "Montrose",
+    "authorId": "john-buchan",
+    "authorName": "John Buchan",
+    "publicationYear": 1928,
+    "publisher": "Thomas Nelson",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Montrose's youth, Scottish campaigns, exile and final campaign.",
+    "openLibraryKey": "/works/OL76581W"
+  },
+  {
+    "id": "queen-victoria",
+    "title": "Queen Victoria",
+    "authorId": "lytton-strachey",
+    "authorName": "Lytton Strachey",
+    "publicationYear": 1921,
+    "publisher": "Harcourt, Brace",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "A portrait of Queen Victoria and her era.",
+    "openLibraryKey": "/works/OL1652392W"
   }
 ]
