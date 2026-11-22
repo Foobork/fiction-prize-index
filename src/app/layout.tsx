@@ -32,6 +32,10 @@ export const metadata: Metadata = {
     description: 'An open-access catalog and virtual bookshelf of world-class fiction honors.',
     type: 'website',
   },
+  icons: {
+    icon: [{ url: 'moose.svg', type: 'image/svg+xml' }],
+    apple: [{ url: 'moose.svg' }],
+  },
 };
 
 export default function RootLayout({

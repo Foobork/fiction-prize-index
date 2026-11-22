@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Left Antler -->
+  <path
+    d="M 37 34 C 33 28 26 26 19 22 C 14 19 12 11 18 10 C 23 9 24 15 27 13 C 28 8 34 8 35 13 C 38 12 43 14 42 19 C 41 23 38 27 38 34 Z"
+    fill="#F59E0B"
+    stroke="#B45309"
+    stroke-width="2"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M 23 23 C 17 21 11 25 11 31 C 11 36 17 38 22 34 C 27 30 33 32 37 34"
+    fill="#F59E0B"
+    stroke="#B45309"
+    stroke-width="2"
+    stroke-linejoin="round"
+  />
+
+  <!-- Right Antler -->
+  <path
+    d="M 63 34 C 67 28 74 26 81 22 C 86 19 88 11 82 10 C 77 9 76 15 73 13 C 72 8 66 8 65 13 C 62 12 57 14 58 19 C 59 23 62 27 62 34 Z"
+    fill="#F59E0B"
+    stroke="#B45309"
+    stroke-width="2"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M 77 23 C 83 21 89 25 89 31 C 89 36 83 38 78 34 C 73 30 67 32 63 34"
+    fill="#F59E0B"
+    stroke="#B45309"
+    stroke-width="2"
+    stroke-linejoin="round"
+  />
+
+  <!-- Left Ear -->
+  <g transform="rotate(-15 28 44)">
+    <ellipse cx="28" cy="44" rx="10" ry="5.5" fill="#78350F" stroke="#451A03" stroke-width="2" />
+    <ellipse cx="28" cy="44" rx="6.5" ry="3" fill="#FDE68A" opacity="0.8" />
+  </g>
+
+  <!-- Right Ear -->
+  <g transform="rotate(15 72 44)">
+    <ellipse cx="72" cy="44" rx="10" ry="5.5" fill="#78350F" stroke="#451A03" stroke-width="2" />
+    <ellipse cx="72" cy="44" rx="6.5" ry="3" fill="#FDE68A" opacity="0.8" />
+  </g>
+
+  <!-- Head / Forehead -->
+  <ellipse cx="50" cy="45" rx="20" ry="18" fill="#92400E" stroke="#451A03" stroke-width="2" />
+
+  <!-- Hair tuft between antlers -->
+  <path
+    d="M 46 29 C 48 24 52 24 54 29 C 53 26 50 25 46 29 Z"
+    fill="#78350F"
+  />
+
+  <!-- Eyes -->
+  <ellipse cx="41" cy="42" rx="5.5" ry="6.5" fill="#FFFFFF" stroke="#451A03" stroke-width="1.5" />
+  <circle cx="42" cy="42" r="3.8" fill="#1C1917" />
+  <circle cx="40.5" cy="40.5" r="1.3" fill="#FFFFFF" />
+  <circle cx="43.5" cy="43.5" r="0.7" fill="#FFFFFF" />
+
+  <ellipse cx="59" cy="42" rx="5.5" ry="6.5" fill="#FFFFFF" stroke="#451A03" stroke-width="1.5" />
+  <circle cx="58" cy="42" r="3.8" fill="#1C1917" />
+  <circle cx="56.5" cy="40.5" r="1.3" fill="#FFFFFF" />
+  <circle cx="59.5" cy="43.5" r="0.7" fill="#FFFFFF" />
+
+  <!-- Cheerful Eyebrows -->
+  <path d="M 36 34 Q 41 31 45 34" stroke="#451A03" stroke-width="2" stroke-linecap="round" fill="none" />
+  <path d="M 64 34 Q 59 31 55 34" stroke="#451A03" stroke-width="2" stroke-linecap="round" fill="none" />
+
+  <!-- Big Cute Moose Snout / Muzzle -->
+  <ellipse cx="50" cy="64" rx="24" ry="18" fill="#B45309" stroke="#451A03" stroke-width="2" />
+  <ellipse cx="50" cy="62" rx="20" ry="14" fill="#D97706" opacity="0.4" />
+
+  <!-- Rosy Cheeks -->
+  <circle cx="33" cy="63" r="4.5" fill="#F87171" opacity="0.45" />
+  <circle cx="67" cy="63" r="4.5" fill="#F87171" opacity="0.45" />
+
+  <!-- Nostrils -->
+  <g transform="rotate(-8 42 63)">
+    <ellipse cx="42" cy="63" rx="3.5" ry="4.5" fill="#451A03" />
+  </g>
+  <g transform="rotate(8 58 63)">
+    <ellipse cx="58" cy="63" rx="3.5" ry="4.5" fill="#451A03" />
+  </g>
+
+  <!-- Happy Smile -->
+  <path
+    d="M 43 72 Q 50 78 57 72"
+    stroke="#451A03"
+    stroke-width="2.5"
+    stroke-linecap="round"
+    fill="none"
+  />
+
+  <!-- Cute little bell/dewlap under chin -->
+  <path
+    d="M 48 82 C 48 87 52 87 52 82 Z"
+    fill="#78350F"
+    stroke="#451A03"
+    stroke-width="1.5"
+  />
+</svg>

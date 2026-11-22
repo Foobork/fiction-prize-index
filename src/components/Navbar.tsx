@@ -2,6 +2,7 @@
 
 import React from 'react';
 import { BookOpen, Library, Trophy, Users, BarChart3, Bookmark, Moon, Sun, Github } from 'lucide-react';
+import { MooseIcon } from './MooseIcon';
 
 interface NavbarProps {
   activeTab: string;
@@ -36,8 +37,8 @@ export const Navbar: React.FC<NavbarProps> = ({
             onClick={() => setActiveTab('index')}
             className="flex items-center space-x-3 cursor-pointer group"
           >
-            <div className="w-10 h-10 rounded-lg bg-parchment-800 dark:bg-gilded-500 flex items-center justify-center text-white dark:text-ink-950 shadow-sm transition-transform group-hover:scale-105">
-              <BookOpen className="w-5 h-5" />
+            <div className="w-10 h-10 rounded-lg bg-amber-100 dark:bg-amber-950/70 border border-amber-300/80 dark:border-amber-700/60 flex items-center justify-center shadow-xs transition-transform group-hover:scale-110">
+              <MooseIcon className="w-7 h-7" />
             </div>
             <div>
               <span className="font-serif text-lg font-bold tracking-tight text-parchment-900 dark:text-parchment-50 block leading-tight">
