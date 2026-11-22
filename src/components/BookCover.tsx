@@ -29,7 +29,7 @@ export const BookCover: React.FC<BookCoverProps> = ({
     xl: 'w-52 h-76 text-base',
   };
 
-  const coverUrl = book.coverImage || (book.isbn13 ? `https://covers.openlibrary.org/b/isbn/${book.isbn13}-M.jpg?default=false` : null);
+  const coverUrl = book.coverImage || null;
 
   const hasWinner = 'nominations' in book && book.nominations.some((n) => n.status === 'winner');
 

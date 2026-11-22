@@ -1581,7 +1581,7 @@
     "pageCount": 416,
     "spineColor": "#0284c7",
     "countryOfOrigin": "Poland",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781910695432-L.jpg?default=false",
+    "coverImage": "https://covers.openlibrary.org/b/id/11426109-L.jpg?default=false",
     "translator": "Jennifer Croft",
     "originalLanguage": "Polish",
     "originalTitle": "Bieguni"
@@ -2614,7 +2614,7 @@
     "spineColor": "#0284c7",
     "countryOfOrigin": "United States",
     "isbn13": "9780449206522",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780449206522-L.jpg?default=false"
+    "coverImage": null
   },
   {
     "id": "the-caine-mutiny",
@@ -3649,7 +3649,7 @@
     "pageCount": 656,
     "spineColor": "#b45309",
     "countryOfOrigin": "Ireland",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780241604106-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/id/14406691-L.jpg?default=false"
   },
   {
     "id": "study-for-obedience",
@@ -3668,7 +3668,7 @@
     "pageCount": 208,
     "spineColor": "#3f3f46",
     "countryOfOrigin": "Canada",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781783789955-L.jpg?default=false",
+    "coverImage": null,
     "openLibraryKey": "/works/OL35722361W"
   },
   {
@@ -10820,7 +10820,7 @@
     "publicationYear": 2025,
     "publisher": "Hogarth / Random House",
     "isbn13": "9780593595466",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780593801826-L.jpg?default=false",
+    "coverImage": null,
     "genres": [
       "Literary Fiction",
       "Historical Fiction",
@@ -10920,7 +10920,7 @@
     "publicationYear": 1912,
     "publisher": "Calmann-Lévy",
     "isbn13": "9780140443547",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780140443547-L.jpg?default=false",
+    "coverImage": null,
     "genres": [
       "Historical Fiction",
       "Satire",
@@ -12150,7 +12150,7 @@
     "pageCount": 409,
     "spineColor": "#155e75",
     "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780553077735-L.jpg?default=false"
+    "coverImage": null
   },
   {
     "id": "mao-ii",
@@ -13192,7 +13192,7 @@
     "pageCount": 224,
     "spineColor": "#e11d48",
     "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780593654101-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/id/14853363-L.jpg?default=false"
   },
   {
     "id": "mice-1961",
@@ -13211,7 +13211,7 @@
     "pageCount": 252,
     "spineColor": "#0284c7",
     "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781891241925-L.jpg?default=false",
+    "coverImage": null,
     "openLibraryKey": "/works/OL37569858W"
   },
   {
@@ -15304,7 +15304,7 @@
     "pageCount": 256,
     "spineColor": "#7f1d1d",
     "countryOfOrigin": "India",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781786491602-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/id/13237128-L.jpg?default=false"
   },
   {
     "id": "the-silence-of-the-girls",
@@ -15563,7 +15563,7 @@
     "pageCount": 304,
     "spineColor": "#78350f",
     "countryOfOrigin": "Trinidad and Tobago",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781912408993-L.jpg?default=false",
+    "coverImage": null,
     "openLibraryKey": "/works/OL25770614W"
   },
   {
@@ -15802,7 +15802,7 @@
     "pageCount": 256,
     "spineColor": "#374151",
     "countryOfOrigin": "Ireland",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780571380848-L.jpg?default=false",
+    "coverImage": null,
     "openLibraryKey": "/works/OL28803602W"
   },
   {
@@ -15822,7 +15822,7 @@
     "pageCount": 336,
     "spineColor": "#0f766e",
     "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781526665799-L.jpg?default=false",
+    "coverImage": null,
     "openLibraryKey": "/works/OL37628649W"
   },
   {
@@ -15861,7 +15861,7 @@
     "pageCount": 320,
     "spineColor": "#d97706",
     "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780593536841-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/id/15195982-L.jpg?default=false"
   },
   {
     "id": "tell-me-everything",
@@ -15930,7 +15930,7 @@
     "authorName": "Marcia Hutchinson",
     "publicationYear": 2025,
     "publisher": "Serpent's Tail",
-    "isbn13": "9781805221050",
+    "isbn13": "9781918228038",
     "genres": [
       "Historical Fiction",
       "Windrush",
@@ -15940,7 +15940,7 @@
     "pageCount": 320,
     "spineColor": "#065f46",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781805221050-L.jpg?default=false",
+    "coverImage": null,
     "openLibraryKey": "/works/OL45361513W"
   },
   {
@@ -15999,7 +15999,7 @@
     "pageCount": 180,
     "spineColor": "#1e3a8a",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781874400585-L.jpg?default=false",
+    "coverImage": null,
     "openLibraryKey": "/works/OL25680314W"
   },
   {
@@ -16374,7 +16374,7 @@
     "pageCount": 220,
     "spineColor": "#374151",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780993077746-L.jpg?default=false",
+    "coverImage": null,
     "openLibraryKey": "/works/OL21618763W"
   },
   {
@@ -16510,7 +16510,7 @@
     "pageCount": 144,
     "spineColor": "#d97706",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780241347577-L.jpg?default=false",
+    "coverImage": null,
     "openLibraryKey": "/works/OL21161820W"
   },
   {
@@ -16936,7 +16936,7 @@
     "pageCount": 352,
     "spineColor": "#1e3a8a",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781804270271-L.jpg?default=false"
+    "coverImage": "https://covers.openlibrary.org/b/id/13989432-L.jpg?default=false"
   },
   {
     "id": "never-was",
@@ -16993,7 +16993,7 @@
     "pageCount": 336,
     "spineColor": "#0284c7",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781787334465-L.jpg?default=false"
+    "coverImage": null
   },
   {
     "id": "all-my-precious-madness",
@@ -17011,7 +17011,7 @@
     "pageCount": 256,
     "spineColor": "#991b1b",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781913111588-L.jpg?default=false",
+    "coverImage": null,
     "openLibraryKey": "/works/OL38621750W"
   },
   {
@@ -17087,7 +17087,7 @@
     "pageCount": 272,
     "spineColor": "#0e7490",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781529399868-L.jpg?default=false",
+    "coverImage": null,
     "openLibraryKey": "/works/OL37571986W"
   },
   {
@@ -17097,7 +17097,7 @@
     "authorName": "Colwill Brown",
     "publicationYear": 2025,
     "publisher": "Vintage",
-    "isbn13": "9781250342874",
+    "isbn13": "9781250342881",
     "genres": [
       "Literary Fiction",
       "Body Horror",
@@ -17107,7 +17107,7 @@
     "pageCount": 288,
     "spineColor": "#be185d",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781529923841-L.jpg?default=false",
+    "coverImage": null,
     "openLibraryKey": "/works/OL42398177W"
   },
   {
@@ -17152,7 +17152,7 @@
     "authorName": "Ben Pester",
     "publicationYear": 2025,
     "publisher": "Granta Books",
-    "isbn13": "9781803512594",
+    "isbn13": "9781803512587",
     "genres": [
       "Satire",
       "Corporate Gothic"
@@ -17161,7 +17161,7 @@
     "pageCount": 272,
     "spineColor": "#ca8a04",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781783788774-L.jpg?default=false",
+    "coverImage": null,
     "openLibraryKey": "/works/OL45342721W"
   },
   {
@@ -17210,7 +17210,7 @@
     "authorName": "Doireann Ní Ghríofa",
     "publicationYear": 2026,
     "publisher": "Faber & Faber",
-    "isbn13": "9780571385416",
+    "isbn13": "9780571396160",
     "genres": [
       "Irish Literature",
       "Ghost Story",
@@ -17220,7 +17220,7 @@
     "pageCount": 288,
     "spineColor": "#1e1b4b",
     "countryOfOrigin": "Ireland",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780571385416-L.jpg?default=false",
+    "coverImage": null,
     "openLibraryKey": "/works/OL45398549W"
   },
   {
@@ -17230,7 +17230,7 @@
     "authorName": "Keith Ridgway",
     "publicationYear": 2026,
     "publisher": "Fitzcarraldo Editions",
-    "isbn13": "9781804271483",
+    "isbn13": "9781804272459",
     "genres": [
       "Literary Fiction",
       "Irish Noir"
@@ -17239,7 +17239,7 @@
     "pageCount": 240,
     "spineColor": "#0f766e",
     "countryOfOrigin": "Ireland",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781804271483-L.jpg?default=false",
+    "coverImage": null,
     "openLibraryKey": "/works/OL45617183W"
   },
   {
