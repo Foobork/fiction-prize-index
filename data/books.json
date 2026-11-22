@@ -40381,10 +40381,17 @@
     "publicationYear": 1999,
     "publisher": "Paddleless Press",
     "genres": [
-      "Fiction"
+      "Literary Fiction",
+      "Picaresque",
+      "Historical Fiction"
     ],
-    "synopsis": "Rey Castro, a Black Amerasian born in the Philippines, is scapegoated and forced overseas.",
-    "openLibraryKey": "/works/OL4239006W"
+    "synopsis": "The sprawling, epic picaresque of Rey Castro, an Amerasian born in the Philippines who flees as an outlaw across Asia, the Middle East, and beyond—winner of the 1999 James Tait Black Memorial Prize.",
+    "openLibraryKey": "/works/OL4239006W",
+    "isbn13": "9780952419334",
+    "coverImage": "https://covers.openlibrary.org/b/id/11032181-L.jpg?default=false",
+    "pageCount": 538,
+    "countryOfOrigin": "United Kingdom",
+    "spineColor": "#831843"
   },
   {
     "id": "justine",
