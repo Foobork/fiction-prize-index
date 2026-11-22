@@ -12,7 +12,7 @@ export const Footer: React.FC = () => {
                 <BookOpen className="w-4 h-4" />
               </div>
               <span className="font-serif font-bold text-lg text-parchment-900 dark:text-parchment-50">
-                Fiction Prize Index
+                Mostly Fiction
               </span>
             </div>
             <p className="text-sm text-parchment-700 dark:text-ink-400 max-w-md leading-relaxed">

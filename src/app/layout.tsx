@@ -8,10 +8,11 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: 'Fiction Prize Index | Open Catalog of Major Literary Fiction Awards',
+  title: 'Mostly Fiction | Open Catalog of Major Literary Fiction Awards',
   description:
     'An open-access, static-first catalog of major literary fiction prizes, winners, shortlists, and publishing metadata. Modeled after Benjamin Breen\'s Book Prize Index.',
   keywords: [
+    'Mostly Fiction',
     'Fiction Prize Index',
     'Booker Prize',
     'Pulitzer Prize for Fiction',
@@ -27,7 +28,7 @@ export const metadata: Metadata = {
     { name: 'midlevels', url: 'https://github.com/midlevels' },
   ],
   openGraph: {
-    title: 'Fiction Prize Index',
+    title: 'Mostly Fiction',
     description: 'An open-access catalog and virtual bookshelf of world-class fiction honors.',
     type: 'website',
   },

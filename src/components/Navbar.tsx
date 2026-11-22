@@ -41,7 +41,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             </div>
             <div>
               <span className="font-serif text-lg font-bold tracking-tight text-parchment-900 dark:text-parchment-50 block leading-tight">
-                Fiction Prize Index
+                Mostly Fiction
               </span>
               <span className="text-[11px] font-sans text-parchment-600 dark:text-ink-400 block tracking-wider uppercase">
                 The Curated Literary Archive

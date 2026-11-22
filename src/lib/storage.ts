@@ -44,7 +44,7 @@ export function removeSavedBook(bookId: string): Record<string, UserSavedBook> {
 
 export function exportToMarkdown(savedList: UserSavedBook[], allBooks: BookWithNominations[]): string {
   const booksMap = new Map(allBooks.map((b) => [b.id, b]));
-  let md = `# My Fiction Prize Reading List\n\nGenerated from the Fiction Prize Index on ${new Date().toLocaleDateString()}.\n\n`;
+  let md = `# My Reading List\n\nGenerated from Mostly Fiction on ${new Date().toLocaleDateString()}.\n\n`;
 
   const sections: { title: string; status: ReadingStatus }[] = [
     { title: 'Currently Reading', status: 'reading' },

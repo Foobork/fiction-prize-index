@@ -43,7 +43,7 @@ function loadJson<T>(relPath: string): T {
 }
 
 function validateDataset() {
-  console.log('🔍 Validating Fiction Prize Index datasets...');
+  console.log('🔍 Validating Mostly Fiction datasets...');
   let errors: string[] = [];
 
   const prizes = loadJson<Prize[]>('data/prizes.json');

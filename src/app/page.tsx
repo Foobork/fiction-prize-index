@@ -24,7 +24,7 @@ const VALID_TABS = new Set([
   'reading-list',
 ]);
 
-const DEFAULT_TITLE = 'Fiction Prize Index | Open Catalog of Major Literary Fiction Awards';
+const DEFAULT_TITLE = 'Mostly Fiction | Open Catalog of Major Literary Fiction Awards';
 
 function buildNavigationUrl(tab: string, bookId: string | null, genre: string | null = null): string {
   const url = new URL(window.location.href);
@@ -103,7 +103,7 @@ export default function Home() {
   // Keep document title in sync with selected book for browser history & sharing
   useEffect(() => {
     if (selectedBook) {
-      document.title = `${selectedBook.title} by ${selectedBook.authorName} | Fiction Prize Index`;
+      document.title = `${selectedBook.title} by ${selectedBook.authorName} | Mostly Fiction`;
     } else {
       document.title = DEFAULT_TITLE;
     }
@@ -218,7 +218,7 @@ export default function Home() {
                   <span>The Curated Public Index of World-Class Fiction</span>
                 </div>
                 <h1 className="font-serif text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-parchment-950 dark:text-white leading-tight">
-                  Fiction Prize Index
+                  Mostly Fiction
                 </h1>
                 <p className="text-sm sm:text-base text-parchment-700 dark:text-ink-300 leading-relaxed">
                   A static-first, verifiable directory indexing laureates, shortlists, publishers, and citations from the Booker, Pulitzer, National Book Award, Women&apos;s Prize, Hugo, and beyond.

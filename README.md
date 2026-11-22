@@ -1,4 +1,4 @@
-# Fiction Prize Index 📚🏆
+# Mostly Fiction 📚🏆
 
 An open-access, static-first catalog and interactive discovery platform for major literary fiction prizes, awards, winners, shortlists, and publishing metadata.
 
