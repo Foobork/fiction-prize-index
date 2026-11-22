@@ -32616,1122 +32616,6 @@
     "sourceUrl": "https://pen.org/literary-awards/pen-hemingway-award-for-debut-novel/"
   },
   {
-    "id": "nom-enemy-force-prix-goncourt-1903",
-    "prizeId": "prix-goncourt",
-    "bookId": "enemy-force",
-    "year": 1903,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-la-maternelle-prix-goncourt-1904",
-    "prizeId": "prix-goncourt",
-    "bookId": "la-maternelle",
-    "year": 1904,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-paul-ollendorff-prix-goncourt-1905",
-    "prizeId": "prix-goncourt",
-    "bookId": "paul-ollendorff",
-    "year": 1905,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-douard-pelletan-prix-goncourt-1906",
-    "prizeId": "prix-goncourt",
-    "bookId": "douard-pelletan",
-    "year": 1906,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-plon-prix-goncourt-1907",
-    "prizeId": "prix-goncourt",
-    "bookId": "plon",
-    "year": 1907,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-dition-du-feu-later-mile-paul-fr-res-prix-goncourt-1908",
-    "prizeId": "prix-goncourt",
-    "bookId": "dition-du-feu-later-mile-paul-fr-res",
-    "year": 1908,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-en-france-prix-goncourt-1909",
-    "prizeId": "prix-goncourt",
-    "bookId": "en-france",
-    "year": 1909,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-mercure-de-france-prix-goncourt-1910",
-    "prizeId": "prix-goncourt",
-    "bookId": "mercure-de-france",
-    "year": 1910,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-the-keynote-prix-goncourt-1911",
-    "prizeId": "prix-goncourt",
-    "bookId": "the-keynote",
-    "year": 1911,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-grasset-2-prix-goncourt-1912",
-    "prizeId": "prix-goncourt",
-    "bookId": "grasset-2",
-    "year": 1912,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-calmann-l-vy-prix-goncourt-1913",
-    "prizeId": "prix-goncourt",
-    "bookId": "calmann-l-vy",
-    "year": 1913,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-1919-prix-goncourt-1914",
-    "prizeId": "prix-goncourt",
-    "bookId": "1919",
-    "year": 1914,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-1916-prix-goncourt-1915",
-    "prizeId": "prix-goncourt",
-    "bookId": "1916",
-    "year": 1915,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-under-fire-prix-goncourt-1916",
-    "prizeId": "prix-goncourt",
-    "bookId": "under-fire",
-    "year": 1916,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-the-flame-that-is-france-prix-goncourt-1917",
-    "prizeId": "prix-goncourt",
-    "bookId": "the-flame-that-is-france",
-    "year": 1917,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-civilization-prix-goncourt-1918",
-    "prizeId": "prix-goncourt",
-    "bookId": "civilization",
-    "year": 1918,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-within-a-budding-grove-prix-goncourt-1919",
-    "prizeId": "prix-goncourt",
-    "bookId": "within-a-budding-grove",
-    "year": 1919,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-1920-prix-goncourt-1920",
-    "prizeId": "prix-goncourt",
-    "bookId": "1920",
-    "year": 1920,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-batouala-prix-goncourt-1921",
-    "prizeId": "prix-goncourt",
-    "bookId": "batouala",
-    "year": 1921,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-albin-michel-4-prix-goncourt-1922",
-    "prizeId": "prix-goncourt",
-    "bookId": "albin-michel-4",
-    "year": 1922,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-gallimard-2-prix-goncourt-1923",
-    "prizeId": "prix-goncourt",
-    "bookId": "gallimard-2",
-    "year": 1923,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-gallimard-3-prix-goncourt-1924",
-    "prizeId": "prix-goncourt",
-    "bookId": "gallimard-3",
-    "year": 1924,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-raboliot-raboliot-raboliot-prix-goncourt-1925",
-    "prizeId": "prix-goncourt",
-    "bookId": "raboliot-raboliot-raboliot",
-    "year": 1925,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-gallimard-4-prix-goncourt-1926",
-    "prizeId": "prix-goncourt",
-    "bookId": "gallimard-4",
-    "year": 1926,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-jerome-or-the-latitude-of-love-prix-goncourt-1927",
-    "prizeId": "prix-goncourt",
-    "bookId": "jerome-or-the-latitude-of-love",
-    "year": 1927,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-un-homme-se-penche-sur-son-pass-les-amants-de-rivi-re-rouge-prix-goncourt-1928",
-    "prizeId": "prix-goncourt",
-    "bookId": "un-homme-se-penche-sur-son-pass-les-amants-de-rivi-re-rouge",
-    "year": 1928,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-lordre-prix-goncourt-1929",
-    "prizeId": "prix-goncourt",
-    "bookId": "lordre",
-    "year": 1929,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-the-soul-of-malaya-or-malaisie-prix-goncourt-1930",
-    "prizeId": "prix-goncourt",
-    "bookId": "the-soul-of-malaya-or-malaisie",
-    "year": 1930,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-desire-prix-goncourt-1931",
-    "prizeId": "prix-goncourt",
-    "bookId": "desire",
-    "year": 1931,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-the-wolves-prix-goncourt-1932",
-    "prizeId": "prix-goncourt",
-    "bookId": "the-wolves",
-    "year": 1932,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-mans-fate-prix-goncourt-1933",
-    "prizeId": "prix-goncourt",
-    "bookId": "mans-fate",
-    "year": 1933,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-captain-conan-prix-goncourt-1934",
-    "prizeId": "prix-goncourt",
-    "bookId": "captain-conan",
-    "year": 1934,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-grasset-4-prix-goncourt-1935",
-    "prizeId": "prix-goncourt",
-    "bookId": "grasset-4",
-    "year": 1935,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-hath-not-the-potter-prix-goncourt-1936",
-    "prizeId": "prix-goncourt",
-    "bookId": "hath-not-the-potter",
-    "year": 1936,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-corr-a-prix-goncourt-1937",
-    "prizeId": "prix-goncourt",
-    "bookId": "corr-a",
-    "year": 1937,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-plon-3-prix-goncourt-1938",
-    "prizeId": "prix-goncourt",
-    "bookId": "plon-3",
-    "year": 1938,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-gallimard-9-prix-goncourt-1939",
-    "prizeId": "prix-goncourt",
-    "bookId": "gallimard-9",
-    "year": 1939,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-1948-prix-goncourt-1940",
-    "prizeId": "prix-goncourt",
-    "bookId": "1948",
-    "year": 1940,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-gallimard-10-prix-goncourt-1941",
-    "prizeId": "prix-goncourt",
-    "bookId": "gallimard-10",
-    "year": 1941,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-gallimard-11-prix-goncourt-1942",
-    "prizeId": "prix-goncourt",
-    "bookId": "gallimard-11",
-    "year": 1942,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-1962-prix-goncourt-1943",
-    "prizeId": "prix-goncourt",
-    "bookId": "1962",
-    "year": 1943,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-a-fine-of-two-hundred-francs-prix-goncourt-1944",
-    "prizeId": "prix-goncourt",
-    "bookId": "a-fine-of-two-hundred-francs",
-    "year": 1944,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-flammarion-2-prix-goncourt-1945",
-    "prizeId": "prix-goncourt",
-    "bookId": "flammarion-2",
-    "year": 1945,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-julliard-prix-goncourt-1946",
-    "prizeId": "prix-goncourt",
-    "bookId": "julliard",
-    "year": 1946,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-the-forests-of-the-night-prix-goncourt-1947",
-    "prizeId": "prix-goncourt",
-    "bookId": "the-forests-of-the-night",
-    "year": 1947,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-the-rise-of-simon-lachaume-prix-goncourt-1948",
-    "prizeId": "prix-goncourt",
-    "bookId": "the-rise-of-simon-lachaume",
-    "year": 1948,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-week-end-at-zuydcoote-prix-goncourt-1949",
-    "prizeId": "prix-goncourt",
-    "bookId": "week-end-at-zuydcoote",
-    "year": 1949,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-1953-prix-goncourt-1950",
-    "prizeId": "prix-goncourt",
-    "bookId": "1953",
-    "year": 1950,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-1986-prix-goncourt-1951",
-    "prizeId": "prix-goncourt",
-    "bookId": "1986",
-    "year": 1951,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-1953-prix-goncourt-1952",
-    "prizeId": "prix-goncourt",
-    "bookId": "1953",
-    "year": 1952,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-gallimard-16-prix-goncourt-1953",
-    "prizeId": "prix-goncourt",
-    "bookId": "gallimard-16",
-    "year": 1953,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-the-mandarins-prix-goncourt-1954",
-    "prizeId": "prix-goncourt",
-    "bookId": "the-mandarins",
-    "year": 1954,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-1969-prix-goncourt-1955",
-    "prizeId": "prix-goncourt",
-    "bookId": "1969",
-    "year": 1955,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-1957-prix-goncourt-1956",
-    "prizeId": "prix-goncourt",
-    "bookId": "1957",
-    "year": 1956,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-1958-prix-goncourt-1957",
-    "prizeId": "prix-goncourt",
-    "bookId": "1958",
-    "year": 1957,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-gallimard-20-prix-goncourt-1958",
-    "prizeId": "prix-goncourt",
-    "bookId": "gallimard-20",
-    "year": 1958,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-1960-prix-goncourt-1959",
-    "prizeId": "prix-goncourt",
-    "bookId": "1960",
-    "year": 1959,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-1961-prix-goncourt-1960",
-    "prizeId": "prix-goncourt",
-    "bookId": "1961",
-    "year": 1960,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-1963-prix-goncourt-1961",
-    "prizeId": "prix-goncourt",
-    "bookId": "1963",
-    "year": 1961,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-the-lost-shore-prix-goncourt-1962",
-    "prizeId": "prix-goncourt",
-    "bookId": "the-lost-shore",
-    "year": 1962,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-1963-prix-goncourt-1963",
-    "prizeId": "prix-goncourt",
-    "bookId": "1963",
-    "year": 1963,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-the-savage-state-prix-goncourt-1964",
-    "prizeId": "prix-goncourt",
-    "bookId": "the-savage-state",
-    "year": 1964,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-1968-prix-goncourt-1965",
-    "prizeId": "prix-goncourt",
-    "bookId": "1968",
-    "year": 1965,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-to-forget-palermo-prix-goncourt-1966",
-    "prizeId": "prix-goncourt",
-    "bookId": "to-forget-palermo",
-    "year": 1966,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-1970-prix-goncourt-1967",
-    "prizeId": "prix-goncourt",
-    "bookId": "1970",
-    "year": 1967,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-1969-prix-goncourt-1968",
-    "prizeId": "prix-goncourt",
-    "bookId": "1969",
-    "year": 1968,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-1970-prix-goncourt-1969",
-    "prizeId": "prix-goncourt",
-    "bookId": "1970",
-    "year": 1969,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-the-erl-king-uk-or-the-ogre-us-prix-goncourt-1970",
-    "prizeId": "prix-goncourt",
-    "bookId": "the-erl-king-uk-or-the-ogre-us",
-    "year": 1970,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-grasset-6-prix-goncourt-1971",
-    "prizeId": "prix-goncourt",
-    "bookId": "grasset-6",
-    "year": 1971,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-pauvert-prix-goncourt-1972",
-    "prizeId": "prix-goncourt",
-    "bookId": "pauvert",
-    "year": 1972,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-a-fathers-love-1975-or-the-tyrant-2012-prix-goncourt-1973",
-    "prizeId": "prix-goncourt",
-    "bookId": "a-fathers-love-1975-or-the-tyrant-2012",
-    "year": 1973,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-1976-prix-goncourt-1974",
-    "prizeId": "prix-goncourt",
-    "bookId": "1976",
-    "year": 1974,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-momo-1978-or-the-life-before-us-1986-prix-goncourt-1975",
-    "prizeId": "prix-goncourt",
-    "bookId": "momo-1978-or-the-life-before-us-1986",
-    "year": 1975,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-seuil-2-prix-goncourt-1976",
-    "prizeId": "prix-goncourt",
-    "bookId": "seuil-2",
-    "year": 1976,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-seuil-3-prix-goncourt-1977",
-    "prizeId": "prix-goncourt",
-    "bookId": "seuil-3",
-    "year": 1977,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-missing-person-prix-goncourt-1978",
-    "prizeId": "prix-goncourt",
-    "bookId": "missing-person",
-    "year": 1978,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-p-lagie-the-return-to-acadie-prix-goncourt-1979",
-    "prizeId": "prix-goncourt",
-    "bookId": "p-lagie-the-return-to-acadie",
-    "year": 1979,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-cronus-children-prix-goncourt-1980",
-    "prizeId": "prix-goncourt",
-    "bookId": "cronus-children",
-    "year": 1980,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-grasset-9-prix-goncourt-1981",
-    "prizeId": "prix-goncourt",
-    "bookId": "grasset-9",
-    "year": 1981,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-grasset-10-prix-goncourt-1982",
-    "prizeId": "prix-goncourt",
-    "bookId": "grasset-10",
-    "year": 1982,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-1991-prix-goncourt-1983",
-    "prizeId": "prix-goncourt",
-    "bookId": "1991",
-    "year": 1983,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-the-lover-prix-goncourt-1984",
-    "prizeId": "prix-goncourt",
-    "bookId": "the-lover",
-    "year": 1984,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-the-wedding-prix-goncourt-1985",
-    "prizeId": "prix-goncourt",
-    "bookId": "the-wedding",
-    "year": 1985,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-grasset-11-prix-goncourt-1986",
-    "prizeId": "prix-goncourt",
-    "bookId": "grasset-11",
-    "year": 1986,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-the-sacred-night-prix-goncourt-1987",
-    "prizeId": "prix-goncourt",
-    "bookId": "the-sacred-night",
-    "year": 1987,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-love-and-empire-prix-goncourt-1988",
-    "prizeId": "prix-goncourt",
-    "bookId": "love-and-empire",
-    "year": 1988,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-grasset-12-prix-goncourt-1989",
-    "prizeId": "prix-goncourt",
-    "bookId": "grasset-12",
-    "year": 1989,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-fields-of-glory-prix-goncourt-1990",
-    "prizeId": "prix-goncourt",
-    "bookId": "fields-of-glory",
-    "year": 1990,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-grasset-13-prix-goncourt-1991",
-    "prizeId": "prix-goncourt",
-    "bookId": "grasset-13",
-    "year": 1991,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-texaco-prix-goncourt-1992",
-    "prizeId": "prix-goncourt",
-    "bookId": "texaco",
-    "year": 1992,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-the-rock-of-tanios-prix-goncourt-1993",
-    "prizeId": "prix-goncourt",
-    "bookId": "the-rock-of-tanios",
-    "year": 1993,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-one-way-prix-goncourt-1994",
-    "prizeId": "prix-goncourt",
-    "bookId": "one-way",
-    "year": 1994,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-dreams-of-my-russian-summers-prix-goncourt-1995",
-    "prizeId": "prix-goncourt",
-    "bookId": "dreams-of-my-russian-summers",
-    "year": 1995,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-albin-michel-10-prix-goncourt-1996",
-    "prizeId": "prix-goncourt",
-    "bookId": "albin-michel-10",
-    "year": 1996,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-the-battle-prix-goncourt-1997",
-    "prizeId": "prix-goncourt",
-    "bookId": "the-battle",
-    "year": 1997,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-trading-secrets-prix-goncourt-1998",
-    "prizeId": "prix-goncourt",
-    "bookId": "trading-secrets",
-    "year": 1998,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-im-gone-us-or-im-off-uk-prix-goncourt-1999",
-    "prizeId": "prix-goncourt",
-    "bookId": "im-gone-us-or-im-off-uk",
-    "year": 1999,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-2004-prix-goncourt-2000",
-    "prizeId": "prix-goncourt",
-    "bookId": "2004",
-    "year": 2000,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-brazil-red-prix-goncourt-2001",
-    "prizeId": "prix-goncourt",
-    "bookId": "brazil-red",
-    "year": 2001,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-the-roving-shadows-prix-goncourt-2002",
-    "prizeId": "prix-goncourt",
-    "bookId": "the-roving-shadows",
-    "year": 2002,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-2005-prix-goncourt-2003",
-    "prizeId": "prix-goncourt",
-    "bookId": "2005",
-    "year": 2003,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-the-house-of-scorta-us-2006-the-scortas-sun-uk-2007-prix-goncourt-2004",
-    "prizeId": "prix-goncourt",
-    "bookId": "the-house-of-scorta-us-2006-the-scortas-sun-uk-2007",
-    "year": 2004,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-grasset-17-prix-goncourt-2005",
-    "prizeId": "prix-goncourt",
-    "bookId": "grasset-17",
-    "year": 2005,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-the-kindly-ones-prix-goncourt-2006",
-    "prizeId": "prix-goncourt",
-    "bookId": "the-kindly-ones",
-    "year": 2006,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-mercure-de-france-5-prix-goncourt-2007",
-    "prizeId": "prix-goncourt",
-    "bookId": "mercure-de-france-5",
-    "year": 2007,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-stone-of-patience-uk-or-the-patience-stone-us-prix-goncourt-2008",
-    "prizeId": "prix-goncourt",
-    "bookId": "stone-of-patience-uk-or-the-patience-stone-us",
-    "year": 2008,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-three-strong-women-prix-goncourt-2009",
-    "prizeId": "prix-goncourt",
-    "bookId": "three-strong-women",
-    "year": 2009,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-2012-prix-goncourt-2010",
-    "prizeId": "prix-goncourt",
-    "bookId": "2012",
-    "year": 2010,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-the-french-art-of-war-prix-goncourt-2011",
-    "prizeId": "prix-goncourt",
-    "bookId": "the-french-art-of-war",
-    "year": 2011,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-le-sermon-sur-la-chute-de-rome-prix-goncourt-2012",
-    "prizeId": "prix-goncourt",
-    "bookId": "le-sermon-sur-la-chute-de-rome",
-    "year": 2012,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-au-revoir-l-haut-prix-goncourt-2013",
-    "prizeId": "prix-goncourt",
-    "bookId": "au-revoir-l-haut",
-    "year": 2013,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-pas-pleurer-prix-goncourt-2014",
-    "prizeId": "prix-goncourt",
-    "bookId": "pas-pleurer",
-    "year": 2014,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-boussole-prix-goncourt-2015",
-    "prizeId": "prix-goncourt",
-    "bookId": "boussole",
-    "year": 2015,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-chanson-douce-prix-goncourt-2016",
-    "prizeId": "prix-goncourt",
-    "bookId": "chanson-douce",
-    "year": 2016,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-lordre-du-jour-prix-goncourt-2017",
-    "prizeId": "prix-goncourt",
-    "bookId": "lordre-du-jour",
-    "year": 2017,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-leurs-enfants-apr-s-eux-prix-goncourt-2018",
-    "prizeId": "prix-goncourt",
-    "bookId": "leurs-enfants-apr-s-eux",
-    "year": 2018,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-tous-les-hommes-nhabitent-pas-le-monde-de-la-m-me-fa-on-prix-goncourt-2019",
-    "prizeId": "prix-goncourt",
-    "bookId": "tous-les-hommes-nhabitent-pas-le-monde-de-la-m-me-fa-on",
-    "year": 2019,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-lanomalie-prix-goncourt-2020",
-    "prizeId": "prix-goncourt",
-    "bookId": "lanomalie",
-    "year": 2020,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-la-plus-secr-te-m-moire-des-hommes-prix-goncourt-2021",
-    "prizeId": "prix-goncourt",
-    "bookId": "la-plus-secr-te-m-moire-des-hommes",
-    "year": 2021,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-vivre-vite-prix-goncourt-2022",
-    "prizeId": "prix-goncourt",
-    "bookId": "vivre-vite",
-    "year": 2022,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-veiller-sur-elle-prix-goncourt-2023",
-    "prizeId": "prix-goncourt",
-    "bookId": "veiller-sur-elle",
-    "year": 2023,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-houris-prix-goncourt-2024",
-    "prizeId": "prix-goncourt",
-    "bookId": "houris",
-    "year": 2024,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-la-maison-vide-prix-goncourt-2025",
-    "prizeId": "prix-goncourt",
-    "bookId": "la-maison-vide",
-    "year": 2025,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
-    "id": "nom-linconnue-du-quai-de-javel-prix-goncourt-2026",
-    "prizeId": "prix-goncourt",
-    "bookId": "linconnue-du-quai-de-javel",
-    "year": 2026,
-    "status": "winner",
-    "category": "Prose",
-    "sourceUrl": "https://www.academiegoncourt.com/"
-  },
-  {
     "id": "nom-beat-not-the-bones-edgar-award-novel-1954",
     "prizeId": "edgar-award-novel",
     "bookId": "beat-not-the-bones",
@@ -45799,5 +44683,1245 @@
     "status": "shortlist",
     "category": "Canadian Fiction",
     "sourceUrl": "https://scotiabankgillerprize.ca/"
+  },
+  {
+    "id": "nom-goncourt-1903",
+    "prizeId": "prix-goncourt",
+    "bookId": "enemy-force",
+    "year": 1903,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1903 Prix Goncourt for Force ennemie by John Antoine Nau.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1904",
+    "prizeId": "prix-goncourt",
+    "bookId": "la-maternelle",
+    "year": 1904,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1904 Prix Goncourt for La Maternelle by Léon Frapié.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1905",
+    "prizeId": "prix-goncourt",
+    "bookId": "les-civilises",
+    "year": 1905,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1905 Prix Goncourt for Les Civilisés by Claude Farrère.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1906",
+    "prizeId": "prix-goncourt",
+    "bookId": "dingley-lillustre-ecrivain",
+    "year": 1906,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1906 Prix Goncourt for Dingley, l'illustre écrivain by Jean and Jérôme Tharaud.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1907",
+    "prizeId": "prix-goncourt",
+    "bookId": "le-rouet-divoire-and-jean-des-brebis-ou-le-livre-de-la-misere",
+    "year": 1907,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1907 Prix Goncourt for Le Rouet d'ivoire and Jean des Brebis ou le livre de la misère by Émile Moselly.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1908",
+    "prizeId": "prix-goncourt",
+    "bookId": "ecrit-sur-de-leau",
+    "year": 1908,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1908 Prix Goncourt for Écrit sur de l'eau... by Francis de Miomandre.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1909",
+    "prizeId": "prix-goncourt",
+    "bookId": "en-france",
+    "year": 1909,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1909 Prix Goncourt for En France by Marius-Ary Leblond.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1910",
+    "prizeId": "prix-goncourt",
+    "bookId": "de-goupil-a-margot",
+    "year": 1910,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1910 Prix Goncourt for De Goupil à Margot by Louis Pergaud.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1911",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-keynote",
+    "year": 1911,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1911 Prix Goncourt for Monsieur des Lourdines by Alphonse de Châteaubriant.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1912",
+    "prizeId": "prix-goncourt",
+    "bookId": "les-filles-de-la-pluie",
+    "year": 1912,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1912 Prix Goncourt for Les Filles de la pluie by André Savignon.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1913",
+    "prizeId": "prix-goncourt",
+    "bookId": "le-peuple-de-la-mer",
+    "year": 1913,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1913 Prix Goncourt for Le peuple de la mer by Marc Elder.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1914",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-call-of-the-soil",
+    "year": 1914,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1914 Prix Goncourt for L'Appel du Sol by Adrien Bertrand.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1915",
+    "prizeId": "prix-goncourt",
+    "bookId": "private-gaspard",
+    "year": 1915,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1915 Prix Goncourt for Gaspard by René Benjamin.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1916",
+    "prizeId": "prix-goncourt",
+    "bookId": "under-fire",
+    "year": 1916,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1916 Prix Goncourt for Le Feu by Henri Barbusse.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1917",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-flame-that-is-france",
+    "year": 1917,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1917 Prix Goncourt for La Flamme au poing by Henry Malherbe.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1918",
+    "prizeId": "prix-goncourt",
+    "bookId": "civilization",
+    "year": 1918,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1918 Prix Goncourt for Civilisation by Georges Duhamel.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1919",
+    "prizeId": "prix-goncourt",
+    "bookId": "within-a-budding-grove",
+    "year": 1919,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1919 Prix Goncourt for A l'ombre des jeunes filles en fleurs by Marcel Proust.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1920",
+    "prizeId": "prix-goncourt",
+    "bookId": "nene",
+    "year": 1920,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1920 Prix Goncourt for Nêne by Ernest Pérochon.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1921",
+    "prizeId": "prix-goncourt",
+    "bookId": "batouala",
+    "year": 1921,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1921 Prix Goncourt for Batouala by René Maran.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1922",
+    "prizeId": "prix-goncourt",
+    "bookId": "le-vitriol-de-la-lune-and-le-martyre-de-lobese",
+    "year": 1922,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1922 Prix Goncourt for Le vitriol de la lune and Le martyre de l'obèse by Henri Béraud.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1923",
+    "prizeId": "prix-goncourt",
+    "bookId": "rabevel-ou-le-mal-des-ardents",
+    "year": 1923,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1923 Prix Goncourt for Rabevel ou Le mal des ardents by Lucien Fabre.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1924",
+    "prizeId": "prix-goncourt",
+    "bookId": "le-chevrefeuille-le-purgatoire-le-chapitre-xiii",
+    "year": 1924,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1924 Prix Goncourt for Le Chèvrefeuille, le Purgatoire, le Chapitre XIII by Thierry Sandre.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1925",
+    "prizeId": "prix-goncourt",
+    "bookId": "raboliot",
+    "year": 1925,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1925 Prix Goncourt for Raboliot by Maurice Genevoix.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1926",
+    "prizeId": "prix-goncourt",
+    "bookId": "le-supplice-de-phedre",
+    "year": 1926,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1926 Prix Goncourt for Le supplice de Phèdre by Henri Deberly.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1927",
+    "prizeId": "prix-goncourt",
+    "bookId": "jerome-or-the-latitude-of-love",
+    "year": 1927,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1927 Prix Goncourt for Jérôme 60° latitude nord by Maurice Bedel.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1928",
+    "prizeId": "prix-goncourt",
+    "bookId": "a-man-scans-his-past",
+    "year": 1928,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1928 Prix Goncourt for Un Homme se penche sur son passé by Maurice Constantin-Weyer.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1929",
+    "prizeId": "prix-goncourt",
+    "bookId": "lordre",
+    "year": 1929,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1929 Prix Goncourt for L'Ordre by Marcel Arland.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1930",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-soul-of-malaya-or-malaisie",
+    "year": 1930,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1930 Prix Goncourt for Malaisie by H. Fauconnier.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1931",
+    "prizeId": "prix-goncourt",
+    "bookId": "desire",
+    "year": 1931,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1931 Prix Goncourt for Mal d'amour by Jean Fayard.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1932",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-wolves",
+    "year": 1932,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1932 Prix Goncourt for Les Loups by Guy Mazeline.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1933",
+    "prizeId": "prix-goncourt",
+    "bookId": "mans-fate",
+    "year": 1933,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1933 Prix Goncourt for La Condition humaine by André Malraux.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1934",
+    "prizeId": "prix-goncourt",
+    "bookId": "captain-conan",
+    "year": 1934,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1934 Prix Goncourt for Capitaine Conan by Roger Vercel.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1935",
+    "prizeId": "prix-goncourt",
+    "bookId": "sang-et-lumieres",
+    "year": 1935,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1935 Prix Goncourt for Sang et Lumières by Joseph Peyre.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1936",
+    "prizeId": "prix-goncourt",
+    "bookId": "hath-not-the-potter",
+    "year": 1936,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1936 Prix Goncourt for L'Empreinte de Dieu by Maxence Van Der Meersch.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1937",
+    "prizeId": "prix-goncourt",
+    "bookId": "faux-passeports",
+    "year": 1937,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1937 Prix Goncourt for Faux passeports by Charles Plisnier.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1938",
+    "prizeId": "prix-goncourt",
+    "bookId": "laraigne",
+    "year": 1938,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1938 Prix Goncourt for L'Araigne by Henri Troyat.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1939",
+    "prizeId": "prix-goncourt",
+    "bookId": "les-enfants-gates",
+    "year": 1939,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1939 Prix Goncourt for Les enfants gâtés by Philippe Hériat.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1940",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-long-holiday",
+    "year": 1940,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1940 Prix Goncourt for Les grandes vacances by Francis Ambrière.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1941",
+    "prizeId": "prix-goncourt",
+    "bookId": "vent-de-mars",
+    "year": 1941,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1941 Prix Goncourt for Vent de Mars by Henri Pourrat.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1942",
+    "prizeId": "prix-goncourt",
+    "bookId": "pareil-a-des-enfants",
+    "year": 1942,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1942 Prix Goncourt for Pareil à des enfants by Marc Bernard.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1943",
+    "prizeId": "prix-goncourt",
+    "bookId": "when-the-man-passed-by",
+    "year": 1943,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1943 Prix Goncourt for Passage de l'Homme by Marius Grout.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1944",
+    "prizeId": "prix-goncourt",
+    "bookId": "a-fine-of-two-hundred-francs",
+    "year": 1944,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1944 Prix Goncourt for Le premier accroc coûte 200 Francs by Elsa Triolet.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1945",
+    "prizeId": "prix-goncourt",
+    "bookId": "mon-village-a-lheure-allemande",
+    "year": 1945,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1945 Prix Goncourt for Mon village à l'heure allemande by Jean-Louis Bory.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1946",
+    "prizeId": "prix-goncourt",
+    "bookId": "histoire-dun-fait-divers",
+    "year": 1946,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1946 Prix Goncourt for Histoire d'un Fait divers by Jean-Jacques Gautier.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1947",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-forests-of-the-night",
+    "year": 1947,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1947 Prix Goncourt for Les Forêts de la Nuit by Jean-Louis Curtis.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1948",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-rise-of-simon-lachaume",
+    "year": 1948,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1948 Prix Goncourt for Les grandes familles by Maurice Druon.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1949",
+    "prizeId": "prix-goncourt",
+    "bookId": "week-end-at-zuydcoote",
+    "year": 1949,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1949 Prix Goncourt for Week-end à Zuydcoote by Robert Merle.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1950",
+    "prizeId": "prix-goncourt",
+    "bookId": "savage-play",
+    "year": 1950,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1950 Prix Goncourt for Les jeux sauvages by Paul Colin.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1951",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-opposing-shore",
+    "year": 1951,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1951 Prix Goncourt for Le Rivage des Syrtes by Julien Gracq.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1952",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-priest-uk-the-passionate-heart-us",
+    "year": 1952,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1952 Prix Goncourt for Léon Morin, prêtre by Béatrix Beck.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1953",
+    "prizeId": "prix-goncourt",
+    "bookId": "les-betes",
+    "year": 1953,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1953 Prix Goncourt for Les Bêtes by Pierre Gascar.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1954",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-mandarins",
+    "year": 1954,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1954 Prix Goncourt for Les Mandarins by Simone de Beauvoir.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1955",
+    "prizeId": "prix-goncourt",
+    "bookId": "les-eaux-melees",
+    "year": 1955,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1955 Prix Goncourt for Les eaux mêlées by Roger Ikor.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1956",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-roots-of-heaven",
+    "year": 1956,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1956 Prix Goncourt for Les racines du ciel by Romain Gary.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1957",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-law",
+    "year": 1957,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1957 Prix Goncourt for La Loi by Roger Vailland.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1958",
+    "prizeId": "prix-goncourt",
+    "bookId": "saint-germain-ou-la-negociation",
+    "year": 1958,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1958 Prix Goncourt for Saint-Germain ou la négociation by Francis Walder.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1959",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-last-of-the-just",
+    "year": 1959,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1959 Prix Goncourt for Le dernier des Justes by André Schwarz-Bart.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1960",
+    "prizeId": "prix-goncourt",
+    "bookId": "god-was-born-in-exile",
+    "year": 1960,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1960 Prix Goncourt for Dieu est né en exil by Vintilă Horia.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1961",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-mercy-of-god",
+    "year": 1961,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1961 Prix Goncourt for La pitié de Dieu by Jean Cau.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1962",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-lost-shore",
+    "year": 1962,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1962 Prix Goncourt for Les bagages de sable by Anna Langfus.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1963",
+    "prizeId": "prix-goncourt",
+    "bookId": "quand-la-mer-se-retire",
+    "year": 1963,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1963 Prix Goncourt for Quand la mer se retire by Armand Lanoux.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1964",
+    "prizeId": "prix-goncourt",
+    "bookId": "letat-sauvage",
+    "year": 1964,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1964 Prix Goncourt for L'Etat sauvage by Georges Conchon.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1965",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-bond",
+    "year": 1965,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1965 Prix Goncourt for L'Adoration by Jacques Borel.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1966",
+    "prizeId": "prix-goncourt",
+    "bookId": "to-forget-palermo",
+    "year": 1966,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1966 Prix Goncourt for Oublier Palerme by Edmonde Charles-Roux.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1967",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-margin",
+    "year": 1967,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1967 Prix Goncourt for La Marge by André Pieyre de Mandiargues.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1968",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-fruits-of-winter",
+    "year": 1968,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1968 Prix Goncourt for Les fruits de l'hiver by Bernard Clavel.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1969",
+    "prizeId": "prix-goncourt",
+    "bookId": "creezy",
+    "year": 1969,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1969 Prix Goncourt for Creezy by Félicien Marceau.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1970",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-erl-king-uk-or-the-ogre-us",
+    "year": 1970,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1970 Prix Goncourt for Le Roi des Aulnes by Michel Tournier.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1971",
+    "prizeId": "prix-goncourt",
+    "bookId": "les-betises",
+    "year": 1971,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1971 Prix Goncourt for Les Bêtises by Jacques Laurent.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1972",
+    "prizeId": "prix-goncourt",
+    "bookId": "lepervier-de-maheux",
+    "year": 1972,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1972 Prix Goncourt for L'Epervier de Maheux by Jean Carrière.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1973",
+    "prizeId": "prix-goncourt",
+    "bookId": "a-fathers-love-1975-or-the-tyrant-2012",
+    "year": 1973,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1973 Prix Goncourt for L'Ogre by Jacques Chessex.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1974",
+    "prizeId": "prix-goncourt",
+    "bookId": "a-web-of-lace-1976-or-the-lacemaker-2008",
+    "year": 1974,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1974 Prix Goncourt for La Dentellière by Pascal Lainé.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1975",
+    "prizeId": "prix-goncourt",
+    "bookId": "momo-1978-or-the-life-before-us-1986",
+    "year": 1975,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1975 Prix Goncourt for La vie devant soi by Émile Ajar.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1976",
+    "prizeId": "prix-goncourt",
+    "bookId": "les-flamboyants",
+    "year": 1976,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1976 Prix Goncourt for Les Flamboyants by Patrick Grainville.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1977",
+    "prizeId": "prix-goncourt",
+    "bookId": "john-lenfer",
+    "year": 1977,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1977 Prix Goncourt for John l'enfer by Didier Decoin.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1978",
+    "prizeId": "prix-goncourt",
+    "bookId": "missing-person",
+    "year": 1978,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1978 Prix Goncourt for Rue des boutiques obscures by Patrick Modiano.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1979",
+    "prizeId": "prix-goncourt",
+    "bookId": "pelagie-the-return-to-acadie",
+    "year": 1979,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1979 Prix Goncourt for Pélagie-la-Charrette by Antonine Maillet.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1980",
+    "prizeId": "prix-goncourt",
+    "bookId": "cronus-children",
+    "year": 1980,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1980 Prix Goncourt for Le Jardin d'acclimatation by Yves Navarre.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1981",
+    "prizeId": "prix-goncourt",
+    "bookId": "anne-marie",
+    "year": 1981,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1981 Prix Goncourt for Anne-Marie by Lucien Bodard.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1982",
+    "prizeId": "prix-goncourt",
+    "bookId": "dans-la-main-de-lange",
+    "year": 1982,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1982 Prix Goncourt for Dans la main de l'Ange by Dominique Fernandez.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1983",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-lost-ones",
+    "year": 1983,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1983 Prix Goncourt for Les égarés by Frédérick Tristan.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1984",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-lover",
+    "year": 1984,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1984 Prix Goncourt for L'Amant by Marguerite Duras.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1985",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-wedding",
+    "year": 1985,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1985 Prix Goncourt for Les Noces barbares by Yann Queffélec.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1986",
+    "prizeId": "prix-goncourt",
+    "bookId": "valet-de-nuit",
+    "year": 1986,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1986 Prix Goncourt for Valet de nuit by Michel Host.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1987",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-sacred-night",
+    "year": 1987,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1987 Prix Goncourt for La nuit sacrée by Tahar Ben Jelloun.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1988",
+    "prizeId": "prix-goncourt",
+    "bookId": "love-and-empire",
+    "year": 1988,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1988 Prix Goncourt for L'Exposition coloniale by Érik Orsenna.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1989",
+    "prizeId": "prix-goncourt",
+    "bookId": "un-grand-pas-vers-le-bon-dieu",
+    "year": 1989,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1989 Prix Goncourt for Un grand pas vers le Bon Dieu by Jean Vautrin.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1990",
+    "prizeId": "prix-goncourt",
+    "bookId": "fields-of-glory",
+    "year": 1990,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1990 Prix Goncourt for Les Champs d'honneur by Jean Rouaud.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1991",
+    "prizeId": "prix-goncourt",
+    "bookId": "les-filles-du-calvaire",
+    "year": 1991,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1991 Prix Goncourt for Les Filles du Calvaire by Pierre Combescot.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1992",
+    "prizeId": "prix-goncourt",
+    "bookId": "texaco",
+    "year": 1992,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1992 Prix Goncourt for Texaco by Patrick Chamoiseau.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1993",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-rock-of-tanios",
+    "year": 1993,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1993 Prix Goncourt for Le Rocher de Tanios by Amin Maalouf.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1994",
+    "prizeId": "prix-goncourt",
+    "bookId": "one-way",
+    "year": 1994,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1994 Prix Goncourt for Un Aller simple by Didier Van Cauwelaert.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1995",
+    "prizeId": "prix-goncourt",
+    "bookId": "dreams-of-my-russian-summers",
+    "year": 1995,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1995 Prix Goncourt for Le Testament français by Andreï Makine.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1996",
+    "prizeId": "prix-goncourt",
+    "bookId": "le-chasseur-zero",
+    "year": 1996,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1996 Prix Goncourt for Le Chasseur Zéro by Pascale Roze.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1997",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-battle",
+    "year": 1997,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1997 Prix Goncourt for La Bataille by Patrick Rambaud.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1998",
+    "prizeId": "prix-goncourt",
+    "bookId": "trading-secrets",
+    "year": 1998,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1998 Prix Goncourt for Confidence pour confidence by Paule Constant.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-1999",
+    "prizeId": "prix-goncourt",
+    "bookId": "im-gone-us-or-im-off-uk",
+    "year": 1999,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 1999 Prix Goncourt for Je m'en vais by Jean Echenoz.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2000",
+    "prizeId": "prix-goncourt",
+    "bookId": "ingrid-caven",
+    "year": 2000,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2000 Prix Goncourt for Ingrid Caven by Jean-Jacques Schuhl.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2001",
+    "prizeId": "prix-goncourt",
+    "bookId": "brazil-red",
+    "year": 2001,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2001 Prix Goncourt for Rouge Brésil by Jean-Christophe Rufin.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2002",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-roving-shadows",
+    "year": 2002,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2002 Prix Goncourt for Les Ombres errantes by Pascal Quignard.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2003",
+    "prizeId": "prix-goncourt",
+    "bookId": "brechts-lover-us-or-brechts-mistress-uk",
+    "year": 2003,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2003 Prix Goncourt for La maîtresse de Brecht by Jacques-Pierre Amette.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2004",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-house-of-scorta-us-2006-the-scortas-sun-uk-2007",
+    "year": 2004,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2004 Prix Goncourt for Le Soleil des Scorta by Laurent Gaudé.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2005",
+    "prizeId": "prix-goncourt",
+    "bookId": "trois-jours-chez-ma-mere",
+    "year": 2005,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2005 Prix Goncourt for Trois jours chez ma mère by François Weyergans.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2006",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-kindly-ones",
+    "year": 2006,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2006 Prix Goncourt for Les Bienveillantes by Jonathan Littell.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2007",
+    "prizeId": "prix-goncourt",
+    "bookId": "alabama-song",
+    "year": 2007,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2007 Prix Goncourt for Alabama Song by Gilles Leroy.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2008",
+    "prizeId": "prix-goncourt",
+    "bookId": "stone-of-patience-uk-or-the-patience-stone-us",
+    "year": 2008,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2008 Prix Goncourt for Syngué Sabour: La pierre de patience by Atiq Rahimi.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2009",
+    "prizeId": "prix-goncourt",
+    "bookId": "three-strong-women",
+    "year": 2009,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2009 Prix Goncourt for Trois femmes puissantes by Marie NDiaye.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2010",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-map-and-the-territory",
+    "year": 2010,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2010 Prix Goncourt for La Carte et le territoire by Michel Houellebecq.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2011",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-french-art-of-war",
+    "year": 2011,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2011 Prix Goncourt for L'Art français de la guerre by Alexis Jenni.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2012",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-sermon-on-the-fall-of-rome",
+    "year": 2012,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2012 Prix Goncourt for Le Sermon sur la chute de Rome by Jérôme Ferrari.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2013",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-great-swindle",
+    "year": 2013,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2013 Prix Goncourt for Au revoir là-haut by Pierre Lemaitre.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2014",
+    "prizeId": "prix-goncourt",
+    "bookId": "cry-mother-spain",
+    "year": 2014,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2014 Prix Goncourt for Pas pleurer by Lydie Salvayre.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2015",
+    "prizeId": "prix-goncourt",
+    "bookId": "compass",
+    "year": 2015,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2015 Prix Goncourt for Boussole by Mathias Énard.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2016",
+    "prizeId": "prix-goncourt",
+    "bookId": "lullaby-ukthe-perfect-nanny-usa",
+    "year": 2016,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2016 Prix Goncourt for Chanson douce by Leïla Slimani.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2017",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-order-of-the-day",
+    "year": 2017,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2017 Prix Goncourt for L'Ordre du jour by Éric Vuillard.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2018",
+    "prizeId": "prix-goncourt",
+    "bookId": "and-their-children-after-them",
+    "year": 2018,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2018 Prix Goncourt for Leurs enfants après eux by Nicolas Mathieu.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2019",
+    "prizeId": "prix-goncourt",
+    "bookId": "not-everybody-lives-the-same-way",
+    "year": 2019,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2019 Prix Goncourt for Tous les hommes n'habitent pas le monde de la même façon by Jean-Paul Dubois.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2020",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-anomaly",
+    "year": 2020,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2020 Prix Goncourt for L'Anomalie by Hervé Le Tellier.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2021",
+    "prizeId": "prix-goncourt",
+    "bookId": "the-most-secret-memory-of-men",
+    "year": 2021,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2021 Prix Goncourt for La plus secrète mémoire des hommes by Mohamed Mbougar Sarr.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2022",
+    "prizeId": "prix-goncourt",
+    "bookId": "live-fast",
+    "year": 2022,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2022 Prix Goncourt for Vivre Vite by Brigitte Giraud.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2023",
+    "prizeId": "prix-goncourt",
+    "bookId": "watching-over-her",
+    "year": 2023,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2023 Prix Goncourt for Veiller sur elle by Jean-Baptiste Andrea.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2024",
+    "prizeId": "prix-goncourt",
+    "bookId": "houris",
+    "year": 2024,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2024 Prix Goncourt for Houris by Kamel Daoud.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2025",
+    "prizeId": "prix-goncourt",
+    "bookId": "la-maison-vide",
+    "year": 2025,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2025 Prix Goncourt for La Maison vide by Laurent Mauvignier.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
+  },
+  {
+    "id": "nom-goncourt-2026",
+    "prizeId": "prix-goncourt",
+    "bookId": "linconnue-du-quai-de-javel",
+    "year": 2026,
+    "status": "winner",
+    "category": "Prix Goncourt",
+    "citation": "Winner of the 2026 Prix Goncourt for L'Inconnue du quai de Javel by Philippe Jaenada.",
+    "sourceUrl": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt"
   }
 ]
