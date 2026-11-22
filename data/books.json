@@ -2122,8 +2122,9 @@
     "pageCount": 240,
     "spineColor": "#0284c7",
     "countryOfOrigin": "United Kingdom",
-    "isbn13": "9780091199104",
-    "openLibraryKey": "/works/OL2466701W"
+    "isbn13": "9780099591924",
+    "openLibraryKey": "/works/OL2466701W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0099591928.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-siege-of-krishnapur",
@@ -3537,7 +3538,7 @@
     "authorName": "Sarah Bernstein",
     "publicationYear": 2023,
     "publisher": "Granta Books",
-    "isbn13": "9781783789955",
+    "isbn13": "9781803510019",
     "genres": [
       "Psychological",
       "Novella",
@@ -3547,7 +3548,7 @@
     "pageCount": 208,
     "spineColor": "#3f3f46",
     "countryOfOrigin": "Canada",
-    "coverImage": null,
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1803510013.01.LZZZZZZZ.jpg",
     "openLibraryKey": "/works/OL35722361W"
   },
   {
@@ -7875,7 +7876,7 @@
     "authorName": "Nicola Barker",
     "publicationYear": 2017,
     "publisher": "William Heinemann",
-    "isbn13": "9781785151248",
+    "isbn13": "9781785151149",
     "genres": [
       "Literary Fiction",
       "Dystopian",
@@ -7885,7 +7886,8 @@
     "countryOfOrigin": "United Kingdom",
     "pageCount": 288,
     "spineColor": "#eab308",
-    "openLibraryKey": "/works/OL21145876W"
+    "openLibraryKey": "/works/OL21145876W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1785151142.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-sunken-land-begins-to-rise-again",
@@ -7995,7 +7997,7 @@
     "authorName": "C.D. Rose",
     "publicationYear": 2024,
     "publisher": "Melville House",
-    "isbn13": "9781685891329",
+    "isbn13": "9781685892012",
     "genres": [
       "Literary Fiction",
       "Experimental",
@@ -8004,7 +8006,8 @@
     "synopsis": "An inventive, biting novel investigating an elusive Eastern European avant-garde artist colony, exploring cultural bureaucracy, fake archives, and the ephemeral boundaries of artistic survival.",
     "countryOfOrigin": "United Kingdom",
     "pageCount": 224,
-    "spineColor": "#4338ca"
+    "spineColor": "#4338ca",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1685892019.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-rouse",
@@ -11082,8 +11085,9 @@
     "countryOfOrigin": "Israel",
     "pageCount": 384,
     "spineColor": "#0e7490",
-    "isbn13": "9780575000063",
-    "openLibraryKey": "/works/OL109481W"
+    "isbn13": "9781592643547",
+    "openLibraryKey": "/works/OL109481W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/159264354X.01.LZZZZZZZ.jpg"
   },
   {
     "id": "el-senor-presidente",
@@ -16814,7 +16818,7 @@
     "authorName": "Mark Bowles",
     "publicationYear": 2024,
     "publisher": "Galley Beggar Press",
-    "isbn13": "9781913111588",
+    "isbn13": "9781913111724",
     "genres": [
       "Black Comedy",
       "Monologue"
@@ -16823,7 +16827,7 @@
     "pageCount": 256,
     "spineColor": "#991b1b",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": null,
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1913111725.01.LZZZZZZZ.jpg",
     "openLibraryKey": "/works/OL38621750W"
   },
   {
@@ -16938,7 +16942,9 @@
     "synopsis": "A dark, poetically charged exploration of obsession, marital jealousy, and emotional trauma unfolding inside a secluded seaside house.",
     "pageCount": 304,
     "spineColor": "#1d4ed8",
-    "countryOfOrigin": "United Kingdom"
+    "countryOfOrigin": "United Kingdom",
+    "isbn13": "9781324092513",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1324092513.01.LZZZZZZZ.jpg"
   },
   {
     "id": "helm",
@@ -17489,7 +17495,9 @@
     "synopsis": "Shortlisted for the 2022 International Booker Prize.",
     "countryOfOrigin": "Norway",
     "translator": "Damion Searls",
-    "originalLanguage": "Norwegian"
+    "originalLanguage": "Norwegian",
+    "isbn13": "9781913097721",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1913097722.01.LZZZZZZZ.jpg"
   },
   {
     "id": "heaven",
@@ -17619,7 +17627,9 @@
     "synopsis": "Shortlisted for the 2024 International Booker Prize.",
     "countryOfOrigin": "Netherlands",
     "translator": "Sarah Timmer Harvey",
-    "originalLanguage": "Dutch"
+    "originalLanguage": "Dutch",
+    "isbn13": "9781914484711",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1914484711.01.LZZZZZZZ.jpg"
   },
   {
     "id": "a-leopard-skin-hat",
@@ -17635,7 +17645,9 @@
     "synopsis": "Shortlisted for the 2025 International Booker Prize.",
     "countryOfOrigin": "France",
     "translator": "Mark Hutchinson",
-    "originalLanguage": "French"
+    "originalLanguage": "French",
+    "isbn13": "9780811234511",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0811234517.01.LZZZZZZZ.jpg"
   },
   {
     "id": "perfection",
@@ -17935,7 +17947,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Shortlisted for the 1970 Booker Prize.",
-    "countryOfOrigin": "United Kingdom"
+    "countryOfOrigin": "United Kingdom",
+    "isbn13": "9780241969311",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/024196931X.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-conjunction",
@@ -18367,7 +18381,8 @@
     ],
     "synopsis": "Shortlisted for the 1977 Booker Prize.",
     "countryOfOrigin": "United Kingdom",
-    "isbn13": "9780224013581"
+    "isbn13": "9780007264903",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0007264909.01.LZZZZZZZ.jpg"
   },
   {
     "id": "great-granny-webster",
@@ -22722,8 +22737,9 @@
     ],
     "synopsis": "Finalist for the 1961 National Book Award for Fiction.",
     "countryOfOrigin": "United States",
-    "isbn13": "9781282875289",
-    "openLibraryKey": "/works/OL27824619W"
+    "isbn13": "9780878058372",
+    "openLibraryKey": "/works/OL27824619W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0878058370.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-christening-party",
@@ -22766,7 +22782,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 1961 National Book Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9780803297876",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0803297874.01.LZZZZZZZ.jpg"
   },
   {
     "id": "false-entry",
@@ -26450,7 +26468,9 @@
       "Literary Fiction"
     ],
     "synopsis": "Finalist for the 2023 National Book Award for Fiction.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781250822901",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1250822904.01.LZZZZZZZ.jpg"
   },
   {
     "id": "a-guardian-and-a-thief",
@@ -31235,7 +31255,9 @@
     "synopsis": "Shortlisted for the 2026 International Dublin Literary Award.",
     "countryOfOrigin": "International",
     "translator": "Sam Taylor",
-    "originalLanguage": "French"
+    "originalLanguage": "French",
+    "isbn13": "9780374614607",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0374614601.01.LZZZZZZZ.jpg"
   },
   {
     "id": "in-late-summer",
@@ -31251,7 +31273,9 @@
     "synopsis": "Shortlisted for the 2026 International Dublin Literary Award.",
     "countryOfOrigin": "International",
     "translator": "Anđelka Raguž",
-    "originalLanguage": "Croatian"
+    "originalLanguage": "Croatian",
+    "isbn13": "9781068740428",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1068740426.01.LZZZZZZZ.jpg"
   },
   {
     "id": "what-i-know-about-you",
@@ -31287,9 +31311,10 @@
     "countryOfOrigin": "International",
     "translator": "Cory Stockwell",
     "originalLanguage": "French",
-    "isbn13": "9780063346741",
+    "isbn13": "9780063346734",
     "pageCount": 176,
-    "openLibraryKey": "/works/OL42425332W"
+    "openLibraryKey": "/works/OL42425332W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/0063346737.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-emperor-of-gladness",
@@ -31702,7 +31727,7 @@
     "openLibraryKey": "/works/OL579085W"
   },
   {
-    "id": "rowspan-2-sylva",
+    "id": "sylva",
     "title": "Sylva",
     "authorId": "jean-bruller-efn-name-sylva-sylva-was-the-first-translated-work-to-appear-on-the-hugo-ballot-the-translator-was-not-officially-recognized-until-2019",
     "authorName": "Jean Bruller",
@@ -31713,7 +31738,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 1963 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9782246166627",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/2246166624.01.LZZZZZZZ.jpg"
   },
   {
     "id": "glory-road",
@@ -36137,7 +36164,9 @@
       "Speculative"
     ],
     "synopsis": "Nominated for the 1965 Nebula Award for Best Novel.",
-    "countryOfOrigin": "United States"
+    "countryOfOrigin": "United States",
+    "isbn13": "9781600104916",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1600104916.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-ship-that-sailed-the-time-stream",
@@ -39650,9 +39679,10 @@
     ],
     "synopsis": "Nominated for the 2025 Nebula Award for Best Novel.",
     "countryOfOrigin": "United States",
-    "isbn13": "9781668060063",
+    "isbn13": "9781668060049",
     "pageCount": 464,
-    "openLibraryKey": "/works/OL42540135W"
+    "openLibraryKey": "/works/OL42540135W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1668060043.01.LZZZZZZZ.jpg"
   },
   {
     "id": "katabasis",
@@ -39819,8 +39849,9 @@
     ],
     "synopsis": "A northern Australian town confronts the climate crisis.",
     "countryOfOrigin": "International",
-    "isbn13": "9780811238021",
-    "openLibraryKey": "/works/OL37582070W"
+    "isbn13": "9781922725325",
+    "openLibraryKey": "/works/OL37582070W",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1922725323.01.LZZZZZZZ.jpg"
   },
   {
     "id": "demon-copperhead",
@@ -39884,7 +39915,7 @@
     "authorName": "Olivia Laing",
     "publicationYear": 2018,
     "publisher": "Picador",
-    "isbn13": "9780241347577",
+    "isbn13": "9781509892846",
     "genres": [
       "Fiction"
     ],
@@ -39892,7 +39923,7 @@
     "pageCount": 144,
     "spineColor": "#d97706",
     "countryOfOrigin": "United Kingdom",
-    "coverImage": null,
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1509892842.01.LZZZZZZZ.jpg",
     "openLibraryKey": "/works/OL21161820W"
   },
   {
