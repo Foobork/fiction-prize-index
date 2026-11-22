@@ -24,10 +24,18 @@ The **Fiction Prize Index** centralizes major world fiction awards into a unifie
 - **National Book Critics Circle (NBCC) Award for Fiction** (American critics honor)
 - **Nobel Prize in Literature** (Fiction & prose laureates)
 - **James Tait Black Memorial Prizes** (UK's oldest literary prizes: Fiction, Biography, and Drama)
+- **PEN/Faulkner Award for Fiction** (Peer-juried American literature)
+- **Prix Goncourt** (France's premier literary honor)
+- **PEN/Hemingway Award for Debut Novel** (Distinguished American debut fiction)
+- **Edgar Allan Poe Award for Best Novel** (Mystery Writers of America premier mystery honor)
+- **World Fantasy Award for Best Novel** (World Fantasy Convention dark & speculative titan)
+- **Miles Franklin Literary Award** (Australia's premier literary honor)
+- **Scotiabank Giller Prize** (Canada's premier fiction prize)
+- **Kirkus Prize for Fiction** (Starred review distinction)
 
 ### 📊 Dataset Scorecard & Historical Coverage
 
-The index currently catalogs **14 prize categories**, **1,520 authors**, **2,386 books**, and **2,873 nominations**:
+The index currently catalogs **22 prize categories**, **2,559 authors**, **4,032 books**, and **4,777 nominations**:
 
 | Prize | Scope / Focus | Award Years | Winners | Historical Coverage |
 | :--- | :--- | :---: | :---: | :---: |
@@ -45,6 +53,14 @@ The index currently catalogs **14 prize categories**, **1,520 authors**, **2,386
 | **James Tait Black Prize for Fiction** | UK's oldest continuous fiction award | 1920–2026 | 114 | **100% Complete** (107 continuous years) |
 | **James Tait Black Prize for Biography** | Premier UK life writing & biography prize | 1920–2026 | 110 | **100% Complete** (107 continuous years) |
 | **James Tait Black Prize for Drama** | Innovative theatrical playwriting | 2013–2020 | 8 | **100% Complete** (Paused post-2020) |
+| **PEN/Faulkner Award for Fiction** | Peer-chosen American fiction | 1981–2026 | 46 | **100% Complete** (+ 185 finalists 1981–2026) |
+| **Prix Goncourt** | Premier French literary achievement | 1903–2026 | 124 | **100% Complete** (124 continuous years) |
+| **PEN/Hemingway Award** | American debut fiction excellence | 1976–2026 | 51 | **100% Complete** (+ 79 finalists 2000–2026) |
+| **Edgar Allan Poe Award for Best Novel** | Mystery Writers of America novel titan | 1954–2026 | 78 | **100% Complete** (+ 291 nominees 1954–2026) |
+| **World Fantasy Award for Best Novel** | International fantasy and speculative honor | 1975–2026 | 58 | **100% Complete** (+ 223 nominees 1975–2026) |
+| **Miles Franklin Literary Award** | Australia's highest literary honor | 1957–2026 | 70 | **100% Complete** (+ 280 shortlists 1987–2026) |
+| **Scotiabank Giller Prize** | Canadian fiction excellence | 1994–2026 | 35 | **100% Complete** (+ 306 shortlists 1994–2026) |
+| **Kirkus Prize for Fiction** | Starred Kirkus literary excellence | 2014–2026 | 13 | **100% Complete** (+ 65 finalists 2014–2026) |
 
 ---
 
