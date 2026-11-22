@@ -17711,8 +17711,8 @@
     "openLibraryKey": "/works/OL42545060W"
   },
   {
-    "id": "on-the-calculation-of-volume-i",
-    "title": "On the Calculation of Volume I",
+    "id": "on-the-calculation-of-volume-book-i",
+    "title": "On the Calculation of Volume (Book I)",
     "authorId": "solvej-balle",
     "authorName": "Solvej Balle",
     "publicationYear": 2024,
@@ -28517,13 +28517,13 @@
     "authorId": "solvej-balle",
     "authorName": "Solvej Balle",
     "publicationYear": 2025,
-    "publisher": "Unknown Publisher",
+    "publisher": "New Directions",
     "genres": [
       "Literary Fiction",
       "Translated Fiction"
     ],
     "synopsis": "Finalist for the 2025 National Book Critics Circle Award for Fiction.",
-    "countryOfOrigin": "United States",
+    "countryOfOrigin": "Denmark",
     "translator": "Sophia Hersi Smith and Jennifer Russell",
     "isbn13": "9780571383436",
     "coverImage": "https://covers.openlibrary.org/b/id/15213040-L.jpg?default=false"
