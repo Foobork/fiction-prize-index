@@ -9481,5 +9481,611 @@
   {
     "id": "lytton-strachey",
     "name": "Lytton Strachey"
+  },
+  {
+    "id": "walter-de-la-mare",
+    "name": "Walter de la Mare",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "liam-oflaherty",
+    "name": "Liam O'Flaherty",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "siegfried-sassoon",
+    "name": "Siegfried Sassoon",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "helen-de-guerry-simpson",
+    "name": "Helen de Guerry Simpson",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "leo-myers",
+    "name": "Leo Myers",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "neil-m-gunn",
+    "name": "Neil M. Gunn",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "charles-morgan",
+    "name": "Charles Morgan",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "wu-chengen",
+    "name": "Wu Cheng'en",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "forrest-reid",
+    "name": "Forrest Reid",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "l-a-g-strong",
+    "name": "L. A. G. Strong",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "oliver-onions",
+    "name": "Oliver Onions",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "robert-henriques",
+    "name": "Robert Henriques",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "chapman-mortimer",
+    "name": "Chapman Mortimer",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "rose-macaulay",
+    "name": "Rose Macaulay",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "rex-warner",
+    "name": "Rex Warner",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "ronald-hardy",
+    "name": "Ronald Hardy",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "gerda-charles",
+    "name": "Gerda Charles",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "christine-brooke-rose",
+    "name": "Christine Brooke-Rose",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "maggie-ross",
+    "name": "Maggie Ross",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "lily-powell",
+    "name": "Lily Powell",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "jonathan-keates",
+    "name": "Jonathan Keates",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "tatjana-soli",
+    "name": "Tatjana Soli",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "padgett-powell",
+    "name": "Padgett Powell",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "lucas-rijneveld",
+    "name": "Lucas Rijneveld",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "shady-lewis",
+    "name": "Shady Lewis",
+    "nationality": "British",
+    "bio": "Acclaimed writer and recipient of the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "henry-festing-jones",
+    "name": "Henry Festing Jones",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "g-m-trevelyan",
+    "name": "G. M. Trevelyan",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "percy-lubbock",
+    "name": "Percy Lubbock",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "ronald-ross",
+    "name": "Ronald Ross",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "william-wilson",
+    "name": "William Wilson",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "geoffrey-scott",
+    "name": "Geoffrey Scott",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "reverend-dr-h-b-workman",
+    "name": "Reverend Dr H. B. Workman",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "h-a-l-fisher",
+    "name": "H. A. L. Fisher",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "lord-david-cecil",
+    "name": "Lord David Cecil",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "francis-yeats-brown",
+    "name": "Francis Yeats-Brown",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "j-y-t-greig",
+    "name": "J. Y. T. Greig",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "stephen-gwynn",
+    "name": "Stephen Gwynn",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "violet-clifton",
+    "name": "Violet Clifton",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "j-e-neale",
+    "name": "J. E. Neale",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "raymond-wilson-chambers",
+    "name": "Raymond Wilson Chambers",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "edward-sackville-west",
+    "name": "Edward Sackville West",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "david-c-douglas",
+    "name": "David C. Douglas",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "john-gore",
+    "name": "John Gore",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "lord-ponsonby-of-shulbrede",
+    "name": "Lord Ponsonby of Shulbrede",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "g-g-coulton",
+    "name": "G. G. Coulton",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "c-v-wedgwood",
+    "name": "C. V. Wedgwood",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "d-s-maccoll",
+    "name": "D. S. MacColl",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "richard-aldington",
+    "name": "Richard Aldington",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "charles-e-raven",
+    "name": "Charles E. Raven",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "percy-a-scholes",
+    "name": "Percy A. Scholes",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "john-connell",
+    "name": "John Connell",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "noel-annan",
+    "name": "Noel Annan",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "g-m-young",
+    "name": "G. M. Young",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "carola-oman",
+    "name": "Carola Oman",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "keith-feiling",
+    "name": "Keith Feiling",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "r-w-ketton-cremer",
+    "name": "R. W. Ketton-Cremer",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "st-john-greer-ervine",
+    "name": "St John Greer Ervine",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "maurice-cranston",
+    "name": "Maurice Cranston",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "christopher-hassall",
+    "name": "Christopher Hassall",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "adam-fox",
+    "name": "Adam Fox",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "m-k-ashby",
+    "name": "M. K. Ashby",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "meriol-trevor",
+    "name": "Meriol Trevor",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "georgina-battiscombe",
+    "name": "Georgina Battiscombe",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "elizabeth-longford",
+    "name": "Elizabeth Longford",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "mary-caroline-moorman",
+    "name": "Mary Caroline Moorman",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "geoffrey-keynes",
+    "name": "Geoffrey Keynes",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "winifred-g-rin",
+    "name": "Winifred Gérin",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "jasper-ridley",
+    "name": "Jasper Ridley",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "julia-namier",
+    "name": "Julia Namier",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "quentin-bell",
+    "name": "Quentin Bell",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "karl-miller",
+    "name": "Karl Miller",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "ronald-hingley",
+    "name": "Ronald Hingley",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "george-painter",
+    "name": "George Painter",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "robert-gittings",
+    "name": "Robert Gittings",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "brian-finney",
+    "name": "Brian Finney",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "robert-b-martin",
+    "name": "Robert B. Martin",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "victoria-glendinning",
+    "name": "Victoria Glendinning",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "alan-walker",
+    "name": "Alan Walker",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "lyndall-gordon",
+    "name": "Lyndall Gordon",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "felicitas-corrigan",
+    "name": "Felicitas Corrigan",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "ruth-dudley-edwards",
+    "name": "Ruth Dudley Edwards",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "brian-mcguinness",
+    "name": "Brian McGuinness",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "ian-gibson",
+    "name": "Ian Gibson",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "charles-nicholl",
+    "name": "Charles Nicholl",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "richard-holmes",
+    "name": "Richard Holmes",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "gitta-sereny",
+    "name": "Gitta Sereny",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "r-f-foster",
+    "name": "R. F. Foster",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "robert-skidelsky",
+    "name": "Robert Skidelsky",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "jenny-uglow",
+    "name": "Jenny Uglow",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "janet-browne",
+    "name": "Janet Browne",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "byron-rogers",
+    "name": "Byron Rogers",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "michael-holroyd",
+    "name": "Michael Holroyd",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "john-carey",
+    "name": "John Carey",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "hilary-spurling",
+    "name": "Hilary Spurling",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "tanya-harrod",
+    "name": "Tanya Harrod",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "richard-benson",
+    "name": "Richard Benson",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "james-shapiro",
+    "name": "James Shapiro",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "laura-cumming",
+    "name": "Laura Cumming",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "george-szirtes",
+    "name": "George Szirtes",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "marlene-l-daut",
+    "name": "Marlene L. Daut",
+    "nationality": "British",
+    "bio": "Biographer and historian awarded the James Tait Black Memorial Prize."
+  },
+  {
+    "id": "gordon-dahlquist",
+    "name": "Gordon Dahlquist",
+    "nationality": "American",
+    "bio": "American playwright and novelist, winner of the 2015 James Tait Black Prize for Drama."
   }
 ]

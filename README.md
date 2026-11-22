@@ -23,10 +23,11 @@ The **Fiction Prize Index** centralizes major world fiction awards into a unifie
 - **Hugo Award & Nebula Award** (Speculative fiction titans)
 - **National Book Critics Circle (NBCC) Award for Fiction** (American critics honor)
 - **Nobel Prize in Literature** (Fiction & prose laureates)
+- **James Tait Black Memorial Prizes** (UK's oldest literary prizes: Fiction, Biography, and Drama)
 
 ### 📊 Dataset Scorecard & Historical Coverage
 
-The index currently catalogs **11 prizes**, **1,341 authors**, **2,178 books**, and **2,641 nominations**:
+The index currently catalogs **14 prize categories**, **1,520 authors**, **2,386 books**, and **2,873 nominations**:
 
 | Prize | Scope / Focus | Award Years | Winners | Historical Coverage |
 | :--- | :--- | :---: | :---: | :---: |
@@ -41,6 +42,9 @@ The index currently catalogs **11 prizes**, **1,341 authors**, **2,178 books**, 
 | **Nebula Award for Best Novel** | Science Fiction & Fantasy Writers (SFWA) | 1965–2026 | 67 | **100% Complete** (+ 322 finalists 1965–2025) |
 | **National Book Critics Circle (NBCC)** | American professional book critics | 1975–2025 | 53 | **100% Complete** (+ 175 finalists 1976–2025) |
 | **Nobel Prize in Literature** | Master novelists & prose laureates | 1905–2025 | 73 | **Complete Fiction Roster** (Nominees sealed 50 yrs) |
+| **James Tait Black Prize for Fiction** | UK's oldest continuous fiction award | 1920–2026 | 114 | **100% Complete** (107 continuous years) |
+| **James Tait Black Prize for Biography** | Premier UK life writing & biography prize | 1920–2026 | 110 | **100% Complete** (107 continuous years) |
+| **James Tait Black Prize for Drama** | Innovative theatrical playwriting | 2013–2020 | 8 | **100% Complete** (Paused post-2020) |
 
 ---
 

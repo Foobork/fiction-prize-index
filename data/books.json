@@ -41501,5 +41501,1662 @@
     ],
     "synopsis": "A portrait of Queen Victoria and her era.",
     "openLibraryKey": "/works/OL1652392W"
+  },
+  {
+    "id": "memoirs-of-a-midget",
+    "title": "Memoirs of a Midget",
+    "authorId": "walter-de-la-mare",
+    "authorName": "Walter de la Mare",
+    "publicationYear": 1921,
+    "publisher": "Heinemann",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 1922.",
+    "spineColor": "#3f2e18",
+    "coverImage": "https://covers.openlibrary.org/b/id/5819074-L.jpg?default=false",
+    "openLibraryKey": "/works/OL1098501W"
+  },
+  {
+    "id": "the-informer",
+    "title": "The Informer",
+    "authorId": "liam-oflaherty",
+    "authorName": "Liam O'Flaherty",
+    "publicationYear": 1925,
+    "publisher": "Heinemann",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 1926.",
+    "spineColor": "#3f2e18",
+    "coverImage": "https://covers.openlibrary.org/b/id/654148-L.jpg?default=false",
+    "openLibraryKey": "/works/OL109344W"
+  },
+  {
+    "id": "memoirs-of-a-fox-hunting-man",
+    "title": "Memoirs of a Fox-Hunting Man",
+    "authorId": "siegfried-sassoon",
+    "authorName": "Siegfried Sassoon",
+    "publicationYear": 1928,
+    "publisher": "Heinemann",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 1929.",
+    "spineColor": "#3f2e18",
+    "coverImage": "https://covers.openlibrary.org/b/id/376483-L.jpg?default=false",
+    "openLibraryKey": "/works/OL1249517W"
+  },
+  {
+    "id": "boomerang",
+    "title": "Boomerang",
+    "authorId": "helen-de-guerry-simpson",
+    "authorName": "Helen de Guerry Simpson",
+    "publicationYear": 1932,
+    "publisher": "Heinemann",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 1933.",
+    "spineColor": "#3f2e18",
+    "coverImage": "https://covers.openlibrary.org/b/id/14862108-L.jpg?default=false",
+    "openLibraryKey": "/works/OL7558031W"
+  },
+  {
+    "id": "claudius-the-god",
+    "title": "Claudius the God",
+    "authorId": "robert-graves",
+    "authorName": "Robert Graves",
+    "publicationYear": 1934,
+    "publisher": "Heinemann",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 1935.",
+    "spineColor": "#3f2e18",
+    "coverImage": "https://covers.openlibrary.org/b/id/14656260-L.jpg?default=false",
+    "openLibraryKey": "/works/OL5036952W"
+  },
+  {
+    "id": "the-root-and-the-flower",
+    "title": "The Root and the Flower",
+    "authorId": "leo-myers",
+    "authorName": "Leo Myers",
+    "publicationYear": 1935,
+    "publisher": "Heinemann",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 1936.",
+    "spineColor": "#3f2e18",
+    "coverImage": "https://covers.openlibrary.org/b/id/717575-L.jpg?default=false"
+  },
+  {
+    "id": "highland-river",
+    "title": "Highland River",
+    "authorId": "neil-m-gunn",
+    "authorName": "Neil M. Gunn",
+    "publicationYear": 1937,
+    "publisher": "Heinemann",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 1938.",
+    "spineColor": "#3f2e18",
+    "coverImage": "https://covers.openlibrary.org/b/id/652841-L.jpg?default=false",
+    "openLibraryKey": "/works/OL1205586W"
+  },
+  {
+    "id": "the-voyage",
+    "title": "The Voyage",
+    "authorId": "charles-morgan",
+    "authorName": "Charles Morgan",
+    "publicationYear": 1940,
+    "publisher": "Heinemann",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 1941.",
+    "spineColor": "#3f2e18",
+    "coverImage": "https://covers.openlibrary.org/b/id/9897257-L.jpg?default=false",
+    "openLibraryKey": "/works/OL4358787W"
+  },
+  {
+    "id": "monkey",
+    "title": "Monkey",
+    "authorId": "wu-chengen",
+    "authorName": "Wu Cheng'en",
+    "publicationYear": 1942,
+    "publisher": "Heinemann",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 1943.",
+    "spineColor": "#3f2e18",
+    "translator": "Arthur Waley",
+    "coverImage": "https://covers.openlibrary.org/b/id/8246231-L.jpg?default=false",
+    "openLibraryKey": "/works/OL3593545W"
+  },
+  {
+    "id": "young-tom",
+    "title": "Young Tom",
+    "authorId": "forrest-reid",
+    "authorName": "Forrest Reid",
+    "publicationYear": 1944,
+    "publisher": "Heinemann",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 1945.",
+    "spineColor": "#3f2e18",
+    "coverImage": "https://covers.openlibrary.org/b/id/6832723-L.jpg?default=false",
+    "openLibraryKey": "/works/OL6189502W"
+  },
+  {
+    "id": "travellers",
+    "title": "Travellers",
+    "authorId": "l-a-g-strong",
+    "authorName": "L. A. G. Strong",
+    "publicationYear": 1945,
+    "publisher": "Heinemann",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 1946.",
+    "spineColor": "#3f2e18",
+    "coverImage": "https://covers.openlibrary.org/b/id/11298743-L.jpg?default=false",
+    "openLibraryKey": "/works/OL1228192W"
+  },
+  {
+    "id": "poor-mans-tapestry",
+    "title": "Poor Man's Tapestry",
+    "authorId": "oliver-onions",
+    "authorName": "Oliver Onions",
+    "publicationYear": 1946,
+    "publisher": "Heinemann",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 1947.",
+    "spineColor": "#3f2e18",
+    "coverImage": "https://covers.openlibrary.org/b/id/15041117-L.jpg?default=false",
+    "openLibraryKey": "/works/OL4190186W"
+  },
+  {
+    "id": "through-the-valley",
+    "title": "Through the Valley",
+    "authorId": "robert-henriques",
+    "authorName": "Robert Henriques",
+    "publicationYear": 1950,
+    "publisher": "Heinemann",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 1951.",
+    "spineColor": "#3f2e18",
+    "coverImage": "https://covers.openlibrary.org/b/id/13323924-L.jpg?default=false",
+    "openLibraryKey": "/works/OL8977419W"
+  },
+  {
+    "id": "father-goose",
+    "title": "Father Goose",
+    "authorId": "chapman-mortimer",
+    "authorName": "Chapman Mortimer",
+    "publicationYear": 1951,
+    "publisher": "Heinemann",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 1952.",
+    "spineColor": "#3f2e18",
+    "openLibraryKey": "/works/OL7156301W"
+  },
+  {
+    "id": "the-towers-of-trebizond",
+    "title": "The Towers of Trebizond",
+    "authorId": "rose-macaulay",
+    "authorName": "Rose Macaulay",
+    "publicationYear": 1956,
+    "publisher": "Heinemann",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 1957.",
+    "spineColor": "#3f2e18",
+    "coverImage": "https://covers.openlibrary.org/b/id/14846492-L.jpg?default=false",
+    "openLibraryKey": "/works/OL261829W"
+  },
+  {
+    "id": "imperial-caesar",
+    "title": "Imperial Caesar",
+    "authorId": "rex-warner",
+    "authorName": "Rex Warner",
+    "publicationYear": 1960,
+    "publisher": "Faber & Faber",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 1961.",
+    "spineColor": "#3f2e18",
+    "coverImage": "https://covers.openlibrary.org/b/id/6515783-L.jpg?default=false",
+    "openLibraryKey": "/works/OL15143049W"
+  },
+  {
+    "id": "act-of-destruction",
+    "title": "Act of Destruction",
+    "authorId": "ronald-hardy",
+    "authorName": "Ronald Hardy",
+    "publicationYear": 1962,
+    "publisher": "Faber & Faber",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 1963.",
+    "spineColor": "#1e3a5f",
+    "coverImage": "https://covers.openlibrary.org/b/id/10019236-L.jpg?default=false",
+    "openLibraryKey": "/works/OL5269921W"
+  },
+  {
+    "id": "a-slanting-light",
+    "title": "A Slanting Light",
+    "authorId": "gerda-charles",
+    "authorName": "Gerda Charles",
+    "publicationYear": 1963,
+    "publisher": "Faber & Faber",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 1964.",
+    "spineColor": "#1e3a5f",
+    "openLibraryKey": "/works/OL6532628W"
+  },
+  {
+    "id": "such",
+    "title": "Such",
+    "authorId": "christine-brooke-rose",
+    "authorName": "Christine Brooke-Rose",
+    "publicationYear": 1966,
+    "publisher": "Faber & Faber",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 1967.",
+    "spineColor": "#1e3a5f",
+    "coverImage": "https://covers.openlibrary.org/b/id/909862-L.jpg?default=false",
+    "openLibraryKey": "/works/OL3820644W"
+  },
+  {
+    "id": "the-gasteropod",
+    "title": "The Gasteropod",
+    "authorId": "maggie-ross",
+    "authorName": "Maggie Ross",
+    "publicationYear": 1968,
+    "publisher": "Faber & Faber",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 1969.",
+    "spineColor": "#1e3a5f",
+    "openLibraryKey": "/works/OL11311740W"
+  },
+  {
+    "id": "the-bird-of-paradise",
+    "title": "The Bird of Paradise",
+    "authorId": "lily-powell",
+    "authorName": "Lily Powell",
+    "publicationYear": 1970,
+    "publisher": "Faber & Faber",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 1971.",
+    "spineColor": "#1e3a5f",
+    "coverImage": "https://covers.openlibrary.org/b/id/14312407-L.jpg?default=false",
+    "openLibraryKey": "/works/OL5702115W"
+  },
+  {
+    "id": "g-1972",
+    "title": "G",
+    "authorId": "john-berger",
+    "authorName": "John Berger",
+    "publicationYear": 1972,
+    "publisher": "Faber & Faber",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 1973.",
+    "spineColor": "#1e3a5f",
+    "coverImage": "https://covers.openlibrary.org/b/id/420280-L.jpg?default=false",
+    "openLibraryKey": "/works/OL1980236W"
+  },
+  {
+    "id": "allegro-postillions",
+    "title": "Allegro Postillions",
+    "authorId": "jonathan-keates",
+    "authorName": "Jonathan Keates",
+    "publicationYear": 1983,
+    "publisher": "Faber & Faber",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 1984.",
+    "spineColor": "#1e3a5f",
+    "coverImage": "https://covers.openlibrary.org/b/id/7001916-L.jpg?default=false",
+    "openLibraryKey": "/works/OL823260W"
+  },
+  {
+    "id": "the-golden-bird-two-orkney-stories",
+    "title": "The Golden Bird: Two Orkney Stories",
+    "authorId": "george-mackay-brown",
+    "authorName": "George Mackay Brown",
+    "publicationYear": 1987,
+    "publisher": "Faber & Faber",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 1988.",
+    "spineColor": "#1e3a5f",
+    "coverImage": "https://covers.openlibrary.org/b/id/10621247-L.jpg?default=false",
+    "openLibraryKey": "/works/OL648523W"
+  },
+  {
+    "id": "the-lotus-eaters",
+    "title": "The Lotus Eaters",
+    "authorId": "tatjana-soli",
+    "authorName": "Tatjana Soli",
+    "publicationYear": 2010,
+    "publisher": "Faber & Faber",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 2011.",
+    "spineColor": "#831843",
+    "coverImage": "https://covers.openlibrary.org/b/id/7384104-L.jpg?default=false",
+    "openLibraryKey": "/works/OL15452623W"
+  },
+  {
+    "id": "you-and-i",
+    "title": "You and I",
+    "authorId": "padgett-powell",
+    "authorName": "Padgett Powell",
+    "publicationYear": 2011,
+    "publisher": "Faber & Faber",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 2012.",
+    "spineColor": "#831843",
+    "coverImage": "https://covers.openlibrary.org/b/id/7581908-L.jpg?default=false",
+    "openLibraryKey": "/works/OL17439806W"
+  },
+  {
+    "id": "my-heavenly-favourite",
+    "title": "My Heavenly Favourite",
+    "authorId": "lucas-rijneveld",
+    "authorName": "Lucas Rijneveld",
+    "publicationYear": 2024,
+    "publisher": "Faber & Faber",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 2025.",
+    "spineColor": "#831843",
+    "translator": "Michele Hutchison",
+    "openLibraryKey": "/works/OL37565803W"
+  },
+  {
+    "id": "on-the-greenwich-line",
+    "title": "On the Greenwich Line",
+    "authorId": "shady-lewis",
+    "authorName": "Shady Lewis",
+    "publicationYear": 2025,
+    "publisher": "Faber & Faber",
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "synopsis": "Celebrated work of fiction awarded the James Tait Black Memorial Prize for 2026.",
+    "spineColor": "#831843",
+    "translator": "Katharine Halls"
+  },
+  {
+    "id": "samuel-butler-author-of-erewhon-1835-1902-a-memoir",
+    "title": "Samuel Butler, Author of Erewhon (1835–1902) – A Memoir",
+    "authorId": "henry-festing-jones",
+    "authorName": "Henry Festing Jones",
+    "publicationYear": 1919,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work awarded the James Tait Black Prize for Biography for 1920.",
+    "spineColor": "#3c2f2f"
+  },
+  {
+    "id": "lord-grey-of-the-reform-bill",
+    "title": "Lord Grey of the Reform Bill",
+    "authorId": "g-m-trevelyan",
+    "authorName": "G. M. Trevelyan",
+    "publicationYear": 1920,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Charles Grey, 2nd Earl Grey|Earl Grey awarded the James Tait Black Prize for Biography for 1921.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/5843613-L.jpg?default=false",
+    "openLibraryKey": "/works/OL3166565W"
+  },
+  {
+    "id": "earlham",
+    "title": "Earlham",
+    "authorId": "percy-lubbock",
+    "authorName": "Percy Lubbock",
+    "publicationYear": 1922,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on autobiography awarded the James Tait Black Prize for Biography for 1923.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/5679464-L.jpg?default=false",
+    "openLibraryKey": "/works/OL2216966W"
+  },
+  {
+    "id": "memoirs-etc",
+    "title": "Memoirs, Etc.",
+    "authorId": "ronald-ross",
+    "authorName": "Ronald Ross",
+    "publicationYear": 1923,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on autobiography awarded the James Tait Black Prize for Biography for 1924.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/8235508-L.jpg?default=false",
+    "openLibraryKey": "/works/OL810990W"
+  },
+  {
+    "id": "the-house-of-airlie",
+    "title": "The House of Airlie",
+    "authorId": "william-wilson",
+    "authorName": "William Wilson",
+    "publicationYear": 1924,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on The Earl of Airlie|Earls of Airlie awarded the James Tait Black Prize for Biography for 1925.",
+    "spineColor": "#3c2f2f",
+    "openLibraryKey": "/works/OL7586543W"
+  },
+  {
+    "id": "the-portrait-of-zelide",
+    "title": "The Portrait of Zelide",
+    "authorId": "geoffrey-scott",
+    "authorName": "Geoffrey Scott",
+    "publicationYear": 1925,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Isabelle de Charrière awarded the James Tait Black Prize for Biography for 1926.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/1452364-L.jpg?default=false",
+    "openLibraryKey": "/works/OL3990241W"
+  },
+  {
+    "id": "john-wyclif-a-study-of-the-english-medieval-church",
+    "title": "John Wyclif: A Study of the English Medieval Church",
+    "authorId": "reverend-dr-h-b-workman",
+    "authorName": "Reverend Dr H. B. Workman",
+    "publicationYear": 1926,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on John Wyclif awarded the James Tait Black Prize for Biography for 1927.",
+    "spineColor": "#3c2f2f"
+  },
+  {
+    "id": "james-bryce-viscount-bryce-of-dechmont-o-m",
+    "title": "James Bryce, Viscount Bryce of Dechmont, O.M.",
+    "authorId": "h-a-l-fisher",
+    "authorName": "H. A. L. Fisher",
+    "publicationYear": 1927,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on James Bryce, 1st Viscount Bryce awarded the James Tait Black Prize for Biography for 1928.",
+    "spineColor": "#3c2f2f"
+  },
+  {
+    "id": "the-stricken-deer-or-the-life-of-cowper",
+    "title": "The Stricken Deer: or The Life of Cowper",
+    "authorId": "lord-david-cecil",
+    "authorName": "Lord David Cecil",
+    "publicationYear": 1929,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on William Cowper awarded the James Tait Black Prize for Biography for 1930.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/9843646-L.jpg?default=false",
+    "openLibraryKey": "/works/OL113134W"
+  },
+  {
+    "id": "the-lives-of-a-bengal-lancer",
+    "title": "The Lives of a Bengal Lancer",
+    "authorId": "francis-yeats-brown",
+    "authorName": "Francis Yeats-Brown",
+    "publicationYear": 1930,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on autobiography awarded the James Tait Black Prize for Biography for 1931.",
+    "spineColor": "#3c2f2f",
+    "openLibraryKey": "/works/OL2604557W"
+  },
+  {
+    "id": "david-hume",
+    "title": "David Hume",
+    "authorId": "j-y-t-greig",
+    "authorName": "J. Y. T. Greig",
+    "publicationYear": 1931,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on David Hume awarded the James Tait Black Prize for Biography for 1932.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/5958611-L.jpg?default=false",
+    "openLibraryKey": "/works/OL93561W"
+  },
+  {
+    "id": "the-life-of-mary-kingsley",
+    "title": "The Life of Mary Kingsley",
+    "authorId": "stephen-gwynn",
+    "authorName": "Stephen Gwynn",
+    "publicationYear": 1932,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Mary Kingsley awarded the James Tait Black Prize for Biography for 1933.",
+    "spineColor": "#3c2f2f",
+    "openLibraryKey": "/works/OL8722636W"
+  },
+  {
+    "id": "the-book-of-talbot",
+    "title": "The Book of Talbot",
+    "authorId": "violet-clifton",
+    "authorName": "Violet Clifton",
+    "publicationYear": 1933,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on John Talbot Clifton awarded the James Tait Black Prize for Biography for 1934.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/1799930-L.jpg?default=false",
+    "openLibraryKey": "/works/OL3890741W"
+  },
+  {
+    "id": "queen-elizabeth",
+    "title": "Queen Elizabeth",
+    "authorId": "j-e-neale",
+    "authorName": "J. E. Neale",
+    "publicationYear": 1934,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Elizabeth I of England awarded the James Tait Black Prize for Biography for 1935.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/696685-L.jpg?default=false",
+    "openLibraryKey": "/works/OL7974250W"
+  },
+  {
+    "id": "thomas-more",
+    "title": "Thomas More",
+    "authorId": "raymond-wilson-chambers",
+    "authorName": "Raymond Wilson Chambers",
+    "publicationYear": 1935,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Thomas More awarded the James Tait Black Prize for Biography for 1936.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/4461793-L.jpg?default=false",
+    "openLibraryKey": "/works/OL1401317W"
+  },
+  {
+    "id": "a-flame-in-sunlight-the-life-and-work-of-thomas-de-quincey",
+    "title": "A Flame in Sunlight: The Life and Work of Thomas de Quincey",
+    "authorId": "edward-sackville-west",
+    "authorName": "Edward Sackville West",
+    "publicationYear": 1936,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Thomas de Quincey awarded the James Tait Black Prize for Biography for 1937.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/8407881-L.jpg?default=false",
+    "openLibraryKey": "/works/OL12601196W"
+  },
+  {
+    "id": "english-scholars",
+    "title": "English Scholars",
+    "authorId": "david-c-douglas",
+    "authorName": "David C. Douglas",
+    "publicationYear": 1939,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work awarded the James Tait Black Prize for Biography for 1940.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/11248037-L.jpg?default=false",
+    "openLibraryKey": "/works/OL55649W"
+  },
+  {
+    "id": "king-george-v",
+    "title": "King George V",
+    "authorId": "john-gore",
+    "authorName": "John Gore",
+    "publicationYear": 1941,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on George V awarded the James Tait Black Prize for Biography for 1942.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/9291371-L.jpg?default=false",
+    "openLibraryKey": "/works/OL7470445W"
+  },
+  {
+    "id": "henry-ponsonby-queen-victorias-private-secretary",
+    "title": "Henry Ponsonby: Queen Victoria's Private Secretary",
+    "authorId": "lord-ponsonby-of-shulbrede",
+    "authorName": "Lord Ponsonby of Shulbrede",
+    "publicationYear": 1942,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Henry Ponsonby awarded the James Tait Black Prize for Biography for 1943.",
+    "spineColor": "#3c2f2f"
+  },
+  {
+    "id": "fourscore-years",
+    "title": "Fourscore Years",
+    "authorId": "g-g-coulton",
+    "authorName": "G. G. Coulton",
+    "publicationYear": 1943,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on autobiography awarded the James Tait Black Prize for Biography for 1944.",
+    "spineColor": "#3c2f2f",
+    "openLibraryKey": "/works/OL1157450W"
+  },
+  {
+    "id": "william-the-silent",
+    "title": "William the Silent",
+    "authorId": "c-v-wedgwood",
+    "authorName": "C. V. Wedgwood",
+    "publicationYear": 1944,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on William the Silent awarded the James Tait Black Prize for Biography for 1945.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/889140-L.jpg?default=false",
+    "openLibraryKey": "/works/OL262219W"
+  },
+  {
+    "id": "philip-wilson-steer",
+    "title": "Philip Wilson Steer",
+    "authorId": "d-s-maccoll",
+    "authorName": "D. S. MacColl",
+    "publicationYear": 1945,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Philip Wilson Steer awarded the James Tait Black Prize for Biography for 1946.",
+    "spineColor": "#3c2f2f",
+    "openLibraryKey": "/works/OL1223773W"
+  },
+  {
+    "id": "a-life-of-wellington-the-duke",
+    "title": "A Life of Wellington: The Duke",
+    "authorId": "richard-aldington",
+    "authorName": "Richard Aldington",
+    "publicationYear": 1946,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Arthur Wellesley, 1st Duke of Wellington|Arthur Wellesley awarded the James Tait Black Prize for Biography for 1947.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/14949028-L.jpg?default=false",
+    "openLibraryKey": "/works/OL31653215W"
+  },
+  {
+    "id": "english-naturalists-from-neckam-to-ray",
+    "title": "English Naturalists from Neckam to Ray",
+    "authorId": "charles-e-raven",
+    "authorName": "Charles E. Raven",
+    "publicationYear": 1947,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Alexander Neckam and John Ray awarded the James Tait Black Prize for Biography for 1948.",
+    "spineColor": "#3c2f2f",
+    "openLibraryKey": "/works/OL1231764W"
+  },
+  {
+    "id": "the-great-dr-burney",
+    "title": "The Great Dr. Burney",
+    "authorId": "percy-a-scholes",
+    "authorName": "Percy A. Scholes",
+    "publicationYear": 1948,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Charles Burney awarded the James Tait Black Prize for Biography for 1949.",
+    "spineColor": "#3c2f2f",
+    "openLibraryKey": "/works/OL10461856W"
+  },
+  {
+    "id": "w-e-henley",
+    "title": "W. E. Henley",
+    "authorId": "john-connell",
+    "authorName": "John Connell",
+    "publicationYear": 1949,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on W. E. Henley awarded the James Tait Black Prize for Biography for 1950.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/6624580-L.jpg?default=false",
+    "openLibraryKey": "/works/OL6833623W"
+  },
+  {
+    "id": "leslie-stephen",
+    "title": "Leslie Stephen",
+    "authorId": "noel-annan",
+    "authorName": "Noel Annan",
+    "publicationYear": 1951,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Leslie Stephen awarded the James Tait Black Prize for Biography for 1952.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/4456893-L.jpg?default=false",
+    "openLibraryKey": "/works/OL3286274W"
+  },
+  {
+    "id": "stanley-baldwin",
+    "title": "Stanley Baldwin",
+    "authorId": "g-m-young",
+    "authorName": "G. M. Young",
+    "publicationYear": 1952,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Stanley Baldwin awarded the James Tait Black Prize for Biography for 1953.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/9644602-L.jpg?default=false",
+    "openLibraryKey": "/works/OL1199602W"
+  },
+  {
+    "id": "sir-john-moore",
+    "title": "Sir John Moore",
+    "authorId": "carola-oman",
+    "authorName": "Carola Oman",
+    "publicationYear": 1953,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work awarded the James Tait Black Prize for Biography for 1954.",
+    "spineColor": "#3c2f2f",
+    "openLibraryKey": "/works/OL36996827W"
+  },
+  {
+    "id": "warren-hastings",
+    "title": "Warren Hastings",
+    "authorId": "keith-feiling",
+    "authorName": "Keith Feiling",
+    "publicationYear": 1954,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Warren Hastings awarded the James Tait Black Prize for Biography for 1955.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/14905023-L.jpg?default=false",
+    "openLibraryKey": "/works/OL33852777W"
+  },
+  {
+    "id": "thomas-gray",
+    "title": "Thomas Gray",
+    "authorId": "r-w-ketton-cremer",
+    "authorName": "R. W. Ketton-Cremer",
+    "publicationYear": 1955,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Thomas Gray awarded the James Tait Black Prize for Biography for 1956.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/9522669-L.jpg?default=false",
+    "openLibraryKey": "/works/OL1405147W"
+  },
+  {
+    "id": "george-bernard-shaw",
+    "title": "George Bernard Shaw",
+    "authorId": "st-john-greer-ervine",
+    "authorName": "St John Greer Ervine",
+    "publicationYear": 1956,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on George Bernard Shaw awarded the James Tait Black Prize for Biography for 1957.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/2501540-L.jpg?default=false",
+    "openLibraryKey": "/works/OL1106269W"
+  },
+  {
+    "id": "life-of-john-locke",
+    "title": "Life of John Locke",
+    "authorId": "maurice-cranston",
+    "authorName": "Maurice Cranston",
+    "publicationYear": 1957,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on John Locke awarded the James Tait Black Prize for Biography for 1958.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/6086503-L.jpg?default=false",
+    "openLibraryKey": "/works/OL880201W"
+  },
+  {
+    "id": "edward-marsh",
+    "title": "Edward Marsh",
+    "authorId": "christopher-hassall",
+    "authorName": "Christopher Hassall",
+    "publicationYear": 1959,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work awarded the James Tait Black Prize for Biography for 1960.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/7058638-L.jpg?default=false",
+    "openLibraryKey": "/works/OL1165765W"
+  },
+  {
+    "id": "the-life-of-dean-inge",
+    "title": "The Life of Dean Inge",
+    "authorId": "adam-fox",
+    "authorName": "Adam Fox",
+    "publicationYear": 1960,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on William Ralph Inge awarded the James Tait Black Prize for Biography for 1961.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/5562558-L.jpg?default=false",
+    "openLibraryKey": "/works/OL7907590W"
+  },
+  {
+    "id": "joseph-ashby-of-tysoe",
+    "title": "Joseph Ashby of Tysoe",
+    "authorId": "m-k-ashby",
+    "authorName": "M. K. Ashby",
+    "publicationYear": 1961,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Joseph Ashby awarded the James Tait Black Prize for Biography for 1962.",
+    "spineColor": "#3c2f2f",
+    "openLibraryKey": "/works/OL8639068W"
+  },
+  {
+    "id": "newman-the-pillar-and-the-cloud",
+    "title": "Newman: The Pillar and the Cloud",
+    "authorId": "meriol-trevor",
+    "authorName": "Meriol Trevor",
+    "publicationYear": 1962,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on John Henry Newman awarded the James Tait Black Prize for Biography for 1963.",
+    "spineColor": "#3c2f2f",
+    "openLibraryKey": "/works/OL35990273W"
+  },
+  {
+    "id": "newman-light-in-winter",
+    "title": "Newman: Light in Winter",
+    "authorId": "meriol-trevor",
+    "authorName": "Meriol Trevor",
+    "publicationYear": 1962,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on John Henry Newman awarded the James Tait Black Prize for Biography for 1963.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/9540983-L.jpg?default=false",
+    "openLibraryKey": "/works/OL519252W"
+  },
+  {
+    "id": "john-keble-a-study-in-limitations",
+    "title": "John Keble: A Study in Limitations",
+    "authorId": "georgina-battiscombe",
+    "authorName": "Georgina Battiscombe",
+    "publicationYear": 1963,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on John Keble awarded the James Tait Black Prize for Biography for 1964.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/10035598-L.jpg?default=false",
+    "openLibraryKey": "/works/OL5300501W"
+  },
+  {
+    "id": "victoria-r-i",
+    "title": "Victoria R.I.",
+    "authorId": "elizabeth-longford",
+    "authorName": "Elizabeth Longford",
+    "publicationYear": 1964,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Queen Victoria awarded the James Tait Black Prize for Biography for 1965.",
+    "spineColor": "#3c2f2f",
+    "openLibraryKey": "/works/OL31427094W"
+  },
+  {
+    "id": "william-wordsworth-the-later-years-1803-1850",
+    "title": "William Wordsworth: The Later Years 1803–1850",
+    "authorId": "mary-caroline-moorman",
+    "authorName": "Mary Caroline Moorman",
+    "publicationYear": 1965,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on William Wordsworth awarded the James Tait Black Prize for Biography for 1966.",
+    "spineColor": "#3c2f2f"
+  },
+  {
+    "id": "the-life-of-william-harvey",
+    "title": "The Life of William Harvey",
+    "authorId": "geoffrey-keynes",
+    "authorName": "Geoffrey Keynes",
+    "publicationYear": 1966,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on William Harvey awarded the James Tait Black Prize for Biography for 1967.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/9850490-L.jpg?default=false",
+    "openLibraryKey": "/works/OL997710W"
+  },
+  {
+    "id": "charlotte-bront-the-evolution-of-genius",
+    "title": "Charlotte Brontë: The Evolution of Genius",
+    "authorId": "winifred-g-rin",
+    "authorName": "Winifred Gérin",
+    "publicationYear": 1967,
+    "publisher": "Oxford University Press",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Charlotte Brontë awarded the James Tait Black Prize for Biography for 1968.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/9719435-L.jpg?default=false",
+    "openLibraryKey": "/works/OL4464256W"
+  },
+  {
+    "id": "lord-palmerston",
+    "title": "Lord Palmerston",
+    "authorId": "jasper-ridley",
+    "authorName": "Jasper Ridley",
+    "publicationYear": 1970,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Henry Temple, 3rd Viscount Palmerston awarded the James Tait Black Prize for Biography for 1971.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/9044826-L.jpg?default=false",
+    "openLibraryKey": "/works/OL7987679W"
+  },
+  {
+    "id": "lewis-namier",
+    "title": "Lewis Namier",
+    "authorId": "julia-namier",
+    "authorName": "Julia Namier",
+    "publicationYear": 1971,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Lewis Namier awarded the James Tait Black Prize for Biography for 1972.",
+    "spineColor": "#3c2f2f",
+    "openLibraryKey": "/works/OL11088497W"
+  },
+  {
+    "id": "virginia-woolf",
+    "title": "Virginia Woolf",
+    "authorId": "quentin-bell",
+    "authorName": "Quentin Bell",
+    "publicationYear": 1972,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Virginia Woolf awarded the James Tait Black Prize for Biography for 1973.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/8231846-L.jpg?default=false",
+    "openLibraryKey": "/works/OL39396W"
+  },
+  {
+    "id": "cockburns-millennium",
+    "title": "Cockburn's Millennium",
+    "authorId": "karl-miller",
+    "authorName": "Karl Miller",
+    "publicationYear": 1975,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Henry Cockburn, Lord Cockburn|Henry Cockburn awarded the James Tait Black Prize for Biography for 1976.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/4492623-L.jpg?default=false",
+    "openLibraryKey": "/works/OL877909W"
+  },
+  {
+    "id": "a-new-life-of-chekhov",
+    "title": "A New Life of Chekhov",
+    "authorId": "ronald-hingley",
+    "authorName": "Ronald Hingley",
+    "publicationYear": 1976,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Anton Chekhov awarded the James Tait Black Prize for Biography for 1977.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/4461716-L.jpg?default=false",
+    "openLibraryKey": "/works/OL4488793W"
+  },
+  {
+    "id": "chateaubriand-volume-1-the-longed-for-tempests",
+    "title": "Chateaubriand: Volume 1 – The Longed-For Tempests",
+    "authorId": "george-painter",
+    "authorName": "George Painter",
+    "publicationYear": 1977,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on François-René de Chateaubriand awarded the James Tait Black Prize for Biography for 1978.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/5496237-L.jpg?default=false",
+    "openLibraryKey": "/works/OL1405440W"
+  },
+  {
+    "id": "the-older-hardy",
+    "title": "The Older Hardy",
+    "authorId": "robert-gittings",
+    "authorName": "Robert Gittings",
+    "publicationYear": 1978,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Thomas Hardy awarded the James Tait Black Prize for Biography for 1979.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/10034052-L.jpg?default=false",
+    "openLibraryKey": "/works/OL1371617W"
+  },
+  {
+    "id": "christopher-isherwood-a-critical-biography",
+    "title": "Christopher Isherwood: A Critical Biography",
+    "authorId": "brian-finney",
+    "authorName": "Brian Finney",
+    "publicationYear": 1979,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Christopher Isherwood awarded the James Tait Black Prize for Biography for 1980.",
+    "spineColor": "#3c2f2f",
+    "coverImage": "https://covers.openlibrary.org/b/id/4437430-L.jpg?default=false",
+    "openLibraryKey": "/works/OL4558492W"
+  },
+  {
+    "id": "tennyson-the-unquiet-heart",
+    "title": "Tennyson: The Unquiet Heart",
+    "authorId": "robert-b-martin",
+    "authorName": "Robert B. Martin",
+    "publicationYear": 1980,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Alfred Tennyson, 1st Baron Tennyson|Alfred Tennyson awarded the James Tait Black Prize for Biography for 1981.",
+    "spineColor": "#3c2f2f"
+  },
+  {
+    "id": "edith-sitwell-unicorn-among-lions",
+    "title": "Edith Sitwell: Unicorn Among Lions",
+    "authorId": "victoria-glendinning",
+    "authorName": "Victoria Glendinning",
+    "publicationYear": 1981,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Edith Sitwell awarded the James Tait Black Prize for Biography for 1982.",
+    "spineColor": "#1c3d5a",
+    "coverImage": "https://covers.openlibrary.org/b/id/10593909-L.jpg?default=false",
+    "openLibraryKey": "/works/OL2001298W"
+  },
+  {
+    "id": "franz-liszt-the-virtuoso-years",
+    "title": "Franz Liszt: The Virtuoso Years",
+    "authorId": "alan-walker",
+    "authorName": "Alan Walker",
+    "publicationYear": 1983,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Franz Liszt awarded the James Tait Black Prize for Biography for 1984.",
+    "spineColor": "#1c3d5a",
+    "coverImage": "https://covers.openlibrary.org/b/id/565589-L.jpg?default=false",
+    "openLibraryKey": "/works/OL8025772W"
+  },
+  {
+    "id": "virginia-woolf-a-writers-life",
+    "title": "Virginia Woolf: A Writer's Life",
+    "authorId": "lyndall-gordon",
+    "authorName": "Lyndall Gordon",
+    "publicationYear": 1984,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Virginia Woolf awarded the James Tait Black Prize for Biography for 1985.",
+    "spineColor": "#1c3d5a",
+    "coverImage": "https://covers.openlibrary.org/b/id/4186216-L.jpg?default=false",
+    "openLibraryKey": "/works/OL1987223W"
+  },
+  {
+    "id": "helen-waddell",
+    "title": "Helen Waddell",
+    "authorId": "felicitas-corrigan",
+    "authorName": "Felicitas Corrigan",
+    "publicationYear": 1986,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Helen Waddell awarded the James Tait Black Prize for Biography for 1987.",
+    "spineColor": "#1c3d5a",
+    "coverImage": "https://covers.openlibrary.org/b/id/8472219-L.jpg?default=false",
+    "openLibraryKey": "/works/OL4877167W"
+  },
+  {
+    "id": "victor-gollancz-a-biography",
+    "title": "Victor Gollancz: A Biography",
+    "authorId": "ruth-dudley-edwards",
+    "authorName": "Ruth Dudley Edwards",
+    "publicationYear": 1987,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Victor Gollancz awarded the James Tait Black Prize for Biography for 1988.",
+    "spineColor": "#1c3d5a",
+    "coverImage": "https://covers.openlibrary.org/b/id/8472196-L.jpg?default=false",
+    "openLibraryKey": "/works/OL18280075W"
+  },
+  {
+    "id": "wittgenstein-a-life-young-ludwig-1889-1921",
+    "title": "Wittgenstein, A Life: Young Ludwig (1889–1921)",
+    "authorId": "brian-mcguinness",
+    "authorName": "Brian McGuinness",
+    "publicationYear": 1988,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Ludwig Wittgenstein awarded the James Tait Black Prize for Biography for 1989.",
+    "spineColor": "#1c3d5a",
+    "coverImage": "https://covers.openlibrary.org/b/id/133787-L.jpg?default=false",
+    "openLibraryKey": "/works/OL5094064W"
+  },
+  {
+    "id": "federico-garc-a-lorca-a-life",
+    "title": "Federico García Lorca: A Life",
+    "authorId": "ian-gibson",
+    "authorName": "Ian Gibson",
+    "publicationYear": 1989,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Federico García Lorca awarded the James Tait Black Prize for Biography for 1990.",
+    "spineColor": "#1c3d5a",
+    "coverImage": "https://covers.openlibrary.org/b/id/2269193-L.jpg?default=false",
+    "openLibraryKey": "/works/OL956155W"
+  },
+  {
+    "id": "the-reckoning-the-murder-of-christopher-marlowe",
+    "title": "The Reckoning: The Murder of Christopher Marlowe",
+    "authorId": "charles-nicholl",
+    "authorName": "Charles Nicholl",
+    "publicationYear": 1992,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Christopher Marlowe awarded the James Tait Black Prize for Biography for 1993.",
+    "spineColor": "#1c3d5a",
+    "coverImage": "https://covers.openlibrary.org/b/id/112548-L.jpg?default=false",
+    "openLibraryKey": "/works/OL1734198W"
+  },
+  {
+    "id": "dr-johnson-and-mr-savage",
+    "title": "Dr Johnson and Mr Savage",
+    "authorId": "richard-holmes",
+    "authorName": "Richard Holmes",
+    "publicationYear": 1993,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work awarded the James Tait Black Prize for Biography for 1994.",
+    "spineColor": "#1c3d5a",
+    "coverImage": "https://covers.openlibrary.org/b/id/6660-L.jpg?default=false",
+    "openLibraryKey": "/works/OL258216W"
+  },
+  {
+    "id": "albert-speer-his-battle-with-truth",
+    "title": "Albert Speer: His Battle with Truth",
+    "authorId": "gitta-sereny",
+    "authorName": "Gitta Sereny",
+    "publicationYear": 1995,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Albert Speer awarded the James Tait Black Prize for Biography for 1996.",
+    "spineColor": "#1c3d5a",
+    "coverImage": "https://covers.openlibrary.org/b/id/421486-L.jpg?default=false",
+    "openLibraryKey": "/works/OL3484825W"
+  },
+  {
+    "id": "w-b-yeats-a-life-volume-1-the-apprentice-mage-1865-1914",
+    "title": "W. B. Yeats: A Life, Volume 1 – The Apprentice Mage 1865–1914",
+    "authorId": "r-f-foster",
+    "authorName": "R. F. Foster",
+    "publicationYear": 1997,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on William Butler Yeats|W. B. Yeats awarded the James Tait Black Prize for Biography for 1998.",
+    "spineColor": "#1c3d5a",
+    "coverImage": "https://covers.openlibrary.org/b/id/129132-L.jpg?default=false",
+    "openLibraryKey": "/works/OL2947165W"
+  },
+  {
+    "id": "john-maynard-keynes-volume-3-fighting-for-britain-1937-1946",
+    "title": "John Maynard Keynes: Volume 3 – Fighting for Britain 1937–1946",
+    "authorId": "robert-skidelsky",
+    "authorName": "Robert Skidelsky",
+    "publicationYear": 2001,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on John Maynard Keynes awarded the James Tait Black Prize for Biography for 2002.",
+    "spineColor": "#1c3d5a"
+  },
+  {
+    "id": "the-lunar-men-the-friends-who-made-the-future-1730-1810",
+    "title": "The Lunar Men: The Friends Who Made the Future 1730–1810",
+    "authorId": "jenny-uglow",
+    "authorName": "Jenny Uglow",
+    "publicationYear": 2002,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Lunar Society of Birmingham awarded the James Tait Black Prize for Biography for 2003.",
+    "spineColor": "#1c3d5a"
+  },
+  {
+    "id": "charles-darwin-volume-2-the-power-of-place",
+    "title": "Charles Darwin: Volume 2 – The Power of Place",
+    "authorId": "janet-browne",
+    "authorName": "Janet Browne",
+    "publicationYear": 2003,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Charles Darwin awarded the James Tait Black Prize for Biography for 2004.",
+    "spineColor": "#1c3d5a"
+  },
+  {
+    "id": "the-man-who-went-into-the-west-the-life-of-r-s-thomas",
+    "title": "The Man Who Went Into the West: The Life of R. S. Thomas",
+    "authorId": "byron-rogers",
+    "authorName": "Byron Rogers",
+    "publicationYear": 2006,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on R. S. Thomas awarded the James Tait Black Prize for Biography for 2007.",
+    "spineColor": "#1c3d5a",
+    "coverImage": "https://covers.openlibrary.org/b/id/4866223-L.jpg?default=false",
+    "openLibraryKey": "/works/OL13610056W"
+  },
+  {
+    "id": "a-strange-eventful-history",
+    "title": "A Strange Eventful History",
+    "authorId": "michael-holroyd",
+    "authorName": "Michael Holroyd",
+    "publicationYear": 2008,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on The families of Ellen Terry and Henry Irving awarded the James Tait Black Prize for Biography for 2009.",
+    "spineColor": "#1c3d5a",
+    "coverImage": "https://covers.openlibrary.org/b/id/9729373-L.jpg?default=false",
+    "openLibraryKey": "/works/OL504657W"
+  },
+  {
+    "id": "william-golding-the-man-who-wrote-lord-of-the-flies",
+    "title": "William Golding: The Man Who Wrote Lord of the Flies",
+    "authorId": "john-carey",
+    "authorName": "John Carey",
+    "publicationYear": 2009,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on William Golding awarded the James Tait Black Prize for Biography for 2010.",
+    "spineColor": "#1c3d5a",
+    "coverImage": "https://covers.openlibrary.org/b/id/8184292-L.jpg?default=false",
+    "openLibraryKey": "/works/OL15026779W"
+  },
+  {
+    "id": "burying-the-bones-pearl-buck-in-china",
+    "title": "Burying the Bones: Pearl Buck in China",
+    "authorId": "hilary-spurling",
+    "authorName": "Hilary Spurling",
+    "publicationYear": 2010,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Pearl Buck awarded the James Tait Black Prize for Biography for 2011.",
+    "spineColor": "#1c3d5a",
+    "openLibraryKey": "/works/OL31209588W"
+  },
+  {
+    "id": "the-last-sane-man-michael-cardew-modern-pots-colonialism-and-the-counterculture",
+    "title": "The Last Sane Man: Michael Cardew, Modern Pots, Colonialism and the Counterculture",
+    "authorId": "tanya-harrod",
+    "authorName": "Tanya Harrod",
+    "publicationYear": 2012,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Michael Cardew awarded the James Tait Black Prize for Biography for 2013.",
+    "spineColor": "#1c3d5a"
+  },
+  {
+    "id": "the-valley-a-hundred-years-in-the-life-of-a-family",
+    "title": "The Valley: A Hundred Years in the Life of a Family",
+    "authorId": "richard-benson",
+    "authorName": "Richard Benson",
+    "publicationYear": 2014,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work awarded the James Tait Black Prize for Biography for 2015.",
+    "spineColor": "#1c3d5a",
+    "coverImage": "https://covers.openlibrary.org/b/id/12944029-L.jpg?default=false",
+    "openLibraryKey": "/works/OL21478758W"
+  },
+  {
+    "id": "1606-shakespeare-and-the-year-of-lear",
+    "title": "1606: Shakespeare and the Year of Lear",
+    "authorId": "james-shapiro",
+    "authorName": "James Shapiro",
+    "publicationYear": 2015,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on William Shakespeare awarded the James Tait Black Prize for Biography for 2016.",
+    "spineColor": "#1c3d5a",
+    "coverImage": "https://covers.openlibrary.org/b/id/11749955-L.jpg?default=false",
+    "openLibraryKey": "/works/OL21824648W"
+  },
+  {
+    "id": "the-vanishing-man-in-pursuit-of-vel-zquez",
+    "title": "The Vanishing Man: In Pursuit of Velázquez",
+    "authorId": "laura-cumming",
+    "authorName": "Laura Cumming",
+    "publicationYear": 2016,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Diego Velázquez awarded the James Tait Black Prize for Biography for 2017.",
+    "spineColor": "#1c3d5a",
+    "coverImage": "https://covers.openlibrary.org/b/id/8844355-L.jpg?default=false",
+    "openLibraryKey": "/works/OL20194598W"
+  },
+  {
+    "id": "in-extremis-the-life-and-death-of-the-war-correspondent-marie-colvin",
+    "title": "In Extremis: The Life and Death of the War Correspondent Marie Colvin",
+    "authorId": "lindsey-hilsum",
+    "authorName": "Lindsey Hilsum",
+    "publicationYear": 2018,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on Marie Colvin awarded the James Tait Black Prize for Biography for 2019.",
+    "spineColor": "#1c3d5a",
+    "openLibraryKey": "/works/OL19761939W"
+  },
+  {
+    "id": "the-photographer-at-sixteen",
+    "title": "The Photographer at Sixteen",
+    "authorId": "george-szirtes",
+    "authorName": "George Szirtes",
+    "publicationYear": 2019,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work on autobiography awarded the James Tait Black Prize for Biography for 2020.",
+    "spineColor": "#1c3d5a",
+    "coverImage": "https://covers.openlibrary.org/b/id/12400603-L.jpg?default=false",
+    "openLibraryKey": "/works/OL20736884W"
+  },
+  {
+    "id": "the-first-and-last-king-of-haiti-the-rise-and-fall-of-henry-christophe",
+    "title": "The First and Last King of Haiti: The Rise and Fall of Henry Christophe",
+    "authorId": "marlene-l-daut",
+    "authorName": "Marlene L. Daut",
+    "publicationYear": 2025,
+    "publisher": "Chatto & Windus",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "synopsis": "Distinguished biographical work awarded the James Tait Black Prize for Biography for 2026.",
+    "spineColor": "#1c3d5a",
+    "coverImage": "https://covers.openlibrary.org/b/id/14837044-L.jpg?default=false",
+    "openLibraryKey": "/works/OL42373192W"
+  },
+  {
+    "id": "tomorrow-come-today",
+    "title": "Tomorrow Come Today",
+    "authorId": "gordon-dahlquist",
+    "authorName": "Gordon Dahlquist",
+    "publicationYear": 2014,
+    "publisher": "Playwrights Canada Press",
+    "genres": [
+      "Drama",
+      "Play",
+      "Speculative"
+    ],
+    "synopsis": "A sci-fi noir play exploring human consciousness, identity swapping, and corporate control in a futuristic metropolis.",
+    "spineColor": "#0f172a"
   }
 ]
