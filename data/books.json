@@ -10756,7 +10756,7 @@
   },
   {
     "id": "gosta-berlings-saga",
-    "title": "Gösta Berling's Saga",
+    "title": "The Saga of Gösta Berling",
     "authorId": "selma-lagerlof",
     "authorName": "Selma Lagerlöf",
     "publicationYear": 1891,
@@ -10769,10 +10769,12 @@
     "synopsis": "A passionate, folk-tale infused epic of Värmland in the 1820s following defrocked minister Gösta Berling and the legendary twelve Cavaliers of Ekeby Manor.",
     "countryOfOrigin": "Sweden",
     "pageCount": 464,
-    "spineColor": "#1e3a8a",
-    "coverImage": "https://covers.openlibrary.org/b/id/821150-L.jpg?default=false",
+    "spineColor": "#18181b",
+    "coverImage": "https://m.media-amazon.com/images/I/81Dee4ngGlL.jpg",
     "isbn13": "9780143105909",
-    "openLibraryKey": "/works/OL15230752W"
+    "openLibraryKey": "/works/OL15230752W",
+    "translator": "Paul Norlen",
+    "imprint": "Penguin Classics"
   },
   {
     "id": "growth-of-the-soil",
