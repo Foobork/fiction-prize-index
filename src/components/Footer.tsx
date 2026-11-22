@@ -8,10 +8,8 @@ export const Footer: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="md:col-span-2 space-y-4">
-            <div className="flex items-center space-x-2">
-              <div className="w-8 h-8 rounded-lg bg-amber-100/90 dark:bg-amber-950/80 border border-amber-300/80 dark:border-amber-700/60 flex items-center justify-center shadow-xs text-stone-900 dark:text-amber-300">
-                <MooseIcon className="w-6 h-6" />
-              </div>
+            <div className="flex items-center space-x-3">
+              <MooseIcon className="w-10 h-10 text-stone-900 dark:text-white shrink-0" />
               <span className="font-serif font-bold text-lg text-parchment-900 dark:text-parchment-50">
                 Mostly Fiction
               </span>

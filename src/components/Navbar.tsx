@@ -35,11 +35,9 @@ export const Navbar: React.FC<NavbarProps> = ({
           {/* Logo & Brand */}
           <div 
             onClick={() => setActiveTab('index')}
-            className="flex items-center space-x-3 cursor-pointer group"
+            className="flex items-center space-x-3.5 cursor-pointer group py-1"
           >
-            <div className="w-10 h-10 rounded-lg bg-amber-100/90 dark:bg-amber-950/80 border border-amber-300/80 dark:border-amber-700/60 flex items-center justify-center shadow-xs transition-transform group-hover:scale-110 text-stone-900 dark:text-amber-300">
-              <MooseIcon className="w-8 h-8" />
-            </div>
+            <MooseIcon className="w-14 h-14 transition-transform group-hover:scale-105 text-stone-900 dark:text-white shrink-0" />
             <div>
               <span className="font-serif text-lg font-bold tracking-tight text-parchment-900 dark:text-parchment-50 block leading-tight">
                 Mostly Fiction
