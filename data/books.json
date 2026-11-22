@@ -8140,9 +8140,9 @@
     "title": "The Rouse",
     "authorId": "china-mieville",
     "authorName": "China Miéville",
-    "publicationYear": 2025,
+    "publicationYear": 2026,
     "publisher": "Picador / Del Rey",
-    "isbn13": "9781529061437",
+    "isbn13": "9781509847396",
     "genres": [
       "Literary Fiction",
       "Speculative Fiction",
@@ -8151,7 +8151,8 @@
     "synopsis": "A monumental, 1,200-page opus stretching formal boundaries through linguistic invention, radical political myth-making, and deep metaphysical speculation, hailed as Miéville's masterpiece.",
     "countryOfOrigin": "United Kingdom",
     "pageCount": 1216,
-    "spineColor": "#831843"
+    "spineColor": "#831843",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/P/1509847391.01.LZZZZZZZ.jpg"
   },
   {
     "id": "the-master",
