@@ -35,7 +35,7 @@ The **Fiction Prize Index** centralizes major world fiction awards into a unifie
 
 ### 📊 Dataset Scorecard & Historical Coverage
 
-The index currently catalogs **22 prize categories**, **2,559 authors**, **4,032 books**, and **4,777 nominations**:
+The index currently catalogs **22 prize categories**, **2,637 authors**, **4,031 books**, and **4,777 nominations**, with **91.2% verified cover image coverage** (3,677 books with high-resolution jacket art):
 
 | Prize | Scope / Focus | Award Years | Winners | Historical Coverage |
 | :--- | :--- | :---: | :---: | :---: |
