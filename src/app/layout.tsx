@@ -8,9 +8,10 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://foobork.github.io/fiction-prize-index/'),
   title: 'Mostly Fiction | Open Catalog of Major Literary Fiction Awards',
   description:
-    'An open-access, static-first catalog of major literary fiction prizes, winners, shortlists, and publishing metadata. Modeled after Benjamin Breen\'s Book Prize Index.',
+    'An open-access catalog and virtual bookshelf of world-class fiction honors. Discover 4,000+ prize-winning and shortlisted novels across 22 major awards from 1903 to 2026.',
   keywords: [
     'Mostly Fiction',
     'Fiction Prize Index',
@@ -19,7 +20,9 @@ export const metadata: Metadata = {
     'National Book Award',
     'Women\'s Prize for Fiction',
     'International Booker Prize',
+    'Prix Goncourt',
     'Hugo Award',
+    'Nobel Prize Literature',
     'Goldsmiths Prize',
     'Literary Awards',
   ],
@@ -28,9 +31,37 @@ export const metadata: Metadata = {
     { name: 'midlevels', url: 'https://github.com/midlevels' },
   ],
   openGraph: {
-    title: 'Mostly Fiction',
-    description: 'An open-access catalog and virtual bookshelf of world-class fiction honors.',
+    title: 'Mostly Fiction | Open Literary Prize Index & Virtual Bookshelf',
+    description:
+      'Explore 4,000+ prize-winning novels across 22 major honors: Booker, Pulitzer, Nobel, Goncourt, Hugo, and more. Browse timelines, author overlap, and the interactive 3D bookshelf.',
+    url: 'https://foobork.github.io/fiction-prize-index/',
+    siteName: 'Mostly Fiction',
+    locale: 'en_US',
     type: 'website',
+    images: [
+      {
+        url: 'og-image.jpg',
+        width: 1200,
+        height: 630,
+        alt: 'Mostly Fiction — The Open Literary Prize Index & Virtual Bookshelf',
+        type: 'image/jpeg',
+      },
+      {
+        url: 'og-image.png',
+        width: 1200,
+        height: 630,
+        alt: 'Mostly Fiction — The Open Literary Prize Index & Virtual Bookshelf',
+        type: 'image/png',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Mostly Fiction | Major Literary Fiction Prize Index',
+    description:
+      'Explore 4,000+ prize-winning novels across 22 major literary honors (1903–2026). Virtual bookshelf, author dossiers, and reading lists.',
+    images: ['og-image.jpg'],
+    creator: '@foobork',
   },
   icons: {
     icon: [
