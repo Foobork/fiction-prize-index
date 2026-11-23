@@ -31781,7 +31781,7 @@
     "openLibraryKey": "/works/OL473467W"
   },
   {
-    "id": "dune-world-efn-dune-world-was-the-title-of-the-1964-serialized-novel-when-dune-world-and-its-sequel-the-prophet-of-dune-were-incorporated-into-the-1965-edition-of-dune-the-book-edition-was-allowed-to-be-nominated-in-1966",
+    "id": "dune-world",
     "title": "Dune World",
     "authorId": "frank-herbert",
     "authorName": "Frank Herbert",
@@ -31885,22 +31885,6 @@
     "isbn13": "9780006146100",
     "pageCount": 318,
     "openLibraryKey": "/works/OL3521964W"
-  },
-  {
-    "id": "the-moon-is-a-harsh-mistress-efn-name-tmiahm-the-moon-is-a-harsh-mistress-was-serialized-in-1965-66-and-was-allowed-to-be-nominated-for-both-years",
-    "title": "The Moon Is a Harsh Mistress",
-    "authorId": "robert-a-heinlein",
-    "authorName": "Robert A. Heinlein",
-    "publicationYear": 1965,
-    "publisher": "If",
-    "genres": [
-      "Science Fiction",
-      "Speculative"
-    ],
-    "synopsis": "Nominated for the 1966 Hugo Award for Best Novel.",
-    "countryOfOrigin": "United States",
-    "isbn13": "9780739409060",
-    "coverImage": "https://covers.openlibrary.org/b/id/14631258-L.jpg?default=false"
   },
   {
     "id": "skylark-duquesne",
@@ -35112,7 +35096,7 @@
     "openLibraryKey": "/works/OL19590810W"
   },
   {
-    "id": "rowspan-2-the-wheel-of-time-efn-the-entire-the-wheel-of-time-series-of-novels-was-nominated-as-a-whole-under-an-interpretation-of-the-rules-confirmed-by-the-world-science-fiction-society-which-permit-multi-part-works-to-be-nominated-as-long-as-no-individual-part-or-book-had-ever-been-on-the-shortlist",
+    "id": "the-wheel-of-time",
     "title": "The Wheel of Time",
     "authorId": "robert-jordan",
     "authorName": "Robert Jordan",

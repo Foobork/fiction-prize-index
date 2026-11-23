@@ -7,6 +7,7 @@ import {
   X,
   ExternalLink,
   Link2,
+  Share2,
   Trophy,
   Building,
   Globe,
@@ -66,16 +67,21 @@ export const BookModal: React.FC<BookModalProps> = ({
 
   if (!book) return null;
 
+  const canonicalBookUrl = `https://foobork.github.io/fiction-prize-index/book/${book.id}/`;
+  const whatsappShareUrl = `https://api.whatsapp.com/send?text=${encodeURIComponent(
+    `"${book.title}" by ${book.authorName} on Mostly Fiction: ${canonicalBookUrl}`
+  )}`;
+
   const handleCopyLink = async () => {
     if (typeof window === 'undefined') return;
     try {
-      await navigator.clipboard.writeText(window.location.href);
+      await navigator.clipboard.writeText(canonicalBookUrl);
       setCopied(true);
       window.setTimeout(() => setCopied(false), 2000);
     } catch {
       // Fallback for older mobile browsers without clipboard permission
       const input = document.createElement('input');
-      input.value = window.location.href;
+      input.value = canonicalBookUrl;
       document.body.appendChild(input);
       input.select();
       document.execCommand('copy');
@@ -116,6 +122,17 @@ export const BookModal: React.FC<BookModalProps> = ({
           </button>
 
           <div className="flex items-center gap-1.5">
+            <a
+              href={whatsappShareUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1 px-2.5 py-1.5 rounded-lg text-xs font-medium text-emerald-700 dark:text-emerald-400 hover:bg-emerald-50 dark:hover:bg-emerald-950/40 border border-emerald-200 dark:border-emerald-800 transition-colors"
+              title="Share on WhatsApp with cover preview"
+            >
+              <Share2 className="w-3.5 h-3.5" />
+              <span>WhatsApp</span>
+            </a>
+
             <button
               type="button"
               onClick={handleCopyLink}
