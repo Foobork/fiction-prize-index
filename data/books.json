@@ -35745,12 +35745,13 @@
       "Science Fiction",
       "Speculative"
     ],
-    "synopsis": "Nominated for the 2023 Hugo Award for Best Novel.",
+    "synopsis": "When the COVID-19 pandemic strikes New York City, Jamie Gray is recruited into a secretive animal rights organization that operates in an alternate, human-free Earth where massive, nuclear-powered Kaiju roam—and must be protected from interdimensional corporate exploitation.",
     "countryOfOrigin": "United States",
-    "coverImage": "https://covers.openlibrary.org/b/id/10859555-L.jpg?default=false",
-    "isbn13": "9783986662110",
+    "coverImage": "https://covers.openlibrary.org/b/id/12671374-L.jpg?default=false",
+    "isbn13": "9780765389121",
     "pageCount": 296,
-    "openLibraryKey": "/works/OL24337701W"
+    "openLibraryKey": "/works/OL24337701W",
+    "spineColor": "#ca8a04"
   },
   {
     "id": "legends-lattes",
